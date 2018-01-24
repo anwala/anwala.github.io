@@ -248,7 +248,7 @@ def add_arrow(line, position=None, direction='right', size=15, color=None):
 
 
 n=['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P'] 
-a=[ 2 , 3 , 4 , 7 , 5 , 6 , 4 , 7 , 0 , 0 , 1 , 0 , 2 , 4 , 0 , 0]
+a=[ 2 , 3 , 4 , 7 , 5 , 6 , 4 , 7 , 0 , 0 , 1 , 0 , .5,.5 , 0 , 0]
 b=[ 3 , 2 , 2,  2,  0 , 0 , 3 , 3 , 5 , 0,  5,  1,  2 , 1 , 2 , 3]
 
 fig, ax = plt.subplots()
@@ -308,15 +308,15 @@ x11 = [0,7]
 y11 = [1,2]
 plt.plot(x11, y11, label="L --> D")
 #    M --> A
-x12 = [2,2]
+x12 = [.5,2]
 y12 = [2,3]
 plt.plot(x12, y12, label="M --> A")
 #    M --> N
-x13 = [2,4]
+x13 = [.5,.5]
 y13 = [2,1]
 plt.plot(x13, y13, label="M --> N")
 #    N --> D
-x14 = [4,7]
+x14 = [.5,7]
 y14 = [1,2]
 plt.plot(x14, y14, label="N --> D")
 #    O --> A
@@ -334,7 +334,7 @@ plt.title('Determining Bow Tie for Points')
 plt.legend()
 plt.show()
 \end{lstlisting}
-\includegraphics[scale=.5]{Figure_1.png} 
+\includegraphics[scale=.4]{Figure_1.png} 
 \includegraphics[scale=.4]{question3.png} 
 \\
 \\
@@ -350,11 +350,11 @@ From the comparison using the below as the criteria.\\
 \cite{broder_2003}
 \\
 I believe that:\\
-    IN: I, L, O, P\\ 
-    SCC:A, B, C, G, M, N\\ 
+    IN: I, L, M, N, O, P\\ 
+    SCC:A, B, C, G, \\ 
     OUT:D, H \\ 
     Tendrils:I-K\\
-    Tubes: L-D \\ 
+    Tubes: L-D, N-D \\ 
     Disconnected:E-F\\ 
 
 \pagebreak% Create Page break between problems
