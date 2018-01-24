@@ -150,19 +150,28 @@ To meet requirement 3 of question 2. I used the following code:\\
 This takes the array created in requirement 2 and removes the pdf links.  The code then gets the header for the pdf links and gets the content length.  It then prints out the results.
 \cite{stackoverflow}
 \begin{lstlisting}
-#Prints the number of links and Counts the number of links
-print("\nThe number of URL's is ",len(links),"\n")  
-print(*links,sep='\n')
-#looks at the links files and removes all the .pdf files into a new aray.
-matching = [s for s in links if ".pdf" in s]
+for index , url3 in enumerate(links):
+#I want to see if the URL listed has another location and the file is actually a pdf
+	resp = requests.get(url3)
+#	print(url3,resp.headers['content-type']== 'application/pdf')
+	if (resp.headers['content-type']=='application/pdf') == True:
+#		print(url3, 'this is application/pdf')
+		url4.append(url3)
+#	else:
+#		print(url3, 'this was not added')	
+
+#print('\nThere is ',len(url4),' pdf files on the ',url,'webpage.\n')
+
+matching = [s for s in url4]
 print("\nThere is ",len(matching)," pdf files on the ",url,"webpage.\n")
 
-print(*matching,sep='\n')
+#print(*matching,sep='\n')
 
 for index , url2 in enumerate(matching):
 #I want to open the URL listed in my list, get the header and print the content-legth
 	resp = requests.get(url2)
-	print(url2,"has a file size of ",resp.headers['content-length'],"bytes.\n")
+	print(url2,"has a file size of ",resp.headers['content-length'],"bytes.")
+
 \end{lstlisting}
 To meet requirement 4 of question 2. I attached the following screen shots:\\
 \includegraphics[scale=.25]{problem2req4a.png}

@@ -47,8 +47,9 @@ html_page = urlopen(url)
 #parses the webpage 
 soup = BeautifulSoup(html_page, "html.parser")
 
-#Creates the array for adding links to
+#Creates the array for adding links and url4 to
 links = []
+url4 = []
 
 #Parses the webpage and pulls out all the links
 for link in soup.findAll('a', attrs={'href': re.compile("^http")}):
@@ -57,8 +58,21 @@ for link in soup.findAll('a', attrs={'href': re.compile("^http")}):
 #Prints the number of links and Counts the number of links
 print("\nThe number of URL's is ",len(links),"\n")  
 print(*links,sep='\n')
-#looks at the links files and removes all the .pdf files into a new aray.
-matching = [s for s in links if ".pdf" in s]
+
+
+for index , url3 in enumerate(links):
+#I want to see if the URL listed has another location and the file is actually a pdf
+	resp = requests.get(url3)
+#	print(url3,resp.headers['content-type']== 'application/pdf')
+	if (resp.headers['content-type']=='application/pdf') == True:
+#		print(url3, 'this is application/pdf')
+		url4.append(url3)
+#	else:
+#		print(url3, 'this was not added')	
+
+#print('\nThere is ',len(url4),' pdf files on the ',url,'webpage.\n')
+
+matching = [s for s in url4]
 print("\nThere is ",len(matching)," pdf files on the ",url,"webpage.\n")
 
 #print(*matching,sep='\n')
@@ -67,3 +81,4 @@ for index , url2 in enumerate(matching):
 #I want to open the URL listed in my list, get the header and print the content-legth
 	resp = requests.get(url2)
 	print(url2,"has a file size of ",resp.headers['content-length'],"bytes.")
+
