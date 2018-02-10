@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.trending-viral.com/top-secret-government-files-left-in-cabinets-sold-at-second-hand-shop/",
+  "uri": "http://www.trending-viral.com/top-secret-government-files-left-in-cabinets-sold-at-second-hand-shop/",
+  "estimated-creation-date": "2018-01-31T16:39:30",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T16:39:30"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

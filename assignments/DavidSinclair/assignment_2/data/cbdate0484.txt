@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://hindi.apnlive.com/india-news/china-fan-of-modi-government-foreign-policy-and-said-indias-ability-to-take-risks-increased-34295",
+  "uri": "http://hindi.apnlive.com/india-news/china-fan-of-modi-government-foreign-policy-and-said-indias-ability-to-take-risks-increased-34295",
+  "estimated-creation-date": "2018-01-31T15:39:30",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T20:43:29"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:39:30"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/http://www.libertyfrontpress.com/government-shutdown-2018-what-a-federal-government-shutdown-actually-means/",
+  "uri": "http://www.libertyfrontpress.com/government-shutdown-2018-what-a-federal-government-shutdown-actually-means/",
+  "estimated-creation-date": "2018-01-20T20:46:45",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180124234042/http://www.libertyfrontpress.com/government-shutdown-2018-what-a-federal-government-shutdown-actually-means/",
+      "memento-datetime": "2018-01-24T23:40:42",
+      "memento-pubdate": "2018-01-20T20:46:45",
+      "earliest": "2018-01-20T20:46:45"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180124234042/http://www.libertyfrontpress.com/government-shutdown-2018-what-a-federal-government-shutdown-actually-means/",
+      "memento-datetime": "2018-01-24T23:40:42",
+      "memento-pubdate": "2018-01-20T20:46:45",
+      "earliest": "2018-01-20T20:46:45"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-20T20:46:45"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

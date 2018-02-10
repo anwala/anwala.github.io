@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://peoplestrusttoronto.wordpress.com/2018/01/31/uk-government-will-hand-over-brexit-analysis-after-damaging-leak/",
+  "uri": "https://peoplestrusttoronto.wordpress.com/2018/01/31/uk-government-will-hand-over-brexit-analysis-after-damaging-leak/",
+  "estimated-creation-date": "2018-01-31T15:43:15",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:43:15"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

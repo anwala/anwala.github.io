@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.disabledgo.com/blog/2018/01/government-to-review-1-6m-disability-benefit-claims-after-u-turn/",
+  "uri": "https://www.disabledgo.com/blog/2018/01/government-to-review-1-6m-disability-benefit-claims-after-u-turn/",
+  "estimated-creation-date": "2018-01-31T09:45:17",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T09:45:17"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T09:45:19"
+    }
+  }
+}

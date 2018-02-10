@@ -1,0 +1,55 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/people/lord-bates",
+  "uri": "https://www.gov.uk/government/people/lord-bates",
+  "estimated-creation-date": "2013-10-08T15:57:42",
+  "earliest-sources": [
+    "www.webarchive.org.uk"
+  ],
+  "sources": {
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20131008155742/https://www.gov.uk/government/people/lord-bates",
+      "memento-datetime": "2013-10-08T15:57:42",
+      "memento-pubdate": "",
+      "earliest": "2013-10-08T15:57:42"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20140725042149/https://www.gov.uk/government/people/lord-bates",
+      "memento-datetime": "2014-07-25T04:21:49",
+      "memento-pubdate": "",
+      "earliest": "2014-07-25T04:21:49"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20140725120911/https://www.gov.uk/government/people/lord-bates",
+      "memento-datetime": "2014-07-25T12:09:11",
+      "memento-pubdate": "2014-07-25T12:09:11",
+      "earliest": "2014-07-25T12:09:11"
+    },
+    "webarchive.proni.gov.uk": {
+      "uri-m": "http://webarchive.proni.gov.uk/20170509175110/https://www.gov.uk/government/people/lord-bates",
+      "memento-datetime": "2017-05-09T17:51:10",
+      "memento-pubdate": "",
+      "earliest": "2017-05-09T17:51:10"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:41:05"
+    }
+  }
+}

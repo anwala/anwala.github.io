@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.opindia.com/2018/01/yogi-government-decides-to-scrap-1000-obsolete-british-era-laws-in-one-go/",
+  "uri": "http://www.opindia.com/2018/01/yogi-government-decides-to-scrap-1000-obsolete-british-era-laws-in-one-go/",
+  "estimated-creation-date": "2018-01-31T08:27:06",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T13:54:02"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T08:27:06"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.khaleejtimes.com/news/government/shark-fishing-ban-in-uae-starting-february-1",
+  "uri": "https://www.khaleejtimes.com/news/government/shark-fishing-ban-in-uae-starting-february-1",
+  "estimated-creation-date": "2018-01-31T15:41:43",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:49:10"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T17:03:31"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:41:43"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.oshili24.com.na/namibia-of-politicians-salaries-soldiers-going-home-and-our-absence-at-davos/",
+  "uri": "http://www.oshili24.com.na/namibia-of-politicians-salaries-soldiers-going-home-and-our-absence-at-davos/",
+  "estimated-creation-date": "2018-01-31T10:18:24",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T12:02:31"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T10:18:24"
+    }
+  }
+}

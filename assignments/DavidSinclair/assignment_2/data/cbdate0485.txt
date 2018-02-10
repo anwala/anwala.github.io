@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reddit.com/r/changemyview/comments/7ua7s4/cmv_if_trump_and_republicans_remain_in_government/?utm_source=ifttt",
+  "uri": "https://www.reddit.com/r/changemyview/comments/7ua7s4/cmv_if_trump_and_republicans_remain_in_government/?utm_source=ifttt",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

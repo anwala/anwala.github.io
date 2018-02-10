@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://citywire.co.uk/wealth-manager/news/secret-government-data-show-uk-poorer-in-any-possible-brexit/a1087683",
+  "uri": "http://citywire.co.uk/wealth-manager/news/secret-government-data-show-uk-poorer-in-any-possible-brexit/a1087683",
+  "estimated-creation-date": "2018-01-30T08:10:08",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T08:10:08"
+    }
+  }
+}

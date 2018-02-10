@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/news/uk/politics/brexit-today-live-updates-pmqs-theresa-may-china-eu-withdrawal-bill-trade-lords-government-emily-a8186596.html",
+  "uri": "http://www.independent.co.uk/news/uk/politics/brexit-today-live-updates-pmqs-theresa-may-china-eu-withdrawal-bill-trade-lords-government-emily-a8186596.html",
+  "estimated-creation-date": "2018-01-31T08:49:39",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131114101/http://www.independent.co.uk/news/uk/politics/brexit-today-live-updates-pmqs-theresa-may-china-eu-withdrawal-bill-trade-lords-government-emily-a8186596.html",
+      "memento-datetime": "2018-01-31T11:40:05",
+      "memento-pubdate": "2018-01-31T08:49:39",
+      "earliest": "2018-01-31T08:49:39"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T11:40:05"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T17:45:54"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T08:49:39"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:28:45"
+    }
+  }
+}

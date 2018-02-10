@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.politwoops.co.uk/p/labour/JackDromeyMP/956557881104531456?utm_source=politwoops.co.uk&utm_medium=twitter&utm_content=956557881104531456&utm_campaign=repost",
+  "uri": "https://www.politwoops.co.uk/p/labour/JackDromeyMP/956557881104531456?utm_source=politwoops.co.uk&utm_medium=twitter&utm_content=956557881104531456&utm_campaign=repost",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+  "uri": "http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+  "estimated-creation-date": "2017-06-12T04:00:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170614081912/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+      "memento-datetime": "2017-06-14T08:13:03",
+      "memento-pubdate": "2017-06-12T04:00:00",
+      "earliest": "2017-06-12T04:00:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T01:09:32"
+    },
+    "pubdate": {
+      "earliest": "2017-06-12T04:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2017-06-12T08:49:12"
+    }
+  }
+}

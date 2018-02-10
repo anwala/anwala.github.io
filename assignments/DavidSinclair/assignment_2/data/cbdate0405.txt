@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.irishtimes.com/business/technology/rural-broadband-to-be-delivered-despite-eir-s-withdrawal-minister-1.3375213",
+  "uri": "https://www.irishtimes.com/business/technology/rural-broadband-to-be-delivered-despite-eir-s-withdrawal-minister-1.3375213",
+  "estimated-creation-date": "2018-01-31T14:56:04",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201023221/https://www.irishtimes.com/business/technology/rural-broadband-to-be-delivered-despite-eir-s-withdrawal-minister-1.3375213",
+      "memento-datetime": "2018-02-01T02:30:39",
+      "memento-pubdate": "2018-01-31T14:56:04",
+      "earliest": "2018-01-31T14:56:04"
+    },
+    "backlinks": {
+      "earliest": "2018-02-01T02:30:39"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:54:58"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T14:56:04"
+    },
+    "twitter.com": {
+      "earliest": "2018-02-01T05:09:35"
+    }
+  }
+}

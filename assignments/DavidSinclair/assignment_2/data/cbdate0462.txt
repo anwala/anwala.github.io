@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://markmilke.com/blog/2018/1/24/government-unions-do-not-save-taxpayers-money",
+  "uri": "https://markmilke.com/blog/2018/1/24/government-unions-do-not-save-taxpayers-money",
+  "estimated-creation-date": "2018-01-24T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-24T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

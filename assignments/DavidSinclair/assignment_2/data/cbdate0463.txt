@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://crusaderjournal.com/2018/01/31/lebanons-berri-says-government-might-stumble-over-tension/",
+  "uri": "https://crusaderjournal.com/2018/01/31/lebanons-berri-says-government-might-stumble-over-tension/",
+  "estimated-creation-date": "2018-01-31T15:27:22",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:27:22"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://voiceofeurope.com/2018/01/merkel-is-out-of-control-germans-start-large-protests-against-migrants-and-open-borders/",
+  "uri": "https://voiceofeurope.com/2018/01/merkel-is-out-of-control-germans-start-large-protests-against-migrants-and-open-borders/",
+  "estimated-creation-date": "2018-01-30T16:22:33",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130210833/https://voiceofeurope.com/2018/01/merkel-is-out-of-control-germans-start-large-protests-against-migrants-and-open-borders/",
+      "memento-datetime": "2018-01-30T21:08:33",
+      "memento-pubdate": "2018-01-30T16:22:33",
+      "earliest": "2018-01-30T16:22:33"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180201045409/https://voiceofeurope.com/2018/01/merkel-is-out-of-control-germans-start-large-protests-against-migrants-and-open-borders/",
+      "memento-datetime": "2018-02-01T04:54:09",
+      "memento-pubdate": "2018-02-01T04:54:09",
+      "earliest": "2018-02-01T04:54:09"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T16:22:33"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T21:28:56"
+    }
+  }
+}

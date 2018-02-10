@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hype.codes/government-lottery-ceo-joined-fire-lotto",
+  "uri": "https://hype.codes/government-lottery-ceo-joined-fire-lotto",
+  "estimated-creation-date": "2018-01-29T15:01:52",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T15:01:52"
+    }
+  }
+}

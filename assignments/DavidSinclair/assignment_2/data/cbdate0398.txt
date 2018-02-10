@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+  "uri": "https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+  "estimated-creation-date": "2018-01-31T05:50:11",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131084533/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+      "memento-datetime": "2018-01-31T08:45:33",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T08:45:33"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T05:50:11"
+    }
+  }
+}

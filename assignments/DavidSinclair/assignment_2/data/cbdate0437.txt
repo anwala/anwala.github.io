@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.unodc.org/unodc/en/frontpage/2018/January/bogot-government--unodc-sign-pact-to-prevent-human-trafficking-and-migrant-smuggling.html?ref=fs1",
+  "uri": "https://www.unodc.org/unodc/en/frontpage/2018/January/bogot-government--unodc-sign-pact-to-prevent-human-trafficking-and-migrant-smuggling.html?ref=fs1",
+  "estimated-creation-date": "2018-01-31T13:00:08",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T13:00:08"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:06:03"
+    }
+  }
+}

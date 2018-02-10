@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+  "uri": "https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+  "estimated-creation-date": "2018-01-30T19:05:18",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131154014/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+      "memento-datetime": "2018-01-31T15:40:14",
+      "memento-pubdate": "2018-01-30T19:05:18",
+      "earliest": "2018-01-30T19:05:18"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T19:05:18"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}
