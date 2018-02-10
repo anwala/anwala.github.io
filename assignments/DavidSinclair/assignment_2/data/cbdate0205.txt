@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2017/10/03/us/puerto-rico-aid-fema-maria.html",
+  "uri": "https://www.nytimes.com/2017/10/03/us/puerto-rico-aid-fema-maria.html",
+  "estimated-creation-date": "2017-10-03T13:58:34",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171003231337/http://www.nytimes.com/2017/10/03/us/puerto-rico-aid-fema-maria.html",
+      "memento-datetime": "2017-10-03T23:13:37",
+      "memento-pubdate": "2017-10-03T13:58:34",
+      "earliest": "2017-10-03T13:58:34"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20171006214621/http://www.nytimes.com/2017/10/03/us/puerto-rico-aid-fema-maria.html",
+      "memento-datetime": "2017-10-06T21:46:21",
+      "memento-pubdate": "2017-10-03T13:58:34",
+      "earliest": "2017-10-03T13:58:34"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20171008150259/https://www.nytimes.com/2017/10/03/us/puerto-rico-aid-fema-maria.html",
+      "memento-datetime": "2017-10-08T15:02:59",
+      "memento-pubdate": "2017-10-08T15:02:59",
+      "earliest": "2017-10-08T15:02:59"
+    },
+    "backlinks": {
+      "earliest": "2017-10-03T23:34:55"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-10-03T13:58:34"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

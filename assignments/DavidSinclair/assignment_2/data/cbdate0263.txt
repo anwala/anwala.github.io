@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://stocknewsnow.com/companynews/6091767134255946/WKHS/101843",
+  "uri": "https://stocknewsnow.com/companynews/6091767134255946/WKHS/101843",
+  "estimated-creation-date": "2018-01-31T15:36:35",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:36:35"
+    }
+  }
+}

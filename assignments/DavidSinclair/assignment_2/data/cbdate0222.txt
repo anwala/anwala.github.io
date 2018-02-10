@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+  "uri": "https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+  "estimated-creation-date": "2018-01-31T10:16:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131165448/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+      "memento-datetime": "2018-01-31T16:27:02",
+      "memento-pubdate": "2018-01-31T10:16:00",
+      "earliest": "2018-01-31T10:16:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-01T01:27:02"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T10:16:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:33:25"
+    }
+  }
+}

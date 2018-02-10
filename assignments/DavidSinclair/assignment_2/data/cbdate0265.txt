@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+  "uri": "https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+  "estimated-creation-date": "2018-01-31T10:08:13",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131112104/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+      "memento-datetime": "2018-01-31T11:21:04",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T11:21:04"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T11:21:05"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T10:08:13"
+    }
+  }
+}

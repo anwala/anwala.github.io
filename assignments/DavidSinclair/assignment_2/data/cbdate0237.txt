@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+  "uri": "https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+  "estimated-creation-date": "2018-01-29T18:29:06",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180129182906/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+      "memento-datetime": "2018-01-29T18:29:06",
+      "memento-pubdate": "",
+      "earliest": "2018-01-29T18:29:06"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T06:05:09"
+    }
+  }
+}

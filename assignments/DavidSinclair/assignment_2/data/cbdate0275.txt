@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bristolpost.co.uk/news/uk-world-news/what-is-dooring-cycling-illegal-945813",
+  "uri": "https://www.bristolpost.co.uk/news/uk-world-news/what-is-dooring-cycling-illegal-945813",
+  "estimated-creation-date": "2018-01-01T08:57:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-01T08:57:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:34:07"
+    }
+  }
+}

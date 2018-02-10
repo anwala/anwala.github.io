@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+  "uri": "https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+  "estimated-creation-date": "2018-01-30T21:27:21",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180204062010/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+      "memento-datetime": "2018-02-04T06:20:10",
+      "memento-pubdate": "2018-01-30T21:27:21",
+      "earliest": "2018-01-30T21:27:21"
+    },
+    "backlinks": {
+      "earliest": "2018-02-04T06:20:10"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:13:35"
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T21:27:21"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T21:31:19"
+    }
+  }
+}

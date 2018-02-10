@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+  "uri": "http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+  "estimated-creation-date": "2018-01-31T14:03:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131190826/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+      "memento-datetime": "2018-01-31T19:08:26",
+      "memento-pubdate": "2018-01-31T14:03:00",
+      "earliest": "2018-01-31T14:03:00"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T19:08:27"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T14:03:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

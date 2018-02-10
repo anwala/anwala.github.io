@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thecanary.co/uk/2018/01/25/uk-government-just-found-violated-disabled-peoples-basic-human-rights/",
+  "uri": "https://www.thecanary.co/uk/2018/01/25/uk-government-just-found-violated-disabled-peoples-basic-human-rights/",
+  "estimated-creation-date": "2018-01-25T14:16:27",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180125142603/https://www.thecanary.co/uk/2018/01/25/uk-government-just-found-violated-disabled-peoples-basic-human-rights/",
+      "memento-datetime": "2018-01-25T14:26:03",
+      "memento-pubdate": "2018-01-25T14:16:27",
+      "earliest": "2018-01-25T14:16:27"
+    },
+    "backlinks": {
+      "earliest": "2018-01-25T14:26:06"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-25T14:16:27"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-27T20:55:54"
+    }
+  }
+}

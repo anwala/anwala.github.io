@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://techpoket.com/news/apple-responds-to-u-s-governments-investigation-over-slow-iphones/",
+  "uri": "http://techpoket.com/news/apple-responds-to-u-s-governments-investigation-over-slow-iphones/",
+  "estimated-creation-date": "2018-01-31T15:23:10",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:23:10"
+    }
+  }
+}

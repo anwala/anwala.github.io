@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.capemaycountyherald.com/news/government/article_c1aedc2a-0693-11e8-9a9e-d7360e9008a4.html",
+  "uri": "http://www.capemaycountyherald.com/news/government/article_c1aedc2a-0693-11e8-9a9e-d7360e9008a4.html",
+  "estimated-creation-date": "2018-01-31T09:33:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T14:41:07"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T09:33:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

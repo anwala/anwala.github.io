@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+  "uri": "http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201214238/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+      "memento-datetime": "2018-02-01T21:42:38",
+      "memento-pubdate": "",
+      "earliest": "2018-02-01T21:42:38"
+    },
+    "backlinks": {
+      "earliest": "2018-02-01T21:42:39"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

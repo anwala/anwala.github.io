@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wired.com/insights/2013/09/why-the-u-s-government-is-moving-to-cloud-computing/",
+  "uri": "https://www.wired.com/insights/2013/09/why-the-u-s-government-is-moving-to-cloud-computing/",
+  "estimated-creation-date": "2013-09-25T20:26:48",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20130925203649/http://www.wired.com/insights/2013/09/why-the-u-s-government-is-moving-to-cloud-computing/",
+      "memento-datetime": "2013-09-25T20:26:48",
+      "memento-pubdate": "",
+      "earliest": "2013-09-25T20:26:48"
+    },
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20130929053804/http://www.wired.com/insights/2013/09/why-the-u-s-government-is-moving-to-cloud-computing/",
+      "memento-datetime": "2013-09-29T05:29:15",
+      "memento-pubdate": "",
+      "earliest": "2013-09-29T05:29:15"
+    },
+    "backlinks": {
+      "earliest": "2013-09-29T05:29:15"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2016-10-16T21:05:15"
+    }
+  }
+}

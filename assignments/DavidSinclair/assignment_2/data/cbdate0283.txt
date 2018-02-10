@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+  "uri": "https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+  "estimated-creation-date": "2018-01-31T03:23:39",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131034946/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+      "memento-datetime": "2018-01-31T03:49:46",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T03:49:46"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T03:49:46"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T03:23:39"
+    }
+  }
+}

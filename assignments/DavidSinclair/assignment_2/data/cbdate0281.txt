@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+  "uri": "http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+  "estimated-creation-date": "2018-01-31T22:07:04",
+  "earliest-sources": [
+    "archive.is"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131220704/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+      "memento-datetime": "2018-01-31T22:07:04",
+      "memento-pubdate": "2018-01-31T22:07:04",
+      "earliest": "2018-01-31T22:07:04"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.amnesty.org/en/latest/news/2018/01/bahrain-government-expels-citizens-after-having-revoked-their-nationality/?utm_source=twitter&utm_medium=article&utm_term=&utm_campaign=social",
+  "uri": "https://www.amnesty.org/en/latest/news/2018/01/bahrain-government-expels-citizens-after-having-revoked-their-nationality/?utm_source=twitter&utm_medium=article&utm_term=&utm_campaign=social",
+  "estimated-creation-date": "2018-01-31T12:15:24",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T12:15:24"
+    }
+  }
+}

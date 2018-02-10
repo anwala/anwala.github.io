@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/30/poll-75-approve-trumps-state-union-address/",
+  "uri": "http://www.breitbart.com/big-government/2018/01/30/poll-75-approve-trumps-state-union-address/",
+  "estimated-creation-date": "2018-01-30T21:02:57",
+  "earliest-sources": [
+    "wayback.archive-it.org",
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131060711/http://www.breitbart.com/big-government/2018/01/30/poll-75-approve-trumps-state-union-address/",
+      "memento-datetime": "2018-01-31T06:07:11",
+      "memento-pubdate": "2018-01-31T06:07:11",
+      "earliest": "2018-01-31T06:07:11"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180131210550/http://www.breitbart.com/big-government/2018/01/30/poll-75-approve-trumps-state-union-address/",
+      "memento-datetime": "2018-01-31T21:04:57",
+      "memento-pubdate": "2018-01-30T21:02:57",
+      "earliest": "2018-01-30T21:02:57"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131210550/http://www.breitbart.com/big-government/2018/01/30/poll-75-approve-trumps-state-union-address/",
+      "memento-datetime": "2018-01-31T21:04:57",
+      "memento-pubdate": "2018-01-30T21:02:57",
+      "earliest": "2018-01-30T21:02:57"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T21:04:57"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T23:59:53"
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T21:02:57"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

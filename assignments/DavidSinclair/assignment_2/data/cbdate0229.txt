@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/voices/capita-carillion-public-contracts-government-pfi-profit-warning-collapse-a8187086.html",
+  "uri": "http://www.independent.co.uk/voices/capita-carillion-public-contracts-government-pfi-profit-warning-collapse-a8187086.html",
+  "estimated-creation-date": "2018-01-31T12:58:57",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T16:39:25"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T12:58:57"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:00:28"
+    }
+  }
+}
