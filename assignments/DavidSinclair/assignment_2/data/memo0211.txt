@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T21:42:38Z",
+        "uri": "http://web.archive.org/web/20180201214238/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/"
+      },
+      {
+        "datetime": "2018-02-01T23:20:06Z",
+        "uri": "http://web.archive.org/web/20180201232006/https://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T21:42:38Z",
+      "uri": "http://web.archive.org/web/20180201214238/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/"
+    },
+    "last": {
+      "datetime": "2018-02-01T23:20:06Z",
+      "uri": "http://web.archive.org/web/20180201232006/https://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.theregister.co.uk/2018/01/31/mps_urge_nhs_digital_to_stop_immigrant_data_sharing_with_government/"
+}
+

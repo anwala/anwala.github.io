@@ -1,0 +1,55 @@
+{
+  "original_uri": "http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T12:51:51Z",
+        "uri": "http://web.archive.org/web/20180131125151/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-01-31T18:19:59Z",
+        "uri": "http://web.archive.org/web/20180131181959/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-02-01T02:35:18Z",
+        "uri": "http://web.archive.org/web/20180201023518/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-02-01T18:38:44Z",
+        "uri": "http://web.archive.org/web/20180201183844/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-02-03T00:41:32Z",
+        "uri": "http://web.archive.org/web/20180203004132/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-02-04T00:32:45Z",
+        "uri": "http://web.archive.org/web/20180204003245/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-02-05T01:05:22Z",
+        "uri": "http://web.archive.org/web/20180205010522/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      },
+      {
+        "datetime": "2018-02-06T02:07:14Z",
+        "uri": "http://web.archive.org/web/20180206020714/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T12:51:51Z",
+      "uri": "http://web.archive.org/web/20180131125151/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+    },
+    "last": {
+      "datetime": "2018-02-06T02:07:14Z",
+      "uri": "http://web.archive.org/web/20180206020714/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840"
+}
+

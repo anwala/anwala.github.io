@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:54:48Z",
+        "uri": "http://web.archive.org/web/20180131165448/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html"
+      },
+      {
+        "datetime": "2018-01-31T19:17:05Z",
+        "uri": "http://web.archive.org/web/20180131191705/http://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:54:48Z",
+      "uri": "http://web.archive.org/web/20180131165448/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T19:17:05Z",
+      "uri": "http://web.archive.org/web/20180131191705/http://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://pilotonline.com/news/government/local/article_067dd8a0-2505-54cd-a2b7-6e78345a95fd.html"
+}
+

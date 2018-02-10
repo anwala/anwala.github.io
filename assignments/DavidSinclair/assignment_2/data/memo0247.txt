@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:08:26Z",
+        "uri": "http://web.archive.org/web/20180131190826/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html"
+      },
+      {
+        "datetime": "2018-02-01T13:48:19Z",
+        "uri": "http://web.archive.org/web/20180201134819/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:08:26Z",
+      "uri": "http://web.archive.org/web/20180131190826/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html"
+    },
+    "last": {
+      "datetime": "2018-02-01T13:48:19Z",
+      "uri": "http://web.archive.org/web/20180201134819/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.ansa.it/english/news/2018/01/31/amsterdam-ema-reality-not-in-line-with-bid-government-2_c64ed9df-d878-4954-8bc4-532cf4e2192f.html"
+}
+

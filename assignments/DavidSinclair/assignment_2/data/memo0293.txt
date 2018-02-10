@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://government.ru/news/31214/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://government.ru/news/31214/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:51:43Z",
+        "uri": "http://web.archive.org/web/20180131165143/http://government.ru/news/31214/"
+      },
+      {
+        "datetime": "2018-01-31T18:03:36Z",
+        "uri": "http://web.archive.org/web/20180131180336/http://government.ru/news/31214/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:51:43Z",
+      "uri": "http://web.archive.org/web/20180131165143/http://government.ru/news/31214/"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:03:36Z",
+      "uri": "http://web.archive.org/web/20180131180336/http://government.ru/news/31214/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://government.ru/news/31214/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://government.ru/news/31214/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://government.ru/news/31214/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://government.ru/news/31214/"
+}
+

@@ -1,0 +1,91 @@
+{
+  "original_uri": "https://flightaware.com/live/flight/N454TB",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://flightaware.com/live/flight/N454TB",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2007-10-15T14:14:41Z",
+        "uri": "http://web.archive.org/web/20071015141441/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2008-12-07T06:02:23Z",
+        "uri": "http://web.archive.org/web/20081207060223/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2011-01-12T03:05:46Z",
+        "uri": "http://web.archive.org/web/20110112030546/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2011-02-13T23:16:57Z",
+        "uri": "http://web.archive.org/web/20110213231657/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2013-03-10T23:14:17Z",
+        "uri": "http://web.archive.org/web/20130310231417/http://flightaware.com/live/flight/N454TB"
+      },
+      {
+        "datetime": "2013-12-14T03:57:49Z",
+        "uri": "http://web.archive.org/web/20131214035749/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2014-02-27T08:08:44Z",
+        "uri": "http://web.archive.org/web/20140227080844/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2014-07-06T11:35:05Z",
+        "uri": "http://web.archive.org/web/20140706113505/http://flightaware.com/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-02-02T16:57:52Z",
+        "uri": "http://web.archive.org/web/20150202165752/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-03-30T07:48:17Z",
+        "uri": "http://web.archive.org/web/20150330074817/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-04-11T13:40:09Z",
+        "uri": "http://web.archive.org/web/20150411134009/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-04-25T12:21:06Z",
+        "uri": "http://web.archive.org/web/20150425122106/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-05-20T19:45:47Z",
+        "uri": "http://web.archive.org/web/20150520194547/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-06-24T00:00:53Z",
+        "uri": "http://web.archive.org/web/20150624000053/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-09-14T05:37:16Z",
+        "uri": "http://web.archive.org/web/20150914053716/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2015-12-11T18:08:00Z",
+        "uri": "http://web.archive.org/web/20151211180800/http://flightaware.com:80/live/flight/N454TB"
+      },
+      {
+        "datetime": "2016-01-11T14:21:23Z",
+        "uri": "http://web.archive.org/web/20160111142123/http://flightaware.com:80/live/flight/N454TB"
+      }
+    ],
+    "first": {
+      "datetime": "2007-10-15T14:14:41Z",
+      "uri": "http://web.archive.org/web/20071015141441/http://flightaware.com:80/live/flight/N454TB"
+    },
+    "last": {
+      "datetime": "2016-01-11T14:21:23Z",
+      "uri": "http://web.archive.org/web/20160111142123/http://flightaware.com:80/live/flight/N454TB"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://flightaware.com/live/flight/N454TB",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://flightaware.com/live/flight/N454TB",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://flightaware.com/live/flight/N454TB"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://flightaware.com/live/flight/N454TB"
+}
+

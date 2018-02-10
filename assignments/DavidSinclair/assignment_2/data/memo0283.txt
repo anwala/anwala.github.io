@@ -1,0 +1,51 @@
+{
+  "original_uri": "https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T03:49:46Z",
+        "uri": "http://web.archive.org/web/20180131034946/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      },
+      {
+        "datetime": "2018-01-31T15:14:12Z",
+        "uri": "http://web.archive.org/web/20180131151412/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      },
+      {
+        "datetime": "2018-02-01T17:28:38Z",
+        "uri": "http://web.archive.org/web/20180201172838/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      },
+      {
+        "datetime": "2018-02-02T20:17:58Z",
+        "uri": "http://web.archive.org/web/20180202201758/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      },
+      {
+        "datetime": "2018-02-03T20:38:15Z",
+        "uri": "http://web.archive.org/web/20180203203815/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      },
+      {
+        "datetime": "2018-02-04T21:10:39Z",
+        "uri": "http://web.archive.org/web/20180204211039/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      },
+      {
+        "datetime": "2018-02-05T21:37:53Z",
+        "uri": "http://web.archive.org/web/20180205213753/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T03:49:46Z",
+      "uri": "http://web.archive.org/web/20180131034946/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+    },
+    "last": {
+      "datetime": "2018-02-05T21:37:53Z",
+      "uri": "http://web.archive.org/web/20180205213753/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thenews.com.pk/print/275091-irregularities-in-swabi-university-pti-government-silent-governor-takes-notice"
+}
+

@@ -1,0 +1,35 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T11:21:04Z",
+        "uri": "http://web.archive.org/web/20180131112104/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+      },
+      {
+        "datetime": "2018-01-31T18:11:50Z",
+        "uri": "http://web.archive.org/web/20180131181150/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+      },
+      {
+        "datetime": "2018-02-03T06:46:18Z",
+        "uri": "http://web.archive.org/web/20180203064618/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T11:21:04Z",
+      "uri": "http://web.archive.org/web/20180131112104/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+    },
+    "last": {
+      "datetime": "2018-02-03T06:46:18Z",
+      "uri": "http://web.archive.org/web/20180203064618/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/british-embassy-bangkok-moves-to-a-new-home-for-the-21st-century"
+}
+

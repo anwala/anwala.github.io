@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T22:07:04Z",
+        "uri": "http://archive.is/20180131220704/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T22:07:04Z",
+      "uri": "http://archive.is/20180131220704/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec"
+    },
+    "last": {
+      "datetime": "2018-01-31T22:07:04Z",
+      "uri": "http://archive.is/20180131220704/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.heraldscotland.com/news/15908026.Iain_Macwhirter__Scottish_Government_is_locked_out_as_Scotland___s_future_is_decided_by_a__panoply_of_popinjays_/?ref=twtrec"
+}
+

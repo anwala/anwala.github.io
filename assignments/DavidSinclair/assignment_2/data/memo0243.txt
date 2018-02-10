@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:20:56Z",
+        "uri": "http://web.archive.org/web/20180131182056/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:20:56Z",
+      "uri": "http://web.archive.org/web/20180131182056/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:20:56Z",
+      "uri": "http://web.archive.org/web/20180131182056/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency"
+}
+

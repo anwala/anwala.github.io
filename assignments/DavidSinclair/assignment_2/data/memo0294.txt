@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-03T01:00:43Z",
+        "uri": "http://web.archive.org/web/20180203010043/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-03T01:00:43Z",
+      "uri": "http://web.archive.org/web/20180203010043/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18"
+    },
+    "last": {
+      "datetime": "2018-02-03T01:00:43Z",
+      "uri": "http://web.archive.org/web/20180203010043/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/a-third-of-tax-returns-are-outstanding-a-week-before-deadline?utm_source=HMRCpressoffice&utm_medium=OwnedTwitter&utm_campaign=SA18"
+}
+
