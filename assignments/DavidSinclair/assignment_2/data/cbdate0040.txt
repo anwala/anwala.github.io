@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.stbernardsparish.ca/bishop-mcgrattan-letter-on-changes-to-the-government-requirement-for-canada-summer-jobs-program/",
+  "uri": "http://www.stbernardsparish.ca/bishop-mcgrattan-letter-on-changes-to-the-government-requirement-for-canada-summer-jobs-program/",
+  "estimated-creation-date": "2018-01-31T15:27:39",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:27:39"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:27:54"
+    }
+  }
+}

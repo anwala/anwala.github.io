@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+  "uri": "https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+  "estimated-creation-date": "2018-01-27T19:51:38",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201210002/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+      "memento-datetime": "2018-02-01T21:00:02",
+      "memento-pubdate": "",
+      "earliest": "2018-02-01T21:00:02"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-27T19:51:38"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.rightrelevance.com/search/articles/hero?article=20d2d0f9cde82994d27bc44a52a680cbead92a73&query=newfoundland%20and%20labrador&taccount=newfoundlandrr",
+  "uri": "http://www.rightrelevance.com/search/articles/hero?article=20d2d0f9cde82994d27bc44a52a680cbead92a73&query=newfoundland%20and%20labrador&taccount=newfoundlandrr",
+  "estimated-creation-date": "2018-02-06T17:07:09",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T17:07:09"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.democracynow.org/2018/1/30/headlines/court_rules_immigrant_children_have_no_right_to_government_appointed_lawyer",
+  "uri": "https://www.democracynow.org/2018/1/30/headlines/court_rules_immigrant_children_have_no_right_to_government_appointed_lawyer",
+  "estimated-creation-date": "2018-01-30T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T18:08:33"
+    }
+  }
+}

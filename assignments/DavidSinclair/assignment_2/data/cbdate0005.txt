@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://roncolishop.com/australian-governments-secret-cabinet-files-were-found-in-an-old-cabinet/",
+  "uri": "https://roncolishop.com/australian-governments-secret-cabinet-files-were-found-in-an-old-cabinet/",
+  "estimated-creation-date": "2018-01-31T15:27:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:27:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://news.nifty.com/article/domestic/government/12136-438614/",
+  "uri": "https://news.nifty.com/article/domestic/government/12136-438614/",
+  "estimated-creation-date": "2018-01-30T06:25:16",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180204141815/https://news.nifty.com/article/domestic/government/12136-438614/",
+      "memento-datetime": "2018-02-04T14:18:15",
+      "memento-pubdate": "2018-02-04T14:18:15",
+      "earliest": "2018-02-04T14:18:15"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T06:25:16"
+    }
+  }
+}

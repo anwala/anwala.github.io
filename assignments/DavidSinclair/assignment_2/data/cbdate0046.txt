@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+  "uri": "https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+  "estimated-creation-date": "2018-01-30T23:42:23",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131100535/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+      "memento-datetime": "2018-01-31T10:05:35",
+      "memento-pubdate": "2018-01-31T10:05:35",
+      "earliest": "2018-01-31T10:05:35"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T23:42:23"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T23:56:22"
+    }
+  }
+}

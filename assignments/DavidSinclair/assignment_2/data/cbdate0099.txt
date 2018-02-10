@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://bitly.com/a/warning?hash=2E2IlUs&url=https%3A%2F%2Fadriennequinby248575.000webhostapp.com%2Frep-joe-kennedy-iii-delivers-state-of-the-union-rebuttal-what-to-know-government%2F",
+  "uri": "https://bitly.com/a/warning?hash=2E2IlUs&url=https%3A%2F%2Fadriennequinby248575.000webhostapp.com%2Frep-joe-kennedy-iii-delivers-state-of-the-union-rebuttal-what-to-know-government%2F",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

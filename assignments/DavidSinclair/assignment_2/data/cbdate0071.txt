@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.amazon.com/john-maszka/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Ajohn%20maszka",
+  "uri": "https://www.amazon.com/john-maszka/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Ajohn%20maszka",
+  "estimated-creation-date": "2017-11-29T19:32:01",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2017-11-29T19:32:01"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T22:42:17"
+    }
+  }
+}

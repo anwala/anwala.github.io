@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+  "uri": "https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+  "estimated-creation-date": "2018-01-30T21:06:40",
+  "earliest-sources": [
+    "web.archive.org",
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131091318/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+      "memento-datetime": "2018-01-30T21:06:40",
+      "memento-pubdate": "",
+      "earliest": "2018-01-30T21:06:40"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131214131/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+      "memento-datetime": "2018-01-31T21:41:31",
+      "memento-pubdate": "2018-01-31T21:41:31",
+      "earliest": "2018-01-31T21:41:31"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T21:06:40"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T22:33:24"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

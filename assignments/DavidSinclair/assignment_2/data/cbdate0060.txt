@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+  "uri": "http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+  "estimated-creation-date": "2018-01-31T02:26:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131143928/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+      "memento-datetime": "2018-01-31T14:39:28",
+      "memento-pubdate": "2018-01-31T02:26:00",
+      "earliest": "2018-01-31T02:26:00"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T14:39:29"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T02:26:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T22:24:25"
+    }
+  }
+}

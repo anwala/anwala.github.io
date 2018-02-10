@@ -1,0 +1,73 @@
+{
+  "self": "http://localhost:8888/cd/http://www.ansa.it/",
+  "uri": "http://www.ansa.it/",
+  "estimated-creation-date": "1997-12-11T09:27:57",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/19971211092757/http://www.ansa.it:80/",
+      "memento-datetime": "1997-12-11T09:27:57",
+      "memento-pubdate": "",
+      "earliest": "1997-12-11T09:27:57"
+    },
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20020910024514/http://www.ansa.it/",
+      "memento-datetime": "2002-09-10T02:45:14",
+      "memento-pubdate": "",
+      "earliest": "2002-09-10T02:45:14"
+    },
+    "arquivo.pt": {
+      "uri-m": "http://arquivo.pt/wayback/20081022191227/http://www.ansa.it/",
+      "memento-datetime": "2008-10-22T19:12:27",
+      "memento-pubdate": "2027-12-19T23:59:59",
+      "earliest": "2008-10-22T19:12:27"
+    },
+    "swap.stanford.edu": {
+      "uri-m": "https://swap.stanford.edu/20090417183006/http://www.ansa.it/",
+      "memento-datetime": "2009-04-17T18:30:06",
+      "memento-pubdate": "",
+      "earliest": "2009-04-17T18:30:06"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20091211130339/http://www.ansa.it/",
+      "memento-datetime": "2009-12-11T13:03:39",
+      "memento-pubdate": "",
+      "earliest": "2009-12-11T13:03:39"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20120525002746/http://www.ansa.it/",
+      "memento-datetime": "2012-05-25T00:27:46",
+      "memento-pubdate": "2012-05-25T00:27:46",
+      "earliest": "2012-05-25T00:27:46"
+    },
+    "perma-archives.org": {
+      "uri-m": "http://perma-archives.org/warc/20160517144606/http://www.ansa.it/",
+      "memento-datetime": "2016-05-17T14:46:06",
+      "memento-pubdate": "",
+      "earliest": "2016-05-17T14:46:06"
+    },
+    "backlinks": {
+      "earliest": "2004-10-09T20:05:35"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2007-04-18T12:41:37"
+    }
+  }
+}

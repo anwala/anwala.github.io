@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://coinjournal.net/south-korean-investor-brags-24-million-bitcoin-profit-government-now-chasing-taxes/",
+  "uri": "https://coinjournal.net/south-korean-investor-brags-24-million-bitcoin-profit-government-now-chasing-taxes/",
+  "estimated-creation-date": "2018-01-09T13:12:33",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-09T13:12:33"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

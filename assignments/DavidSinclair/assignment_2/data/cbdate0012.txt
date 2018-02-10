@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://saljackenterprises.net/2018/01/30/31362/",
+  "uri": "https://saljackenterprises.net/2018/01/30/31362/",
+  "estimated-creation-date": "2018-01-30T08:55:08",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180202203419/https://saljackenterprises.net/2018/01/30/31362/",
+      "memento-datetime": "2018-02-02T20:34:20",
+      "memento-pubdate": "2018-01-30T08:55:08",
+      "earliest": "2018-01-30T08:55:08"
+    },
+    "backlinks": {
+      "earliest": "2018-02-02T20:34:20"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T08:55:08"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T15:05:35"
+    }
+  }
+}

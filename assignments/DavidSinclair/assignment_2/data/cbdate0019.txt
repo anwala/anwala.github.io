@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+  "uri": "http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+  "estimated-creation-date": "2018-01-30T20:24:24",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131064740/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+      "memento-datetime": "2018-01-31T06:36:17",
+      "memento-pubdate": "2018-01-30T20:24:24",
+      "earliest": "2018-01-30T20:24:24"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180131181952/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+      "memento-datetime": "2018-01-31T18:15:57",
+      "memento-pubdate": "2018-01-30T20:24:24",
+      "earliest": "2018-01-30T20:24:24"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131205632/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+      "memento-datetime": "2018-01-31T20:56:32",
+      "memento-pubdate": "2018-01-31T20:56:32",
+      "earliest": "2018-01-31T20:56:32"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T06:36:17"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T20:24:24"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.change.org/p/chinese-government-stop-cruel-arcade-game-in-china-using-live-cats-as-prizes",
+  "uri": "https://www.change.org/p/chinese-government-stop-cruel-arcade-game-in-china-using-live-cats-as-prizes",
+  "estimated-creation-date": "2018-01-28T08:15:26",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-28T08:15:26"
+    }
+  }
+}

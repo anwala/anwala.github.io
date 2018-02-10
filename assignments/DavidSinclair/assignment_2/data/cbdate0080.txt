@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://votyus.me/usb/posts/1014444",
+  "uri": "http://votyus.me/usb/posts/1014444",
+  "estimated-creation-date": "2018-01-31T16:10:43",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T16:10:43"
+    }
+  }
+}

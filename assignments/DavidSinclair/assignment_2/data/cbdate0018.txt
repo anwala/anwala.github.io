@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://government.gov.gr/pliromes-ipsous-145-ekat-evro-apo-ton-opekepe/",
+  "uri": "https://government.gov.gr/pliromes-ipsous-145-ekat-evro-apo-ton-opekepe/",
+  "estimated-creation-date": "2018-01-31T15:23:36",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T17:00:41"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:23:36"
+    }
+  }
+}

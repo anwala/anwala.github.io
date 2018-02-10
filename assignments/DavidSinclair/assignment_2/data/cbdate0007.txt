@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+  "uri": "https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+  "estimated-creation-date": "2018-01-30T20:10:22",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131150916/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+      "memento-datetime": "2018-01-31T15:09:16",
+      "memento-pubdate": "2018-01-31T15:09:16",
+      "earliest": "2018-01-31T15:09:16"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180204112105/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+      "memento-datetime": "2018-02-04T11:21:05",
+      "memento-pubdate": "2018-01-30T21:10:15",
+      "earliest": "2018-01-30T21:10:15"
+    },
+    "backlinks": {
+      "earliest": "2018-02-01T21:13:52"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T21:10:15"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T20:10:22"
+    }
+  }
+}

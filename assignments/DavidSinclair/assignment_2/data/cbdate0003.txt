@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.ParliamentToday.com/free/viewnews.html?id=99247",
+  "uri": "http://www.ParliamentToday.com/free/viewnews.html?id=99247",
+  "estimated-creation-date": "2018-01-31T15:33:02",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:33:02"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reuters.com/article/us-lebanon-politics/lebanons-berri-says-government-might-stumble-over-tension-idUSKBN1FK1SI?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+  "uri": "https://www.reuters.com/article/us-lebanon-politics/lebanons-berri-says-government-might-stumble-over-tension-idUSKBN1FK1SI?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+  "estimated-creation-date": "2018-01-31T15:22:17",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:22:17"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

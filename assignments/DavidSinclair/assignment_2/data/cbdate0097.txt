@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://contact.org.uk/news-and-blogs/government-not-to-challenge-high-court-decision-on-pip-mobility-rules/",
+  "uri": "https://contact.org.uk/news-and-blogs/government-not-to-challenge-high-court-decision-on-pip-mobility-rules/",
+  "estimated-creation-date": "2018-01-31T15:43:27",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:43:27"
+    }
+  }
+}

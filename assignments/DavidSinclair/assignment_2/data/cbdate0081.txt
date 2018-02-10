@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://economictimes.indiatimes.com/news/defence/government-sanctions-7000-troops-to-bsf-for-pakistan-bangladesh-borders/articleshow/62728374.cms?utm_source=WAPusers&utm_medium=twittershare&utm_campaign=socialsharebutton&from=mdr",
+  "uri": "https://economictimes.indiatimes.com/news/defence/government-sanctions-7000-troops-to-bsf-for-pakistan-bangladesh-borders/articleshow/62728374.cms?utm_source=WAPusers&utm_medium=twittershare&utm_campaign=socialsharebutton&from=mdr",
+  "estimated-creation-date": "2018-01-31T20:46:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T20:46:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

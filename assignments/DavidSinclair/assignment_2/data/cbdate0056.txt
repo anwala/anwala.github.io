@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.telegraph.co.uk/politics/2018/01/30/post-brexit-economic-forecasts-bad-must-good-sign/",
+  "uri": "http://www.telegraph.co.uk/politics/2018/01/30/post-brexit-economic-forecasts-bad-must-good-sign/",
+  "estimated-creation-date": "2018-01-30T18:12:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180203204717/http://www.telegraph.co.uk/politics/2018/01/30/post-brexit-economic-forecasts-bad-must-good-sign/",
+      "memento-datetime": "2018-02-03T20:47:17",
+      "memento-pubdate": "2018-01-30T18:12:00",
+      "earliest": "2018-01-30T18:12:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T18:12:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T18:16:34"
+    }
+  }
+}

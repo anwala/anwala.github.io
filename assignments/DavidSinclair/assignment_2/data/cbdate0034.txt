@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://allafrica.com/stories/201801310808.html?utm_campaign=allafrica%3Aeditor&utm_medium=social&utm_source=twitter&utm_content=promote%3Aaans%3Aabfzqa",
+  "uri": "http://allafrica.com/stories/201801310808.html?utm_campaign=allafrica%3Aeditor&utm_medium=social&utm_source=twitter&utm_content=promote%3Aaans%3Aabfzqa",
+  "estimated-creation-date": "2018-01-31T13:24:19",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T22:00:00"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T13:24:19"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

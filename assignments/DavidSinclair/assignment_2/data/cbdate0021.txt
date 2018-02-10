@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+  "uri": "http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+  "estimated-creation-date": "2013-10-01T19:20:06",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20131001192006/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+      "memento-datetime": "2013-10-01T19:20:06",
+      "memento-pubdate": "",
+      "earliest": "2013-10-01T19:20:06"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2013-10-01T20:29:42"
+    }
+  }
+}

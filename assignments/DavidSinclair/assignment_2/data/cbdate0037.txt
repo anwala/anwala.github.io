@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://bgr.com/2018/01/31/iphone-slowdown-scandal-us-government-investigation/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+bgr%2Ffondy+%28BGR%3A+The+Three+Biggest+Letters+In+Tech%29",
+  "uri": "http://bgr.com/2018/01/31/iphone-slowdown-scandal-us-government-investigation/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+bgr%2Ffondy+%28BGR%3A+The+Three+Biggest+Letters+In+Tech%29",
+  "estimated-creation-date": "2018-01-31T14:18:14",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T14:18:14"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

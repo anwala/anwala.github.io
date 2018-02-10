@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.thecollegefix.com/post/41484/",
+  "uri": "http://www.thecollegefix.com/post/41484/",
+  "estimated-creation-date": "2018-01-31T00:15:26",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131083938/http://www.thecollegefix.com/post/41484/",
+      "memento-datetime": "2018-01-31T08:39:38",
+      "memento-pubdate": "2018-01-31T00:15:26",
+      "earliest": "2018-01-31T00:15:26"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:15:26"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T05:28:22"
+    }
+  }
+}
