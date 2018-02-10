@@ -1,0 +1,51 @@
+{
+  "original_uri": "https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T02:07:40Z",
+        "uri": "http://web.archive.org/web/20180131020740/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      },
+      {
+        "datetime": "2018-01-31T02:07:42Z",
+        "uri": "http://web.archive.org/web/20180131020742/http://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      },
+      {
+        "datetime": "2018-01-31T03:54:41Z",
+        "uri": "http://web.archive.org/web/20180131035441/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      },
+      {
+        "datetime": "2018-02-01T21:29:28Z",
+        "uri": "http://web.archive.org/web/20180201212928/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      },
+      {
+        "datetime": "2018-02-01T21:29:30Z",
+        "uri": "http://web.archive.org/web/20180201212930/http://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      },
+      {
+        "datetime": "2018-02-02T23:06:17Z",
+        "uri": "http://web.archive.org/web/20180202230617/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      },
+      {
+        "datetime": "2018-02-02T23:06:21Z",
+        "uri": "http://web.archive.org/web/20180202230621/http://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T02:07:40Z",
+      "uri": "http://web.archive.org/web/20180131020740/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+    },
+    "last": {
+      "datetime": "2018-02-02T23:06:21Z",
+      "uri": "http://web.archive.org/web/20180202230621/http://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/news/5461886/government-urged-to-automatically-jail-any-british-jihadis-on-their-return-from-terror-hotspots/"
+}
+

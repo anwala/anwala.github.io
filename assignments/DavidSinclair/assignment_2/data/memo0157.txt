@@ -1,0 +1,1883 @@
+{
+  "original_uri": "https://www.guardian.com/en/index.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.guardian.com/en/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2003-08-30T07:03:07Z",
+        "uri": "http://web.archive.org/web/20030830070307/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-02-05T14:02:48Z",
+        "uri": "http://web.archive.org/web/20040205140248/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-04-05T06:04:24Z",
+        "uri": "http://web.archive.org/web/20040405060424/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-08-06T08:18:14Z",
+        "uri": "http://web.archive.org/web/20040806081814/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-09-26T03:37:35Z",
+        "uri": "http://web.archive.org/web/20040926033735/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-10-10T11:06:42Z",
+        "uri": "http://web.archive.org/web/20041010110642/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-12-08T17:39:12Z",
+        "uri": "http://web.archive.org/web/20041208173912/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-12-14T03:18:30Z",
+        "uri": "http://web.archive.org/web/20041214031830/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-12-29T17:28:01Z",
+        "uri": "http://web.archive.org/web/20041229172801/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2004-12-30T17:18:35Z",
+        "uri": "http://web.archive.org/web/20041230171835/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-01-02T03:24:46Z",
+        "uri": "http://web.archive.org/web/20050102032446/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-01-31T04:26:56Z",
+        "uri": "http://web.archive.org/web/20050131042656/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-02-03T18:19:20Z",
+        "uri": "http://web.archive.org/web/20050203181920/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-02-08T01:05:14Z",
+        "uri": "http://web.archive.org/web/20050208010514/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-03-05T03:48:40Z",
+        "uri": "http://web.archive.org/web/20050305034840/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-03-29T03:53:00Z",
+        "uri": "http://web.archive.org/web/20050329035300/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-04-05T00:44:58Z",
+        "uri": "http://web.archive.org/web/20050405004458/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-05-11T23:46:15Z",
+        "uri": "http://web.archive.org/web/20050511234615/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-08-05T01:28:43Z",
+        "uri": "http://web.archive.org/web/20050805012843/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-08-12T23:26:12Z",
+        "uri": "http://web.archive.org/web/20050812232612/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-08-15T01:24:23Z",
+        "uri": "http://web.archive.org/web/20050815012423/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-08-31T02:59:52Z",
+        "uri": "http://web.archive.org/web/20050831025952/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-11-06T01:56:58Z",
+        "uri": "http://web.archive.org/web/20051106015658/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-12-03T03:53:43Z",
+        "uri": "http://web.archive.org/web/20051203035343/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-12-18T00:23:20Z",
+        "uri": "http://web.archive.org/web/20051218002320/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2005-12-27T19:32:24Z",
+        "uri": "http://web.archive.org/web/20051227193224/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-01-06T06:30:59Z",
+        "uri": "http://web.archive.org/web/20060106063059/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-01-06T06:30:59Z",
+        "uri": "http://web.archive.org/web/20060106063059/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-02-04T13:18:58Z",
+        "uri": "http://web.archive.org/web/20060204131858/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-02-05T15:10:29Z",
+        "uri": "http://web.archive.org/web/20060205151029/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-03-04T13:23:36Z",
+        "uri": "http://web.archive.org/web/20060304132336/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-03-06T03:03:42Z",
+        "uri": "http://web.archive.org/web/20060306030342/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-03-11T07:37:05Z",
+        "uri": "http://web.archive.org/web/20060311073705/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2006-04-11T04:21:31Z",
+        "uri": "http://web.archive.org/web/20060411042131/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-05-14T02:01:55Z",
+        "uri": "http://web.archive.org/web/20060514020155/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-06-15T15:56:08Z",
+        "uri": "http://web.archive.org/web/20060615155608/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-07-20T11:17:07Z",
+        "uri": "http://web.archive.org/web/20060720111707/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-08-13T09:18:34Z",
+        "uri": "http://web.archive.org/web/20060813091834/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-10-28T23:53:22Z",
+        "uri": "http://web.archive.org/web/20061028235322/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2006-11-09T01:30:07Z",
+        "uri": "http://web.archive.org/web/20061109013007/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-11-15T10:13:54Z",
+        "uri": "http://web.archive.org/web/20061115101354/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-12-17T04:31:56Z",
+        "uri": "http://web.archive.org/web/20061217043156/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2006-12-30T11:34:05Z",
+        "uri": "http://web.archive.org/web/20061230113405/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-01-06T16:39:36Z",
+        "uri": "http://web.archive.org/web/20070106163936/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-01-11T13:30:49Z",
+        "uri": "http://web.archive.org/web/20070111133049/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-01-16T01:44:46Z",
+        "uri": "http://web.archive.org/web/20070116014446/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-01-16T10:17:18Z",
+        "uri": "http://web.archive.org/web/20070116101718/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-01-21T12:03:06Z",
+        "uri": "http://web.archive.org/web/20070121120306/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-01-26T07:38:29Z",
+        "uri": "http://web.archive.org/web/20070126073829/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-02-19T13:06:55Z",
+        "uri": "http://web.archive.org/web/20070219130655/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-05-16T07:15:10Z",
+        "uri": "http://web.archive.org/web/20070516071510/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-06-25T05:39:51Z",
+        "uri": "http://web.archive.org/web/20070625053951/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-06-30T04:30:08Z",
+        "uri": "http://web.archive.org/web/20070630043008/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-08-09T06:25:03Z",
+        "uri": "http://web.archive.org/web/20070809062503/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-09-29T12:45:13Z",
+        "uri": "http://web.archive.org/web/20070929124513/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-10-02T02:30:11Z",
+        "uri": "http://web.archive.org/web/20071002023011/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-10-05T02:22:40Z",
+        "uri": "http://web.archive.org/web/20071005022240/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-10-06T04:12:02Z",
+        "uri": "http://web.archive.org/web/20071006041202/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-10-07T16:13:10Z",
+        "uri": "http://web.archive.org/web/20071007161310/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-11-05T02:23:29Z",
+        "uri": "http://web.archive.org/web/20071105022329/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2007-12-14T17:23:13Z",
+        "uri": "http://web.archive.org/web/20071214172313/http://www.guardian.com:80/en/index.html#"
+      },
+      {
+        "datetime": "2008-04-12T03:54:52Z",
+        "uri": "http://web.archive.org/web/20080412035452/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2008-05-11T17:57:15Z",
+        "uri": "http://web.archive.org/web/20080511175715/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2008-09-14T09:49:40Z",
+        "uri": "http://web.archive.org/web/20080914094940/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2008-10-17T16:36:11Z",
+        "uri": "http://web.archive.org/web/20081017163611/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2008-12-23T04:09:19Z",
+        "uri": "http://web.archive.org/web/20081223040919/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2009-01-22T05:55:00Z",
+        "uri": "http://web.archive.org/web/20090122055500/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2009-01-22T05:55:00Z",
+        "uri": "http://web.archive.org/web/20090122055500/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2009-02-18T13:02:47Z",
+        "uri": "http://web.archive.org/web/20090218130247/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-03-28T10:56:07Z",
+        "uri": "http://web.archive.org/web/20100328105607/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-04-28T07:29:30Z",
+        "uri": "http://web.archive.org/web/20100428072930/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-05-31T17:11:19Z",
+        "uri": "http://web.archive.org/web/20100531171119/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-07-04T16:53:47Z",
+        "uri": "http://web.archive.org/web/20100704165347/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-08-08T16:10:28Z",
+        "uri": "http://web.archive.org/web/20100808161028/http://guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-09-15T17:33:40Z",
+        "uri": "http://web.archive.org/web/20100915173340/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2010-10-20T13:23:01Z",
+        "uri": "http://web.archive.org/web/20101020132301/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2011-07-11T13:26:04Z",
+        "uri": "http://web.archive.org/web/20110711132604/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2011-07-23T23:59:47Z",
+        "uri": "http://web.archive.org/web/20110723235947/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2011-10-04T23:00:28Z",
+        "uri": "http://web.archive.org/web/20111004230028/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2011-10-22T14:38:31Z",
+        "uri": "http://web.archive.org/web/20111022143831/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2011-12-22T12:56:52Z",
+        "uri": "http://web.archive.org/web/20111222125652/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2012-02-16T09:43:35Z",
+        "uri": "http://web.archive.org/web/20120216094335/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2012-02-21T05:16:27Z",
+        "uri": "http://web.archive.org/web/20120221051627/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2012-04-22T16:04:11Z",
+        "uri": "http://web.archive.org/web/20120422160411/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2012-08-23T06:54:32Z",
+        "uri": "http://web.archive.org/web/20120823065432/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2013-08-27T14:12:53Z",
+        "uri": "http://web.archive.org/web/20130827141253/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2013-12-19T11:55:11Z",
+        "uri": "http://web.archive.org/web/20131219115511/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2014-06-02T00:24:27Z",
+        "uri": "http://web.archive.org/web/20140602002427/http://www.guardian.com:80/en/index.html"
+      },
+      {
+        "datetime": "2015-02-21T22:27:38Z",
+        "uri": "http://web.archive.org/web/20150221222738/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2015-10-25T16:57:53Z",
+        "uri": "http://web.archive.org/web/20151025165753/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2015-12-11T22:05:27Z",
+        "uri": "http://web.archive.org/web/20151211220527/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-03-04T06:29:48Z",
+        "uri": "http://web.archive.org/web/20160304062948/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-03-09T11:45:07Z",
+        "uri": "http://web.archive.org/web/20160309114507/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-05-28T20:33:09Z",
+        "uri": "http://web.archive.org/web/20160528203309/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-06-11T13:26:29Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20160611132629/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-06-11T13:26:32Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20160611132632/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-19T00:06:33Z",
+        "uri": "http://webarchive.loc.gov/all/20160719000633/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-19T00:06:34Z",
+        "uri": "http://webarchive.loc.gov/all/20160719000634/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-20T17:56:05Z",
+        "uri": "http://web.archive.org/web/20160720175605/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-20T17:56:07Z",
+        "uri": "http://web.archive.org/web/20160720175607/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-20T17:56:09Z",
+        "uri": "http://web.archive.org/web/20160720175609/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T05:32:10Z",
+        "uri": "http://web.archive.org/web/20160722053210/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T05:32:11Z",
+        "uri": "http://web.archive.org/web/20160722053211/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T05:32:12Z",
+        "uri": "http://web.archive.org/web/20160722053212/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T09:24:57Z",
+        "uri": "http://web.archive.org/web/20160722092457/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T09:24:58Z",
+        "uri": "http://web.archive.org/web/20160722092458/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T09:25:00Z",
+        "uri": "http://web.archive.org/web/20160722092500/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-07-22T09:25:01Z",
+        "uri": "http://web.archive.org/web/20160722092501/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-02T11:37:24Z",
+        "uri": "http://webarchive.loc.gov/all/20160802113724/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-02T11:37:26Z",
+        "uri": "http://webarchive.loc.gov/all/20160802113726/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-03T21:25:32Z",
+        "uri": "http://webarchive.loc.gov/all/20160803212532/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-03T21:25:35Z",
+        "uri": "http://webarchive.loc.gov/all/20160803212535/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-13T14:50:16Z",
+        "uri": "http://web.archive.org/web/20160813145016/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-13T14:50:17Z",
+        "uri": "http://web.archive.org/web/20160813145017/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-13T18:58:14Z",
+        "uri": "http://web.archive.org/web/20160813185814/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-13T18:58:15Z",
+        "uri": "http://web.archive.org/web/20160813185815/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-15T02:55:45Z",
+        "uri": "http://web.archive.org/web/20160815025545/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-15T02:55:46Z",
+        "uri": "http://web.archive.org/web/20160815025546/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-15T04:47:38Z",
+        "uri": "http://web.archive.org/web/20160815044738/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-15T04:47:39Z",
+        "uri": "http://web.archive.org/web/20160815044739/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-21T02:26:42Z",
+        "uri": "http://web.archive.org/web/20160821022642/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-21T02:26:43Z",
+        "uri": "http://web.archive.org/web/20160821022643/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-23T07:59:26Z",
+        "uri": "http://web.archive.org/web/20160823075926/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-23T07:59:27Z",
+        "uri": "http://web.archive.org/web/20160823075927/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-26T23:00:38Z",
+        "uri": "http://web.archive.org/web/20160826230038/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-26T23:00:39Z",
+        "uri": "http://web.archive.org/web/20160826230039/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-27T10:42:57Z",
+        "uri": "http://web.archive.org/web/20160827104257/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-27T10:43:02Z",
+        "uri": "http://web.archive.org/web/20160827104302/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-28T00:13:32Z",
+        "uri": "http://web.archive.org/web/20160828001332/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-28T00:13:33Z",
+        "uri": "http://web.archive.org/web/20160828001333/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-28T21:29:32Z",
+        "uri": "http://web.archive.org/web/20160828212932/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-28T21:29:41Z",
+        "uri": "http://web.archive.org/web/20160828212941/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-29T10:43:57Z",
+        "uri": "http://web.archive.org/web/20160829104357/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-29T10:43:58Z",
+        "uri": "http://web.archive.org/web/20160829104358/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-29T16:45:07Z",
+        "uri": "http://web.archive.org/web/20160829164507/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-29T16:45:09Z",
+        "uri": "http://web.archive.org/web/20160829164509/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-30T06:00:58Z",
+        "uri": "http://web.archive.org/web/20160830060058/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-30T06:00:59Z",
+        "uri": "http://web.archive.org/web/20160830060059/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-31T18:39:25Z",
+        "uri": "http://web.archive.org/web/20160831183925/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-08-31T18:39:26Z",
+        "uri": "http://web.archive.org/web/20160831183926/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-01T09:15:23Z",
+        "uri": "http://web.archive.org/web/20160901091523/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-01T09:15:24Z",
+        "uri": "http://web.archive.org/web/20160901091524/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-02T09:41:16Z",
+        "uri": "http://web.archive.org/web/20160902094116/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-02T09:41:17Z",
+        "uri": "http://web.archive.org/web/20160902094117/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-02T18:19:49Z",
+        "uri": "http://web.archive.org/web/20160902181949/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-02T18:19:50Z",
+        "uri": "http://web.archive.org/web/20160902181950/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-03T11:35:07Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20160903113507/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-03T11:35:10Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20160903113510/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-05T17:20:15Z",
+        "uri": "http://web.archive.org/web/20160905172015/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-05T17:20:18Z",
+        "uri": "http://web.archive.org/web/20160905172018/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-06T22:18:11Z",
+        "uri": "http://web.archive.org/web/20160906221811/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-06T22:18:12Z",
+        "uri": "http://web.archive.org/web/20160906221812/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-07T17:11:29Z",
+        "uri": "http://web.archive.org/web/20160907171129/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-07T17:11:30Z",
+        "uri": "http://web.archive.org/web/20160907171130/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-08T05:44:14Z",
+        "uri": "http://web.archive.org/web/20160908054414/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-08T05:44:15Z",
+        "uri": "http://web.archive.org/web/20160908054415/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-08T23:59:09Z",
+        "uri": "http://web.archive.org/web/20160908235909/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-08T23:59:10Z",
+        "uri": "http://web.archive.org/web/20160908235910/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-09T18:45:46Z",
+        "uri": "http://web.archive.org/web/20160909184546/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-09T18:45:47Z",
+        "uri": "http://web.archive.org/web/20160909184547/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-10T08:53:27Z",
+        "uri": "http://web.archive.org/web/20160910085327/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-10T08:53:28Z",
+        "uri": "http://web.archive.org/web/20160910085328/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-12T01:41:58Z",
+        "uri": "http://web.archive.org/web/20160912014158/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-12T01:41:59Z",
+        "uri": "http://web.archive.org/web/20160912014159/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-12T23:53:16Z",
+        "uri": "http://web.archive.org/web/20160912235316/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-12T23:53:17Z",
+        "uri": "http://web.archive.org/web/20160912235317/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-13T00:15:59Z",
+        "uri": "http://web.archive.org/web/20160913001559/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-13T00:16:01Z",
+        "uri": "http://web.archive.org/web/20160913001601/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-14T12:28:17Z",
+        "uri": "http://web.archive.org/web/20160914122817/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-14T12:28:18Z",
+        "uri": "http://web.archive.org/web/20160914122818/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-17T19:52:41Z",
+        "uri": "http://web.archive.org/web/20160917195241/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-17T19:52:42Z",
+        "uri": "http://web.archive.org/web/20160917195242/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-18T00:27:44Z",
+        "uri": "http://web.archive.org/web/20160918002744/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-18T00:27:45Z",
+        "uri": "http://web.archive.org/web/20160918002745/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-19T10:43:22Z",
+        "uri": "http://web.archive.org/web/20160919104322/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-19T10:43:23Z",
+        "uri": "http://web.archive.org/web/20160919104323/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-19T21:42:25Z",
+        "uri": "http://web.archive.org/web/20160919214225/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-19T21:42:34Z",
+        "uri": "http://web.archive.org/web/20160919214234/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-22T16:03:46Z",
+        "uri": "http://web.archive.org/web/20160922160346/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-22T16:03:47Z",
+        "uri": "http://web.archive.org/web/20160922160347/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-24T02:31:22Z",
+        "uri": "http://web.archive.org/web/20160924023122/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-24T23:07:42Z",
+        "uri": "http://web.archive.org/web/20160924230742/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-24T23:07:43Z",
+        "uri": "http://web.archive.org/web/20160924230743/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-24T23:07:46Z",
+        "uri": "http://web.archive.org/web/20160924230746/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-24T23:07:47Z",
+        "uri": "http://web.archive.org/web/20160924230747/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-25T22:35:34Z",
+        "uri": "http://web.archive.org/web/20160925223534/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-25T22:35:35Z",
+        "uri": "http://web.archive.org/web/20160925223535/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-27T02:44:16Z",
+        "uri": "http://wayback.archive-it.org/all/20160927024416/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-27T02:44:16Z",
+        "uri": "http://web.archive.org/web/20160927024416/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-27T02:44:17Z",
+        "uri": "http://wayback.archive-it.org/all/20160927024417/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-27T02:44:17Z",
+        "uri": "http://web.archive.org/web/20160927024417/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-27T03:39:56Z",
+        "uri": "http://web.archive.org/web/20160927033956/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-09-27T03:40:13Z",
+        "uri": "http://web.archive.org/web/20160927034013/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-10-04T06:03:08Z",
+        "uri": "http://web.archive.org/web/20161004060308/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-10-04T06:03:10Z",
+        "uri": "http://web.archive.org/web/20161004060310/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-10-11T08:02:23Z",
+        "uri": "http://web.archive.org/web/20161011080223/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-10-11T08:02:25Z",
+        "uri": "http://web.archive.org/web/20161011080225/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-10-18T08:12:54Z",
+        "uri": "http://web.archive.org/web/20161018081254/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-10-18T08:12:57Z",
+        "uri": "http://web.archive.org/web/20161018081257/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-08T08:01:36Z",
+        "uri": "http://web.archive.org/web/20161108080136/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-08T08:01:38Z",
+        "uri": "http://web.archive.org/web/20161108080138/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-08T19:43:58Z",
+        "uri": "http://web.archive.org/web/20161108194358/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-08T19:44:02Z",
+        "uri": "http://web.archive.org/web/20161108194402/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-09T16:48:24Z",
+        "uri": "http://web.archive.org/web/20161109164824/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-09T16:48:25Z",
+        "uri": "http://web.archive.org/web/20161109164825/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-09T16:48:35Z",
+        "uri": "http://web.archive.org/web/20161109164835/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-09T16:48:36Z",
+        "uri": "http://web.archive.org/web/20161109164836/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-10T17:13:35Z",
+        "uri": "http://web.archive.org/web/20161110171335/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-10T17:13:36Z",
+        "uri": "http://web.archive.org/web/20161110171336/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-10T17:13:52Z",
+        "uri": "http://web.archive.org/web/20161110171352/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-10T17:13:53Z",
+        "uri": "http://web.archive.org/web/20161110171353/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-11T09:46:10Z",
+        "uri": "http://web.archive.org/web/20161111094610/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-11T18:49:04Z",
+        "uri": "http://web.archive.org/web/20161111184904/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-11T18:49:05Z",
+        "uri": "http://web.archive.org/web/20161111184905/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-11T18:56:30Z",
+        "uri": "http://web.archive.org/web/20161111185630/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-11T18:56:31Z",
+        "uri": "http://web.archive.org/web/20161111185631/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-12T22:40:49Z",
+        "uri": "http://web.archive.org/web/20161112224049/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-12T22:40:50Z",
+        "uri": "http://web.archive.org/web/20161112224050/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-12T22:40:50Z",
+        "uri": "http://web.archive.org/web/20161112224050/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-12T22:40:51Z",
+        "uri": "http://web.archive.org/web/20161112224051/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-13T19:03:43Z",
+        "uri": "http://web.archive.org/web/20161113190343/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-13T19:03:44Z",
+        "uri": "http://web.archive.org/web/20161113190344/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-13T19:33:03Z",
+        "uri": "http://web.archive.org/web/20161113193303/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-13T19:33:04Z",
+        "uri": "http://web.archive.org/web/20161113193304/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-14T23:04:08Z",
+        "uri": "http://web.archive.org/web/20161114230408/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-14T23:04:09Z",
+        "uri": "http://web.archive.org/web/20161114230409/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-14T23:04:09Z",
+        "uri": "http://web.archive.org/web/20161114230409/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-14T23:04:10Z",
+        "uri": "http://web.archive.org/web/20161114230410/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-15T11:53:43Z",
+        "uri": "http://web.archive.org/web/20161115115343/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-15T11:53:44Z",
+        "uri": "http://web.archive.org/web/20161115115344/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-15T22:34:16Z",
+        "uri": "http://web.archive.org/web/20161115223416/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-15T22:34:17Z",
+        "uri": "http://web.archive.org/web/20161115223417/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-15T22:44:41Z",
+        "uri": "http://web.archive.org/web/20161115224441/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-15T22:44:42Z",
+        "uri": "http://web.archive.org/web/20161115224442/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-29T00:49:41Z",
+        "uri": "http://web.archive.org/web/20161129004941/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-11-29T00:49:43Z",
+        "uri": "http://web.archive.org/web/20161129004943/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-06T00:10:46Z",
+        "uri": "http://web.archive.org/web/20161206001046/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-06T00:10:47Z",
+        "uri": "http://web.archive.org/web/20161206001047/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-09T09:52:46Z",
+        "uri": "http://web.archive.org/web/20161209095246/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-09T09:52:48Z",
+        "uri": "http://web.archive.org/web/20161209095248/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-10T10:27:30Z",
+        "uri": "http://web.archive.org/web/20161210102730/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-10T10:27:31Z",
+        "uri": "http://web.archive.org/web/20161210102731/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-11T12:51:28Z",
+        "uri": "http://web.archive.org/web/20161211125128/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-11T12:51:29Z",
+        "uri": "http://web.archive.org/web/20161211125129/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-12T10:39:23Z",
+        "uri": "http://web.archive.org/web/20161212103923/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-12T10:39:24Z",
+        "uri": "http://web.archive.org/web/20161212103924/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-13T10:23:14Z",
+        "uri": "http://web.archive.org/web/20161213102314/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-13T10:23:16Z",
+        "uri": "http://web.archive.org/web/20161213102316/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-22T16:19:57Z",
+        "uri": "http://web.archive.org/web/20161222161957/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-22T16:19:59Z",
+        "uri": "http://web.archive.org/web/20161222161959/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-24T19:21:28Z",
+        "uri": "http://web.archive.org/web/20161224192128/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-24T19:21:29Z",
+        "uri": "http://web.archive.org/web/20161224192129/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-24T20:01:31Z",
+        "uri": "http://web.archive.org/web/20161224200131/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-24T20:01:32Z",
+        "uri": "http://web.archive.org/web/20161224200132/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-25T17:13:25Z",
+        "uri": "http://web.archive.org/web/20161225171325/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-25T17:13:25Z",
+        "uri": "http://web.archive.org/web/20161225171325/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-25T17:13:26Z",
+        "uri": "http://web.archive.org/web/20161225171326/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-25T17:13:26Z",
+        "uri": "http://web.archive.org/web/20161225171326/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-26T23:33:41Z",
+        "uri": "http://web.archive.org/web/20161226233341/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-26T23:33:42Z",
+        "uri": "http://web.archive.org/web/20161226233342/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-26T23:54:47Z",
+        "uri": "http://web.archive.org/web/20161226235447/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-26T23:54:48Z",
+        "uri": "http://web.archive.org/web/20161226235448/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-28T02:00:05Z",
+        "uri": "http://web.archive.org/web/20161228020005/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-28T02:00:06Z",
+        "uri": "http://web.archive.org/web/20161228020006/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-28T02:20:03Z",
+        "uri": "http://web.archive.org/web/20161228022003/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-28T02:20:04Z",
+        "uri": "http://web.archive.org/web/20161228022004/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-29T08:55:22Z",
+        "uri": "http://web.archive.org/web/20161229085522/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-29T08:55:23Z",
+        "uri": "http://web.archive.org/web/20161229085523/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-29T17:10:36Z",
+        "uri": "http://web.archive.org/web/20161229171036/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2016-12-29T17:10:37Z",
+        "uri": "http://web.archive.org/web/20161229171037/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-05T08:05:53Z",
+        "uri": "http://web.archive.org/web/20170105080553/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-05T08:05:55Z",
+        "uri": "http://web.archive.org/web/20170105080555/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-05T18:51:33Z",
+        "uri": "http://web.archive.org/web/20170105185133/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-05T18:51:34Z",
+        "uri": "http://web.archive.org/web/20170105185134/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-05T18:51:40Z",
+        "uri": "http://web.archive.org/web/20170105185140/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-05T18:51:41Z",
+        "uri": "http://web.archive.org/web/20170105185141/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-06T19:21:03Z",
+        "uri": "http://web.archive.org/web/20170106192103/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-06T19:21:03Z",
+        "uri": "http://web.archive.org/web/20170106192103/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-06T19:21:04Z",
+        "uri": "http://web.archive.org/web/20170106192104/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-06T19:21:04Z",
+        "uri": "http://web.archive.org/web/20170106192104/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-07T20:15:35Z",
+        "uri": "http://web.archive.org/web/20170107201535/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-07T20:15:36Z",
+        "uri": "http://web.archive.org/web/20170107201536/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-07T21:26:59Z",
+        "uri": "http://web.archive.org/web/20170107212659/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-07T21:27:00Z",
+        "uri": "http://web.archive.org/web/20170107212700/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-08T19:00:54Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20170108190054/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-08T19:00:57Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20170108190057/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-08T21:07:18Z",
+        "uri": "http://web.archive.org/web/20170108210718/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-08T21:07:19Z",
+        "uri": "http://web.archive.org/web/20170108210719/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-08T22:28:40Z",
+        "uri": "http://web.archive.org/web/20170108222840/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-08T22:28:41Z",
+        "uri": "http://web.archive.org/web/20170108222841/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-10T06:33:26Z",
+        "uri": "http://web.archive.org/web/20170110063326/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-10T06:33:27Z",
+        "uri": "http://web.archive.org/web/20170110063327/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-12T08:53:21Z",
+        "uri": "http://web.archive.org/web/20170112085321/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-12T08:53:23Z",
+        "uri": "http://web.archive.org/web/20170112085323/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-14T07:30:21Z",
+        "uri": "http://web.archive.org/web/20170114073021/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-14T07:30:24Z",
+        "uri": "http://web.archive.org/web/20170114073024/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-17T01:18:55Z",
+        "uri": "http://web.archive.org/web/20170117011855/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-17T01:18:56Z",
+        "uri": "http://web.archive.org/web/20170117011856/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-17T21:03:15Z",
+        "uri": "http://web.archive.org/web/20170117210315/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-17T21:03:16Z",
+        "uri": "http://web.archive.org/web/20170117210316/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-20T07:58:14Z",
+        "uri": "http://web.archive.org/web/20170120075814/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-20T07:58:15Z",
+        "uri": "http://web.archive.org/web/20170120075815/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-21T06:42:31Z",
+        "uri": "http://web.archive.org/web/20170121064231/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-21T06:42:34Z",
+        "uri": "http://web.archive.org/web/20170121064234/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-22T04:55:48Z",
+        "uri": "http://web.archive.org/web/20170122045548/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-22T04:55:49Z",
+        "uri": "http://web.archive.org/web/20170122045549/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-22T05:01:06Z",
+        "uri": "http://web.archive.org/web/20170122050106/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-22T05:01:08Z",
+        "uri": "http://web.archive.org/web/20170122050108/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-23T05:11:28Z",
+        "uri": "http://web.archive.org/web/20170123051128/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-23T05:11:28Z",
+        "uri": "http://web.archive.org/web/20170123051128/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-23T05:11:29Z",
+        "uri": "http://web.archive.org/web/20170123051129/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-23T05:11:29Z",
+        "uri": "http://web.archive.org/web/20170123051129/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-26T08:25:36Z",
+        "uri": "http://web.archive.org/web/20170126082536/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-26T08:25:37Z",
+        "uri": "http://web.archive.org/web/20170126082537/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-26T20:13:32Z",
+        "uri": "http://web.archive.org/web/20170126201332/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-26T20:13:33Z",
+        "uri": "http://web.archive.org/web/20170126201333/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-27T08:22:22Z",
+        "uri": "http://web.archive.org/web/20170127082222/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-27T08:22:23Z",
+        "uri": "http://web.archive.org/web/20170127082223/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-27T08:36:30Z",
+        "uri": "http://web.archive.org/web/20170127083630/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-27T08:36:31Z",
+        "uri": "http://web.archive.org/web/20170127083631/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-28T09:11:17Z",
+        "uri": "http://web.archive.org/web/20170128091117/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-28T09:11:18Z",
+        "uri": "http://web.archive.org/web/20170128091118/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-28T11:30:14Z",
+        "uri": "http://web.archive.org/web/20170128113014/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-28T11:30:15Z",
+        "uri": "http://web.archive.org/web/20170128113015/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-29T08:42:17Z",
+        "uri": "http://web.archive.org/web/20170129084217/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-29T09:05:21Z",
+        "uri": "http://web.archive.org/web/20170129090521/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-29T09:05:22Z",
+        "uri": "http://web.archive.org/web/20170129090522/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-29T11:44:26Z",
+        "uri": "http://web.archive.org/web/20170129114426/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-29T11:44:27Z",
+        "uri": "http://web.archive.org/web/20170129114427/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-30T09:51:48Z",
+        "uri": "http://web.archive.org/web/20170130095148/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-30T09:51:49Z",
+        "uri": "http://web.archive.org/web/20170130095149/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-30T13:01:30Z",
+        "uri": "http://web.archive.org/web/20170130130130/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-01-30T13:01:31Z",
+        "uri": "http://web.archive.org/web/20170130130131/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-18T09:38:57Z",
+        "uri": "http://web.archive.org/web/20170218093857/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-18T09:38:59Z",
+        "uri": "http://web.archive.org/web/20170218093859/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-20T11:04:21Z",
+        "uri": "http://web.archive.org/web/20170220110421/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-20T11:04:24Z",
+        "uri": "http://web.archive.org/web/20170220110424/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-21T05:44:45Z",
+        "uri": "http://web.archive.org/web/20170221054445/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-21T05:44:46Z",
+        "uri": "http://web.archive.org/web/20170221054446/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-28T12:11:02Z",
+        "uri": "http://web.archive.org/web/20170228121102/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-02-28T12:11:02Z",
+        "uri": "http://web.archive.org/web/20170228121102/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-14T23:47:57Z",
+        "uri": "http://web.archive.org/web/20170314234757/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-14T23:47:59Z",
+        "uri": "http://web.archive.org/web/20170314234759/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-15T18:31:32Z",
+        "uri": "http://web.archive.org/web/20170315183132/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-15T18:31:33Z",
+        "uri": "http://web.archive.org/web/20170315183133/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-25T15:27:56Z",
+        "uri": "http://web.archive.org/web/20170325152756/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-25T15:27:58Z",
+        "uri": "http://web.archive.org/web/20170325152758/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-29T23:38:02Z",
+        "uri": "http://web.archive.org/web/20170329233802/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-03-29T23:38:03Z",
+        "uri": "http://web.archive.org/web/20170329233803/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-04-16T07:44:51Z",
+        "uri": "http://web.archive.org/web/20170416074451/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-04-16T07:44:52Z",
+        "uri": "http://web.archive.org/web/20170416074452/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-04-17T08:35:07Z",
+        "uri": "http://web.archive.org/web/20170417083507/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-04-17T08:35:08Z",
+        "uri": "http://web.archive.org/web/20170417083508/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-05-06T21:50:01Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20170506215001/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-05-06T21:50:04Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20170506215004/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-05-12T20:37:22Z",
+        "uri": "http://web.archive.org/web/20170512203722/http://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-05-12T20:37:23Z",
+        "uri": "http://web.archive.org/web/20170512203723/https://guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-05-27T09:03:05Z",
+        "uri": "http://web.archive.org/web/20170527090305/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-03T21:01:26Z",
+        "uri": "http://web.archive.org/web/20170603210126/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-06T10:25:36Z",
+        "uri": "http://web.archive.org/web/20170606102536/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-07T22:00:30Z",
+        "uri": "http://web.archive.org/web/20170607220030/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-07T22:01:31Z",
+        "uri": "http://web.archive.org/web/20170607220131/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-09T21:38:33Z",
+        "uri": "http://web.archive.org/web/20170609213833/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-12T07:23:03Z",
+        "uri": "http://web.archive.org/web/20170612072303/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-13T11:11:51Z",
+        "uri": "http://web.archive.org/web/20170613111151/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-06-28T07:34:53Z",
+        "uri": "http://web.archive.org/web/20170628073453/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-07-08T10:45:09Z",
+        "uri": "http://web.archive.org/web/20170708104509/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-07-19T16:52:43Z",
+        "uri": "http://wayback.archive-it.org/all/20170719165243/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-07-19T16:52:43Z",
+        "uri": "http://web.archive.org/web/20170719165243/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-08T13:22:54Z",
+        "uri": "http://web.archive.org/web/20170808132254/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-10T18:31:04Z",
+        "uri": "http://web.archive.org/web/20170810183104/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-11T19:36:01Z",
+        "uri": "http://web.archive.org/web/20170811193601/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-12T19:52:51Z",
+        "uri": "http://web.archive.org/web/20170812195251/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-13T20:37:05Z",
+        "uri": "http://web.archive.org/web/20170813203705/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-14T20:37:39Z",
+        "uri": "http://web.archive.org/web/20170814203739/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-15T21:32:52Z",
+        "uri": "http://web.archive.org/web/20170815213252/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-16T22:05:54Z",
+        "uri": "http://web.archive.org/web/20170816220554/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-17T22:53:02Z",
+        "uri": "http://web.archive.org/web/20170817225302/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-18T23:10:26Z",
+        "uri": "http://web.archive.org/web/20170818231026/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-19T15:19:56Z",
+        "uri": "http://wayback.archive-it.org/all/20170819151956/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-19T15:19:56Z",
+        "uri": "http://web.archive.org/web/20170819151956/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-19T23:36:49Z",
+        "uri": "http://web.archive.org/web/20170819233649/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-20T23:54:16Z",
+        "uri": "http://web.archive.org/web/20170820235416/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-22T01:44:33Z",
+        "uri": "http://web.archive.org/web/20170822014433/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-23T01:58:23Z",
+        "uri": "http://web.archive.org/web/20170823015823/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-24T02:17:55Z",
+        "uri": "http://web.archive.org/web/20170824021755/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-25T02:54:07Z",
+        "uri": "http://web.archive.org/web/20170825025407/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-25T05:22:08Z",
+        "uri": "http://web.archive.org/web/20170825052208/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-26T03:08:29Z",
+        "uri": "http://web.archive.org/web/20170826030829/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-27T06:00:35Z",
+        "uri": "http://web.archive.org/web/20170827060035/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-28T06:31:07Z",
+        "uri": "http://web.archive.org/web/20170828063107/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-29T00:22:27Z",
+        "uri": "http://web.archive.org/web/20170829002227/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-29T07:09:40Z",
+        "uri": "http://web.archive.org/web/20170829070940/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-30T01:55:26Z",
+        "uri": "http://web.archive.org/web/20170830015526/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-30T07:36:38Z",
+        "uri": "http://web.archive.org/web/20170830073638/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-31T02:31:06Z",
+        "uri": "http://web.archive.org/web/20170831023106/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-08-31T08:29:29Z",
+        "uri": "http://web.archive.org/web/20170831082929/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-01T02:49:02Z",
+        "uri": "http://web.archive.org/web/20170901024902/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-01T08:54:47Z",
+        "uri": "http://web.archive.org/web/20170901085447/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-02T02:55:41Z",
+        "uri": "http://web.archive.org/web/20170902025541/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-02T09:36:16Z",
+        "uri": "http://web.archive.org/web/20170902093616/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-03T03:06:55Z",
+        "uri": "http://web.archive.org/web/20170903030655/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-03T09:57:47Z",
+        "uri": "http://web.archive.org/web/20170903095747/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-04T04:04:43Z",
+        "uri": "http://web.archive.org/web/20170904040443/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-04T10:24:39Z",
+        "uri": "http://web.archive.org/web/20170904102439/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-05T13:09:45Z",
+        "uri": "http://web.archive.org/web/20170905130945/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-05T20:00:00Z",
+        "uri": "http://web.archive.org/web/20170905200000/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-09-29T07:29:10Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20170929072910/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-10-19T15:16:20Z",
+        "uri": "http://wayback.archive-it.org/all/20171019151620/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-10-29T13:18:52Z",
+        "uri": "http://web.archive.org/web/20171029131852/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-06T11:08:23Z",
+        "uri": "http://web.archive.org/web/20171106110823/http://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-11T15:57:20Z",
+        "uri": "http://web.archive.org/web/20171111155720/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-11T18:29:32Z",
+        "uri": "http://web.archive.org/web/20171111182932/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-12T19:38:19Z",
+        "uri": "http://web.archive.org/web/20171112193819/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-12T20:50:53Z",
+        "uri": "http://web.archive.org/web/20171112205053/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-19T15:16:01Z",
+        "uri": "http://wayback.archive-it.org/all/20171119151601/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-11-19T15:16:01Z",
+        "uri": "http://web.archive.org/web/20171119151601/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-12-10T13:25:14Z",
+        "uri": "http://web.archive.org/web/20171210132514/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-12-10T13:25:14Z",
+        "uri": "http://web.archive.org/web/20171210132514/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-12-11T15:22:13Z",
+        "uri": "http://web.archive.org/web/20171211152213/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-12-11T15:22:13Z",
+        "uri": "http://web.archive.org/web/20171211152213/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-12-29T03:22:20Z",
+        "uri": "http://wayback.archive-it.org/all/20171229032220/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2017-12-29T03:22:20Z",
+        "uri": "http://web.archive.org/web/20171229032220/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-16T12:38:51Z",
+        "uri": "http://web.archive.org/web/20180116123851/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-16T12:38:51Z",
+        "uri": "http://web.archive.org/web/20180116123851/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-17T13:57:26Z",
+        "uri": "http://web.archive.org/web/20180117135726/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-17T13:57:38Z",
+        "uri": "http://web.archive.org/web/20180117135738/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-18T06:47:29Z",
+        "uri": "http://web.archive.org/web/20180118064729/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-18T14:56:49Z",
+        "uri": "http://web.archive.org/web/20180118145649/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-18T14:58:03Z",
+        "uri": "http://web.archive.org/web/20180118145803/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-19T15:31:53Z",
+        "uri": "http://web.archive.org/web/20180119153153/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-19T15:35:56Z",
+        "uri": "http://web.archive.org/web/20180119153556/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-20T13:57:54Z",
+        "uri": "http://web.archive.org/web/20180120135754/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-20T13:57:56Z",
+        "uri": "http://web.archive.org/web/20180120135756/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-21T14:10:07Z",
+        "uri": "http://web.archive.org/web/20180121141007/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-21T14:10:08Z",
+        "uri": "http://web.archive.org/web/20180121141008/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-22T16:44:47Z",
+        "uri": "http://web.archive.org/web/20180122164447/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-22T16:49:17Z",
+        "uri": "http://web.archive.org/web/20180122164917/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-23T16:00:30Z",
+        "uri": "http://web.archive.org/web/20180123160030/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-23T16:00:39Z",
+        "uri": "http://web.archive.org/web/20180123160039/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-24T16:41:47Z",
+        "uri": "http://web.archive.org/web/20180124164147/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-24T17:38:56Z",
+        "uri": "http://web.archive.org/web/20180124173856/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-25T17:38:56Z",
+        "uri": "http://web.archive.org/web/20180125173856/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-25T18:46:21Z",
+        "uri": "http://web.archive.org/web/20180125184621/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-26T17:49:53Z",
+        "uri": "http://web.archive.org/web/20180126174953/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-26T19:20:43Z",
+        "uri": "http://web.archive.org/web/20180126192043/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-27T18:07:36Z",
+        "uri": "http://web.archive.org/web/20180127180736/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-27T19:27:47Z",
+        "uri": "http://web.archive.org/web/20180127192747/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-28T19:20:27Z",
+        "uri": "http://web.archive.org/web/20180128192027/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-28T20:29:14Z",
+        "uri": "http://web.archive.org/web/20180128202914/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-29T20:27:24Z",
+        "uri": "http://web.archive.org/web/20180129202724/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-30T21:52:07Z",
+        "uri": "http://web.archive.org/web/20180130215207/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-31T00:36:07Z",
+        "uri": "http://web.archive.org/web/20180131003607/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-31T20:30:54Z",
+        "uri": "http://web.archive.org/web/20180131203054/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-01-31T21:40:02Z",
+        "uri": "http://web.archive.org/web/20180131214002/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-01T20:23:29Z",
+        "uri": "http://web.archive.org/web/20180201202329/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-01T21:30:18Z",
+        "uri": "http://web.archive.org/web/20180201213018/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-02T21:30:46Z",
+        "uri": "http://web.archive.org/web/20180202213046/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-02T22:42:01Z",
+        "uri": "http://web.archive.org/web/20180202224201/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-03T20:42:33Z",
+        "uri": "http://web.archive.org/web/20180203204233/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-03T21:49:19Z",
+        "uri": "http://web.archive.org/web/20180203214919/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-04T21:40:12Z",
+        "uri": "http://web.archive.org/web/20180204214012/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-04T22:23:56Z",
+        "uri": "http://web.archive.org/web/20180204222356/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-05T22:24:06Z",
+        "uri": "http://web.archive.org/web/20180205222406/https://www.guardian.com/en/index.html"
+      },
+      {
+        "datetime": "2018-02-05T22:24:08Z",
+        "uri": "http://web.archive.org/web/20180205222408/https://www.guardian.com/en/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2003-08-30T07:03:07Z",
+      "uri": "http://web.archive.org/web/20030830070307/http://www.guardian.com:80/en/index.html"
+    },
+    "last": {
+      "datetime": "2018-02-05T22:24:08Z",
+      "uri": "http://web.archive.org/web/20180205222408/https://www.guardian.com/en/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.guardian.com/en/index.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.guardian.com/en/index.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.guardian.com/en/index.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.guardian.com/en/index.html"
+}
+

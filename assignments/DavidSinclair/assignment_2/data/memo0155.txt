@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://gata.org/node/18009",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://gata.org/node/18009",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T05:50:11Z",
+        "uri": "http://web.archive.org/web/20180201055011/http://gata.org/node/18009"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T05:50:11Z",
+      "uri": "http://web.archive.org/web/20180201055011/http://gata.org/node/18009"
+    },
+    "last": {
+      "datetime": "2018-02-01T05:50:11Z",
+      "uri": "http://web.archive.org/web/20180201055011/http://gata.org/node/18009"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://gata.org/node/18009",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://gata.org/node/18009",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://gata.org/node/18009"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://gata.org/node/18009"
+}
+

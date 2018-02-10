@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T18:55:53Z",
+        "uri": "http://web.archive.org/web/20180130185553/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016"
+      },
+      {
+        "datetime": "2018-01-30T18:57:18Z",
+        "uri": "http://web.archive.org/web/20180130185718/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T18:55:53Z",
+      "uri": "http://web.archive.org/web/20180130185553/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016"
+    },
+    "last": {
+      "datetime": "2018-01-30T18:57:18Z",
+      "uri": "http://web.archive.org/web/20180130185718/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-austria-hungary/austrias-right-wing-government-pledges-to-work-with-hungarys-orban-idUSKBN1FJ016"
+}
+

@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T00:52:20Z",
+        "uri": "http://web.archive.org/web/20180130005220/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T00:52:20Z",
+      "uri": "http://web.archive.org/web/20180130005220/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/"
+    },
+    "last": {
+      "datetime": "2018-01-30T00:52:20Z",
+      "uri": "http://web.archive.org/web/20180130005220/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/"
+}
+

@@ -1,0 +1,203 @@
+{
+  "original_uri": "https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-02-10T20:52:33Z",
+        "uri": "http://webarchive.loc.gov/all/20150210205233/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-03-09T01:20:24Z",
+        "uri": "http://webarchive.loc.gov/all/20150309012024/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-03-14T20:59:16Z",
+        "uri": "http://webarchive.loc.gov/all/20150314205916/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-04-03T17:30:01Z",
+        "uri": "http://webarchive.loc.gov/all/20150403173001/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-04-06T11:14:22Z",
+        "uri": "http://webarchive.loc.gov/all/20150406111422/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-05-08T19:33:01Z",
+        "uri": "http://webarchive.loc.gov/all/20150508193301/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-05-11T21:02:50Z",
+        "uri": "http://webarchive.loc.gov/all/20150511210250/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-06-06T04:51:06Z",
+        "uri": "http://webarchive.loc.gov/all/20150606045106/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-06-07T04:07:32Z",
+        "uri": "http://webarchive.loc.gov/all/20150607040732/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-07-04T13:55:20Z",
+        "uri": "http://webarchive.loc.gov/all/20150704135520/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-07-06T08:25:16Z",
+        "uri": "http://webarchive.loc.gov/all/20150706082516/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-08-08T08:02:49Z",
+        "uri": "http://webarchive.loc.gov/all/20150808080249/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-08-09T06:01:20Z",
+        "uri": "http://webarchive.loc.gov/all/20150809060120/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-09-05T06:31:29Z",
+        "uri": "http://webarchive.loc.gov/all/20150905063129/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-09-06T00:25:42Z",
+        "uri": "http://webarchive.loc.gov/all/20150906002542/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-09-06T12:34:18Z",
+        "uri": "http://web.archive.org/web/20150906123418/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-10-29T12:14:25Z",
+        "uri": "http://webarchive.loc.gov/all/20151029121425/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-11-08T15:44:33Z",
+        "uri": "http://webarchive.loc.gov/all/20151108154433/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2015-11-10T10:52:19Z",
+        "uri": "http://webarchive.loc.gov/all/20151110105219/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-02-09T08:00:37Z",
+        "uri": "http://webarchive.loc.gov/all/20160209080037/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-02-11T17:06:47Z",
+        "uri": "http://webarchive.loc.gov/all/20160211170647/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-05-14T06:31:49Z",
+        "uri": "http://webarchive.loc.gov/all/20160514063149/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-05-18T00:23:56Z",
+        "uri": "http://web.archive.org/web/20160518002356/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-08-12T05:16:23Z",
+        "uri": "http://webarchive.loc.gov/all/20160812051623/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-12-04T02:20:17Z",
+        "uri": "http://web.archive.org/web/20161204022017/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-12-06T05:04:33Z",
+        "uri": "http://web.archive.org/web/20161206050433/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-12-24T14:11:03Z",
+        "uri": "http://web.archive.org/web/20161224141103/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2016-12-24T14:11:03Z",
+        "uri": "http://web.archive.org/web/20161224141103/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-01-21T03:03:00Z",
+        "uri": "http://wayback.archive-it.org/all/20170121030300/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-01-21T03:03:00Z",
+        "uri": "http://web.archive.org/web/20170121030300/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-02-17T05:07:45Z",
+        "uri": "http://web.archive.org/web/20170217050745/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-03-17T00:25:21Z",
+        "uri": "http://web.archive.org/web/20170317002521/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-04-16T22:46:09Z",
+        "uri": "http://web.archive.org/web/20170416224609/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-05-01T12:59:07Z",
+        "uri": "http://web.archive.org/web/20170501125907/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-05-15T17:13:38Z",
+        "uri": "http://web.archive.org/web/20170515171338/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-05-16T23:12:21Z",
+        "uri": "http://web.archive.org/web/20170516231221/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-06-16T23:42:38Z",
+        "uri": "http://web.archive.org/web/20170616234238/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-07-16T23:27:34Z",
+        "uri": "http://web.archive.org/web/20170716232734/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-07-28T03:49:58Z",
+        "uri": "http://wayback.archive-it.org/all/20170728034958/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-07-28T03:49:58Z",
+        "uri": "http://web.archive.org/web/20170728034958/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-08-17T00:43:35Z",
+        "uri": "http://web.archive.org/web/20170817004335/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-09-17T00:44:29Z",
+        "uri": "http://web.archive.org/web/20170917004429/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-11-17T00:05:47Z",
+        "uri": "http://web.archive.org/web/20171117000547/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2017-12-17T01:03:47Z",
+        "uri": "http://web.archive.org/web/20171217010347/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      },
+      {
+        "datetime": "2018-01-17T00:09:19Z",
+        "uri": "http://web.archive.org/web/20180117000919/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+      }
+    ],
+    "first": {
+      "datetime": "2015-02-10T20:52:33Z",
+      "uri": "http://webarchive.loc.gov/all/20150210205233/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+    },
+    "last": {
+      "datetime": "2018-01-17T00:09:19Z",
+      "uri": "http://web.archive.org/web/20180117000919/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt"
+}
+

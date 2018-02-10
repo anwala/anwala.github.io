@@ -1,0 +1,55 @@
+{
+  "original_uri": "http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-04-03T04:10:47Z",
+        "uri": "http://web.archive.org/web/20170403041047/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+      },
+      {
+        "datetime": "2017-04-11T20:54:04Z",
+        "uri": "http://web.archive.org/web/20170411205404/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html?"
+      },
+      {
+        "datetime": "2017-04-13T23:27:39Z",
+        "uri": "http://web.archive.org/web/20170413232739/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+      },
+      {
+        "datetime": "2017-05-13T22:53:20Z",
+        "uri": "http://web.archive.org/web/20170513225320/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html?"
+      },
+      {
+        "datetime": "2017-05-15T21:35:07Z",
+        "uri": "http://web.archive.org/web/20170515213507/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+      },
+      {
+        "datetime": "2017-05-17T10:01:57Z",
+        "uri": "http://web.archive.org/web/20170517100157/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html?"
+      },
+      {
+        "datetime": "2017-05-18T11:19:28Z",
+        "uri": "http://web.archive.org/web/20170518111928/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html?"
+      },
+      {
+        "datetime": "2017-05-20T16:50:04Z",
+        "uri": "http://web.archive.org/web/20170520165004/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+      }
+    ],
+    "first": {
+      "datetime": "2017-04-03T04:10:47Z",
+      "uri": "http://web.archive.org/web/20170403041047/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+    },
+    "last": {
+      "datetime": "2017-05-20T16:50:04Z",
+      "uri": "http://web.archive.org/web/20170520165004/http://www.londonstockexchange.com:80/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html"
+}
+
