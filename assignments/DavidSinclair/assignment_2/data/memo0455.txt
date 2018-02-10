@@ -1,0 +1,559 @@
+{
+  "original_uri": "https://www.gov.uk/government/people/lord-bates",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/people/lord-bates",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-10-08T15:57:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131008155742/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2013-11-09T00:26:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131109002632/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2013-12-21T11:18:02Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131221111802/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-04-07T11:47:59Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140407114759/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-04-24T19:38:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140424193853/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-07-25T04:21:49Z",
+        "uri": "http://web.archive.org/web/20140725042149/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-07-25T12:09:11Z",
+        "uri": "http://archive.is/20140725120911/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-07-26T13:59:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140726135901/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-08-05T01:27:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140805012743/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-08-30T21:06:33Z",
+        "uri": "http://web.archive.org/web/20140830210633/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-09-05T00:40:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140905004025/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-10-05T00:39:06Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20141005003906/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-10-24T09:55:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20141024095526/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-10-29T10:02:23Z",
+        "uri": "http://web.archive.org/web/20141029100223/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-12-05T01:43:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20141205014334/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2014-12-13T20:31:31Z",
+        "uri": "http://web.archive.org/web/20141213203131/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-01-05T01:58:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150105015851/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-01-24T09:33:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150124093337/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-02-05T02:26:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150205022655/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-03-05T02:06:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150305020632/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-03-17T15:46:03Z",
+        "uri": "http://web.archive.org/web/20150317154603/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-04-04T22:49:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150404224946/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-04-05T02:06:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150405020645/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-05-05T06:36:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150505063633/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-06-05T00:41:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150605004123/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-07-07T01:57:01Z",
+        "uri": "http://web.archive.org/web/20150707015701/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-07-07T14:28:07Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150707142807/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-07-30T15:04:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150730150429/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-08-01T14:49:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150801144929/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-09-01T18:17:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150901181736/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-09-05T02:43:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150905024311/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-09-06T08:19:51Z",
+        "uri": "http://web.archive.org/web/20150906081951/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-10-01T19:08:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151001190822/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-10-02T06:09:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151002060933/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-10-05T16:03:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151005160331/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-10-19T07:00:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151019070011/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-11-01T22:50:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151101225019/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2015-12-02T01:16:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151202011646/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-01-02T17:22:03Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160102172203/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-01-05T03:06:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160105030652/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-01-05T11:26:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160105112653/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-02-02T04:14:07Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160202041407/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-02-05T01:27:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160205012745/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-02-23T03:51:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160223035132/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-02-24T13:10:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160224131024/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-03-08T19:05:03Z",
+        "uri": "http://web.archive.org/web/20160308190503/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-03-19T21:50:19Z",
+        "uri": "http://web.archive.org/web/20160319215019/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-04-02T02:34:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160402023453/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-04-02T14:08:10Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160402140810/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-04-29T21:13:19Z",
+        "uri": "http://web.archive.org/web/20160429211319/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-05-04T03:28:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160504032824/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-05-25T05:29:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160525052936/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-06-04T07:59:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160604075925/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-07-03T02:38:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160703023804/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-08-03T18:43:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160803184314/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-09-03T22:22:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160903222220/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-09-14T01:10:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160914011008/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-10-03T23:26:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161003232620/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-10-06T14:43:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161006144326/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-11-01T16:36:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161101163623/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-11-07T22:31:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161107223142/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-11-23T20:04:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161123200431/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2016-12-01T19:01:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161201190151/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-01-05T01:33:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170105013345/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-01-16T07:56:19Z",
+        "uri": "http://web.archive.org/web/20170116075619/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-01-22T23:50:54Z",
+        "uri": "http://web.archive.org/web/20170122235054/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-02-14T22:19:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170214221923/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-02-15T04:26:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170215042649/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-02-15T20:14:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170215201415/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-02-20T11:45:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170220114542/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-02-27T12:39:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170227123947/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-03-02T13:15:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170302131540/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-03-06T13:34:59Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170306133459/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-03-13T12:53:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170313125345/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-03-20T13:35:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170320133534/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-03-27T09:20:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170327092034/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-01T05:31:07Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170401053107/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-01T07:44:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170401074429/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-03T10:14:57Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170403101457/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-11T00:31:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170411003149/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-17T10:08:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170417100837/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-24T08:57:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170424085724/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-04-24T23:31:52Z",
+        "uri": "http://web.archive.org/web/20170424233152/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-01T08:09:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170501080950/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-01T19:35:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170501193532/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-08T10:17:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170508101751/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-09T17:51:10Z",
+        "uri": "http://webarchive.proni.gov.uk/20170509175110/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-09T17:51:10Z",
+        "uri": "http://web.archive.org/web/20170509175110/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-15T10:43:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170515104345/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-22T10:33:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170522103353/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-05-29T10:49:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170529104952/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-06-01T07:23:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170601072349/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-06-06T11:56:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170606115625/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-06-12T11:22:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170612112216/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-06-19T17:09:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170619170914/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-06-26T11:11:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170626111158/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-01T13:35:56Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170701133556/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-01T18:09:21Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170701180921/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-01T19:46:57Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170701194657/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-03T14:49:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170703144955/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-06T16:19:21Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170706161921/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-10T09:36:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170710093604/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-17T09:30:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170717093058/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-24T08:35:44Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170724083544/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-07-31T10:28:21Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170731102821/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-08-07T10:34:13Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170807103413/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-08-14T10:32:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170814103226/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-08-24T23:30:35Z",
+        "uri": "http://web.archive.org/web/20170824233035/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-08-28T10:39:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170828103936/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-02T16:43:11Z",
+        "uri": "http://web.archive.org/web/20170902164311/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-04T10:04:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170904100453/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-08T15:21:19Z",
+        "uri": "http://web.archive.org/web/20170908152119/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-11T11:14:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170911111447/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-18T10:29:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170918102952/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-19T14:56:26Z",
+        "uri": "http://web.archive.org/web/20170919145626/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-09-25T10:31:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170925103136/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-10-02T16:56:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171002165618/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-10-05T09:53:13Z",
+        "uri": "http://web.archive.org/web/20171005095313/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-10-13T14:03:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171013140329/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-10-16T10:08:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171016100801/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-10-23T10:36:59Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171023103659/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-10-30T11:40:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171030114043/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-11-06T11:40:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171106114017/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-11-13T12:35:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171113123527/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-11-20T12:09:56Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171120120956/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-11-27T11:15:00Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171127111500/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-12-04T12:20:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171204122043/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-12-11T12:30:13Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171211123013/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-12-16T02:57:05Z",
+        "uri": "http://web.archive.org/web/20171216025705/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-12-18T12:18:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171218121846/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2017-12-25T12:10:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171225121036/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2018-01-15T12:50:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180115125043/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2018-01-29T12:14:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180129121443/https://www.gov.uk/government/people/lord-bates"
+      },
+      {
+        "datetime": "2018-02-01T02:02:39Z",
+        "uri": "http://web.archive.org/web/20180201020239/https://www.gov.uk/government/people/lord-bates"
+      }
+    ],
+    "first": {
+      "datetime": "2013-10-08T15:57:42Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20131008155742/https://www.gov.uk/government/people/lord-bates"
+    },
+    "last": {
+      "datetime": "2018-02-01T02:02:39Z",
+      "uri": "http://web.archive.org/web/20180201020239/https://www.gov.uk/government/people/lord-bates"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/people/lord-bates",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/people/lord-bates",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/people/lord-bates"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/people/lord-bates"
+}
+

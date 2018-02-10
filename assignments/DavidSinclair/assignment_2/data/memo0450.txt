@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T11:54:24Z",
+        "uri": "http://web.archive.org/web/20180131115424/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835"
+      },
+      {
+        "datetime": "2018-01-31T22:43:43Z",
+        "uri": "http://web.archive.org/web/20180131224343/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T11:54:24Z",
+      "uri": "http://web.archive.org/web/20180131115424/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835"
+    },
+    "last": {
+      "datetime": "2018-01-31T22:43:43Z",
+      "uri": "http://web.archive.org/web/20180131224343/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.ndtv.com/business/union-budget-2018-19-to-test-investors-faith-in-modi-government-1806835"
+}
+

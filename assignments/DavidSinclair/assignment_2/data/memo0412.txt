@@ -1,0 +1,899 @@
+{
+  "original_uri": "http://M.Sc",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://M.Sc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-04-04T17:51:59Z",
+        "uri": "http://web.archive.org/web/20130404175159/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-04T20:51:38Z",
+        "uri": "http://web.archive.org/web/20130404205138/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-05T19:50:06Z",
+        "uri": "http://web.archive.org/web/20130405195006/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-06T14:50:36Z",
+        "uri": "http://web.archive.org/web/20130406145036/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-07T18:45:10Z",
+        "uri": "http://web.archive.org/web/20130407184510/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-08T16:28:16Z",
+        "uri": "http://web.archive.org/web/20130408162816/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-08T18:59:01Z",
+        "uri": "http://web.archive.org/web/20130408185901/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-11T20:53:12Z",
+        "uri": "http://web.archive.org/web/20130411205312/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-12T22:12:29Z",
+        "uri": "http://web.archive.org/web/20130412221229/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-13T21:09:50Z",
+        "uri": "http://web.archive.org/web/20130413210950/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-14T16:50:07Z",
+        "uri": "http://web.archive.org/web/20130414165007/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-15T19:05:01Z",
+        "uri": "http://web.archive.org/web/20130415190501/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-18T14:50:34Z",
+        "uri": "http://web.archive.org/web/20130418145034/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-18T20:44:18Z",
+        "uri": "http://web.archive.org/web/20130418204418/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-21T19:08:01Z",
+        "uri": "http://web.archive.org/web/20130421190801/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-25T00:13:14Z",
+        "uri": "http://web.archive.org/web/20130425001314/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-25T15:07:12Z",
+        "uri": "http://web.archive.org/web/20130425150712/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-25T20:39:45Z",
+        "uri": "http://web.archive.org/web/20130425203945/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-27T00:25:54Z",
+        "uri": "http://web.archive.org/web/20130427002554/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-27T20:19:22Z",
+        "uri": "http://web.archive.org/web/20130427201922/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-28T15:39:09Z",
+        "uri": "http://web.archive.org/web/20130428153909/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-28T18:17:43Z",
+        "uri": "http://web.archive.org/web/20130428181743/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-29T18:49:35Z",
+        "uri": "http://web.archive.org/web/20130429184935/http://m.sc"
+      },
+      {
+        "datetime": "2013-04-30T22:42:04Z",
+        "uri": "http://web.archive.org/web/20130430224204/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-01T14:24:00Z",
+        "uri": "http://web.archive.org/web/20130501142400/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-03T20:21:01Z",
+        "uri": "http://web.archive.org/web/20130503202101/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-05T18:30:58Z",
+        "uri": "http://web.archive.org/web/20130505183058/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-07T16:54:47Z",
+        "uri": "http://web.archive.org/web/20130507165447/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-07T21:10:41Z",
+        "uri": "http://web.archive.org/web/20130507211041/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-08T21:05:26Z",
+        "uri": "http://web.archive.org/web/20130508210526/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-10T14:09:47Z",
+        "uri": "http://web.archive.org/web/20130510140947/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-10T17:17:13Z",
+        "uri": "http://web.archive.org/web/20130510171713/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-13T17:19:24Z",
+        "uri": "http://web.archive.org/web/20130513171924/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-14T13:05:44Z",
+        "uri": "http://web.archive.org/web/20130514130544/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-14T14:22:31Z",
+        "uri": "http://web.archive.org/web/20130514142231/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-14T21:02:57Z",
+        "uri": "http://web.archive.org/web/20130514210257/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-16T00:59:21Z",
+        "uri": "http://web.archive.org/web/20130516005921/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-16T20:22:39Z",
+        "uri": "http://web.archive.org/web/20130516202239/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-17T00:33:43Z",
+        "uri": "http://web.archive.org/web/20130517003343/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-18T14:03:40Z",
+        "uri": "http://web.archive.org/web/20130518140340/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-18T21:10:03Z",
+        "uri": "http://web.archive.org/web/20130518211003/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-20T18:06:42Z",
+        "uri": "http://web.archive.org/web/20130520180642/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-21T21:04:17Z",
+        "uri": "http://web.archive.org/web/20130521210417/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-22T18:35:05Z",
+        "uri": "http://web.archive.org/web/20130522183505/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-23T23:10:54Z",
+        "uri": "http://web.archive.org/web/20130523231054/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-24T20:53:44Z",
+        "uri": "http://web.archive.org/web/20130524205344/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-27T17:06:07Z",
+        "uri": "http://web.archive.org/web/20130527170607/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-29T07:18:39Z",
+        "uri": "http://web.archive.org/web/20130529071839/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-29T17:32:37Z",
+        "uri": "http://web.archive.org/web/20130529173237/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-29T21:22:41Z",
+        "uri": "http://web.archive.org/web/20130529212241/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-30T15:35:15Z",
+        "uri": "http://web.archive.org/web/20130530153515/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-30T17:37:33Z",
+        "uri": "http://web.archive.org/web/20130530173733/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-30T20:22:58Z",
+        "uri": "http://web.archive.org/web/20130530202258/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-31T16:23:08Z",
+        "uri": "http://web.archive.org/web/20130531162308/http://m.sc"
+      },
+      {
+        "datetime": "2013-05-31T19:24:18Z",
+        "uri": "http://web.archive.org/web/20130531192418/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-01T16:14:25Z",
+        "uri": "http://web.archive.org/web/20130601161425/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-01T18:49:15Z",
+        "uri": "http://web.archive.org/web/20130601184915/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-04T14:38:36Z",
+        "uri": "http://web.archive.org/web/20130604143836/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-04T16:24:14Z",
+        "uri": "http://web.archive.org/web/20130604162414/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-04T18:53:27Z",
+        "uri": "http://web.archive.org/web/20130604185327/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-08T16:22:22Z",
+        "uri": "http://web.archive.org/web/20130608162222/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-10T05:53:46Z",
+        "uri": "http://web.archive.org/web/20130610055346/http://m.sc"
+      },
+      {
+        "datetime": "2013-06-30T03:01:33Z",
+        "uri": "http://web.archive.org/web/20130630030133/http://m.sc"
+      },
+      {
+        "datetime": "2013-07-16T17:51:19Z",
+        "uri": "http://archive.is/20130716175119/http://m.sc/"
+      },
+      {
+        "datetime": "2013-07-16T17:51:19Z",
+        "uri": "http://web.archive.org/web/20130716175119/http://m.sc"
+      },
+      {
+        "datetime": "2013-07-16T20:11:59Z",
+        "uri": "http://web.archive.org/web/20130716201159/http://m.sc"
+      },
+      {
+        "datetime": "2016-07-14T19:27:53Z",
+        "uri": "http://web.archive.org/web/20160714192753/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-07-15T00:45:01Z",
+        "uri": "http://web.archive.org/web/20160715004501/http://m.sc:80/?"
+      },
+      {
+        "datetime": "2016-08-01T16:16:32Z",
+        "uri": "http://web.archive.org/web/20160801161632/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-08-12T03:27:13Z",
+        "uri": "http://web.archive.org/web/20160812032713/http://m.sc/"
+      },
+      {
+        "datetime": "2016-08-12T19:57:38Z",
+        "uri": "http://web.archive.org/web/20160812195738/http://m.sc/"
+      },
+      {
+        "datetime": "2016-08-19T07:01:20Z",
+        "uri": "http://web.archive.org/web/20160819070120/http://m.sc/"
+      },
+      {
+        "datetime": "2016-08-19T18:26:25Z",
+        "uri": "http://web.archive.org/web/20160819182625/http://m.sc/"
+      },
+      {
+        "datetime": "2016-08-20T01:53:34Z",
+        "uri": "http://web.archive.org/web/20160820015334/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-08-25T10:22:39Z",
+        "uri": "http://web.archive.org/web/20160825102239/http://m.sc/"
+      },
+      {
+        "datetime": "2016-08-26T05:21:24Z",
+        "uri": "http://web.archive.org/web/20160826052124/http://m.sc/"
+      },
+      {
+        "datetime": "2016-08-26T20:09:08Z",
+        "uri": "http://web.archive.org/web/20160826200908/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-02T03:28:16Z",
+        "uri": "http://wayback.archive-it.org/all/20160902032816/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-02T03:28:16Z",
+        "uri": "http://web.archive.org/web/20160902032816/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-02T03:28:16Z",
+        "uri": "http://web.archive.org/web/20160902032816/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-02T03:29:14Z",
+        "uri": "http://web.archive.org/web/20160902032914/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-02T05:12:06Z",
+        "uri": "http://web.archive.org/web/20160902051206/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-09-02T10:46:13Z",
+        "uri": "http://web.archive.org/web/20160902104613/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-09T14:42:06Z",
+        "uri": "http://web.archive.org/web/20160909144206/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-09T20:22:01Z",
+        "uri": "http://web.archive.org/web/20160909202201/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-14T03:08:47Z",
+        "uri": "http://web.archive.org/web/20160914030847/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-09-16T21:33:29Z",
+        "uri": "http://web.archive.org/web/20160916213329/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-19T17:52:17Z",
+        "uri": "http://web.archive.org/web/20160919175217/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-23T18:26:02Z",
+        "uri": "http://web.archive.org/web/20160923182602/http://m.sc/"
+      },
+      {
+        "datetime": "2016-09-25T08:49:19Z",
+        "uri": "http://web.archive.org/web/20160925084919/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-09-30T16:47:07Z",
+        "uri": "http://web.archive.org/web/20160930164707/http://m.sc/"
+      },
+      {
+        "datetime": "2016-10-02T13:21:53Z",
+        "uri": "http://web.archive.org/web/20161002132153/http://m.sc:80/?"
+      },
+      {
+        "datetime": "2016-10-07T09:05:44Z",
+        "uri": "http://web.archive.org/web/20161007090544/http://m.sc/"
+      },
+      {
+        "datetime": "2016-10-07T12:34:49Z",
+        "uri": "http://web.archive.org/web/20161007123449/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-10-07T15:47:22Z",
+        "uri": "http://web.archive.org/web/20161007154722/http://m.sc/"
+      },
+      {
+        "datetime": "2016-10-07T18:05:03Z",
+        "uri": "http://web.archive.org/web/20161007180503/http://m.sc/"
+      },
+      {
+        "datetime": "2016-10-14T17:55:09Z",
+        "uri": "http://web.archive.org/web/20161014175509/http://m.sc/"
+      },
+      {
+        "datetime": "2016-10-14T18:48:56Z",
+        "uri": "http://web.archive.org/web/20161014184856/http://m.sc/"
+      },
+      {
+        "datetime": "2016-10-19T04:13:19Z",
+        "uri": "http://web.archive.org/web/20161019041319/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-10-30T06:52:54Z",
+        "uri": "http://web.archive.org/web/20161030065254/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-01T13:18:52Z",
+        "uri": "http://web.archive.org/web/20161101131852/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-11-03T04:16:15Z",
+        "uri": "http://web.archive.org/web/20161103041615/http://m.sc:80/?"
+      },
+      {
+        "datetime": "2016-11-03T04:16:27Z",
+        "uri": "http://web.archive.org/web/20161103041627/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-11-08T02:07:14Z",
+        "uri": "http://web.archive.org/web/20161108020714/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-08T03:03:42Z",
+        "uri": "http://web.archive.org/web/20161108030342/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-08T08:44:10Z",
+        "uri": "http://web.archive.org/web/20161108084410/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-15T01:51:06Z",
+        "uri": "http://web.archive.org/web/20161115015106/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-15T02:17:56Z",
+        "uri": "http://web.archive.org/web/20161115021756/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-15T09:33:44Z",
+        "uri": "http://web.archive.org/web/20161115093344/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-16T09:30:49Z",
+        "uri": "http://web.archive.org/web/20161116093049/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-11-22T01:11:40Z",
+        "uri": "http://web.archive.org/web/20161122011140/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-22T02:18:02Z",
+        "uri": "http://web.archive.org/web/20161122021802/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-22T06:41:12Z",
+        "uri": "http://web.archive.org/web/20161122064112/http://m.sc:80/"
+      },
+      {
+        "datetime": "2016-11-22T10:25:31Z",
+        "uri": "http://web.archive.org/web/20161122102531/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-29T01:27:39Z",
+        "uri": "http://web.archive.org/web/20161129012739/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-29T03:08:52Z",
+        "uri": "http://web.archive.org/web/20161129030852/http://m.sc/"
+      },
+      {
+        "datetime": "2016-11-29T10:00:48Z",
+        "uri": "http://web.archive.org/web/20161129100048/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-02T07:52:30Z",
+        "uri": "http://web.archive.org/web/20161202075230/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-06T02:01:07Z",
+        "uri": "http://web.archive.org/web/20161206020107/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-06T04:05:21Z",
+        "uri": "http://web.archive.org/web/20161206040521/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-06T08:31:13Z",
+        "uri": "http://web.archive.org/web/20161206083113/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-09T02:10:53Z",
+        "uri": "http://web.archive.org/web/20161209021053/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-09T03:31:18Z",
+        "uri": "http://web.archive.org/web/20161209033118/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-10T03:36:25Z",
+        "uri": "http://web.archive.org/web/20161210033625/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-10T04:30:19Z",
+        "uri": "http://web.archive.org/web/20161210043019/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-11T02:26:00Z",
+        "uri": "http://web.archive.org/web/20161211022600/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-11T04:36:43Z",
+        "uri": "http://web.archive.org/web/20161211043643/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-11T09:00:49Z",
+        "uri": "http://web.archive.org/web/20161211090049/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-12T01:55:47Z",
+        "uri": "http://web.archive.org/web/20161212015547/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-12T03:49:33Z",
+        "uri": "http://web.archive.org/web/20161212034933/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-12T14:34:09Z",
+        "uri": "http://web.archive.org/web/20161212143409/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-13T01:10:42Z",
+        "uri": "http://web.archive.org/web/20161213011042/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-13T03:43:33Z",
+        "uri": "http://web.archive.org/web/20161213034333/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-13T17:01:59Z",
+        "uri": "http://web.archive.org/web/20161213170159/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-13T23:45:49Z",
+        "uri": "http://web.archive.org/web/20161213234549/http://m.sc/"
+      },
+      {
+        "datetime": "2016-12-17T13:11:01Z",
+        "uri": "http://web.archive.org/web/20161217131101/http://m.sc:80/?"
+      },
+      {
+        "datetime": "2017-01-12T16:34:13Z",
+        "uri": "http://web.archive.org/web/20170112163413/http://m.sc/"
+      },
+      {
+        "datetime": "2017-01-19T06:54:21Z",
+        "uri": "http://web.archive.org/web/20170119065421/http://m.sc/"
+      },
+      {
+        "datetime": "2017-01-19T16:35:37Z",
+        "uri": "http://web.archive.org/web/20170119163537/http://m.sc/"
+      },
+      {
+        "datetime": "2017-01-21T03:25:53Z",
+        "uri": "http://web.archive.org/web/20170121032553/http://m.sc/"
+      },
+      {
+        "datetime": "2017-01-26T07:23:11Z",
+        "uri": "http://web.archive.org/web/20170126072311/http://m.sc/"
+      },
+      {
+        "datetime": "2017-01-26T17:26:00Z",
+        "uri": "http://web.archive.org/web/20170126172600/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-02T07:07:59Z",
+        "uri": "http://web.archive.org/web/20170202070759/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-02T18:14:36Z",
+        "uri": "http://web.archive.org/web/20170202181436/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-04T05:13:16Z",
+        "uri": "http://web.archive.org/web/20170204051316/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-09T08:37:59Z",
+        "uri": "http://web.archive.org/web/20170209083759/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-09T22:17:53Z",
+        "uri": "http://web.archive.org/web/20170209221753/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-11T06:14:36Z",
+        "uri": "http://web.archive.org/web/20170211061436/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-18T07:26:40Z",
+        "uri": "http://web.archive.org/web/20170218072640/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-19T06:31:55Z",
+        "uri": "http://web.archive.org/web/20170219063155/http://m.sc/"
+      },
+      {
+        "datetime": "2017-02-23T19:54:52Z",
+        "uri": "http://web.archive.org/web/20170223195452/http://m.sc/"
+      },
+      {
+        "datetime": "2017-03-18T09:50:30Z",
+        "uri": "http://web.archive.org/web/20170318095030/http://m.sc/"
+      },
+      {
+        "datetime": "2017-03-24T05:43:58Z",
+        "uri": "http://web.archive.org/web/20170324054358/http://m.sc/"
+      },
+      {
+        "datetime": "2017-03-24T13:46:05Z",
+        "uri": "http://web.archive.org/web/20170324134605/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-08T10:28:16Z",
+        "uri": "http://web.archive.org/web/20170408102816/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-14T06:31:56Z",
+        "uri": "http://web.archive.org/web/20170414063156/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-14T16:19:21Z",
+        "uri": "http://web.archive.org/web/20170414161921/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-15T10:24:54Z",
+        "uri": "http://web.archive.org/web/20170415102454/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-21T08:53:05Z",
+        "uri": "http://web.archive.org/web/20170421085305/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-21T14:36:38Z",
+        "uri": "http://web.archive.org/web/20170421143638/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-22T07:47:14Z",
+        "uri": "http://web.archive.org/web/20170422074714/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-22T15:22:24Z",
+        "uri": "http://web.archive.org/web/20170422152224/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-29T00:41:12Z",
+        "uri": "http://web.archive.org/web/20170429004112/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-29T05:10:31Z",
+        "uri": "http://web.archive.org/web/20170429051031/http://m.sc/"
+      },
+      {
+        "datetime": "2017-04-29T12:29:32Z",
+        "uri": "http://web.archive.org/web/20170429122932/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-06T01:20:09Z",
+        "uri": "http://web.archive.org/web/20170506012009/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-06T04:50:04Z",
+        "uri": "http://web.archive.org/web/20170506045004/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-06T13:03:28Z",
+        "uri": "http://web.archive.org/web/20170506130328/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-09T14:44:35Z",
+        "uri": "http://web.archive.org/web/20170509144435/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-13T03:40:06Z",
+        "uri": "http://web.archive.org/web/20170513034006/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-13T11:13:58Z",
+        "uri": "http://web.archive.org/web/20170513111358/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-13T12:52:47Z",
+        "uri": "http://web.archive.org/web/20170513125247/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-20T03:35:37Z",
+        "uri": "http://web.archive.org/web/20170520033537/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-20T11:31:34Z",
+        "uri": "http://web.archive.org/web/20170520113134/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-20T13:42:05Z",
+        "uri": "http://web.archive.org/web/20170520134205/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-27T04:07:44Z",
+        "uri": "http://web.archive.org/web/20170527040744/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-27T12:29:14Z",
+        "uri": "http://web.archive.org/web/20170527122914/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-27T14:40:22Z",
+        "uri": "http://web.archive.org/web/20170527144022/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-29T00:55:58Z",
+        "uri": "http://wayback.archive-it.org/all/20170529005558/http://m.sc/"
+      },
+      {
+        "datetime": "2017-05-29T00:55:58Z",
+        "uri": "http://web.archive.org/web/20170529005558/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-03T04:37:01Z",
+        "uri": "http://web.archive.org/web/20170603043701/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-03T14:03:36Z",
+        "uri": "http://web.archive.org/web/20170603140336/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-03T15:02:12Z",
+        "uri": "http://web.archive.org/web/20170603150212/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-03T21:00:00Z",
+        "uri": "http://web.archive.org/web/20170603210000/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-03T23:35:14Z",
+        "uri": "http://web.archive.org/web/20170603233514/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-10T07:26:30Z",
+        "uri": "http://web.archive.org/web/20170610072630/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-10T13:42:39Z",
+        "uri": "http://web.archive.org/web/20170610134239/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-10T23:28:22Z",
+        "uri": "http://web.archive.org/web/20170610232822/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-06-11T05:23:38Z",
+        "uri": "http://web.archive.org/web/20170611052338/http://m.sc:80/?"
+      },
+      {
+        "datetime": "2017-06-17T08:02:46Z",
+        "uri": "http://web.archive.org/web/20170617080246/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-17T16:44:48Z",
+        "uri": "http://web.archive.org/web/20170617164448/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-23T22:26:16Z",
+        "uri": "http://web.archive.org/web/20170623222616/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-06-24T08:35:46Z",
+        "uri": "http://web.archive.org/web/20170624083546/http://m.sc/"
+      },
+      {
+        "datetime": "2017-06-27T20:16:20Z",
+        "uri": "http://web.archive.org/web/20170627201620/http://m.sc/"
+      },
+      {
+        "datetime": "2017-07-01T14:45:37Z",
+        "uri": "http://web.archive.org/web/20170701144537/http://m.sc/"
+      },
+      {
+        "datetime": "2017-07-05T00:18:55Z",
+        "uri": "http://web.archive.org/web/20170705001855/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-07-05T01:57:13Z",
+        "uri": "http://web.archive.org/web/20170705015713/http://m.sc/"
+      },
+      {
+        "datetime": "2017-07-08T15:00:08Z",
+        "uri": "http://web.archive.org/web/20170708150008/http://m.sc/"
+      },
+      {
+        "datetime": "2017-07-14T19:54:15Z",
+        "uri": "http://web.archive.org/web/20170714195415/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-07-16T00:01:06Z",
+        "uri": "http://web.archive.org/web/20170716000106/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-07-19T06:21:24Z",
+        "uri": "http://web.archive.org/web/20170719062124/http://m.sc:80/?"
+      },
+      {
+        "datetime": "2017-07-25T10:31:44Z",
+        "uri": "http://web.archive.org/web/20170725103144/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-08-02T09:29:56Z",
+        "uri": "http://web.archive.org/web/20170802092956/http://m.sc/"
+      },
+      {
+        "datetime": "2017-08-04T08:40:20Z",
+        "uri": "http://web.archive.org/web/20170804084020/http://m.sc:80/"
+      },
+      {
+        "datetime": "2017-08-06T00:06:11Z",
+        "uri": "http://web.archive.org/web/20170806000611/http://m.sc/"
+      },
+      {
+        "datetime": "2017-08-09T09:33:45Z",
+        "uri": "http://web.archive.org/web/20170809093345/http://m.sc/"
+      },
+      {
+        "datetime": "2017-08-23T15:05:49Z",
+        "uri": "http://web.archive.org/web/20170823150549/http://m.sc/"
+      },
+      {
+        "datetime": "2017-09-23T19:07:59Z",
+        "uri": "http://web.archive.org/web/20170923190759/http://m.sc/"
+      },
+      {
+        "datetime": "2017-09-29T07:48:20Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20170929074820/http://m.sc/"
+      },
+      {
+        "datetime": "2017-10-28T10:42:43Z",
+        "uri": "http://web.archive.org/web/20171028104243/http://m.sc./"
+      },
+      {
+        "datetime": "2017-11-01T23:24:51Z",
+        "uri": "http://web.archive.org/web/20171101232451/http://m.sc/"
+      },
+      {
+        "datetime": "2017-11-23T02:08:21Z",
+        "uri": "http://web.archive.org/web/20171123020821/http://m.sc/"
+      },
+      {
+        "datetime": "2017-11-30T00:32:56Z",
+        "uri": "http://web.archive.org/web/20171130003256/http://m.sc/"
+      },
+      {
+        "datetime": "2017-12-21T01:16:36Z",
+        "uri": "http://web.archive.org/web/20171221011636/http://m.sc/"
+      },
+      {
+        "datetime": "2017-12-29T20:04:04Z",
+        "uri": "http://web.archive.org/web/20171229200404/http://m.sc/"
+      },
+      {
+        "datetime": "2018-01-08T16:29:03Z",
+        "uri": "http://web.archive.org/web/20180108162903/http://m.sc/"
+      },
+      {
+        "datetime": "2018-01-18T05:41:25Z",
+        "uri": "http://web.archive.org/web/20180118054125/http://m.sc/"
+      },
+      {
+        "datetime": "2018-02-01T01:28:46Z",
+        "uri": "http://web.archive.org/web/20180201012846/http://m.sc/"
+      },
+      {
+        "datetime": "2018-02-01T20:42:27Z",
+        "uri": "http://web.archive.org/web/20180201204227/http://m.sc/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-04-04T17:51:59Z",
+      "uri": "http://web.archive.org/web/20130404175159/http://m.sc"
+    },
+    "last": {
+      "datetime": "2018-02-01T20:42:27Z",
+      "uri": "http://web.archive.org/web/20180201204227/http://m.sc/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://M.Sc",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://M.Sc",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://M.Sc"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://M.Sc"
+}
+

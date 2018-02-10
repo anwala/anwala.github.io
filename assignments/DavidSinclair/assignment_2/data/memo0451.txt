@@ -1,0 +1,67 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T06:02:27Z",
+        "uri": "http://web.archive.org/web/20180131060227/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-01-31T06:21:12Z",
+        "uri": "http://web.archive.org/web/20180131062112/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-01-31T18:06:20Z",
+        "uri": "http://web.archive.org/web/20180131180620/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-01-31T18:08:00Z",
+        "uri": "http://wayback.archive-it.org/all/20180131180800/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-01-31T18:08:00Z",
+        "uri": "http://web.archive.org/web/20180131180800/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-01-31T20:39:23Z",
+        "uri": "http://archive.is/20180131203923/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-01-31T21:30:26Z",
+        "uri": "http://web.archive.org/web/20180131213026/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-01T07:56:59Z",
+        "uri": "http://web.archive.org/web/20180201075659/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-01T08:11:38Z",
+        "uri": "http://web.archive.org/web/20180201081138/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-01T11:51:53Z",
+        "uri": "http://web.archive.org/web/20180201115153/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-05T12:59:52Z",
+        "uri": "http://web.archive.org/web/20180205125952/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T06:02:27Z",
+      "uri": "http://web.archive.org/web/20180131060227/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+    },
+    "last": {
+      "datetime": "2018-02-05T12:59:52Z",
+      "uri": "http://web.archive.org/web/20180205125952/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/30/drool-on-rep-joe-kennedys-mouth-distracts-from-dem-response-to-trumps-state-of-the-union/"
+}
+
