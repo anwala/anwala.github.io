@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://newsblogged.com/government-sanctions-7000-troops-to-bsf-for-pakistan-bangladesh-border/",
+  "uri": "http://newsblogged.com/government-sanctions-7000-troops-to-bsf-for-pakistan-bangladesh-border/",
+  "estimated-creation-date": "2018-01-31T15:45:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:45:03"
+    }
+  }
+}

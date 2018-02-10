@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/news/have-your-say-on-marine-planning-in-england",
+  "uri": "https://www.gov.uk/government/news/have-your-say-on-marine-planning-in-england",
+  "estimated-creation-date": "2018-01-29T11:53:22",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T11:53:22"
+    }
+  }
+}

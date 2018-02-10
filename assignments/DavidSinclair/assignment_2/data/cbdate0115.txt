@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/30/rep-paul-gosar-ive-asked-capitol-police-jeff-sessions-to-arrest-any-illegal-aliens-attending-trumps-sotu/",
+  "uri": "http://www.breitbart.com/big-government/2018/01/30/rep-paul-gosar-ive-asked-capitol-police-jeff-sessions-to-arrest-any-illegal-aliens-attending-trumps-sotu/",
+  "estimated-creation-date": "2018-01-30T11:58:43",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130210148/http://www.breitbart.com/big-government/2018/01/30/rep-paul-gosar-ive-asked-capitol-police-jeff-sessions-to-arrest-any-illegal-aliens-attending-trumps-sotu/",
+      "memento-datetime": "2018-01-30T21:00:49",
+      "memento-pubdate": "2018-01-30T11:58:43",
+      "earliest": "2018-01-30T11:58:43"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131011323/http://www.breitbart.com/big-government/2018/01/30/rep-paul-gosar-ive-asked-capitol-police-jeff-sessions-to-arrest-any-illegal-aliens-attending-trumps-sotu/",
+      "memento-datetime": "2018-01-31T01:13:23",
+      "memento-pubdate": "2018-01-31T01:13:23",
+      "earliest": "2018-01-31T01:13:23"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180131200151/http://www.breitbart.com/big-government/2018/01/30/rep-paul-gosar-ive-asked-capitol-police-jeff-sessions-to-arrest-any-illegal-aliens-attending-trumps-sotu/",
+      "memento-datetime": "2018-01-31T19:48:45",
+      "memento-pubdate": "2018-01-30T11:58:43",
+      "earliest": "2018-01-30T11:58:43"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T21:00:49"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T22:49:17"
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T11:58:43"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

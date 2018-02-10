@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+  "uri": "https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+  "estimated-creation-date": "2018-01-23T20:46:26",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180123204626/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+      "memento-datetime": "2018-01-23T20:46:26",
+      "memento-pubdate": "",
+      "earliest": "2018-01-23T20:46:26"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T17:53:01"
+    }
+  }
+}

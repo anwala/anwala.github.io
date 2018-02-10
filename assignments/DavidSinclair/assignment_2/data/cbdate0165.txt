@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://innhindi.com.ridder.co/vQnbl6",
+  "uri": "http://innhindi.com.ridder.co/vQnbl6",
+  "estimated-creation-date": "2018-01-31T10:26:00",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T10:26:00"
+    }
+  }
+}

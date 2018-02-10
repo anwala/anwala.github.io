@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/london/2018/01/31/despite-merkels-promises-deportations-failed-migrants-fell-2017/",
+  "uri": "http://www.breitbart.com/london/2018/01/31/despite-merkels-promises-deportations-failed-migrants-fell-2017/",
+  "estimated-creation-date": "2018-01-31T05:15:52",
+  "earliest-sources": [
+    "wayback.archive-it.org",
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180131234328/http://www.breitbart.com/london/2018/01/31/despite-merkels-promises-deportations-failed-migrants-fell-2017/",
+      "memento-datetime": "2018-01-31T23:33:16",
+      "memento-pubdate": "2018-01-31T05:15:52",
+      "earliest": "2018-01-31T05:15:52"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131234328/http://www.breitbart.com/london/2018/01/31/despite-merkels-promises-deportations-failed-migrants-fell-2017/",
+      "memento-datetime": "2018-01-31T23:33:16",
+      "memento-pubdate": "2018-01-31T05:15:52",
+      "earliest": "2018-01-31T05:15:52"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T05:15:52"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:24:23"
+    }
+  }
+}

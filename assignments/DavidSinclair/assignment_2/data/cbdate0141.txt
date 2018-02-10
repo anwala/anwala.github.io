@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.indiagist.com/politics/2018/01/bhupinder-singh-hooda-hits-out-at-bjp-government-over-law-and-order-situation-in-haryana/",
+  "uri": "http://www.indiagist.com/politics/2018/01/bhupinder-singh-hooda-hits-out-at-bjp-government-over-law-and-order-situation-in-haryana/",
+  "estimated-creation-date": "2018-01-14T18:17:44",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-14T18:17:44"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.silicon.co.uk/e-management/skills/government-digital-skills-institute-coding-227697",
+  "uri": "http://www.silicon.co.uk/e-management/skills/government-digital-skills-institute-coding-227697",
+  "estimated-creation-date": "2018-01-29T14:55:09",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-29T14:55:09"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

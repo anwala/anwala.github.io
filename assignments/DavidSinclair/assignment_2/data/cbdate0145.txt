@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.kentucky.com/news/politics-government/article197399989.html",
+  "uri": "http://www.kentucky.com/news/politics-government/article197399989.html",
+  "estimated-creation-date": "2018-01-30T19:25:26",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131024043/http://www.kentucky.com/news/politics-government/article197399989.html",
+      "memento-datetime": "2018-01-31T02:40:43",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T02:40:43"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T02:40:43"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T19:25:26"
+    }
+  }
+}

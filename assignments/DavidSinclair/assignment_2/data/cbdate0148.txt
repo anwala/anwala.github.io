@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+  "uri": "http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+  "estimated-creation-date": "2018-01-29T14:47:41",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130005220/http://dailysignal.com/2018/01/29/federal-government-shouldnt-build-5g-network/",
+      "memento-datetime": "2018-01-30T00:52:20",
+      "memento-pubdate": "2018-01-29T14:47:41",
+      "earliest": "2018-01-29T14:47:41"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T00:52:21"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-29T14:47:41"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T19:51:02"
+    }
+  }
+}

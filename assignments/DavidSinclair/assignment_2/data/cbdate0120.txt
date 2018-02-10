@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/business/2018/jan/31/shares-in-uk-government-contractor-capita-plunge-40-after-profit-warning?CMP=Share_iOSApp_Other",
+  "uri": "https://www.theguardian.com/business/2018/jan/31/shares-in-uk-government-contractor-capita-plunge-40-after-profit-warning?CMP=Share_iOSApp_Other",
+  "estimated-creation-date": "2018-01-31T09:23:31",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T09:23:31"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:51:49"
+    }
+  }
+}

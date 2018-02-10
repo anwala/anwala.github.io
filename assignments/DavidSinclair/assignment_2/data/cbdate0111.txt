@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://wuweitactic.com/2018/01/uk-government-says-bitcoin-monitoring-should-be-considered-very-seriously/",
+  "uri": "http://wuweitactic.com/2018/01/uk-government-says-bitcoin-monitoring-should-be-considered-very-seriously/",
+  "estimated-creation-date": "2018-01-31T15:34:16",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:34:16"
+    }
+  }
+}

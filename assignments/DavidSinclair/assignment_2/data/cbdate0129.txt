@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/politics/2018/jan/31/government-will-not-oppose-labour-motion-on-leaked-brexit-papers?CMP=twt_gu",
+  "uri": "https://www.theguardian.com/politics/2018/jan/31/government-will-not-oppose-labour-motion-on-leaked-brexit-papers?CMP=twt_gu",
+  "estimated-creation-date": "2018-01-31T14:49:34",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T23:23:31"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:49:34"
+    }
+  }
+}

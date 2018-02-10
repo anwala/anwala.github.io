@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/cost-of-homelessness/",
+  "uri": "https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/cost-of-homelessness/",
+  "estimated-creation-date": "2018-01-28T13:32:35",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131211021/https://www.crisis.org.uk/ending-homelessness/homelessness-knowledge-hub/cost-of-homelessness/",
+      "memento-datetime": "2018-01-31T21:10:21",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T21:10:21"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-28T13:32:35"
+    }
+  }
+}

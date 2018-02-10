@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bing.com/images/search?view=detailV2&ccid=%2bF8MjZ%2bV&id=5C3F7E29D3A5331BECE51A66247A95506025A9B6&thid=OIP.-F8MjZ-VcGssBGWBNUYY0AHaFX&q=redacted+report+cartoon+&simid=608033552882667430&selectedIndex=7&ajaxhist=0",
+  "uri": "https://www.bing.com/images/search?view=detailV2&ccid=%2bF8MjZ%2bV&id=5C3F7E29D3A5331BECE51A66247A95506025A9B6&thid=OIP.-F8MjZ-VcGssBGWBNUYY0AHaFX&q=redacted+report+cartoon+&simid=608033552882667430&selectedIndex=7&ajaxhist=0",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

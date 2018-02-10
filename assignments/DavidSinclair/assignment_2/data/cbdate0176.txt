@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://www.executivegov.com/2018/01/gsa-to-update-acquisition-regulation-with-data-security-cyber-incident-reporting-requirements/?utm_content=social-9aj5c&utm_medium=social&utm_source=SocialMedia&utm_campaign=SocialPilot",
+  "uri": "http://www.executivegov.com/2018/01/gsa-to-update-acquisition-regulation-with-data-security-cyber-incident-reporting-requirements/?utm_content=social-9aj5c&utm_medium=social&utm_source=SocialMedia&utm_campaign=SocialPilot",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

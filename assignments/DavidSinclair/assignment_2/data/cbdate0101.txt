@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://route.overnewser.com/brexit_newz/?url=https://www.reddit.com/r/brexit/comments/7uaoft/government_will_publish_leaked_brexit_papers_but/&utm_source=TrendyNewz&utm_medium=Brexit_Newz&utm_campaign=article",
+  "uri": "http://route.overnewser.com/brexit_newz/?url=https://www.reddit.com/r/brexit/comments/7uaoft/government_will_publish_leaked_brexit_papers_but/&utm_source=TrendyNewz&utm_medium=Brexit_Newz&utm_campaign=article",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

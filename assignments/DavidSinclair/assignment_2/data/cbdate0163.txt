@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+  "uri": "https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+  "estimated-creation-date": "2018-01-31T15:34:58",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131193018/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+      "memento-datetime": "2018-01-31T19:30:18",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T19:30:18"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T19:30:19"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:34:58"
+    }
+  }
+}

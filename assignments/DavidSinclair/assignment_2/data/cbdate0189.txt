@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.revealnews.org/blog/border-patrol-wont-tell-us-how-they-send-people-back-so-we-sued-them/",
+  "uri": "https://www.revealnews.org/blog/border-patrol-wont-tell-us-how-they-send-people-back-so-we-sued-them/",
+  "estimated-creation-date": "2018-01-30T19:45:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130202332/https://www.revealnews.org/blog/border-patrol-wont-tell-us-how-they-send-people-back-so-we-sued-them/",
+      "memento-datetime": "2018-01-30T20:23:32",
+      "memento-pubdate": "2018-01-30T19:45:00",
+      "earliest": "2018-01-30T19:45:00"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T20:23:32"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T19:45:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T20:00:03"
+    }
+  }
+}

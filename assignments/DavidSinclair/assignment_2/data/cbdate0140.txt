@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+  "uri": "http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+  "estimated-creation-date": "2018-01-31T13:34:17",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131161746/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+      "memento-datetime": "2018-01-31T16:14:46",
+      "memento-pubdate": "2018-01-31T18:57:59",
+      "earliest": "2018-01-31T16:14:46"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T23:07:37"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T18:57:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:34:17"
+    }
+  }
+}

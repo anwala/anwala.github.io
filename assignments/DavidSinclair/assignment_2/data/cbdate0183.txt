@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://bestjobssa.com/2018/01/31/chinese-government-scholarship-for-south-african-students-20182019/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+bestjobssa+%28Best+Jobs+South+Africa%29",
+  "uri": "https://bestjobssa.com/2018/01/31/chinese-government-scholarship-for-south-african-students-20182019/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+bestjobssa+%28Best+Jobs+South+Africa%29",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+  "uri": "https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+  "estimated-creation-date": "2015-11-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20151113081928/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+      "memento-datetime": "2015-11-13T08:19:28",
+      "memento-pubdate": "2015-11-12T23:59:59",
+      "earliest": "2015-11-12T23:59:59"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20151117021102/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+      "memento-datetime": "2015-11-17T02:11:02",
+      "memento-pubdate": "2015-11-12T23:59:59",
+      "earliest": "2015-11-12T23:59:59"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2015-11-12T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:20:11"
+    }
+  }
+}

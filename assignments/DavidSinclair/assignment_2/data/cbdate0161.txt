@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+  "uri": "https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+  "estimated-creation-date": "2018-01-30T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131035344/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+      "memento-datetime": "2018-01-31T03:53:44",
+      "memento-pubdate": "2018-01-30T23:59:59",
+      "earliest": "2018-01-30T23:59:59"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131201254/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+      "memento-datetime": "2018-01-31T20:12:54",
+      "memento-pubdate": "2018-01-31T20:12:54",
+      "earliest": "2018-01-31T20:12:54"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T03:53:44"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T21:35:24"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://modernmoneybasics.com/facts/",
+  "uri": "https://modernmoneybasics.com/facts/",
+  "estimated-creation-date": "2018-01-28T04:25:17",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-28T04:25:17"
+    }
+  }
+}

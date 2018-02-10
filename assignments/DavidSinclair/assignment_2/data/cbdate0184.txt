@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/travel/americas/argentina-government-vegan-mondays-why-buenos-aires-casa-rosada-how-to-visit-a8168696.html",
+  "uri": "http://www.independent.co.uk/travel/americas/argentina-government-vegan-mondays-why-buenos-aires-casa-rosada-how-to-visit-a8168696.html",
+  "estimated-creation-date": "2018-01-19T17:58:28",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131104830/http://www.independent.co.uk/travel/americas/argentina-government-vegan-mondays-why-buenos-aires-casa-rosada-how-to-visit-a8168696.html",
+      "memento-datetime": "2018-01-26T12:48:27",
+      "memento-pubdate": "2018-01-19T17:58:28",
+      "earliest": "2018-01-19T17:58:28"
+    },
+    "backlinks": {
+      "earliest": "2018-01-26T12:48:27"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-26T12:48:27"
+    },
+    "pubdate": {
+      "earliest": "2018-01-19T17:58:28"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-22T13:13:13"
+    }
+  }
+}

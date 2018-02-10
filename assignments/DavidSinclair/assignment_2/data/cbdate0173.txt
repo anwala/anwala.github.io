@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+  "uri": "http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+  "estimated-creation-date": "2017-04-03T04:10:47",
+  "earliest-sources": [
+    "web.archive.org",
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170403041047/http://www.londonstockexchange.com/exchange/prices-and-markets/stocks/summary/company-summary/GB00B23K0M20GBGBXSTMM.html",
+      "memento-datetime": "2017-04-03T04:10:47",
+      "memento-pubdate": "",
+      "earliest": "2017-04-03T04:10:47"
+    },
+    "backlinks": {
+      "earliest": "2017-04-03T04:10:47"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T10:05:36"
+    }
+  }
+}
