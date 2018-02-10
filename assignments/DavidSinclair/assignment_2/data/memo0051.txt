@@ -1,0 +1,71 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T01:18:47Z",
+        "uri": "http://web.archive.org/web/20180131011847/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-01-31T01:44:23Z",
+        "uri": "http://web.archive.org/web/20180131014423/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-01-31T07:06:21Z",
+        "uri": "http://web.archive.org/web/20180131070621/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-01-31T18:29:17Z",
+        "uri": "http://web.archive.org/web/20180131182917/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-01-31T18:39:42Z",
+        "uri": "http://wayback.archive-it.org/all/20180131183942/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-01-31T18:39:42Z",
+        "uri": "http://web.archive.org/web/20180131183942/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-01-31T20:54:35Z",
+        "uri": "http://archive.is/20180131205435/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-02-01T12:22:06Z",
+        "uri": "http://web.archive.org/web/20180201122206/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-02-02T08:15:51Z",
+        "uri": "http://web.archive.org/web/20180202081551/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-02-04T19:39:26Z",
+        "uri": "http://web.archive.org/web/20180204193926/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-02-05T13:52:12Z",
+        "uri": "http://web.archive.org/web/20180205135212/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      },
+      {
+        "datetime": "2018-02-06T14:04:15Z",
+        "uri": "http://web.archive.org/web/20180206140415/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T01:18:47Z",
+      "uri": "http://web.archive.org/web/20180131011847/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+    },
+    "last": {
+      "datetime": "2018-02-06T14:04:15Z",
+      "uri": "http://web.archive.org/web/20180206140415/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/30/democrats-bringing-more-than-two-dozen-illegal-aliens-to-trumps-sotu/"
+}
+

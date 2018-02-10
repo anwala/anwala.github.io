@@ -1,0 +1,143 @@
+{
+  "original_uri": "https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-08-12T12:38:28Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170812123828/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-08-14T13:05:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170814130555/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-08-18T02:48:50Z",
+        "uri": "http://web.archive.org/web/20170818024850/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-08-28T05:41:19Z",
+        "uri": "http://web.archive.org/web/20170828054119/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-08-28T11:26:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170828112620/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-09-04T12:49:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170904124911/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-09-11T11:50:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170911115051/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-09-18T11:06:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170918110655/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-09-25T11:17:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170925111725/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-09-29T05:22:32Z",
+        "uri": "http://web.archive.org/web/20170929052232/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-09-29T15:22:34Z",
+        "uri": "http://web.archive.org/web/20170929152234/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-02T17:52:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171002175218/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-13T14:36:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171013143624/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-15T03:43:28Z",
+        "uri": "http://web.archive.org/web/20171015034328/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-16T11:41:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171016114131/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-23T11:10:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171023111053/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-29T03:39:04Z",
+        "uri": "http://web.archive.org/web/20171029033904/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-10-30T12:32:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171030123255/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-11-04T21:07:24Z",
+        "uri": "http://web.archive.org/web/20171104210724/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-11-06T12:41:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171106124124/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-11-13T04:41:40Z",
+        "uri": "http://web.archive.org/web/20171113044140/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-11-13T15:48:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171113154822/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-11-20T14:47:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171120144729/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-11-28T02:53:12Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171128025312/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-12-04T12:47:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171204124738/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-12-11T13:04:44Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171211130444/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-12-16T02:35:49Z",
+        "uri": "http://web.archive.org/web/20171216023549/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-12-18T14:31:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171218143101/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2017-12-25T17:46:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171225174614/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      },
+      {
+        "datetime": "2018-01-15T15:39:39Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180115153939/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+      }
+    ],
+    "first": {
+      "datetime": "2017-08-12T12:38:28Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20170812123828/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+    },
+    "last": {
+      "datetime": "2018-01-15T15:39:39Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180115153939/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/publications/grenfell-tower-fire-charitable-funds-raised-and-distributed"
+}
+

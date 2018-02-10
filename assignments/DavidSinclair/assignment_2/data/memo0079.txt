@@ -1,0 +1,91 @@
+{
+  "original_uri": "http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-29T19:17:25Z",
+        "uri": "http://web.archive.org/web/20180129191725/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-29T20:02:48Z",
+        "uri": "http://web.archive.org/web/20180129200248/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-29T20:39:56Z",
+        "uri": "http://archive.is/20180129203956/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-29T20:59:26Z",
+        "uri": "http://web.archive.org/web/20180129205926/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-29T21:25:51Z",
+        "uri": "http://web.archive.org/web/20180129212551/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-30T08:53:32Z",
+        "uri": "http://web.archive.org/web/20180130085332/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-30T21:43:44Z",
+        "uri": "http://web.archive.org/web/20180130214344/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-01-31T09:34:46Z",
+        "uri": "http://web.archive.org/web/20180131093446/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-01T02:45:36Z",
+        "uri": "http://web.archive.org/web/20180201024536/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-01T03:56:17Z",
+        "uri": "http://web.archive.org/web/20180201035617/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-01T09:53:18Z",
+        "uri": "http://web.archive.org/web/20180201095318/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-02T10:30:08Z",
+        "uri": "http://web.archive.org/web/20180202103008/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-03T10:53:14Z",
+        "uri": "http://web.archive.org/web/20180203105314/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-03T18:26:53Z",
+        "uri": "http://web.archive.org/web/20180203182653/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-04T11:32:48Z",
+        "uri": "http://web.archive.org/web/20180204113248/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-05T11:56:32Z",
+        "uri": "http://web.archive.org/web/20180205115632/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      },
+      {
+        "datetime": "2018-02-06T12:43:20Z",
+        "uri": "http://web.archive.org/web/20180206124320/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-29T19:17:25Z",
+      "uri": "http://web.archive.org/web/20180129191725/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+    },
+    "last": {
+      "datetime": "2018-02-06T12:43:20Z",
+      "uri": "http://web.archive.org/web/20180206124320/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/politics/2018/01/29/fbis-mccabe-now-stepping-down-suspected-in-leak-against-white-house.html"
+}
+
