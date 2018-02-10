@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/australia-news/2018/jan/31/top-secret-australian-government-files-secondhand-shop?CMP=share_btn_tw",
+  "uri": "https://www.theguardian.com/australia-news/2018/jan/31/top-secret-australian-government-files-secondhand-shop?CMP=share_btn_tw",
+  "estimated-creation-date": "2018-01-31T11:28:26",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T11:28:26"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T12:09:36"
+    }
+  }
+}
