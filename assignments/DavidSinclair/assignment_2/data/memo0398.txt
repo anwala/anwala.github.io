@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T08:45:33Z",
+        "uri": "http://web.archive.org/web/20180131084533/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T08:45:33Z",
+      "uri": "http://web.archive.org/web/20180131084533/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline"
+    },
+    "last": {
+      "datetime": "2018-01-31T08:45:33Z",
+      "uri": "http://web.archive.org/web/20180131084533/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://swarajyamag.com/insta/india-achieves-20-giga-watt-solar-capacity-target-four-years-ahead-of-2022-deadline"
+}
+

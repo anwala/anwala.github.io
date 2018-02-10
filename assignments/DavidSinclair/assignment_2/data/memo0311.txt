@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T23:38:27Z",
+        "uri": "http://web.archive.org/web/20180131233827/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html"
+      },
+      {
+        "datetime": "2018-02-01T02:54:07Z",
+        "uri": "http://web.archive.org/web/20180201025407/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T23:38:27Z",
+      "uri": "http://web.archive.org/web/20180131233827/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html"
+    },
+    "last": {
+      "datetime": "2018-02-01T02:54:07Z",
+      "uri": "http://web.archive.org/web/20180201025407/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html"
+}
+

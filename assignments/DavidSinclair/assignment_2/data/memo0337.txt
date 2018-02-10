@@ -1,0 +1,255 @@
+{
+  "original_uri": "https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T12:54:36Z",
+        "uri": "http://web.archive.org/web/20180130125436/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T13:47:05Z",
+        "uri": "http://web.archive.org/web/20180130134705/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T14:02:25Z",
+        "uri": "http://web.archive.org/web/20180130140225/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T14:11:09Z",
+        "uri": "http://archive.is/20180130141109/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T14:57:54Z",
+        "uri": "http://web.archive.org/web/20180130145754/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T15:51:27Z",
+        "uri": "http://web.archive.org/web/20180130155127/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T15:51:46Z",
+        "uri": "http://web.archive.org/web/20180130155146/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T17:30:51Z",
+        "uri": "http://web.archive.org/web/20180130173051/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T17:41:14Z",
+        "uri": "http://archive.is/20180130174114/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T17:48:44Z",
+        "uri": "http://web.archive.org/web/20180130174844/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T20:05:51Z",
+        "uri": "http://web.archive.org/web/20180130200551/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-30T23:02:34Z",
+        "uri": "http://web.archive.org/web/20180130230234/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T04:07:50Z",
+        "uri": "http://web.archive.org/web/20180131040750/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T10:08:16Z",
+        "uri": "http://web.archive.org/web/20180131100816/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T10:22:04Z",
+        "uri": "http://web.archive.org/web/20180131102204/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T11:51:11Z",
+        "uri": "http://web.archive.org/web/20180131115111/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T12:12:19Z",
+        "uri": "http://web.archive.org/web/20180131121219/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T12:38:36Z",
+        "uri": "http://web.archive.org/web/20180131123836/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T15:19:04Z",
+        "uri": "http://web.archive.org/web/20180131151904/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-01-31T22:46:47Z",
+        "uri": "http://web.archive.org/web/20180131224647/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T02:36:49Z",
+        "uri": "http://web.archive.org/web/20180201023649/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T02:52:40Z",
+        "uri": "http://web.archive.org/web/20180201025240/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T10:18:52Z",
+        "uri": "http://web.archive.org/web/20180201101852/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T11:13:22Z",
+        "uri": "http://web.archive.org/web/20180201111322/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T11:19:18Z",
+        "uri": "http://web.archive.org/web/20180201111918/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T12:36:48Z",
+        "uri": "http://web.archive.org/web/20180201123648/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-01T12:42:50Z",
+        "uri": "http://web.archive.org/web/20180201124250/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T04:10:34Z",
+        "uri": "http://wayback.archive-it.org/all/20180202041034/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T04:10:34Z",
+        "uri": "http://web.archive.org/web/20180202041034/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T04:23:43Z",
+        "uri": "http://wayback.archive-it.org/all/20180202042343/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T04:23:43Z",
+        "uri": "http://web.archive.org/web/20180202042343/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T12:04:10Z",
+        "uri": "http://web.archive.org/web/20180202120410/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T12:09:56Z",
+        "uri": "http://web.archive.org/web/20180202120956/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T13:41:23Z",
+        "uri": "http://web.archive.org/web/20180202134123/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-02T15:01:43Z",
+        "uri": "http://web.archive.org/web/20180202150143/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T05:18:47Z",
+        "uri": "http://web.archive.org/web/20180203051847/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T12:16:54Z",
+        "uri": "http://web.archive.org/web/20180203121654/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T12:23:46Z",
+        "uri": "http://web.archive.org/web/20180203122346/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T14:14:43Z",
+        "uri": "http://web.archive.org/web/20180203141443/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T14:21:25Z",
+        "uri": "http://web.archive.org/web/20180203142125/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T15:52:08Z",
+        "uri": "http://web.archive.org/web/20180203155208/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-03T17:15:50Z",
+        "uri": "http://web.archive.org/web/20180203171550/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-04T05:30:28Z",
+        "uri": "http://wayback.archive-it.org/all/20180204053028/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-04T05:30:28Z",
+        "uri": "http://web.archive.org/web/20180204053028/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-04T12:29:23Z",
+        "uri": "http://web.archive.org/web/20180204122923/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-04T12:36:15Z",
+        "uri": "http://web.archive.org/web/20180204123615/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-04T15:04:26Z",
+        "uri": "http://web.archive.org/web/20180204150426/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-04T15:16:31Z",
+        "uri": "http://web.archive.org/web/20180204151631/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-05T12:53:39Z",
+        "uri": "http://web.archive.org/web/20180205125339/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-05T13:01:41Z",
+        "uri": "http://web.archive.org/web/20180205130141/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-05T15:57:39Z",
+        "uri": "http://web.archive.org/web/20180205155739/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-05T16:04:39Z",
+        "uri": "http://web.archive.org/web/20180205160439/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-06T01:23:22Z",
+        "uri": "http://wayback.archive-it.org/all/20180206012322/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-06T01:23:22Z",
+        "uri": "http://web.archive.org/web/20180206012322/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-06T01:40:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180206014011/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-06T01:40:11Z",
+        "uri": "http://web.archive.org/web/20180206014011/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-06T13:58:54Z",
+        "uri": "http://web.archive.org/web/20180206135854/http://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      },
+      {
+        "datetime": "2018-02-06T14:06:54Z",
+        "uri": "http://web.archive.org/web/20180206140654/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T12:54:36Z",
+      "uri": "http://web.archive.org/web/20180130125436/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+    },
+    "last": {
+      "datetime": "2018-02-06T14:06:54Z",
+      "uri": "http://web.archive.org/web/20180206140654/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html"
+}
+

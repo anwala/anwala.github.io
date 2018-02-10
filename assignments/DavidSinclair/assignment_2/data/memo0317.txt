@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.kansascity.com/news/politics-government/article197459809.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.kansascity.com/news/politics-government/article197459809.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T17:59:27Z",
+        "uri": "http://web.archive.org/web/20180131175927/http://www.kansascity.com/news/politics-government/article197459809.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T17:59:27Z",
+      "uri": "http://web.archive.org/web/20180131175927/http://www.kansascity.com/news/politics-government/article197459809.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T17:59:27Z",
+      "uri": "http://web.archive.org/web/20180131175927/http://www.kansascity.com/news/politics-government/article197459809.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.kansascity.com/news/politics-government/article197459809.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.kansascity.com/news/politics-government/article197459809.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.kansascity.com/news/politics-government/article197459809.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.kansascity.com/news/politics-government/article197459809.html"
+}
+

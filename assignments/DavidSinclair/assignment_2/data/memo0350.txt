@@ -1,0 +1,43 @@
+{
+  "original_uri": "http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T18:44:17Z",
+        "uri": "http://web.archive.org/web/20180130184417/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+      },
+      {
+        "datetime": "2018-01-30T18:58:48Z",
+        "uri": "http://web.archive.org/web/20180130185848/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+      },
+      {
+        "datetime": "2018-01-30T20:42:55Z",
+        "uri": "http://web.archive.org/web/20180130204255/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+      },
+      {
+        "datetime": "2018-02-01T08:11:43Z",
+        "uri": "http://archive.is/20180201081143/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+      },
+      {
+        "datetime": "2018-02-01T19:30:42Z",
+        "uri": "http://web.archive.org/web/20180201193042/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T18:44:17Z",
+      "uri": "http://web.archive.org/web/20180130184417/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+    },
+    "last": {
+      "datetime": "2018-02-01T19:30:42Z",
+      "uri": "http://web.archive.org/web/20180201193042/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.people-press.org/2018/01/30/majorities-say-government-does-too-little-for-older-people-the-poor-and-the-middle-class/"
+}
+

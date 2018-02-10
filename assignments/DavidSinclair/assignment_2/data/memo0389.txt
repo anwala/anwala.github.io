@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-12-04T23:05:03Z",
+        "uri": "http://web.archive.org/web/20171204230503/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more"
+      },
+      {
+        "datetime": "2018-01-01T23:39:20Z",
+        "uri": "http://web.archive.org/web/20180101233920/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more"
+      }
+    ],
+    "first": {
+      "datetime": "2017-12-04T23:05:03Z",
+      "uri": "http://web.archive.org/web/20171204230503/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more"
+    },
+    "last": {
+      "datetime": "2018-01-01T23:39:20Z",
+      "uri": "http://web.archive.org/web/20180101233920/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more"
+}
+

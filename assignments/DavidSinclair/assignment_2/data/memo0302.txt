@@ -1,0 +1,239 @@
+{
+  "original_uri": "http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T01:10:53Z",
+        "uri": "http://web.archive.org/web/20180131011053/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T01:34:29Z",
+        "uri": "http://web.archive.org/web/20180131013429/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T01:45:52Z",
+        "uri": "http://archive.is/20180131014552/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T01:46:04Z",
+        "uri": "http://web.archive.org/web/20180131014604/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T02:01:22Z",
+        "uri": "http://web.archive.org/web/20180131020122/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T02:16:24Z",
+        "uri": "http://web.archive.org/web/20180131021624/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T02:24:33Z",
+        "uri": "http://web.archive.org/web/20180131022433/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T02:27:57Z",
+        "uri": "http://web.archive.org/web/20180131022757/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T02:31:31Z",
+        "uri": "http://web.archive.org/web/20180131023131/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T02:46:50Z",
+        "uri": "http://web.archive.org/web/20180131024650/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T03:01:35Z",
+        "uri": "http://web.archive.org/web/20180131030135/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T03:01:43Z",
+        "uri": "http://web.archive.org/web/20180131030143/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T03:29:41Z",
+        "uri": "http://web.archive.org/web/20180131032941/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T03:29:51Z",
+        "uri": "http://web.archive.org/web/20180131032951/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T03:30:57Z",
+        "uri": "http://web.archive.org/web/20180131033057/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T04:14:51Z",
+        "uri": "http://web.archive.org/web/20180131041451/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T04:22:50Z",
+        "uri": "http://archive.is/20180131042250/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T04:23:14Z",
+        "uri": "http://web.archive.org/web/20180131042314/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T04:28:37Z",
+        "uri": "http://web.archive.org/web/20180131042837/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T05:11:02Z",
+        "uri": "http://web.archive.org/web/20180131051102/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T06:57:23Z",
+        "uri": "http://web.archive.org/web/20180131065723/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T08:29:39Z",
+        "uri": "http://archive.is/20180131082939/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T10:12:11Z",
+        "uri": "http://web.archive.org/web/20180131101211/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T10:17:07Z",
+        "uri": "http://web.archive.org/web/20180131101707/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T10:32:26Z",
+        "uri": "http://web.archive.org/web/20180131103226/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T15:12:54Z",
+        "uri": "http://web.archive.org/web/20180131151254/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T20:12:37Z",
+        "uri": "http://web.archive.org/web/20180131201237/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T22:40:55Z",
+        "uri": "http://web.archive.org/web/20180131224055/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-01-31T23:34:23Z",
+        "uri": "http://web.archive.org/web/20180131233423/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T04:21:11Z",
+        "uri": "http://web.archive.org/web/20180201042111/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T05:01:10Z",
+        "uri": "http://web.archive.org/web/20180201050110/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T05:14:38Z",
+        "uri": "http://web.archive.org/web/20180201051438/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T05:16:10Z",
+        "uri": "http://web.archive.org/web/20180201051610/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T05:31:33Z",
+        "uri": "http://web.archive.org/web/20180201053133/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T05:46:58Z",
+        "uri": "http://web.archive.org/web/20180201054658/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T06:01:55Z",
+        "uri": "http://web.archive.org/web/20180201060155/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T10:55:24Z",
+        "uri": "http://web.archive.org/web/20180201105524/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T16:54:35Z",
+        "uri": "http://web.archive.org/web/20180201165435/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T16:55:42Z",
+        "uri": "http://archive.is/20180201165542/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T20:48:07Z",
+        "uri": "http://web.archive.org/web/20180201204807/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-01T21:51:51Z",
+        "uri": "http://web.archive.org/web/20180201215151/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-02T03:40:00Z",
+        "uri": "http://web.archive.org/web/20180202034000/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-02T08:04:14Z",
+        "uri": "http://web.archive.org/web/20180202080414/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-02T08:14:12Z",
+        "uri": "http://web.archive.org/web/20180202081412/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-02T21:35:33Z",
+        "uri": "http://web.archive.org/web/20180202213533/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-03T02:51:08Z",
+        "uri": "http://web.archive.org/web/20180203025108/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-03T22:19:20Z",
+        "uri": "http://web.archive.org/web/20180203221920/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-04T06:38:03Z",
+        "uri": "http://web.archive.org/web/20180204063803/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-04T22:48:43Z",
+        "uri": "http://web.archive.org/web/20180204224843/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-05T06:09:21Z",
+        "uri": "http://web.archive.org/web/20180205060921/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-05T13:26:35Z",
+        "uri": "http://web.archive.org/web/20180205132635/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-05T16:23:23Z",
+        "uri": "http://web.archive.org/web/20180205162323/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-05T23:14:18Z",
+        "uri": "http://web.archive.org/web/20180205231418/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      },
+      {
+        "datetime": "2018-02-06T17:26:06Z",
+        "uri": "http://web.archive.org/web/20180206172606/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T01:10:53Z",
+      "uri": "http://web.archive.org/web/20180131011053/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+    },
+    "last": {
+      "datetime": "2018-02-06T17:26:06Z",
+      "uri": "http://web.archive.org/web/20180206172606/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442"
+}
+
