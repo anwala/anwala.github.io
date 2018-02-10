@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2018/01/31/national/science-health/government-analyze-satellite-images-artificial-intelligence-disaster-reduction/&ct=ga&cd=CAIyGjkwZGM2ODY2NjBkYzM4NTE6Y29tOmVuOlVT&usg=AFQjCNH5xnkhSNwUBS6RZhCBp2G22WL68Q",
+  "uri": "https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2018/01/31/national/science-health/government-analyze-satellite-images-artificial-intelligence-disaster-reduction/&ct=ga&cd=CAIyGjkwZGM2ODY2NjBkYzM4NTE6Y29tOmVuOlVT&usg=AFQjCNH5xnkhSNwUBS6RZhCBp2G22WL68Q",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

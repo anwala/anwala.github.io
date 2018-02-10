@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.osunnews.com.ng/2018/01/family-rejoice-as-osun-government-unites-libya-returnees.html",
+  "uri": "http://www.osunnews.com.ng/2018/01/family-rejoice-as-osun-government-unites-libya-returnees.html",
+  "estimated-creation-date": "2018-01-31T15:26:10",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-03T20:05:52"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:26:10"
+    }
+  }
+}

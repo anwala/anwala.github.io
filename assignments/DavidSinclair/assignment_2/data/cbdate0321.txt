@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.kansascity.com/news/politics-government/article197459809.html",
+  "uri": "http://www.kansascity.com/news/politics-government/article197459809.html",
+  "estimated-creation-date": "2018-01-31T13:56:51",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131175927/http://www.kansascity.com/news/politics-government/article197459809.html",
+      "memento-datetime": "2018-01-31T17:59:27",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T17:59:27"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:56:51"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/reuters/2018/01/31/world/middleeast/31reuters-lebanon-politics.html?partner=IFTTT",
+  "uri": "https://www.nytimes.com/reuters/2018/01/31/world/middleeast/31reuters-lebanon-politics.html?partner=IFTTT",
+  "estimated-creation-date": "2018-01-31T10:24:31",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T10:24:31"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

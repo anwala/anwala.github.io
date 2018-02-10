@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://zentrade.online/apple-confirms-that-government-agencies-are-investigating-secret-iphone-throttling/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+  "uri": "http://zentrade.online/apple-confirms-that-government-agencies-are-investigating-secret-iphone-throttling/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+  "estimated-creation-date": "2018-01-31T15:26:18",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:26:18"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

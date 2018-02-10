@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+  "uri": "https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+  "estimated-creation-date": "2018-01-25T14:35:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180129071433/http://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+      "memento-datetime": "2018-01-29T07:14:33",
+      "memento-pubdate": "2018-01-29T07:14:33",
+      "earliest": "2018-01-29T07:14:33"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201022855/http://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+      "memento-datetime": "2018-02-01T02:28:55",
+      "memento-pubdate": "2018-01-25T14:35:00",
+      "earliest": "2018-01-25T14:35:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-25T14:35:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:33:18"
+    }
+  }
+}

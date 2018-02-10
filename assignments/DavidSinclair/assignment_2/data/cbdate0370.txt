@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.libertyfrontpress.com/government-shutdown-where-the-senators-stand/",
+  "uri": "http://www.libertyfrontpress.com/government-shutdown-where-the-senators-stand/",
+  "estimated-creation-date": "2018-01-20T10:07:51",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-20T10:07:51"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

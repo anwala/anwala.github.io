@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://discover.coinsquare.io/government/un-blockchain-climate-change/",
+  "uri": "https://discover.coinsquare.io/government/un-blockchain-climate-change/",
+  "estimated-creation-date": "2018-01-31T11:21:49",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T11:21:49"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T12:42:14"
+    }
+  }
+}

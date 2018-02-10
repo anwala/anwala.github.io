@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+  "uri": "http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+  "estimated-creation-date": "2017-08-28T16:59:32",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171204230503/http://www.702.co.za/articles/270247/got-medical-aid-government-wants-you-to-pay-at-least-r303-per-month-more",
+      "memento-datetime": "2017-12-04T23:05:03",
+      "memento-pubdate": "",
+      "earliest": "2017-12-04T23:05:03"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2017-08-28T16:59:32"
+    }
+  }
+}

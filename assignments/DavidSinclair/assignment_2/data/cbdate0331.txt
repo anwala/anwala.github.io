@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.change.org/p/demand-that-the-government-of-bolivia-protect-this-endangered-animal?recruiter=306958417&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial.undefined.nafta_psf_sequential_3.control&utm_term=share_for_starters_page",
+  "uri": "https://www.change.org/p/demand-that-the-government-of-bolivia-protect-this-endangered-animal?recruiter=306958417&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial.undefined.nafta_psf_sequential_3.control&utm_term=share_for_starters_page",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

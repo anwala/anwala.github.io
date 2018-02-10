@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://edmontonjournal.com/news/politics/notley-blasts-b-c-governments-move-against-trans-mountain-pipeline",
+  "uri": "http://edmontonjournal.com/news/politics/notley-blasts-b-c-governments-move-against-trans-mountain-pipeline",
+  "estimated-creation-date": "2018-01-30T21:38:13",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131002507/http://edmontonjournal.com/news/politics/notley-blasts-b-c-governments-move-against-trans-mountain-pipeline",
+      "memento-datetime": "2018-01-31T00:22:44",
+      "memento-pubdate": "2018-01-30T23:37:38",
+      "earliest": "2018-01-30T23:37:38"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T00:22:44"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T23:37:38"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T21:38:13"
+    }
+  }
+}

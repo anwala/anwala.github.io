@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://www.bbc.co.uk/news/uk-scotland-scotland-politics-42876065",
+  "uri": "http://www.bbc.co.uk/news/uk-scotland-scotland-politics-42876065",
+  "estimated-creation-date": "2018-01-31T14:25:00",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131142500/http://www.bbc.co.uk/news/uk-scotland-scotland-politics-42876065",
+      "memento-datetime": "2018-01-31T14:25:00",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T14:25:00"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131191842/http://www.bbc.co.uk/news/uk-scotland-scotland-politics-42876065",
+      "memento-datetime": "2018-01-31T19:18:42",
+      "memento-pubdate": "2018-01-31T19:18:42",
+      "earliest": "2018-01-31T19:18:42"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T14:25:01"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:45:44"
+    }
+  }
+}

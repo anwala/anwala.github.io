@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://financefollow.com/2018/01/lebanons-berri-says-government-might-stumble-over-tension/",
+  "uri": "http://financefollow.com/2018/01/lebanons-berri-says-government-might-stumble-over-tension/",
+  "estimated-creation-date": "2018-01-31T15:22:17",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:22:17"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:37:47"
+    }
+  }
+}

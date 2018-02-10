@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://timesnation.com/can-now-raise-1-trillion-rupees-fund-by-selling-government-properties/",
+  "uri": "http://timesnation.com/can-now-raise-1-trillion-rupees-fund-by-selling-government-properties/",
+  "estimated-creation-date": "2018-01-28T14:29:55",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-28T14:29:55"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-28T14:32:02"
+    }
+  }
+}

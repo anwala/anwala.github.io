@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://m.aajtak.in/news/world-news/story/china-said-india-risk-taking-ability-rise-under-modi-government-981329-2018-01-31",
+  "uri": "https://m.aajtak.in/news/world-news/story/china-said-india-risk-taking-ability-rise-under-modi-government-981329-2018-01-31",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131193112/https://m.aajtak.in/news/world-news/story/china-said-india-risk-taking-ability-rise-under-modi-government-981329-2018-01-31",
+      "memento-datetime": "2018-01-31T19:31:12",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T19:31:12"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T18:12:16"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:37:53"
+    }
+  }
+}

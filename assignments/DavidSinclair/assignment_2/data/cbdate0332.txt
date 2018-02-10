@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+  "uri": "https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+  "estimated-creation-date": "2018-01-31T14:12:56",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131152017/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+      "memento-datetime": "2018-01-31T15:20:17",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T15:20:17"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T15:20:17"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:12:56"
+    }
+  }
+}

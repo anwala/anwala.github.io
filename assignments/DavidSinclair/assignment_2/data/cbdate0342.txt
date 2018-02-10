@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://recruiting.adp.com/srccar/public/RTI.home?c=1043349&d=External&rb=CAREERARC&r=5000253517306",
+  "uri": "https://recruiting.adp.com/srccar/public/RTI.home?c=1043349&d=External&rb=CAREERARC&r=5000253517306",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

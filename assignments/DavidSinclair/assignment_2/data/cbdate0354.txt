@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+  "uri": "https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+  "estimated-creation-date": "2018-01-30T13:45:53",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131091420/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+      "memento-datetime": "2018-01-31T09:14:20",
+      "memento-pubdate": "2018-01-31T07:46:09",
+      "earliest": "2018-01-31T07:46:09"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T07:46:09"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T13:45:53"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/news/uk/politics/labour-brexit-reports-government-theresa-may-uk-keir-starmer-economy-impact-urgent-question-a8185231.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook",
+  "uri": "http://www.independent.co.uk/news/uk/politics/labour-brexit-reports-government-theresa-may-uk-keir-starmer-economy-impact-urgent-question-a8185231.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook",
+  "estimated-creation-date": "2018-01-30T13:20:46",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-30T19:31:21"
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T13:20:46"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

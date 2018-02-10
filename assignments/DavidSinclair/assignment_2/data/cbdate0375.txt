@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.opindia.com/?p=92727",
+  "uri": "http://www.opindia.com/?p=92727",
+  "estimated-creation-date": "2018-01-31T13:54:02",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T13:54:02"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:29:30"
+    }
+  }
+}

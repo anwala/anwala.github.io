@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.jantakareporter.com/india/supreme-court-seeks-modi-governments-response-prashant-bhushans-plea-rohingyas/171172/?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "http://www.jantakareporter.com/india/supreme-court-seeks-modi-governments-response-prashant-bhushans-plea-rohingyas/171172/?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2018-01-31T20:55:54",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T20:55:54"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

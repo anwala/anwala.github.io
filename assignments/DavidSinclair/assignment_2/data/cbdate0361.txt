@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.ndtv.com/india-news/parliament-disruption-provides-a-helping-hand-to-government-not-opposition-pranab-mukherjee-1806597",
+  "uri": "https://www.ndtv.com/india-news/parliament-disruption-provides-a-helping-hand-to-government-not-opposition-pranab-mukherjee-1806597",
+  "estimated-creation-date": "2018-01-30T22:12:44",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131002431/https://www.ndtv.com/india-news/parliament-disruption-provides-a-helping-hand-to-government-not-opposition-pranab-mukherjee-1806597",
+      "memento-datetime": "2018-01-31T00:24:11",
+      "memento-pubdate": "2018-01-31T03:00:25",
+      "earliest": "2018-01-31T00:24:11"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:45:12"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T03:00:25"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T22:12:44"
+    }
+  }
+}

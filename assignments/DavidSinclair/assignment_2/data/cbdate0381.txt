@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://www.moonofalabama.org/2018/01/us-government-runs-anti-head-scarf-campaign-against-iran.html",
+  "uri": "http://www.moonofalabama.org/2018/01/us-government-runs-anti-head-scarf-campaign-against-iran.html",
+  "estimated-creation-date": "2018-01-30T18:17:26",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130213635/http://www.moonofalabama.org/2018/01/us-government-runs-anti-head-scarf-campaign-against-iran.html",
+      "memento-datetime": "2018-01-30T21:36:35",
+      "memento-pubdate": "",
+      "earliest": "2018-01-30T21:36:35"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131151810/http://www.moonofalabama.org/2018/01/us-government-runs-anti-head-scarf-campaign-against-iran.html",
+      "memento-datetime": "2018-01-31T15:18:10",
+      "memento-pubdate": "2018-01-31T15:18:10",
+      "earliest": "2018-01-31T15:18:10"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T21:36:35"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T18:17:26"
+    }
+  }
+}

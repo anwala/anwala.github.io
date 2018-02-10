@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+  "uri": "http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+  "estimated-creation-date": "2018-01-30T23:43:49",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131180115/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+      "memento-datetime": "2018-01-31T18:01:15",
+      "memento-pubdate": "2018-01-31T18:01:15",
+      "earliest": "2018-01-31T18:01:15"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T23:43:49"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T23:48:22"
+    }
+  }
+}

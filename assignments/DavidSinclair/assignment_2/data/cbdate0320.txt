@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hindi.news18.com/news/haryana/hisar-nhm-workers-warning-to-haryana-government-1254067.html",
+  "uri": "https://hindi.news18.com/news/haryana/hisar-nhm-workers-warning-to-haryana-government-1254067.html",
+  "estimated-creation-date": "2018-01-31T15:24:00",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T17:54:09"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:24:00"
+    }
+  }
+}

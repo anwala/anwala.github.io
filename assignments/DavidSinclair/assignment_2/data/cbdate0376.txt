@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+  "uri": "https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+  "estimated-creation-date": "2018-01-31T16:32:03",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131181418/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+      "memento-datetime": "2018-01-31T18:14:18",
+      "memento-pubdate": "2018-01-31T16:32:03",
+      "earliest": "2018-01-31T16:32:03"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T18:07:34"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T16:32:03"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

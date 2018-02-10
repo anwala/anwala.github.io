@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+  "uri": "https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+  "estimated-creation-date": "2018-01-31T11:51:36",
+  "earliest-sources": [
+    "web.archive.org",
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131115136/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+      "memento-datetime": "2018-01-31T11:51:36",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T11:51:36"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T11:51:36"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-02-02T14:15:47"
+    }
+  }
+}
