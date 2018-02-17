@@ -1,0 +1,786 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>  <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" /><link rel='stylesheet' id='google-fonts-css' href="https://fonts.googleapis.com/css?family=PT+Sans%3A700%7CTitillium+Web%3A400%2C700" type='text/css' media='all' /><link data-optimized='2' rel='stylesheet' href='https://truepundit.com/min/4f1e0.css' />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width">
+<title>White House chief of staff: Republican memo to come out soon &ndash; True PunditTrue Pundit</title>
+<link href="//truepundit.com/wp-content/uploads/2013/02/New-True-Pundit-Favicon-Logo.fw_-1.png" rel="shortcut icon" /> <link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://truepundit.com/xmlrpc.php" />
+<script type="text/javascript">
+
+!function(){function t(){for(h=[],n=document.getElementsByTagName("iframe"),i=0;i<n.length;i++)n[i].src.match(/^(http[s]?:)?\/\/[^\/]*rumble.com\//)&&h.push(n[i]);e()}function e(){var t,n;for(o=0,i=0;i<h.length;i++)h[i].width="100%",t=h[i].offsetWidth,0!=t||o||(o=setTimeout(e,100)),t>0&&(n=Math.ceil(t/16*9),h[i].height=(360>n?360:n)+"px")}var n,i,o,a,h=[],c="";(a=window.addEventListener)||(a=window.attachEvent)&&(c="on"),a(c+"load",t),a(c+"resize",e),t()}();
+
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+if (!document.getElementById(i)){
+e.async = 1;
+e.src = u;
+e.id = i;
+f.parentNode.insertBefore(e, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/truepunditmedia-network/loader.js',
+'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+</script>
+
+<link rel="canonical" href="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="White House chief of staff: Republican memo to come out soon &ndash; True Pundit" />
+<meta property="og:description" content="The White House plans to release a classified House Intelligence Committee memo that Republicans say shows anti-Trump bias by the FBI and the Justice Department, U.S. President Donald Trump’s chief of staff John Kelly said on Wednesday. “It will be released here pretty quick, I think, and then the whole world can see it,” Kelly &hellip;" />
+<meta property="og:url" content="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<meta property="og:site_name" content="True Pundit" />
+<meta property="article:section" content="Politics" />
+<meta property="article:published_time" content="2018-01-31T10:22:54-05:00" />
+<meta property="article:modified_time" content="2018-01-31T10:23:27-05:00" />
+<meta property="og:updated_time" content="2018-01-31T10:23:27-05:00" />
+<meta property="og:image" content="https://truepundit.com/wp-content/uploads/2018/01/104457494-RTS14ULT.1910x1000.jpg" />
+<meta property="og:image:secure_url" content="https://truepundit.com/wp-content/uploads/2018/01/104457494-RTS14ULT.1910x1000.jpg" />
+<meta property="og:image:width" content="1910" />
+<meta property="og:image:height" content="1000" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="The White House plans to release a classified House Intelligence Committee memo that Republicans say shows anti-Trump bias by the FBI and the Justice Department, U.S. President Donald Trump’s chief of staff John Kelly said on Wednesday. “It will be released here pretty quick, I think, and then the whole world can see it,” Kelly [&hellip;]" />
+<meta name="twitter:title" content="White House chief of staff: Republican memo to come out soon &ndash; True Pundit" />
+<meta name="twitter:image" content="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/104457494-RTS14ULT.1910x1000.jpg?fit=1910%2C1000&#038;ssl=1" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/truepundit.com\/","name":"True Pundit","potentialAction":{"@type":"SearchAction","target":"https:\/\/truepundit.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/truepundit.com\/white-house-chief-staff-republican-memo-come-soon\/","sameAs":[],"@id":"#organization","name":"True Pundit","logo":"https:\/\/truepundit.com\/wp-content\/uploads\/2017\/02\/True-Pundit-Circle-Logo.jpg"}</script>
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//checkout.stripe.com' />
+<link rel='dns-prefetch' href='//cdn.plaid.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="True Pundit &raquo; Feed" href="https://truepundit.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="True Pundit &raquo; Comments Feed" href="https://truepundit.com/comments/feed/" />
+<script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script>
+<script type='text/javascript' src='https://truepundit.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://truepundit.com/wp-includes/js/jquery/jquery-migrate.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/ad-inserter/includes/js/ai-jquery.js'></script>
+<script type='text/javascript'>
+/*
+ http://www.gnu.org/licenses/gpl.html [GNU General Public License]
+ @param {jQuery} {base64Encode:function(input))
+ @param {jQuery} {base64Decode:function(input))
+ @return string
+*/
+function ai_insert(insertion,selector,insertion_code){jQuery(selector).each(function(index,element){if(typeof jQuery(this).attr("id")!="undefined")selector_string="#"+jQuery(this).attr("id");else if(typeof jQuery(this).attr("class")!="undefined")selector_string="."+jQuery(this).attr("class").replace(" ",".");else selector_string="";var insertion_function=insertion;var ai_code=jQuery(insertion_code);jQuery(".ai-selector-counter",ai_code).text(index+1);jQuery(".ai-debug-name.ai-main",ai_code).text(insertion.toUpperCase()+
+" "+jQuery(this).prop("tagName").toLowerCase()+selector_string);jQuery(this)[insertion_function](ai_code)})}
+function ai_insert_viewport(element){var ai_debug=typeof ai_debugging!=="undefined";if(ai_debug)console.log("AI VIEWPORT INSERTION: class",element.attr("class"));var visible=element.is(":visible");var block=element.data("block");if(visible){var insertion_code=element.data("code");var insertion_type=element.data("insertion");var selector=element.data("selector");if(typeof insertion_code!="undefined")if(typeof insertion_type!="undefined"&&typeof selector!="undefined"){var selector_exists=jQuery(selector).length;
+if(ai_debug)console.log("AI VIEWPORT VISIBLE: block",block,insertion_type,selector,selector_exists?"":"NOT FOUND");ai_insert(insertion_type,selector,jQuery.base64Decode(insertion_code));if(selector_exists)element.removeClass("ai-viewports")}else{if(ai_debug)console.log("AI VIEWPORT VISIBLE: block",block);var ai_code=jQuery(jQuery.base64Decode(insertion_code));element.after(ai_code);element.removeClass("ai-viewports")}}else{if(ai_debug)console.log("AI VIEWPORT NOT VISIBLE: block",block);var debug_bar=
+element.prev();if(debug_bar.hasClass("ai-debug-bar")&&debug_bar.hasClass("ai-debug-script")){debug_bar.removeClass("ai-debug-script");debug_bar.addClass("ai-debug-viewport-invisible")}}}(function($){$(document).ready(function(){$(".ai-viewports").each(function(index,element){ai_insert_viewport($(this))})})})(jQuery);(function($){$(document).ready(function(){$(".ai-viewports").each(function(index,element){ai_insert_viewport($(this))})})})(jQuery);
+(function($){var keyString="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var uTF8Encode=function(string){string=string.replace(/\x0d\x0a/g,"\n");var output="";for(var n=0;n<string.length;n++){var c=string.charCodeAt(n);if(c<128)output+=String.fromCharCode(c);else if(c>127&&c<2048){output+=String.fromCharCode(c>>6|192);output+=String.fromCharCode(c&63|128)}else{output+=String.fromCharCode(c>>12|224);output+=String.fromCharCode(c>>6&63|128);output+=String.fromCharCode(c&63|128)}}return output};
+var uTF8Decode=function(input){var string="";var i=0;var c=c1=c2=0;while(i<input.length){c=input.charCodeAt(i);if(c<128){string+=String.fromCharCode(c);i++}else if(c>191&&c<224){c2=input.charCodeAt(i+1);string+=String.fromCharCode((c&31)<<6|c2&63);i+=2}else{c2=input.charCodeAt(i+1);c3=input.charCodeAt(i+2);string+=String.fromCharCode((c&15)<<12|(c2&63)<<6|c3&63);i+=3}}return string};$.extend({base64Encode:function(input){var output="";var chr1,chr2,chr3,enc1,enc2,enc3,enc4;var i=0;input=uTF8Encode(input);
+while(i<input.length){chr1=input.charCodeAt(i++);chr2=input.charCodeAt(i++);chr3=input.charCodeAt(i++);enc1=chr1>>2;enc2=(chr1&3)<<4|chr2>>4;enc3=(chr2&15)<<2|chr3>>6;enc4=chr3&63;if(isNaN(chr2))enc3=enc4=64;else if(isNaN(chr3))enc4=64;output=output+keyString.charAt(enc1)+keyString.charAt(enc2)+keyString.charAt(enc3)+keyString.charAt(enc4)}return output},base64Decode:function(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/=]/g,"");while(i<
+input.length){enc1=keyString.indexOf(input.charAt(i++));enc2=keyString.indexOf(input.charAt(i++));enc3=keyString.indexOf(input.charAt(i++));enc4=keyString.indexOf(input.charAt(i++));chr1=enc1<<2|enc2>>4;chr2=(enc2&15)<<4|enc3>>2;chr3=(enc3&3)<<6|enc4;output=output+String.fromCharCode(chr1);if(enc3!=64)output=output+String.fromCharCode(chr2);if(enc4!=64)output=output+String.fromCharCode(chr3)}output=uTF8Decode(output);return output}})})(jQuery);
+</script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/add-to-any/addtoany.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/free-responsive-iframe-video-embeds/iplayerhd-embed.js' defer onload=''></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"https:\/\/truepundit.com\/wp-admin\/admin-ajax.php","checkout_nonce":"aced7d98bf","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"0","give_version":"2.0.2","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid username. Only lowercase letters (a-z) and numbers are allowed.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history."};
+var give_scripts = {"ajaxurl":"https:\/\/truepundit.com\/wp-admin\/admin-ajax.php","ajaxNonce":"5de92e84fd","loading":"Loading","select_option":"Please select an option","default_gateway":"stripe","permalinks":"1","number_decimals":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/give/assets/js/frontend/give.all.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/simple-follow-me-social-buttons-widget/assets/js/front-widget.js' defer onload=''></script>
+<script type='text/javascript' src='https://checkout.stripe.com/checkout.js' defer onload=''></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_stripe_vars = {"zero_based_currency":"","sitename":"True Pundit","publishable_key":"pk_live_SMtnnvlq4TpJelMdklNha8iD","checkout_image":"","checkout_alipay":"","checkout_bitcoin":"on","checkout_address":"on","checkout_processing_text":"Donation Processing...","zipcode_option":"","remember_option":"1","give_version":"2.0.2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/give-stripe/assets/js/give-stripe-popup.js' defer onload=''></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_stripe_ach_vars = {"sitename":"True Pundit","plaid_endpoint":"production","plaid_public_key":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/give-stripe/assets/js/give-stripe-ach.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/themes/bayside/js/libs/modernizr-2.6.2.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/themes/bayside/js/plugins.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/themes/bayside/js/script.js' defer onload=''></script>
+<link rel='https://api.w.org/' href='https://truepundit.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://truepundit.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://truepundit.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://wp.me/p7CQH5-2O6r' />
+<link rel="alternate" type="application/json+oembed" href="https://truepundit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://truepundit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&#038;format=xml" />
+<script type="text/javascript">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=ed99daba-f267-4fcd-8639-2f0b59adbf58";s.id="infinity";s.setAttribute("data-guid","ed99daba-f267-4fcd-8639-2f0b59adbf58");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script><meta name="generator" content="Give v2.0.2" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MXW4B3P');</script>
+
+<script>
+(function(d, s, host, ipid) {
+var e = d.createElement(s);
+e.type = 'application/javascript';
+e.async = !0;e.src = '//' + host + '/intellitxt/front.asp?ipid=' + ipid;
+d.getElementsByTagName(s)[0].parentNode.appendChild(e);
+}
+)(document, 'script', 'k.intellitxt.com',93575);
+</script><style type="text/css">	.sfb {
+									
+									
+									
+									-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;  border-radius: 10px; -o-border-radius: 10px;
+								}
+								.sfb img
+								{
+									width: 200px !important;
+									padding: 5px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.sfb, .sfb a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									
+									font-size: 	20px;
+									
+									font-weight: bold;
+								}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<style type='text/css'>img#wpstats{display:none}</style>
+<style type="text/css">
+.header-top {background-color:#1f2021;}
+header, .sf-menu ul {background-color:#ff0000;}
+body {background-color:#f3f3f4;}
+.content-container, #home-page-content .content-container:hover {background-color:#ffffff; border-bottom:2px solid #e5e5e6;}
+.content-container:hover {border-bottom-color:#ff0000;}
+body .advertisement-bayside:hover {border-bottom:2px solid #e5e5e6;}
+body a.progression-blue, body input.button, .pagination a.selected, .pagination a:hover, .wpcf7 input.wpcf7-submit, #respond input#submit, .load-more-manual #page-nav a {background:#ff0000; color:#ffffff;}
+.header-top a {color:#000000;}
+.header-top a:hover {color:#dddddd;}
+body a.progression-blue:hover, body input.button:hover, .wpcf7 input.wpcf7-submit:hover, #respond input#submit:hover, .load-more-manual #page-nav a:hover {background:#000000; }
+body, .progression-etabs a {color:#777777;}
+.sf-menu a, .sf-menu a:hover, .sf-menu a:visited  {color:#ffffff;}
+a {color:#ff0000;}
+a:hover, #sidebar a:hover h6 {color:#ff0000;}
+h1 {color:#2e2f32;}
+h2, h3, h4, h5, h6 {color:#424347;}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#424347;}
+#sidebar h5 {color:#d2d3d3;}
+body #logo, body #logo img {max-width:300px;}
+.sf-menu a {padding-top:23px; padding-bottom:25px;} 
+body .sf-menu li:hover ul, body .sf-menu li.sfHover ul {top:64px;} 
+.header-top, .sf-menu, .meta-data-index, .media-overlay, #sidebar h5, #sidebar .time-stamp-sidebar, #sidebar  .progression-tab a, h6.bayside-category {font-family: 'Titillium Web', sans-serif; }
+h1, h2, h3, h4, h5, h6, a#jtwt_date, .pagination a, a.progression-button, input.button, .wpcf7 input.wpcf7-submit, ul.progression-toggle li, .progression-etabs, #respond input#submit, .load-more-manual #page-nav a {font-family: 'PT Sans', sans-serif; }
+body {font-family:"Helvetica Neue", Helvetica, Arial, Sans-Serif;}
+.col2 { width:275px; }
+#page-content, #full-width {background:#ffffff; border-right:2px solid #e7e7e9; border-bottom:2px solid #e7e7e9; }
+	.embed-youtube {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.embed-youtube iframe,
+.embed-youtube object,
+.embed-youtube embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}</style>
+<link rel="icon" href="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/05/cropped-New-True-Pundit-Favicon-Logo.fw_.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/05/cropped-New-True-Pundit-Favicon-Logo.fw_.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/05/cropped-New-True-Pundit-Favicon-Logo.fw_.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/05/cropped-New-True-Pundit-Favicon-Logo.fw_.png?fit=270%2C270&#038;ssl=1" />
+<style type='text/css'>
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+.code-block-default {margin: 8px 0; clear: both;}
+.code-block-center {margin: 8px auto; text-align: center; clear: both;}
+</style>
+</head>
+<body class="post-template-default single single-post postid-669255 single-format-standard">
+<header>
+<div class="header-top">
+<div class="grid2column">
+<div class="header-menu"><ul>
+<li class="page_item page-item-6"><a href="https://truepundit.com/contact-us/">Send a Tip &#038; Contact</a></li>
+<li class="page_item page-item-650066"><a href="https://truepundit.com/sponsor/">Sponsor</a></li>
+<li class="page_item page-item-533 page_item_has_children"><a href="https://truepundit.com/">True Pundit</a></li>
+<li class="page_item page-item-35784"><a href="https://truepundit.com/true-pundit-store/">True Pundit Store</a></li>
+</ul></div>
+</div>
+<div class="grid2column lastcolumn">
+<div class="social-icons">
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<h1 id="logo"><a href="https://truepundit.com/" title="True Pundit" rel="home"><img src="//truepundit.com/wp-content/uploads/2013/02/True-Pundit-Wordmark-Logo-1.fw_.png" alt="True Pundit" width="300" /></a></h1>
+<nav>
+<div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="sf-menu"><li id="menu-item-74731" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-74731"><a href="https://truepundit.com">Home</a></li>
+<li id="menu-item-652184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652184"><a href="https://truepundit.com/sponsor/">Sponsor</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-544"><a href="https://truepundit.com/category/featured/">Featured</a></li>
+<li id="menu-item-20942" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20942"><a href="https://truepundit.com/category/tv/">Video</a></li>
+<li id="menu-item-539" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-539"><a href="https://truepundit.com/category/politics/">Politics</a></li>
+<li id="menu-item-259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-259"><a href="https://truepundit.com/category/business/">Business</a></li>
+<li id="menu-item-547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547"><a href="https://truepundit.com/category/world/">World</a></li>
+<li id="menu-item-6344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6344"><a href="https://truepundit.com/category/security/">Security</a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260"><a href="https://truepundit.com/category/technology/">Technology</a></li>
+<li id="menu-item-631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-631"><a href="https://truepundit.com/category/science/">Science</a></li>
+<li id="menu-item-545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-545"><a href="https://truepundit.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-548"><a href="https://truepundit.com/category/sports/">Sports</a></li>
+<li id="menu-item-319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="https://truepundit.com/contact-us/">News Tips</a></li>
+</ul></div> </nav>
+<div class="clearfix"></div>
+</header>
+<div id="main" class="site-main">
+<div id="sidebar" class="123">
+<div class="sidebar-icon"><a href="#" class="sidebar-icon-link"></a></div>
+<form method="get" class="searchform" action="https://truepundit.com/" role="search">
+<label for="s" class="assistive-text">Search</label>
+<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+<input type="submit" class="submit button" name="submit" id="searchsubmit" value="Search" />
+</form>
+<div class="search-base"></div>
+<div class="sidebar-spacer search-base-spacer"></div>
+<div id="sidebar-widgets">
+<div id="lat-pop-widget-1" class="widget lat-pop">
+
+<div class="progression-tab-container">
+<ul class="progression-etabs">
+<li class="progression-tab"><a href="#recent" class="recent-title">Recent</a></li>
+<li class="progression-tab"><a href="#popular" class="popular-title">TV</a></li>
+</ul>
+
+<div id="recent">
+<ul class="recent-posts">
+<li><a href="https://truepundit.com/white-house-new-susan-rice-email-raises-lot-serious-questions-video/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?resize=300%2C208&amp;ssl=1 300w, https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>White House: New Susan Rice Email &#8216;Raises a Lot of Serious Questions&#8217; (VIDEO)</h6>
+<div class="time-stamp-sidebar">2 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/fbi-withheld-porter-background-check-alleged-domestic-abuse-details-white-house-months/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-813281380-1.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-813281380-1.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-813281380-1.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-813281380-1.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>FBI Withheld Porter Background Check &#038; Alleged Domestic Abuse Details from White House For Months</h6>
+<div class="time-stamp-sidebar">4 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/twitter-users-mock-mike-karen-pence-looking-sad-concentration-camp-visit/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-642810570.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-642810570.jpg?resize=300%2C208&amp;ssl=1 300w, https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-642810570.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/gettyimages-642810570.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>Twitter Users Mock Mike and Karen Pence for Looking Sad… During Concentration Camp Visit</h6>
+<div class="time-stamp-sidebar">4 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/us-teen-star-kim-melts-hearts-tearful-snowboarding-gold-video/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>US teen star Kim melts hearts with tearful snowboarding gold (VIDEO)</h6>
+<div class="time-stamp-sidebar">8 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/mueller-hired-yet-another-democratic-donor-ones-former-huffpost-contributor/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i0.wp.com/truepundit.com/wp-content/uploads/2017/09/03-robert-mueller.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i0.wp.com/truepundit.com/wp-content/uploads/2017/09/03-robert-mueller.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/truepundit.com/wp-content/uploads/2017/09/03-robert-mueller.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i0.wp.com/truepundit.com/wp-content/uploads/2017/09/03-robert-mueller.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>Mueller Hired Yet Another Democratic Donor – This One’s A Former HuffPost Contributor</h6>
+<div class="time-stamp-sidebar">12 mins ago</div>
+</a></li>
+</ul>
+</div>
+<div id="popular">
+<ul class="recent-posts">
+<li><a href="https://truepundit.com/white-house-new-susan-rice-email-raises-lot-serious-questions-video/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?resize=300%2C208&amp;ssl=1 300w, https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i1.wp.com/truepundit.com/wp-content/uploads/2017/06/170404171304-susan-rice-2015-file-full-169-1.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>White House: New Susan Rice Email &#8216;Raises a Lot of Serious Questions&#8217; (VIDEO)</h6>
+<div class="time-stamp-sidebar">2 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/us-teen-star-kim-melts-hearts-tearful-snowboarding-gold-video/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/02/chloe-kim-gold-medal-winter-olympics.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>US teen star Kim melts hearts with tearful snowboarding gold (VIDEO)</h6>
+<div class="time-stamp-sidebar">8 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/trump-mom-lost-son-opioids-son-will-not-died-vain-video/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/2018-01-11T000512Z_1_LYNXMPEE0A003_RTROPTP_4_USA-TRUMP-e1515701964480.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/2018-01-11T000512Z_1_LYNXMPEE0A003_RTROPTP_4_USA-TRUMP-e1515701964480.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/2018-01-11T000512Z_1_LYNXMPEE0A003_RTROPTP_4_USA-TRUMP-e1515701964480.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/2018-01-11T000512Z_1_LYNXMPEE0A003_RTROPTP_4_USA-TRUMP-e1515701964480.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>Trump To Mom Who Lost Son To Opioids: Your Son ‘Will Not Have Died In Vain’ (VIDEO)</h6>
+<div class="time-stamp-sidebar">22 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/watch-bill-murray-betrays-hollywood-drops-scorching-hot-nuke-identity-politics/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/o-BILL-MURRAY-facebook.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/o-BILL-MURRAY-facebook.jpg?resize=300%2C208&amp;ssl=1 300w, https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/o-BILL-MURRAY-facebook.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i2.wp.com/truepundit.com/wp-content/uploads/2018/02/o-BILL-MURRAY-facebook.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>WATCH: Bill Murray Betrays Hollywood, Drops a Scorching Hot Nuke on Identity Politics</h6>
+<div class="time-stamp-sidebar">28 mins ago</div>
+</a></li>
+<li><a href="https://truepundit.com/watch-sarah-sanders-shuts-cnns-acosta-bringing-elephant-room/">
+<div class="recent-post-image"><img width="300" height="208" src="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/09/cnn-jim-acosta-journalism-harmed.jpg?resize=300%2C208&amp;ssl=1" class="attachment-progression-sidebar size-progression-sidebar wp-post-image" alt="" srcset="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/09/cnn-jim-acosta-journalism-harmed.jpg?resize=300%2C208&amp;ssl=1 300w, https://i2.wp.com/truepundit.com/wp-content/uploads/2017/09/cnn-jim-acosta-journalism-harmed.jpg?zoom=2&amp;resize=300%2C208&amp;ssl=1 600w, https://i2.wp.com/truepundit.com/wp-content/uploads/2017/09/cnn-jim-acosta-journalism-harmed.jpg?zoom=3&amp;resize=300%2C208&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" /></div> <h6>WATCH: Sarah Sanders Shuts Down CNN’s Acosta By Bringing Up The Elephant In The Room</h6>
+<div class="time-stamp-sidebar">37 mins ago</div>
+</a></li>
+</ul>
+</div>
+</div>
+</div><div class="sidebar-spacer"></div><div id="archives-1" class="widget widget_archive"><h5 class="widget-title">Archives</h5> <ul>
+<li><a href='https://truepundit.com/2018/02/'>February 2018</a>&nbsp;(808)</li>
+<li><a href='https://truepundit.com/2018/01/'>January 2018</a>&nbsp;(1891)</li>
+<li><a href='https://truepundit.com/2017/12/'>December 2017</a>&nbsp;(1785)</li>
+<li><a href='https://truepundit.com/2017/11/'>November 2017</a>&nbsp;(2386)</li>
+<li><a href='https://truepundit.com/2017/10/'>October 2017</a>&nbsp;(2218)</li>
+<li><a href='https://truepundit.com/2017/09/'>September 2017</a>&nbsp;(2464)</li>
+<li><a href='https://truepundit.com/2017/08/'>August 2017</a>&nbsp;(2604)</li>
+<li><a href='https://truepundit.com/2017/07/'>July 2017</a>&nbsp;(1611)</li>
+<li><a href='https://truepundit.com/2017/06/'>June 2017</a>&nbsp;(1864)</li>
+<li><a href='https://truepundit.com/2017/05/'>May 2017</a>&nbsp;(1443)</li>
+<li><a href='https://truepundit.com/2017/04/'>April 2017</a>&nbsp;(816)</li>
+<li><a href='https://truepundit.com/2017/03/'>March 2017</a>&nbsp;(774)</li>
+<li><a href='https://truepundit.com/2017/02/'>February 2017</a>&nbsp;(1254)</li>
+<li><a href='https://truepundit.com/2017/01/'>January 2017</a>&nbsp;(2391)</li>
+<li><a href='https://truepundit.com/2016/12/'>December 2016</a>&nbsp;(1309)</li>
+<li><a href='https://truepundit.com/2016/11/'>November 2016</a>&nbsp;(1261)</li>
+<li><a href='https://truepundit.com/2016/10/'>October 2016</a>&nbsp;(1159)</li>
+<li><a href='https://truepundit.com/2016/09/'>September 2016</a>&nbsp;(1759)</li>
+<li><a href='https://truepundit.com/2016/08/'>August 2016</a>&nbsp;(1252)</li>
+<li><a href='https://truepundit.com/2016/07/'>July 2016</a>&nbsp;(746)</li>
+<li><a href='https://truepundit.com/2016/06/'>June 2016</a>&nbsp;(300)</li>
+</ul>
+</div><div class="sidebar-spacer"></div><div id="text-1" class="widget widget_text"><h5 class="widget-title">Latest Tweets</h5> <div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/true_pundit">Tweets by true_pundit</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div><div class="sidebar-spacer"></div><div id="wpcom_social_media_icons_widget-3" class="widget widget_wpcom_social_media_icons_widget"><h5 class="widget-title">Social</h5><ul><li></li></ul></div><div class="sidebar-spacer"></div><div id="twitter_timeline-2" class="widget widget_twitter_timeline"><h5 class="widget-title">Follow me on Twitter</h5><a class="twitter-timeline" data-height="400" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" href="https://twitter.com/">My Tweets</a></div><div class="sidebar-spacer"></div>
+<footer>
+<div id="copyright">
+&copy; 2017 All Rights Reserved by True Pundit </div>
+</footer>
+</div>
+</div>
+<section id="page-content">
+<div id="rcjsload_d0b225"></div>
+<div id="post-669255" class="post-669255 post type-post status-publish format-standard has-post-thumbnail hentry category-politics">
+<h6 class="bayside-category"><a href="https://truepundit.com/category/politics/" rel="category tag">Politics</a></h6>
+<h2 class="blog-post">White House chief of staff: Republican memo to come out soon</h2>
+<div class="post-meta-bayside"><span class="date-bayside">Posted on <a href="https://truepundit.com/2018/01/" title="10:22 am" rel="bookmark"><time class="entry-date" datetime="2018-01-31T10:22:54+00:00" pubdate>January 31, 2018</time></a></span><span class="author-bayside"> by <a class="url fn n" href="https://truepundit.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></div>
+
+
+
+<div class="featured-media">
+<a href="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/104457494-RTS14ULT.1910x1000.jpg?fit=1910%2C1000&ssl=1" rel="prettyPhoto"><img width="1500" height="575" src="https://i0.wp.com/truepundit.com/wp-content/uploads/2018/01/104457494-RTS14ULT.1910x1000.jpg?resize=1500%2C575&amp;ssl=1" class="attachment-progression-single size-progression-single wp-post-image" alt="" /></a>
+</div>
+
+<div class="social-networks-bayside">
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "b779a7d6-8947-431e-8a89-abe575e1b4b0"}); </script>
+<span class='st_facebook' displayText='Facebook'></span>
+<span class='st_twitter' displayText='Tweet'></span>
+<span class='st_pinterest' displayText='Pinterest'></span>
+<span class='st_email' displayText='Email'></span>
+<span class="st_print"><a href="javascript:window.print()">Print</a></span>
+<div class="clearfix"></div>
+</div>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">Share:</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" data-a2a-title="White House chief of staff: Republican memo to come out soon"><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>
+<style>
+.uixd-custom-social-buttons .addtoany_header {
+  position: relative;
+  height: 20px;
+
+}
+.uixd-custom-social-buttons .addtoany_header::after {
+  position: absolute;
+  content: 'FOLLOW US!';
+}
+</style>
+<div class="sfb sfb-wrap uixd-custom-social-buttons">
+<div style="text-align:left">
+<h4 class="addtoany_header"></h4>
+<a class="sfb_facebook_follow" href="https://www.facebook.com/truepunditnews" target="_blank">
+<img src="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/02/facebook.jpg?resize=200%2C34&#038;ssl=1" title="Facebook" class="sfb sfb-img" alt="Follow on Facebook" width="200" height="34" data-recalc-dims="1">
+</a>
+<a class="sfb_twitter_follow" href="https://twitter.com/true_pundit" target="_blank">
+<img src="https://i0.wp.com/truepundit.com/wp-content/uploads/2017/02/twitter.jpg?resize=200%2C33&#038;ssl=1" title="Twitter" class="sfb sfb-img" alt="Follow on Twitter" width="200" height="33" data-recalc-dims="1">
+</a>
+</div>
+</div>
+
+
+<p>The White House plans to release a classified House Intelligence Committee memo that Republicans say shows anti-Trump bias by the FBI and the Justice Department, U.S. President Donald Trump’s chief of staff John Kelly said on Wednesday.</p>
+<p>“It will be released here pretty quick, I think, and then the whole world can see it,” Kelly said in an interview on Fox News Radio, adding that he has seen the four-page document and that White House lawyers are currently reviewing it. &#8211; <a href="https://www.reuters.com/article/us-usa-trump-russia-memo/white-house-chief-of-staff-republican-memo-to-come-out-soon-idUSKBN1FK25P?feedType=RSS&amp;feedName=topNews&amp;utm_source=twitter&amp;utm_medium=Social&amp;__twitter_impression=true&amp;__twitter_impression=true&amp;__twitter_impression=true">READ MORE</a></p>
+<div id="give-form-79809-wrap" class="give-form-wrap give-display-reveal">
+<h2 class="give-form-title">Like Our News? Then Help Support Our Independent Journalism!</h2> <form id="give-form-79809" class="give-form give-form-79809 give-form-type-set float-labels-enabled" action="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/?payment-mode=paypal" data-currency_symbol="&#36;" data-currency_code="USD" data-currency_position="before" data-thousands_separator="," data-decimal_separator="." data-number_decimals="0" method="post">
+
+<span class="give-hidden" style="display: none !important;">
+<label for="give-form-honeypot-79809"></label>
+<input id="give-form-honeypot-79809" type="text" name="give-honeypot" class="give-honeypot give-hidden" />
+</span>
+<input type="hidden" name="give-form-id" value="79809" />
+<input type="hidden" name="give-form-title" value="Like Our News? Then Help Support Our Independent Journalism!" />
+<input type="hidden" name="give-current-url" value="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<input type="hidden" name="give-form-url" value="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<input type="hidden" name="give-form-minimum" value="10" />
+<input type="hidden" id="_wpnonce" name="_wpnonce" value="23760150d6" /> <div class="give-total-wrap">
+<div class="give-donation-amount form-row-wide">
+<span class="give-currency-symbol give-currency-position-before">&#36;</span> <label class="give-hidden" for="give-amount">Donation Amount:</label>
+<input class="give-text-input give-amount-top" id="give-amount" name="give-amount" type="tel" placeholder="" value="0" autocomplete="off">
+</div>
+</div>
+<p class="give-custom-amount-text">We can only deliver independent news & Intel with your support. Keep our unique voice alive.</p><div class='code-block code-block-2' style='margin: 8px 0; clear: both;'>
+<div id="ld-4903-3606"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:10165223504200806,size:[0, 0],id:"ld-4903-3606"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<button type="button" class="give-btn give-btn-reveal">Donate Now</button>
+<fieldset id="give-payment-mode-select">
+<legend class="give-payment-mode-label">Select Payment Method <span class="give-loading-text"><span class="give-loading-animation"></span>
+</span>
+</legend>
+<div id="give-payment-mode-wrap">
+<ul id="give-gateway-radio-list">
+<li class="give-gateway-option-selected">
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-paypal-79809" value="paypal" checked='checked'>
+<label for="give-gateway-paypal-79809" class="give-gateway-option" id="give-gateway-option-paypal"> PayPal</label>
+</li>
+<li>
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-stripe-79809" value="stripe">
+<label for="give-gateway-stripe-79809" class="give-gateway-option" id="give-gateway-option-stripe"> Credit Card</label>
+</li>
+<li>
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-stripe_ach-79809" value="stripe_ach">
+<label for="give-gateway-stripe_ach-79809" class="give-gateway-option" id="give-gateway-option-stripe_ach"> Bank Account</label>
+</li>
+</ul>
+</div>
+</fieldset>
+<div id="give_purchase_form_wrap">
+<fieldset id="give_checkout_user_info">
+<legend>Personal Info</legend>
+<p id="give-first-name-wrap" class="form-row form-row-first form-row-responsive">
+<label class="give-label" for="give-first">
+First Name <span class="give-required-indicator">*</span>
+<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input required" type="text" name="give_first" placeholder="First Name" id="give-first" value="" required aria-required="true" />
+</p>
+<p id="give-last-name-wrap" class="form-row form-row-last form-row-responsive">
+<label class="give-label" for="give-last">
+Last Name <span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this as well to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input" type="text" name="give_last" id="give-last" placeholder="Last Name" value="" />
+</p>
+<p id="give-email-wrap" class="form-row form-row-wide">
+<label class="give-label" for="give-email">
+Email Address <span class="give-required-indicator">*</span>
+<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will send the donation receipt to this address." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input required" type="email" name="give_email" placeholder="Email Address" id="give-email" value="" required aria-required="true" />
+</p><div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
+</div>
+</fieldset>
+<fieldset id="give_purchase_submit">
+<input type="hidden" name="give_action" value="purchase" />
+<input type="hidden" name="give-gateway" value="paypal" />
+<div class="give-submit-button-wrap give-clearfix">
+<input type="submit" class="give-submit give-btn" id="give-purchase-button" name="give-purchase" value="Donate Now" />
+<span class="give-loading-animation"></span>
+</div>
+</fieldset>
+</div>
+</form>
+</div>
+<hr class="progression-hr"></hr>
+<blockquote class="twitter-video" data-lang="en">
+<p dir="ltr" lang="en">CLIP: As President Trump exits the House Chamber, <a href="https://twitter.com/RepJeffDuncan?ref_src=twsrc%5Etfw">@RepJeffDuncan</a> asks him to <a href="https://twitter.com/hashtag/ReleaseTheMemo?src=hash&amp;ref_src=twsrc%5Etfw">#ReleaseTheMemo</a>. <a href="https://twitter.com/hashtag/SOTU?src=hash&amp;ref_src=twsrc%5Etfw">#SOTU</a> <a href="https://twitter.com/hashtag/SOTU2018?src=hash&amp;ref_src=twsrc%5Etfw">#SOTU2018</a> <a href="https://t.co/O1hHYFdPxM">pic.twitter.com/O1hHYFdPxM</a></p>
+<p>— CSPAN (@cspan) <a href="https://twitter.com/cspan/status/958557375002218496?ref_src=twsrc%5Etfw">January 31, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Did President Donald Trump just pledge to release the controversial FISA memo?</p><div class='code-block code-block-7' style='margin: 8px 0; clear: both;'>
+<script>var RevContentSolo = { button_text: 'Find Out More', widget_id: 77841};</script>
+<script type="text/javascript" id="revsoloserve" src="https://labs-cdn.revcontent.com/build/revsoloserve.min.js"></script>
+</div>
+<p>Sure seems that way.</p><div class='code-block code-block-4' style='margin: 8px 0; clear: both;'>
+</div>
+<p>His private comments were caught on video during the State of the Union Address.</p>
+<div id="give-form-79809-wrap" class="give-form-wrap give-display-reveal">
+<h2 class="give-form-title">Like Our News? Then Help Support Our Independent Journalism!</h2> <form id="give-form-79809" class="give-form give-form-79809 give-form-type-set float-labels-enabled" action="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/?payment-mode=paypal" data-currency_symbol="&#36;" data-currency_code="USD" data-currency_position="before" data-thousands_separator="," data-decimal_separator="." data-number_decimals="0" method="post">
+
+<span class="give-hidden" style="display: none !important;">
+<label for="give-form-honeypot-79809"></label>
+<input id="give-form-honeypot-79809" type="text" name="give-honeypot" class="give-honeypot give-hidden" />
+</span>
+<input type="hidden" name="give-form-id" value="79809" />
+<input type="hidden" name="give-form-title" value="Like Our News? Then Help Support Our Independent Journalism!" />
+<input type="hidden" name="give-current-url" value="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<input type="hidden" name="give-form-url" value="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<input type="hidden" name="give-form-minimum" value="10" />
+<input type="hidden" id="_wpnonce" name="_wpnonce" value="23760150d6" /> <div class="give-total-wrap">
+<div class="give-donation-amount form-row-wide">
+<span class="give-currency-symbol give-currency-position-before">&#36;</span> <label class="give-hidden" for="give-amount">Donation Amount:</label>
+<input class="give-text-input give-amount-top" id="give-amount" name="give-amount" type="tel" placeholder="" value="0" autocomplete="off">
+</div>
+</div>
+<p class="give-custom-amount-text">We can only deliver independent news & Intel with your support. Keep our unique voice alive.</p>
+<button type="button" class="give-btn give-btn-reveal">Donate Now</button>
+<fieldset id="give-payment-mode-select">
+<legend class="give-payment-mode-label">Select Payment Method <span class="give-loading-text"><span class="give-loading-animation"></span>
+</span>
+</legend>
+<div id="give-payment-mode-wrap">
+<ul id="give-gateway-radio-list">
+<li class="give-gateway-option-selected">
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-paypal-79809" value="paypal" checked='checked'>
+<label for="give-gateway-paypal-79809" class="give-gateway-option" id="give-gateway-option-paypal"> PayPal</label>
+</li>
+<li>
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-stripe-79809" value="stripe">
+<label for="give-gateway-stripe-79809" class="give-gateway-option" id="give-gateway-option-stripe"> Credit Card</label>
+</li>
+<li>
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-stripe_ach-79809" value="stripe_ach">
+<label for="give-gateway-stripe_ach-79809" class="give-gateway-option" id="give-gateway-option-stripe_ach"> Bank Account</label>
+</li>
+</ul>
+</div>
+</fieldset>
+<div id="give_purchase_form_wrap">
+<fieldset id="give_checkout_user_info">
+<legend>Personal Info</legend>
+<p id="give-first-name-wrap" class="form-row form-row-first form-row-responsive">
+<label class="give-label" for="give-first">
+First Name <span class="give-required-indicator">*</span>
+<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input required" type="text" name="give_first" placeholder="First Name" id="give-first" value="" required aria-required="true" />
+</p>
+<p id="give-last-name-wrap" class="form-row form-row-last form-row-responsive">
+<label class="give-label" for="give-last">
+Last Name <span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this as well to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input" type="text" name="give_last" id="give-last" placeholder="Last Name" value="" />
+</p>
+<p id="give-email-wrap" class="form-row form-row-wide">
+<label class="give-label" for="give-email">
+Email Address <span class="give-required-indicator">*</span>
+<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will send the donation receipt to this address." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input required" type="email" name="give_email" placeholder="Email Address" id="give-email" value="" required aria-required="true" />
+</p>
+</fieldset>
+<fieldset id="give_purchase_submit">
+<input type="hidden" name="give_action" value="purchase" />
+<input type="hidden" name="give-gateway" value="paypal" />
+<div class="give-submit-button-wrap give-clearfix">
+<input type="submit" class="give-submit give-btn" id="give-purchase-button" name="give-purchase" value="Donate Now" />
+<span class="give-loading-animation"></span>
+</div>
+</fieldset>
+</div>
+</form>
+</div>
+<hr class="progression-hr"></hr>
+<p><iframe class="rumble" src="https://rumble.com/embed/uak7j.v1pltp/" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Former Secret Service agent Dan Bongino ripped into those, specifically Democrats in Congress, who, according to him, want to “bury” the <a href="https://ijr.com/the-declaration/2018/01/1052271-trump-jr-slams-ranking-democrat-on-the-house-intel-committee-after-talk-of-explosive-fisa-memo/">memo</a> that reportedly details FBI abuse of the Foreign Intelligence Surveillance Act.</p>
+<p>“Well, this is very, very damaging for the Democrats,” he told “Fox &amp; Friends” on Monday. “Guys, don’t you find it a little bit curious that the Democrats who only seem to be interested in transparency when it comes to everything Donald Trump are now doing everything in their power to bury this memo?”</p>
+<p>“I’m telling you, what’s likely to be in this memo is an absolute exposing of the Democrat Party of supporters of police state spying. There is no two ways around it and there is a critical question we have to ask ourselves going forward,” he added. &#8211; <a href="https://ijr.com/the-declaration/2018/01/1057210-former-secret-service-agent-says-classified-memo-will-absolutely-expose-the-democratic-party/">READ MORE</a></p>
+<div id="give-form-79809-wrap" class="give-form-wrap give-display-reveal">
+<h2 class="give-form-title">Like Our News? Then Help Support Our Independent Journalism!</h2> <form id="give-form-79809" class="give-form give-form-79809 give-form-type-set float-labels-enabled" action="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/?payment-mode=paypal" data-currency_symbol="&#36;" data-currency_code="USD" data-currency_position="before" data-thousands_separator="," data-decimal_separator="." data-number_decimals="0" method="post">
+
+<span class="give-hidden" style="display: none !important;">
+<label for="give-form-honeypot-79809"></label>
+<input id="give-form-honeypot-79809" type="text" name="give-honeypot" class="give-honeypot give-hidden" />
+</span>
+<input type="hidden" name="give-form-id" value="79809" />
+<input type="hidden" name="give-form-title" value="Like Our News? Then Help Support Our Independent Journalism!" />
+<input type="hidden" name="give-current-url" value="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<input type="hidden" name="give-form-url" value="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" />
+<input type="hidden" name="give-form-minimum" value="10" />
+<input type="hidden" id="_wpnonce" name="_wpnonce" value="23760150d6" /> <div class="give-total-wrap">
+<div class="give-donation-amount form-row-wide">
+<span class="give-currency-symbol give-currency-position-before">&#36;</span> <label class="give-hidden" for="give-amount">Donation Amount:</label>
+<input class="give-text-input give-amount-top" id="give-amount" name="give-amount" type="tel" placeholder="" value="0" autocomplete="off">
+</div>
+</div>
+<p class="give-custom-amount-text">We can only deliver independent news & Intel with your support. Keep our unique voice alive.</p>
+<button type="button" class="give-btn give-btn-reveal">Donate Now</button>
+<fieldset id="give-payment-mode-select">
+<legend class="give-payment-mode-label">Select Payment Method <span class="give-loading-text"><span class="give-loading-animation"></span>
+</span>
+</legend>
+<div id="give-payment-mode-wrap">
+<ul id="give-gateway-radio-list">
+<li class="give-gateway-option-selected">
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-paypal-79809" value="paypal" checked='checked'>
+<label for="give-gateway-paypal-79809" class="give-gateway-option" id="give-gateway-option-paypal"> PayPal</label>
+</li>
+<li>
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-stripe-79809" value="stripe">
+<label for="give-gateway-stripe-79809" class="give-gateway-option" id="give-gateway-option-stripe"> Credit Card</label>
+</li>
+<li>
+<input type="radio" name="payment-mode" class="give-gateway" id="give-gateway-stripe_ach-79809" value="stripe_ach">
+<label for="give-gateway-stripe_ach-79809" class="give-gateway-option" id="give-gateway-option-stripe_ach"> Bank Account</label>
+</li>
+</ul>
+</div>
+</fieldset>
+<div id="give_purchase_form_wrap">
+<fieldset id="give_checkout_user_info">
+<legend>Personal Info</legend>
+<p id="give-first-name-wrap" class="form-row form-row-first form-row-responsive">
+<label class="give-label" for="give-first">
+First Name <span class="give-required-indicator">*</span>
+<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input required" type="text" name="give_first" placeholder="First Name" id="give-first" value="" required aria-required="true" />
+</p>
+<p id="give-last-name-wrap" class="form-row form-row-last form-row-responsive">
+<label class="give-label" for="give-last">
+Last Name <span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this as well to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input" type="text" name="give_last" id="give-last" placeholder="Last Name" value="" />
+</p>
+<p id="give-email-wrap" class="form-row form-row-wide">
+<label class="give-label" for="give-email">
+Email Address <span class="give-required-indicator">*</span>
+<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will send the donation receipt to this address." rel="tooltip"><i class="give-icon give-icon-question"></i></span> </label>
+<input class="give-input required" type="email" name="give_email" placeholder="Email Address" id="give-email" value="" required aria-required="true" />
+</p>
+</fieldset>
+<fieldset id="give_purchase_submit">
+<input type="hidden" name="give_action" value="purchase" />
+<input type="hidden" name="give-gateway" value="paypal" />
+<div class="give-submit-button-wrap give-clearfix">
+<input type="submit" class="give-submit give-btn" id="give-purchase-button" name="give-purchase" value="Donate Now" />
+<span class="give-loading-animation"></span>
+</div>
+</fieldset>
+</div>
+</form>
+</div>
+<hr class="progression-hr"></hr>
+<p>Congressman <a href="http://ijr.com/2018/01/1049142-house-intel-committee-chair-blows-the-whistle-clear-abuse-of-govt-surveillance-programs-in-obama-doj/">Devin Nunes</a> (R-CA) announced just last week he had uncovered clear evidence showing the Obama administration&#8217;s abuse of the surveillance program, and recent <a href="http://www.washingtonexaminer.com/republicans-rally-for-public-release-of-memo-on-fisa-abuses/article/2646412" target="_blank" rel="noopener">reports</a> from Washington have alluded to the existence of a memo that could lay bare the extent of that abuse.</p>
+<p>Former Secret Service Agent <a href="https://www.bongino.com/category/show-notes/" target="_blank" rel="noopener">Dan Bongino</a>, who served in the White House from 2006-2011 under Presidents George W. Bush and Barack Obama, believes this could be the evidence that will change the public&#8217;s view of Obama:</p>
+<blockquote class="twitter-tweet" align="center">
+<p lang="en" dir="ltr">Take it to the bank, the FBI/FISA docs are devastating for the Dems. The whole image of a benevolent Barack Obama they’ve disingenuously tried to portray is about to be destroyed. The real Obama, the vengeful narcissist, is going to be exposed for all to see.</p>
+<p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/954132385582510080?ref_src=twsrc%5Etfw">January 18, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" align="center">
+<p lang="en" dir="ltr">My sincere apologies for the expletive but SHIT IS ABOUT TO HIT THE FAN. <br />The former Obama administration’s going to have a lot of explaining to do. <a href="https://twitter.com/hashtag/Obamagate?src=hash&amp;ref_src=twsrc%5Etfw">#Obamagate</a></p>
+<p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/954145549808259073?ref_src=twsrc%5Etfw">January 19, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" align="center">
+<p lang="en" dir="ltr">The American people MUST see what the Obama administration did in their names. <a href="https://twitter.com/hashtag/ReleasetheMemo?src=hash&amp;ref_src=twsrc%5Etfw">#ReleasetheMemo</a> and witness the unparalleled abuses of power and the police state tactics of the Obama administration. The hack media won’t be able to cover up the shitstorm that’s coming ashore.</p>
+<p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/954179555362787334?ref_src=twsrc%5Etfw">January 19, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" align="center">
+<p lang="en" dir="ltr">Dear <a href="https://twitter.com/Comey?ref_src=twsrc%5Etfw">@Comey</a>, <br />You better prepare another one of your snippy tweets because you’re about to be exposed for the fraud you are. <a href="https://twitter.com/hashtag/ReleasetheMemo?src=hash&amp;ref_src=twsrc%5Etfw">#ReleasetheMemo</a> <a href="https://twitter.com/hashtag/Obamagate?src=hash&amp;ref_src=twsrc%5Etfw">#Obamagate</a></p>
+<p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/954178263038988288?ref_src=twsrc%5Etfw">January 19, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><a href="http://ijr.com/2017/12/1036045-ex-secret-service-agent-says-us-wouldve-rightfully-exploded-agents-plotted-obama/">And Bongino</a>, who has long said the FBI&#8217;s problems are at the top rather than the thousands of well-qualified and dedicated agents, couldn&#8217;t resist a shot at former FBI Director James Comey &#8211; <a href="https://ijr.com/the-declaration/2018/01/1052065-ex-secret-service-agent-warns-st-hit-fan-says-democrats-petrified/">READ MORE</a></p>
+<div id="ld-1633-6105"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:10438213001240166,size:[0, 0],id:"ld-1633-6105"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div class="sfb sfb-wrap"><div style="text-align:left">FOLLOW US!<br /><a class="sfb_facebook_follow" href="https://www.facebook.com/truepunditnews" target="_blank"><img src="https://i2.wp.com/truepundit.com/wp-content/uploads/2017/02/facebook.jpg?w=340" title="Facebook" class="sfb sfb-img" alt="Follow on Facebook" data-recalc-dims="1" /></a><a class="sfb_twitter_follow" href="https://twitter.com/true_pundit" target="_blank"><img src="https://i0.wp.com/truepundit.com/wp-content/uploads/2017/02/twitter.jpg?w=340" title="Twitter" class="sfb sfb-img" alt="Follow on Twitter" data-recalc-dims="1" /></a></div></div><div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Share:</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/" data-a2a-title="White House chief of staff: Republican memo to come out soon"><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Ftruepundit.com%2Fwhite-house-chief-staff-republican-memo-come-soon%2F&amp;linkname=White%20House%20chief%20of%20staff%3A%20Republican%20memo%20to%20come%20out%20soon" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><div class='code-block code-block-1' style='margin: 8px 0; clear: both;'>
+<div id="rcjsload_1620c3"></div>
+<script type="text/javascript">
+(function() {
+var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "https://trends.revcontent.com/serve.js.php?w=77744&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_1620c3"); rcds.appendChild(rcel);
+})();
+</script>
+</div>
+<div class="clearfix"></div>
+<hr>
+</div>
+<div class="clearfix"></div>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'thumbnails-a',
+container: 'taboola-below-article-thumbnails',
+placement: 'Below Article Thumbnails',
+target_type: 'mix'
+});
+</script>
+</section> 
+<div class="clearfix"></div>
+</div>
+<script>
+    jQuery(document).ready(function() {
+    ai_insert ('after', '#ld-1633-6105', jQuery.base64Decode ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTknIHN0eWxlPSdtYXJnaW46IDhweCBhdXRvOyB0ZXh0LWFsaWduOiBjZW50ZXI7IGNsZWFyOiBib3RoOyc+CjxzY3JpcHQgYXN5bmMgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J2h0dHBzOi8vY2RuLmNvbm5hdGl4LmNvbS9taW4vY29ubmF0aXgucmVuZGVyZXIuaW5mZWVkLm1pbi5qcycgZGF0YS1jb25uYXRpeC10b2tlbj0nMjUyMjZiZDctNTYxNC00MTAwLWIyMjYtNjE0ZmZjZmJmMGJkJz48L3NjcmlwdD48L2Rpdj4K'));
+  });
+  </script>
+<script>
+    jQuery(document).ready(function() {
+    ai_insert ('after', '#taboola-below-article-thumbnails', jQuery.base64Decode ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTEwJyBzdHlsZT0nbWFyZ2luOiA4cHggMDsgY2xlYXI6IGJvdGg7Jz4KPGRpdiBpZD0iZW5nYWdlX3RydWVwdW5kaXQiPjwvZGl2Pg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KKGZ1bmN0aW9uKCkgew0KdmFyIG1ldGE9ZG9jdW1lbnQuaGVhZC5xdWVyeVNlbGVjdG9yKCJtZXRhW25hbWU9J2tleXdvcmRzJ10iKSxrPSExO21ldGEmJihrPW1ldGEuY29udGVudCksa3x8KG1ldGE9ZG9jdW1lbnQuaGVhZC5xdWVyeVNlbGVjdG9yKCJtZXRhW3Byb3BlcnR5PSdvZzp0aXRsZSddIikpJiYoaz1tZXRhLmNvbnRlbnQpLGt8fChtZXRhPWRvY3VtZW50LmhlYWQucXVlcnlTZWxlY3RvcigibWV0YVtwcm9wZXJ0eT0ndGl0bGUnXSIpKSYmKGs9bWV0YS5jb250ZW50KSxrPWs/ZW5jb2RlVVJJKGspOiIiOw0KdmFyIHJlZmVyZXI9IiI7dHJ5e2lmKHJlZmVyZXI9ZG9jdW1lbnQucmVmZXJyZXIsInVuZGVmaW5lZCI9PXR5cGVvZiByZWZlcmVyfHwiIj09cmVmZXJlcil0aHJvdyJ1bmRlZmluZWQifWNhdGNoKGV4Y2VwdGlvbil7cmVmZXJlcj1kb2N1bWVudC5sb2NhdGlvbi5ocmVmLCgiIj09cmVmZXJlcnx8InVuZGVmaW5lZCI9PXR5cGVvZiByZWZlcmVyKSYmKHJlZmVyZXI9ZG9jdW1lbnQuVVJMKX1yZWZlcmVyPXJlZmVyZXIuc3Vic3RyKDAsNzAwKTsNCnZhciByY2VsID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7DQpyY2VsLmlkPSAncmNfJyArIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDEwMDApOw0KcmNlbC50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7DQpyY2VsLnNyYyA9ICIvL3RyZW5kcy5lbmdhZ2UuaW0vZmVlZC5qcy5waHA/dz04OTk2OSZ0PSIrcmNlbC5pZCsiJmM9IisobmV3IERhdGUoKSkuZ2V0VGltZSgpKyImd2lkdGg9Iisod2luZG93Lm91dGVyV2lkdGggfHwgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoKSsiJnJlZmVyZXI9IityZWZlcmVyKyImaz0iK2s7DQpyY2VsLmFzeW5jID0gdHJ1ZTsNCnZhciByY2RzID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImVuZ2FnZV90cnVlcHVuZGl0Iik7IHJjZHMuYXBwZW5kQ2hpbGQocmNlbCk7DQp9KSgpOw0KPC9zY3JpcHQ+DQo8L2Rpdj4K'));
+  });
+  </script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXW4B3P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script type="text/javascript">
+		(function() {
+		var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+		var rcel = document.createElement("script");
+		rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+		rcel.type = 'text/javascript';
+		rcel.src = "https://trends.revcontent.com/serve.js.php?w=87942&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+		rcel.async = true;
+		var rcds = document.getElementById("rcjsload_d0b225"); rcds.appendChild(rcel);
+		})();
+		</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script> <div style="display:none">
+</div>
+
+<script type="text/javascript">
+			var _qevents = _qevents || [];
+
+			(function() {
+				var elem = document.createElement('script');
+				elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+				elem.async = true;
+				elem.type = "text/javascript";
+				var scpt = document.getElementsByTagName('script')[0];
+				scpt.parentNode.insertBefore(elem, scpt);
+			})();
+
+			_qevents.push({
+				qacct:"p-gVPDLMht2dTf3",
+				source:"wp"
+			});
+		</script>
+<noscript>
+		<div style="display:none;">
+			<img src="//pixel.quantserve.com/pixel/p-gVPDLMht2dTf3.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+		</noscript>
+
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/simple-follow-buttons/js/sfb.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://cdn.plaid.com/link/stable/link-initialize.js' defer onload=''></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js' defer onload=''></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/jetpack/modules/wpgroho.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/add-to-any/addtoany.admin.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://truepundit.com/wp-includes/js/wp-embed.min.js' defer onload=''></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201807.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.8',blog:'112693375',post:'669255',tz:'-5',srv:'truepundit.com'} ]);
+	_stq.push([ 'clickTrackerInit', '112693375', '669255' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"55e6906457","applicationID":"97201659","transactionName":"ZARaNkIAD0NTWxBeCV1OeQFECA5eHUsNWQFfBA==","queueTime":0,"applicationTime":1397,"atts":"SENZQAoaHE0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
