@@ -1,0 +1,1980 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head prefix="og: http://ogp.me/ns#
+	fb: http://ogp.me/ns/fb#">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	<meta property="fb:pages" content="9800035481" />
+	<meta name="msvalidate.01" content="87B78205BB25666E656DA3EB49F3FD42" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<meta name="st:robots" content="follow, index">
+	<title>&#8216;The First Purge&#8217; Teaser Trailer Will Make America Great Again | IndieWire</title>
+			<!-- Hotjar Tracking Code for http://www.indiewire.com -->
+		<script>
+			(function(h,o,t,j,a,r){
+				h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+				h._hjSettings={hjid:676291,hjsv:5};
+				a=o.getElementsByTagName('head')[0];
+				r=o.createElement('script');r.async=1;
+				r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+				a.appendChild(r);
+			})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<!-- BEGIN Amazon Apstag -->
+<script>
+	!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+	apstag.init({
+		pubID: 3157,
+		adServer: 'googletag',
+		videoAdServer: 'DFP',
+		bidTimeout: 2e3
+	});
+</script>
+<!-- End Amazon Apstag -->
+
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="KZEd1R95" data-timing="async" data-version="3.0" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    k.src="https:\/\/cdn.krxd.net\/controltag\/KZEd1R95.js";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+	
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- Quantcast tag End, part 1 -->
+
+	
+<meta name="description" content="The &quot;Purge&quot; prequel will return fans to the very first eponymous event." />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="The First Purge" />
+
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"indiewire","page-type":"article","env":"desktop","primary-category":"Film","primary-vertical":"","vertical":"","category":["Film"],"tag":["The First Purge"],"author":["Kate Erbland"],"logged-in":"","subscriber-type":"","country":"us"};
+
+/* ]]> */
+</script>
+		<script>
+			(function(d,w){
+				var i, parts, name, c, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g, ac = (d ? d.split('; ') : []);
+				for(w.pmc_cookies = {}, i = 0; i < ac.length; i++) {
+					parts = ac[i].split('='), name = parts[0].replace(rdecode, decodeURIComponent), c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); } c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' '); w['pmc_cookies'][name] = c;
+				}
+			})(document.cookie, window);
+
+			pmc_meta=pmc_meta || {}, pmc_meta.omni_visit_id = window.pmc_cookies.omni_visit_id || "indiewire." + new Date().getTime() + '.' + (function(l,b,a,c,i,d){for(i=0;i<256;i++){l[i]=(i<16?'0':'')+(i).toString(16);}if(c&&c.getRandomValues){try{d=new Uint32Array(4),c.getRandomValues(d);}catch(e){d=0;}}d=d||[b()*a>>>0,b()*a>>>0,b()*a>>>0,b()*a>>>0];a=d[0],b=d[1],c=d[2],d=d[3];return l[a&0xff]+l[a>>8&0xff]+l[a>>16&0xff]+l[a>>24&0xff]+'-'+l[b&0xff]+l[b>>8&0xff]+'-'+l[b>>16&0x0f|0x40]+l[b>>24&0xff]+'-'+l[c&0x3f|0x80]+l[c>>8&0xff]+'-'+l[c>>16&0xff]+l[c>>24&0xff]+l[d&0xff]+l[d>>8&0xff]+l[d>>16&0xff]+l[d>>24&0xff];})([],Math.random,0x100000000,window.crypto||window.msCrypto);
+			var d = new Date(); d.setTime(d.getTime() + ( 60 * 60 * 1000 )); var expires = d.toGMTString(); var path = "/"; var domain = window.location.hostname;
+			document.cookie = 'omni_visit_id=' + encodeURIComponent(pmc_meta.omni_visit_id) + ( expires ? '; expires=' + expires : '' ) + ( path ? '; path=' + path : '' ) + ( domain ? '; domain=' + domain : '' );
+		</script>
+				<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script>
+			window.pmc_is_adblocked = false;
+		</script>
+		<link rel="dns-prefetch" href="i0.wp.com" />
+<link rel="dns-prefetch" href="i1.wp.com" />
+<link rel="dns-prefetch" href="i2.wp.com" />
+<link rel="dns-prefetch" href="google-analytics.com" />
+<link rel="dns-prefetch" href="partner.googleadservices.com" />
+<link rel="dns-prefetch" href="googletagservices.com" />
+<link rel="dns-prefetch" href="google-analytics.com" />
+<link rel="dns-prefetch" href="googletagmanager.com" />
+<link rel="dns-prefetch" href="fonts.gstatic.com" />
+<link rel="dns-prefetch" href="pages.email.indiewire.com" />
+<link rel="dns-prefetch" href="twitter.com" />
+<link rel="dns-prefetch" href="platform.twitter.com" />
+<link rel="dns-prefetch" href="pmc-d.openx.net" />
+<link rel="dns-prefetch" href="load.instinctiveads.com" />
+<link rel="dns-prefetch" href="adg.bzgint.com" />
+<link rel="dns-prefetch" href="c.amazon-adsystem.com" />
+<link rel="dns-prefetch" href="aax.amazon-adsystem.com" />
+<link rel="dns-prefetch" href="cdn.krxd.net" />
+<link rel="dns-prefetch" href="ag.innovid.com" />
+<link rel="dns-prefetch" href="match.adsrvr.org" />
+<link rel="dns-prefetch" href="ads.rubiconproject.com" />
+<link rel="dns-prefetch" href="js.moatads.com" />
+<link rel="dns-prefetch" href="cm.g.doubleclick.net" />
+<link rel="dns-prefetch" href="adserver.genesismediaus.com" />
+<link rel="dns-prefetch" href="schema.org" />
+<link rel="dns-prefetch" href="widgets.outbrain.com" />
+<link rel="dns-prefetch" href="images.outbrain.com" />
+<link rel="dns-prefetch" href="b.scorecardresearch.com" />
+<link rel="dns-prefetch" href="sb.scorecardresearch.com" />
+<link rel="dns-prefetch" href="pixel.quantserve.com" />
+<link rel="dns-prefetch" href="secure.quantserve.com" />
+<link rel="dns-prefetch" href="content.jwplatform.com" />
+<link rel="dns-prefetch" href="cc.swiftype.com" />
+<link rel="dns-prefetch" href="dl9fvu4r30qs1.cloudfront.net" />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//d9etzk30b05yg.cloudfront.net' />
+<link rel='dns-prefetch' href='//video-cdn.indiewire.com' />
+<link rel='dns-prefetch' href='//s.swiftypecdn.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//load.instinctiveads.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="IndieWire &raquo; Feed" href="http://www.indiewire.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IndieWire &raquo; Comments Feed" href="http://www.indiewire.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IndieWire &raquo; &#8216;The First Purge&#8217; Teaser Trailer Will Make America Great Again, Complete With Government-Sanctioned Murder &#8212; Watch Comments Feed" href="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.indiewire.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0' href='http://www.indiewire.com/_static/??-eJydj90KwjAMRl/IWiZOvBEfRbo23YJdU5JsY2/vmOAP3gzvknycEz47FeMpK2S1JQ0tZrGl9+ZzbhM1Lpk4ZK9Iy9HLV0AjMGMA2S/Bzm4wRiIFfnme62aaITmFYBLm++oQnRNsxmXCqHMB60RA5R8DeVx6S+cYTOPY3poBU1hNkVc4/Mi0gx7EYg4IEzK8f177S1VXp+pYH+rzA+EPlr4=' type='text/css' media='all' />
+<link rel='stylesheet' id='alfa-slab-one-css'  href='https://fonts.googleapis.com/css?family=Alfa+Slab+One&#038;ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%2C900&#038;ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4' href='http://www.indiewire.com/_static/??-eJxtjkEKwzAMBD9UdRNCaC+lbzG2CG4s2yAZ0983gQZyyG0Os8OiV/IlG2eDNKqpLTErPmzV+RVSQkus6DEsbApum13WyJRch9o38d2r3nDKHI0qns7sgmBzD6br9cWJffTnXX/La5zH5zDN0/D4AWBNRp0=' type='text/css' media='all' />
+<style id='pmc-adm-style-inline-css' type='text/css'>
+div.admz, div.admz-sp { margin-left: auto; margin-right: auto; text-align: center; } #skin-ad-inject-container { display: none; }
+</style>
+<script type="text/javascript" src="//www.indiewire.com/wp-content/plugins/pmc-plugins/pmc-global-functions/js/pmc-utils.js"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'http://www.indiewire.com/wp-content/themes/indiewire/',
+				current_theme_uri: 'http://www.indiewire.com/wp-content/themes/indiewire/',
+				fb_channel_uri: 'http://www.indiewire.com/wp-content/plugins/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"1201923486","dimension4":"kate-erbland","dimension5":"film","dimension6":"the-first-purge","dimension8":"film","dimension10":"2018","dimension11":"01","dimension12":"31","dimension13":"10","dimension14":"18","dimension25":"2018-01-31T15:18:25+00:00","dimension26":"2018-01-31 10:18:25","dimension27":"Wednesday","dimension29":"anonymous"};			pmc_ga_dimensions["dimension15"] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							if( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ){
+				window[dim]["dimension28"] = pmc_meta.omni_visit_id;
+			}
+					})('pmc_ga_dimensions');
+
+			var pmc_ga_fields_obj = {"useAmpClientId":true};
+			ga('create', "UA-3922545-4", 'auto', pmc_ga_fields_obj);
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+			
+			
+			ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_header_bidder_script_object = {"pmc_header_bidder_timeout":"1000","pmc_header_bidding_on_gallery":"no","pmc_hb_gallery_timeout":"500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indiewire.com/_static/??-eJyljtsKwjAMhl/Irow5xAvxWbI2du3aZvbg4e3tpoJeOBQhkPAl+fj5eWTaC5slRm5KHTOG66NVJq740gFzWgVIWDntn8eCfEKf+Giz0j5yMHAp0LkCmSWQ2qtJpIiURQbCfvocnWCvc48gMbBOy9kBMWKaM40BC1wK8bXqffGLUlnqwLJD9iJp8vdghQd0dEKWAohhUv6p64mGWCR7t6vberNt63XTmBvPuanf'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var configuration = {"rendererBaseUrl":"\/\/renderer.qmerce.com","randomBaseUrl":"\/\/random.qmerce.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='//d9etzk30b05yg.cloudfront.net/js/sdk/v2.0/apester-javascript-sdk.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_breaking_news_hash = {"hash":"01c5549b8e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indiewire.com/wp-content/plugins/pmc-plugins/pmc-breaking-news/js/breaking-news.js?m=1504278733g'></script>
+<script type='text/javascript' src='//video-cdn.indiewire.com/libraries/PbCxl3wn.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/www.indiewire.com\/wp-content\/plugins\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_apstag = {"is_enabled":"enabled","is_gallery":"enabled","is_video":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_adm_config = {"dfp_skin_main_content":["layout-container"],"disable_gpt_single_request":"0","krux_header_bidder_active":"","lazy_load_override":"disable","page_level_referrer_targeting":"enable"};
+var pmc_header_bidder = {"active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indiewire.com/_static/??-eJydk8FOwzAMhl+IJIwNekKc4TpeIEtM65LEIXY7laen7QANxEQ3KQfbyvfbVv6YfVaOkkASk0NXY2KTo1PHcY8eaKzYAYpp2bArmEW3fGUW0I4iOyowkcf5Ut5G+05J2cxia2OZQXjS+lH/LSYNRGCDySPs8dA84M7siISl2KzW+kZf64hpCdqTA9OA9YUongW1bx2UQZ/LTrN+op7kcJayBetGVLEYjPQBEygWdK/DXFrYnL+6cxgf/4KpR49QCM+kVnqj784R2GLMAZ5sb7ezzx5TAwXFJvfnHCdt4+Ok6F+ygn68OIe6Hn0bqK6haOqhlBPL/SPK1BUHu45l/BDHyQVagaz/Bh/i/ep2Va03m6qq2g8lg1m9'></script>
+<script type='text/javascript' src='https://load.instinctiveads.com/i.js?ver=4.9.4'></script>
+<link rel='https://api.w.org/' href='https://www.indiewire.com/wp-json/' />
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://wp.me/p7Aica-1jl9cG' />
+<link rel="alternate" type="application/json+oembed" href="https://www.indiewire.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.indiewire.com%2F2018%2F01%2Fthe-first-purge-teaser-trailer-make-america-great-again-1201923486%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.indiewire.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.indiewire.com%2F2018%2F01%2Fthe-first-purge-teaser-trailer-make-america-great-again-1201923486%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><meta name="author" content="Kate Erbland">		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+					<meta property="fb:pages" content="9800035481" />
+					<script>
+			try {
+				// Don't rely on jQuery being loaded yet.
+				document.addEventListener( 'DOMContentLoaded', function() {
+					// Record in GA event if ads are blocked.
+					if ( true === window.pmc_is_adblocked ) {
+						ga( 'send', 'event', 'ad_blocker', 'blocked', 'ads_blocked', {
+							nonInteraction: true
+						});
+					}
+				});
+			} catch( err ) {
+				// Do nothing...
+			}
+		</script>
+				<link rel="search" type="application/opensearchdescription+xml"
+		      href="http://www.indiewire.com/pmc-opensearch"
+		      title="IndieWire  Search"/>
+	
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+<link rel="canonical" href="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/" />
+
+<!-- Swiftype Meta Tags Start -->
+<meta class="swiftype" name="content_type" data-type="string" content="Article" />
+<meta class="swiftype" name="title" data-type="string" content="&#039;The First Purge&#039; Teaser Trailer Will Make America Great Again, Complete With Government-Sanctioned Murder -- Watch" />
+<meta class="swiftype" name="author" data-type="string" content="Kate Erbland" />
+<meta class="swiftype" name="published_at" data-type="date" content="2018-01-31 10:18:25" />
+<meta class="swiftype" name="image" data-type="enum" content="http://www.indiewire.com/wp-content/uploads/2018/01/the-first-purge.jpg?w=300" />
+<meta class="swiftype" name="comment_count" data-type="integer" content="0" />
+<meta class="swiftype" name="tags" data-type="string" content="The First Purge" />
+<meta class="swiftype" name="topics" data-type="string" content="Film" />
+<meta class="swiftype" name="body" data-type="text" content="The newest film in the blockbuster &quot;Purge&quot; franchise is not messing around. Titled &quot;The First Purge,&quot; the new prequel has gone all-in on Make America Great Again imaginary, complete with its first poster -- a spin on Donald Trump&#039;s infamous red baseball hats -- to sell what looks to be a chilling introduction to how America came to embrace the concept of one free-for-all day of crime. You know, to make America great again.
+
+The new film is the first &quot;Purge&quot; offering to not be helmed by creator James DeMonaco, though he did provide the screenplay for this outing. Instead, &quot;Burning Sands&quot; filmmaker Gerard McMurray will take over directorial duties. &quot;The First Purge&quot; stars &quot;Insecure&quot; standount Y’lan Noel, along with Lex Scott Davis, Joivan Wade, Melonie Diaz, Luna Lauren Velez, and Marisa Tomei.
+
+
+
+Playing like a run-of-the-mill campaign ad and just packed with patriotic imagery -- swaying flags, lots of farmland, happy families -- the film&#039;s first teaser hints at the kind of mindset that led to the implementation of the Purge. Timely.
+
+“What makes America great?” the teaser&#039;s omnipresent voiceover asks. “The answer’s simple, really: Americans make America great.&quot; It continues, &quot;You are the lifeblood of the nation and your rights as Americans must be safeguarded. There is only one solution to keep our country great: a new tradition. Participate today and nothing will make you prouder than when your boy looks up at you and says, ‘Dad, I wanna purge too!&#039;”
+
+Check out the first teaser trailer for &quot;The First Purge&quot; below.
+
+https://www.youtube.com/watch?v=gYYMnkoFtjM
+
+&quot;The First Purge&quot; will hit theaters on July 4. Happy Independence Day, America.
+
+Sign Up: Stay on top of the latest breaking film and TV news! Sign up for our Email Newsletters here." />
+<!-- Swiftype Meta Tags End -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_site_config = {"rot13_hostname":"jjj.vaqvrjver.pbz","hostname":"www.indiewire.com","is_proxied":null};
+
+/* ]]> */
+</script>
+		<script type='text/javascript'>
+			var pmc_tracking_url = "https://s3.amazonaws.com/heartbeat.pmc.com/track?host=www.indiewire.com&path=%2F2018%2F01%2Fthe-first-purge-teaser-trailer-make-america-great-again-1201923486%2F&ct=article&lob=indiewire&loc=us&env=desktop&post_id=1201923486";
+			var pmc_tracking_image = new Image();
+			if ( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ) {
+				pmc_tracking_url = pmc_tracking_url + '&omni_visit_id=' + pmc_meta.omni_visit_id;
+			}
+			if ( 'string' === typeof window.location.hash && window.location.hash.length ) {
+				pmc_tracking_url = pmc_tracking_url + "&h=" + encodeURIComponent( window.location.hash );
+			}
+			pmc_tracking_image.src = pmc_tracking_url + "&ts=" + Date.now();
+		</script>
+				<style type="text/css">
+						.site-title,
+				.site-description {
+					position: absolute;
+					clip: rect(1px, 1px, 1px, 1px);
+				}
+					</style>
+		<script async src="//js-sec.indexww.com/ht/p/182698-23476390810320.js"></script><meta property="og:site_name" content="IndieWire" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/" />
+<meta property="og:title" content="&#8216;The First Purge&#8217; Teaser Trailer Will Make America Great Again, Complete With Government-Sanctioned Murder &#8212; Watch" />
+<meta property="og:description" content="The timely &quot;Purge&quot; prequel will introduce fans to the very events that made government-sanctioned crime such a blockbuster topic." />
+<meta property="article:published_time" content="2018-01-31T15:18:25+00:00" />
+<meta property="article:modified_time" content="2018-01-31T15:18:25+00:00" />
+<meta property="article:author" content="http://www.indiewire.com/author/kateindiewire/" />
+<meta property="article:section" content="Film" />
+<meta property="article:tag" content="The First Purge" />
+<meta property="og:image" content="http://www.indiewire.com/wp-content/uploads/2018/01/the-first-purge.jpg" />
+<meta property="og:image:width" content="780" />
+<meta property="og:image:height" content="356" />
+<link rel="amphtml" href="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/amp/" /><meta name="fragment" content="!" />
+<script type="text/javascript">
+	ajaxurl = 'https://www.indiewire.com/wp-admin/admin-ajax.php';
+	gpid = '1201923486';
+	cpage = ''
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"indiewire","page-type":"article","env":"desktop","primary-category":"Film","primary-vertical":"","vertical":"","category":["Film"],"tag":["The First Purge"],"author":["Kate Erbland"],"logged-in":"","subscriber-type":""};
+
+/* ]]> */
+</script>
+<link rel="icon" href="http://www.indiewire.com/wp-content/uploads/2016/05/favicon1.png?w=32" sizes="32x32" />
+<link rel="icon" href="http://www.indiewire.com/wp-content/uploads/2016/05/favicon1.png?w=144" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.indiewire.com/wp-content/uploads/2016/05/favicon1.png?w=144" />
+<meta name="msapplication-TileImage" content="http://www.indiewire.com/wp-content/uploads/2016/05/favicon1.png?w=144" />
+			<style type="text/css" id="wp-custom-css">
+				/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/			</style>
+		</head>
+<body class="post-template-default single single-post postid-1201923486 single-format-standard pmc-desktop pmc-no-tablet pmc-no-mobile geo-us pmc-group-pmc-dev pmc-group-pmc-product">
+		<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3K4Q7"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W3K4Q7');</script>
+	<!-- End Google Tag Manager -->
+
+	<script async="1">
+	(function() {
+		__mtm = [ "5797b793346d11bd351aacb4", "cdn01.mzbcdn.net/mngr" ];
+		var s = document.createElement('script');
+		s.async = 1;
+		s.src = '//' + __mtm[1] + '/mtm.js';
+		var e = document.getElementsByTagName('script')[0];
+		(e.parentNode || document.body).insertBefore(s, e);
+	})();
+</script><div  id="pmc-adm-interrupts-container" class="interstitial" >
+	<script type="text/javascript" language="javascript">
+		pmc_admanager.settings.interrupt_counter = 15;
+	</script>
+	<div id="ad-interruptus-header">
+		<a href="javascript:pmc_admanager.hide_interrupt_ads();"><div id="site-logo">
+			<img src="//www.indiewire.com/wp-content/themes/indiewire/sprites/logo/Logo_IndieWire.png" />
+		</div></a>
+		<div id="continue-link">
+			<a href="javascript:pmc_admanager.hide_interrupt_ads();" class="skip-ad-close"></a>
+			<a href="javascript:pmc_admanager.hide_interrupt_ads();">Continue to IndieWire</a>
+			<a href="javascript:pmc_admanager.hide_interrupt_ads();" class="skip-ad-text">SKIP AD</a>
+		</div>
+	</div>
+
+	<div id="timer">
+		You will be redirected back to your article in <span id="pmc_ads_interrupts_timer"></span> seconds
+		<script type="text/javascript" language="javascript">
+			pmc_admanager.interrupt_timer();
+		</script>
+	</div>
+	<div id="pmc-adm-ad-interrupts"><div class="admz" id="adm-interstitial">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="970">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-indiewire-interstitial-uid1" class=" adw-970 adh-600"></div>
+	</div>
+		</div>
+
+	</div>
+</div>
+</div><script type="text/javascript" id="show-interrupts">
+	var ck = 'pmc-adi-31bb2464aad8b905af7a81e1d57b77ae';
+
+	var cookie_check = pmc.cookie.get( ck );
+	var show_interrupt_hash = location.hash;
+
+	if( show_interrupt_hash.indexOf('showinterrupt') > -1 ){
+		// we want to force the interrupt to be shown for 200 seconds without a cookie written or any other check.
+		pmc_admanager.settings.interrupt_counter = 200;
+		pmc_admanager.show_interrupt_ads();
+
+	}else if( cookie_check == null || typeof cookie_check === 'undefined' || cookie_check == ''){
+		pmc_adm_has_interrupts = true; // global variabl telling us that there is an interstitial or prestitial on this page.
+		// we got to this point so we need to set the cookie so that this overlay doesn't show up again.
+		//set endpoint cookie
+		pmc.cookie.set(ck, 1, 21600, '/');
+
+		pmc_admanager.show_interrupt_ads();
+	}
+
+</script>
+<!-- Placeholder for Responsive Skin Ad -->
+<div id="skin-ad-section">
+
+	<div id="skin-ad-left-rail-container"></div>
+
+	<div id="skin-ad-right-rail-container"></div>
+	<div id="skin-ad-inject-container">
+		<div class="admz" id="adm-responsive-skin-ad">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-iw-ros-skin-uid2" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+</div>
+
+<!-- End Placeholder for Responsive Skin Ad -->		<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
+	
+	<div id="leaderboard-no-padding">
+		<div id="leaderboard" class="iw-leaderboard-ad">
+			<div class="admz" id="adm-leaderboard">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="970">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-indiewire-ros-leaderboard-uid3" class="ad-rotatable adw-970 adh-90"></div>
+	</div>
+		</div>
+
+	</div>
+		</div><!-- END #leaderboard -->
+	</div>
+
+	    	<section id="layout-container">
+ 							<div id="back-to-brand">
+	<a href="http://www.indiewire.com">
+		<i class="fa fa-angle-double-left" aria-hidden="true"></i>Back to IndieWire	</a>
+</div>				<div id="masthead-section">
+			<div class="masthead-module">
+				<div class="module-hidden-on-mobile module-hidden-on-tablet">
+					<div class="header-flex-container">
+						<div id="top-logo" class="header-flex-item">
+							<a href="http://www.indiewire.com"></a>
+						</div>
+													<div id="masthead-right-side" class="header-flex-item">
+								<ul id="main-nav" class="" role="navigation"><li id="menu-item-1201713179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1201713179"><a href="http://www.indiewire.com/2018/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-1201714795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714795"><a href="http://www.indiewire.com/2018/">All News</a></li>
+	<li id="menu-item-1201747581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201747581"><a href="http://www.indiewire.com/gallery/">Galleries</a></li>
+	<li id="menu-item-1201713183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713183"><a href="http://www.indiewire.com/t/lists/">Lists</a></li>
+	<li id="menu-item-1201713184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713184"><a href="http://www.indiewire.com/t/box-office/">Box Office</a></li>
+	<li id="menu-item-1201681944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681944"><a href="/t/trailers">Trailers</a></li>
+	<li id="menu-item-1201713185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713185"><a href="http://www.indiewire.com/t/festivals/">Festivals</a></li>
+	<li id="menu-item-1201681939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681939"><a href="/t/acquisitions/">Acquisitions</a></li>
+	<li id="menu-item-1201740197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201740197"><a href="http://www.indiewire.com/t/music/">Music</a></li>
+	<li id="menu-item-1201683026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201683026"><a href="/v/thompsononhollywood/">Thompson on Hollywood</a></li>
+</ul>
+</li>
+<li id="menu-item-1201713193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1201713193"><a href="http://www.indiewire.com/c/film/">Film</a>
+<ul class="sub-menu">
+	<li id="menu-item-1201714796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714796"><a href="http://www.indiewire.com/c/film/">All Film</a></li>
+	<li id="menu-item-1201758846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1201758846"><a href="http://www.indiewire.com/c/filmstruck/">Movies That Inspire Me</a></li>
+	<li id="menu-item-1201681942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681942"><a href="/film/?in_theaters=true">New Releases</a></li>
+	<li id="menu-item-1201713194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713194"><a href="http://www.indiewire.com/t/reviews/">Reviews</a></li>
+	<li id="menu-item-1201713195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713195"><a href="http://www.indiewire.com/t/interviews/">Interviews</a></li>
+	<li id="menu-item-1201713198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713198"><a href="http://www.indiewire.com/t/video/">Video</a></li>
+	<li id="menu-item-1201713201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713201"><a href="http://www.indiewire.com/t/podcasts/">Podcasts</a></li>
+	<li id="menu-item-1201714806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714806"><a href="http://www.indiewire.com/t/digital/">Digital</a></li>
+</ul>
+</li>
+<li id="menu-item-1201681950" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1201681950"><a href="http://www.indiewire.com/c/television/">TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-1201714799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714799"><a href="http://www.indiewire.com/c/television/">All TV</a></li>
+	<li id="menu-item-1201713174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713174"><a href="http://www.indiewire.com/t/tv-reviews/">Reviews</a></li>
+	<li id="menu-item-1201713175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713175"><a href="http://www.indiewire.com/t/tv-interviews/">Interviews</a></li>
+	<li id="menu-item-1201713176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713176"><a href="http://www.indiewire.com/t/video/">Video</a></li>
+	<li id="menu-item-1201713200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713200"><a href="http://www.indiewire.com/t/podcasts/">Podcasts</a></li>
+	<li id="menu-item-1201714805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714805"><a href="http://www.indiewire.com/t/digital/">Digital</a></li>
+	<li id="menu-item-1201725775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201725775"><a href="http://www.indiewire.com/t/emmys/">Emmys</a></li>
+	<li id="menu-item-1201818271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201818271"><a href="http://www.indiewire.com/t/upfronts/">Upfronts</a></li>
+	<li id="menu-item-1201723559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201723559"><a href="/t/fall-tv-preview/%20">Fall TV Preview</a></li>
+</ul>
+</li>
+<li id="menu-item-1201681946" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1201681946"><a href="http://www.indiewire.com/c/awards/">Awards</a>
+<ul class="sub-menu">
+	<li id="menu-item-1201714801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714801"><a href="http://www.indiewire.com/c/awards/">All Awards</a></li>
+	<li id="menu-item-1201928659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201928659"><a href="http://www.indiewire.com/2018/02/2018-oscar-ballot-predictions-best-picture-pool-1201926590/">Oscar Ballot</a></li>
+	<li id="menu-item-1201928695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201928695"><a href="http://www.indiewire.com/c/awards-spotlight/">Awards Spotlight</a></li>
+	<li id="menu-item-1201893320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201893320"><a href="http://www.indiewire.com/t/iw-honors/">Honors</a></li>
+	<li id="menu-item-1201681947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681947"><a href="/2017/03/emmy-predictions-2017-69-primetime-emmys-1201786718/">Emmy Predictions</a></li>
+	<li id="menu-item-1201683037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201683037"><a href="/2017/03/oscar-predictions-2018-academy-awards-1201789008/">Oscar Predictions</a></li>
+	<li id="menu-item-1201719686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201719686"><a href="http://www.indiewire.com/2017/07/awards-calendar-2017-2018-oscars-golden-globes-indie-spirits-1201792252/">Awards Calendar</a></li>
+	<li id="menu-item-1201713243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713243"><a href="http://www.indiewire.com/t/top-of-the-line/">Top of the Line</a></li>
+	<li id="menu-item-1201682763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201682763"><a href="/v/thompsononhollywood/">Thompson on Hollywood</a></li>
+	<li id="menu-item-1201713244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713244"><a href="http://www.indiewire.com/t/animation/">Animation</a></li>
+	<li id="menu-item-1201713246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713246"><a href="http://www.indiewire.com/t/podcasts/">Podcasts</a></li>
+	<li id="menu-item-1201746548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201746548"><a href="http://www.indiewire.com/t/toh-video/">TOH Video</a></li>
+</ul>
+</li>
+<li id="menu-item-1201681953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1201681953"><a href="http://www.indiewire.com/c/filmmaker-toolkit/">Toolkit</a>
+<ul class="sub-menu">
+	<li id="menu-item-1201714803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714803"><a href="http://www.indiewire.com/c/filmmaker-toolkit/">All Toolkit</a></li>
+	<li id="menu-item-1201681954" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681954"><a href="/t/project-of-the-day/">Project of the Day</a></li>
+	<li id="menu-item-1201713202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713202"><a href="http://www.indiewire.com/t/filmmaker-toolkit/">Filmmaker Toolkit</a></li>
+</ul>
+</li>
+<li id="menu-item-1201681957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1201681957"><a href="#">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-1201681962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1201681962"><a href="http://www.indiewire.com/about-us/">About</a></li>
+	<li id="menu-item-1201681963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1201681963"><a href="http://www.indiewire.com/team/">Team</a></li>
+	<li id="menu-item-1201681961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1201681961"><a href="http://www.indiewire.com/advertise/">Advertise with Indiewire</a></li>
+</ul>
+</li>
+</ul>							</div>
+							<div class="header-flex-item">
+										<section id="swiftype-search-widget" class="swiftype">
+			<div class="search_form block search_form_widget">
+				<div data-st-search-form="small_search_form"></div>
+			</div>
+		</section>
+									</div>
+												</div>
+				</div>
+				<div class="module-hidden-on-desktop mobile-masthead">
+					<div id="mobile-search-container">
+						<form role="search" method="get" class="search-form" action="/">
+							<label>
+								<span class="fa fa-search"></span>
+								<input type="search" class="search-field" value="" name="s" placeholder="Search">
+							</label>
+							<input type="submit" value=" " title="Search">
+						</form>
+					</div>
+					<div id="mobile-top">
+						<a href="#" id="mobile-menu">
+							<span class="fa fa-bars"></span>
+						</a>
+						<a href="http://www.indiewire.com" id="mobile-logo"><img alt="Indiewire" src="http://www.indiewire.com/wp-content/themes/indiewire/sprites/logo/Logo_IndieWire.png" alt="IndieWire"/></a>
+						<span id="mobile-search"><span class="fa fa-search"></span></span>
+						<ul id="mobile-nav" class="" role="navigation"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1201713179"><a href="http://www.indiewire.com/2018/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714795"><a href="http://www.indiewire.com/2018/">All News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201747581"><a href="http://www.indiewire.com/gallery/">Galleries</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713183"><a href="http://www.indiewire.com/t/lists/">Lists</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713184"><a href="http://www.indiewire.com/t/box-office/">Box Office</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681944"><a href="/t/trailers">Trailers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713185"><a href="http://www.indiewire.com/t/festivals/">Festivals</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681939"><a href="/t/acquisitions/">Acquisitions</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201740197"><a href="http://www.indiewire.com/t/music/">Music</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201683026"><a href="/v/thompsononhollywood/">Thompson on Hollywood</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1201713193"><a href="http://www.indiewire.com/c/film/">Film</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714796"><a href="http://www.indiewire.com/c/film/">All Film</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1201758846"><a href="http://www.indiewire.com/c/filmstruck/">Movies That Inspire Me</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681942"><a href="/film/?in_theaters=true">New Releases</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713194"><a href="http://www.indiewire.com/t/reviews/">Reviews</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713195"><a href="http://www.indiewire.com/t/interviews/">Interviews</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713198"><a href="http://www.indiewire.com/t/video/">Video</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713201"><a href="http://www.indiewire.com/t/podcasts/">Podcasts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714806"><a href="http://www.indiewire.com/t/digital/">Digital</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1201681950"><a href="http://www.indiewire.com/c/television/">TV</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714799"><a href="http://www.indiewire.com/c/television/">All TV</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713174"><a href="http://www.indiewire.com/t/tv-reviews/">Reviews</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713175"><a href="http://www.indiewire.com/t/tv-interviews/">Interviews</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713176"><a href="http://www.indiewire.com/t/video/">Video</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713200"><a href="http://www.indiewire.com/t/podcasts/">Podcasts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714805"><a href="http://www.indiewire.com/t/digital/">Digital</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201725775"><a href="http://www.indiewire.com/t/emmys/">Emmys</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201818271"><a href="http://www.indiewire.com/t/upfronts/">Upfronts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201723559"><a href="/t/fall-tv-preview/%20">Fall TV Preview</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1201681946"><a href="http://www.indiewire.com/c/awards/">Awards</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714801"><a href="http://www.indiewire.com/c/awards/">All Awards</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201928659"><a href="http://www.indiewire.com/2018/02/2018-oscar-ballot-predictions-best-picture-pool-1201926590/">Oscar Ballot</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201928695"><a href="http://www.indiewire.com/c/awards-spotlight/">Awards Spotlight</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201893320"><a href="http://www.indiewire.com/t/iw-honors/">Honors</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681947"><a href="/2017/03/emmy-predictions-2017-69-primetime-emmys-1201786718/">Emmy Predictions</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201683037"><a href="/2017/03/oscar-predictions-2018-academy-awards-1201789008/">Oscar Predictions</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201719686"><a href="http://www.indiewire.com/2017/07/awards-calendar-2017-2018-oscars-golden-globes-indie-spirits-1201792252/">Awards Calendar</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713243"><a href="http://www.indiewire.com/t/top-of-the-line/">Top of the Line</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201682763"><a href="/v/thompsononhollywood/">Thompson on Hollywood</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713244"><a href="http://www.indiewire.com/t/animation/">Animation</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713246"><a href="http://www.indiewire.com/t/podcasts/">Podcasts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201746548"><a href="http://www.indiewire.com/t/toh-video/">TOH Video</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1201681953"><a href="http://www.indiewire.com/c/filmmaker-toolkit/">Toolkit</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201714803"><a href="http://www.indiewire.com/c/filmmaker-toolkit/">All Toolkit</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201681954"><a href="/t/project-of-the-day/">Project of the Day</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201713202"><a href="http://www.indiewire.com/t/filmmaker-toolkit/">Filmmaker Toolkit</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1201681957"><a href="#">More</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1201681962"><a href="http://www.indiewire.com/about-us/">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1201681963"><a href="http://www.indiewire.com/team/">Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1201681961"><a href="http://www.indiewire.com/advertise/">Advertise with Indiewire</a></li>
+</ul>
+</li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+		
+<div class="grouping borders last article-page">
+	<div class="center padding-right padding-bottom sticky-anchor content-well">
+		<div class="sticky-left">
+					<article id="main-article" class="post-1201923486 post type-post status-publish format-standard has-post-thumbnail hentry category-film tag-the-first-purge">
+	<heading id="article-heading">
+		<h1>&#8216;The First Purge&#8217; Teaser Trailer Will Make America Great Again, Complete With Government-Sanctioned Murder &#8212; Watch</h1>
+	</heading>
+	<div id="article-promo"><h2>The timely "Purge" prequel will introduce fans to the very events that made government-sanctioned crime such a blockbuster topic.</h2></div>	<div class="byline-table flex-container">
+		<div class="flex-item">
+			<!-- Author byline -->
+			<div class="byline-flex-container" id="article-byline">
+
+				
+					<div class="author-avatar byline-flex-item">
+						<a rel="author" href="http://www.indiewire.com/author/kate-erbland/">
+							<img src="https://i2.wp.com/www.indiewire.com/wp-content/uploads/2016/05/kate-erbland.png?resize=96%2C96" alt="" class="avatar avatar-96 photo"/>
+						</a>
+					</div>
+
+					<div class="author-info byline-flex-item">
+						<p class="author-name">
+															<a rel="author"
+									 href="http://www.indiewire.com/author/kate-erbland/">Kate Erbland</a>
+													</p>
+						<p class="post-time">
+							Jan 31, 2018 10:18 am						</p>
+						<p class="social-info">
+							<span class="fa fa-twitter"></span> <a href="https://twitter.com/intent/follow?screen_name=katerbland">@katerbland</a>						</p>
+					</div>
+
+				
+			</div>
+			<!-- /Author byline -->
+		</div>
+		<!-- Share Tools -->
+		<div class="flex-item">
+			<svg xmlns="http://www.w3.org/2000/svg" style="display:none;" height="0" width="0">
+<symbol id="pmc-social-share-bar-comment" viewBox="0 0 1792 1792"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-email" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47H160q-66 0-113-47T0 1504V710q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38T639 1015q-91-64-262-182.5T172 690q-62-42-117-115.5T0 438q0-78 41.5-130T160 256h1472q65 0 112.5 47t47.5 113z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-facebook" viewBox="0 0 1792 1792"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759H734V905H479V609h255V391q0-186 104-288.5T1115 0q147 0 228 12z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-linkedin" viewBox="0 0 1792 1792"><path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-pinit" viewBox="0 0 1792 1792"><path d="M1664 896q0 209-103 385.5T1281.5 1561 896 1664q-111 0-218-32 59-93 78-164 9-34 54-211 20 39 73 67.5t114 28.5q121 0 216-68.5t147-188.5 52-270q0-114-59.5-214T1180 449t-255-63q-105 0-196 29t-154.5 77-109 110.5-67 129.5T377 866q0 104 40 183t117 111q30 12 38-20 2-7 8-31t8-30q6-23-11-43-51-61-51-151 0-151 104.5-259.5T904 517q151 0 235.5 82t84.5 213q0 170-68.5 289T980 1220q-61 0-98-43.5T859 1072q8-35 26.5-93.5t30-103T927 800q0-50-27-83t-77-33q-62 0-105 57t-43 142q0 73 25 122l-99 418q-17 70-13 177-206-91-333-281T128 896q0-209 103-385.5T510.5 231 896 128t385.5 103T1561 510.5 1664 896z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-show-more" viewBox="0 0 1792 1792"><path d="M1600 736v192q0 40-28 68t-68 28h-416v416q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-416h-416q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h416v-416q0-40 28-68t68-28h192q40 0 68 28t28 68v416h416q40 0 68 28t28 68z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-print" viewBox="0 0 1792 1792"><path d="M448 1536h896v-256h-896v256zm0-640h896v-384h-160q-40 0-68-28t-28-68v-160h-640v640zm1152 64q0-26-19-45t-45-19-45 19-19 45 19 45 45 19 45-19 19-45zm128 0v416q0 13-9.5 22.5t-22.5 9.5h-224v160q0 40-28 68t-68 28h-960q-40 0-68-28t-28-68v-160h-224q-13 0-22.5-9.5t-9.5-22.5v-416q0-79 56.5-135.5t135.5-56.5h64v-544q0-40 28-68t68-28h672q40 0 88 20t76 48l152 152q28 28 48 76t20 88v256h64q79 0 135.5 56.5t56.5 135.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-reddit" viewBox="0 0 1792 1792"><path d="M1095 1167q16 16 0 31-62 62-199 62t-199-62q-16-15 0-31 6-6 15-6t15 6q48 49 169 49 120 0 169-49 6-6 15-6t15 6zM788 986q0 37-26 63t-63 26-63.5-26-26.5-63q0-38 26.5-64t63.5-26 63 26.5 26 63.5zm395 0q0 37-26.5 63t-63.5 26-63-26-26-63 26-63.5 63-26.5 63.5 26 26.5 64zm251-120q0-49-35-84t-85-35-86 36q-130-90-311-96l63-283 200 45q0 37 26 63t63 26 63.5-26.5T1359 448t-26.5-63.5T1269 358q-54 0-80 50l-221-49q-19-5-25 16l-69 312q-180 7-309 97-35-37-87-37-50 0-85 35t-35 84q0 35 18.5 64t49.5 44q-6 27-6 56 0 142 140 243t337 101q198 0 338-101t140-243q0-32-7-57 30-15 48-43.5t18-63.5zm358 30q0 182-71 348t-191 286-286 191-348 71-348-71-286-191-191-286T0 896t71-348 191-286T548 71 896 0t348 71 286 191 191 286 71 348z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-close" viewBox="0 0 1792 1792"><path d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-tumblr" viewBox="0 0 1792 1792"><path d="M1328 1329l80 237q-23 35-111 66t-177 32q-104 2-190.5-26T787 1564t-95-106-55.5-120-16.5-118V676H452V461q72-26 129-69.5t91-90 58-102 34-99T779 12q1-5 4.5-8.5T791 0h244v424h333v252h-334v518q0 30 6.5 56t22.5 52.5 49.5 41.5 81.5 14q78-2 134-29z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-twitter" viewBox="0 0 1792 1792"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5T1369.5 1125 1185 1335.5t-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5T285 1033q33 5 61 5 43 0 85-11-112-23-185.5-111.5T172 710v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5T884 653q-8-38-8-74 0-134 94.5-228.5T1199 256q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-whatsapp" viewBox="0 0 1792 1792"><path d="M1113 974q13 0 97.5 44t89.5 53q2 5 2 15 0 33-17 76-16 39-71 65.5t-102 26.5q-57 0-190-62-98-45-170-118t-148-185q-72-107-71-194v-8q3-91 74-158 24-22 52-22 6 0 18 1.5t19 1.5q19 0 26.5 6.5t15.5 27.5q8 20 33 88t25 75q0 21-34.5 57.5t-34.5 46.5q0 7 5 15 34 73 102 137 56 53 151 101 12 7 22 7 15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134 134-200.5 50-243.5-50-243.5-134-200.5-200.5-134-243.5-50-243.5 50-200.5 134-134 200.5-50 243.5q0 203 120 368l-79 233 242-77q158 104 345 104zm0-1382q153 0 292.5 60t240.5 161 161 240.5 60 292.5-60 292.5-161 240.5-240.5 161-292.5 60q-195 0-365-94l-417 134 136-405q-108-178-108-389 0-153 60-292.5t161-240.5 240.5-161 292.5-60z"/>
+</symbol></svg><div class="share-container">
+	<ul class="share-buttons">
+					<li>
+									<a data-href="https://www.facebook.com/sharer.php?u=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch&#038;sdk=joey&#038;display=popup&#038;ref=plugin&#038;src=share_button" href="https://www.facebook.com/sharer.php?u=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch&#038;sdk=joey&#038;display=popup&#038;ref=plugin&#038;src=share_button"
+				 					class="btn-facebook"
+											target="_blank"
+											title="Share on Facebook">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-facebook"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="https://twitter.com/intent/tweet?url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;text=%E2%80%98The%20First%20Purge%E2%80%99%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again%2C%20Complete%20With%20Government-Sanctioned%20Murder%20%E2%80%94%20Watch&#038;via=indiewire" href="https://twitter.com/intent/tweet?url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;text=%E2%80%98The%20First%20Purge%E2%80%99%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again%2C%20Complete%20With%20Government-Sanctioned%20Murder%20%E2%80%94%20Watch&#038;via=indiewire"
+				 					class="btn-twitter"
+											target="_blank"
+											title="Tweet">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-twitter"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&#038;canonicalUrl&#038;url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;posttype=link&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch" href="https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&#038;canonicalUrl&#038;url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;posttype=link&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch"
+				 					class="btn-tumblr"
+											target="_blank"
+											title="Post to Tumblr">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-tumblr"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="http://pinterest.com/pin/create/link/?url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;description=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch" href="http://pinterest.com/pin/create/link/?url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;description=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch"
+				 					class="btn-pinterest"
+											target="_blank"
+											title="Pin it">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-pinit"></use>
+						</svg>
+											</a>
+				</li>
+							<li>
+					<a href="#share-more" class="showShareMore btn-more" target="_blank" title="More Share Options">
+					<svg>
+						<use xlink:href="#pmc-social-share-bar-show-more"></use>
+					</svg>
+				</a>
+			</li>
+		</ul>
+	<div class="shareMore">
+		<ul class="shareModal">
+			<li>
+				Share This Article
+				<a class="closeShare" href="#closeShare">
+					<svg>
+						<use xlink:href="#pmc-social-share-bar-close"></use>
+					</svg>
+				</a>
+			</li>
+							<li>
+											<a data-href="http://www.reddit.com/submit?url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch" href="http://www.reddit.com/submit?url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch"
+											class="btn-reddit"
+											target="_blank"
+																title="Submit to Reddit">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-reddit"></use>
+						</svg>
+						<span>
+							Reddit						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="http://www.linkedin.com/shareArticle?mini=1&#038;url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch&#038;summary&#038;source=indiewire" href="http://www.linkedin.com/shareArticle?mini=1&#038;url=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/&#038;title=‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch&#038;summary&#038;source=indiewire"
+											class="btn-linkedin"
+											target="_blank"
+																title="Share on LinkedIn">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-linkedin"></use>
+						</svg>
+						<span>
+							LinkedIn						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="" href=""
+											class="btn-whatsapp"
+																data-action="share/whatsapp/share"
+											title="Share on WhatsApp">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-whatsapp"></use>
+						</svg>
+						<span>
+							WhatsApp						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="mailto:?subject=indiewire%20:%20‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch&#038;body=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/%20-%20‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch" href="mailto:?subject=indiewire%20:%20‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch&#038;body=http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/%20-%20‘The%20First%20Purge’%20Teaser%20Trailer%20Will%20Make%20America%20Great%20Again,%20Complete%20With%20Government-Sanctioned%20Murder%20—%20Watch"
+											class="btn-email"
+											target="_blank"
+																title="Email">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-email"></use>
+						</svg>
+						<span>
+							Email						</span>
+					</a>
+				</li>
+							<li>
+											<a href="javascript:window.print()"
+											class="btn-print"
+																title="Print This Page">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-print"></use>
+						</svg>
+						<span>
+							Print						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/#respond" href="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/#respond"
+											class="btn-comment"
+																title="Talk">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-comment"></use>
+						</svg>
+						<span>
+							Talk						</span>
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+		</div>
+		<!-- /Share Tools -->
+	</div>
+
+	<div class="wp-caption"><img width="780" height="356" src="http://www.indiewire.com/wp-content/uploads/2018/01/the-first-purge.jpg?w=780" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /><div class="image-caption wp-caption-text"><p>&#8220;The First Purge&#8221;</p>
+</div><p class="image-credit">Universal/screencap</p></div>
+	<div class="entry-content">
+
+		<p>The newest film in the blockbuster &#8220;Purge&#8221; franchise is not messing around. Titled &#8220;<a href="http://www.indiewire.com/t/the-first-purge/" id="auto-tag_the-first-purge" data-tag="the-first-purge">The First Purge</a>,&#8221; the new prequel has gone all-in on Make America Great Again imaginary, complete with its first poster &#8212; a spin on Donald Trump&#8217;s infamous red baseball hats &#8212; to sell what looks to be a chilling introduction to how America came to embrace the concept of one free-for-all day of crime. You know, <i>to make America great again.</i></p>
+<p>The new film is the first &#8220;Purge&#8221; offering to not be helmed by creator James DeMonaco, though he did provide the screenplay for this outing. Instead, &#8220;Burning Sands&#8221; filmmaker Gerard McMurray will take over directorial duties. &#8220;The First Purge&#8221; stars &#8220;Insecure&#8221; standount&nbsp;Y&rsquo;lan Noel, along with Lex Scott Davis, Joivan Wade, Melonie Diaz, Luna Lauren Velez, and Marisa Tomei.</p>
+<p><div class="admz" id="adm-inline-article-ad-1">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-iw-article-mid-article-uid0" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+</p>
+<aside class="pmc-related-link read-more">
+			<strong class="pmc-related-type">Read More:</strong><a target="_blank" href="http://www.indiewire.com/2018/01/state-of-the-union-review-2018-donald-trump-president-1201923425/" title="State of The Union Review: Donald Trump Will Never Be Presidential, Just an Embarrassment">State of The Union Review: Donald Trump Will Never Be Presidential, Just an Embarrassment</a>
+		</aside>
+<p>Playing like a run-of-the-mill campaign ad and just packed with patriotic imagery &#8212; swaying flags, lots of farmland, happy families &#8212; the film&#8217;s first teaser hints at the kind of mindset that led to the implementation of the Purge. Timely.</p>
+<p>&ldquo;What makes America great?&rdquo; the teaser&#8217;s omnipresent voiceover asks. &ldquo;The answer&rsquo;s simple, really: Americans make America great.&#8221; It continues, &#8220;You are the lifeblood of the nation and your rights as Americans must be safeguarded. There is only one solution to keep our country great: a new tradition. Participate today and nothing will make you prouder than when your boy looks up at you and says, &lsquo;Dad, I wanna purge too!&#8217;&rdquo;</p>
+<p>Check out the first teaser trailer for &#8220;The First Purge&#8221; below.</p>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='780' height='469' src='http://www.youtube.com/embed/gYYMnkoFtjM?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p>&#8220;The First Purge&#8221; will hit theaters on July 4. Happy Independence Day, America.</p>
+<p><strong class="pmc-related-type">Sign Up:&nbsp;</strong><a  title="Stay on top of the latest breaking film and TV news! Sign up for our Email Newsletters here."  href="http://pages.email.indiewire.com/newslettersignup"  target="_blank"  rel="noopener"  >Stay on top of the latest breaking film and TV news! Sign up for our Email Newsletters here.</a></p>
+					</div><!-- .entry-content -->
+
+	<div id="article-tags">
+		<p><strong>This Article is related to:</strong> <a href="http://www.indiewire.com/c/film/" rel="category tag">Film</a> and tagged <a href="http://www.indiewire.com/t/the-first-purge/" rel="tag">The First Purge</a></p>
+	</div><!-- .entry-meta -->
+
+	<div class="ad">
+			</div>
+
+</article><!-- #post-## -->
+
+							<div class="widget widget_pmc_outbrain_widget"><div class="outbrain-widget">
+			<div class="OUTBRAIN" data-src="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/" data-widget-id="AR_1" data-ob-template="Indiewire" ></div>
+			<div class="OUTBRAIN" data-src="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/" data-widget-id="AR_2" data-ob-template="Indiewire" ></div>
+	</div>
+</div>
+<div class="generic-ad-module">
+	<interaction data-token="56e712cad791afe502395c6d" data-context="true" data-tags="" data-fallback="true"></interaction>
+</div>
+
+<div class="generic-ad-module">
+	<!-- Indiewire/Core/ROS/MediumRectangle -->
+	<div id="med_rec_bottom">
+		<div class="admz" id="adm-single-bottom">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-indiewire-ros-620x250-uid4" class="ad-rotatable adw-620 adh-250"></div>
+	</div>
+		</div>
+
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-iw-article-inline-uid5" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+	<br>
+</div>
+<div class="single-related-posts"><h3>More From IndieWire</h3><ul><li><a href="http://www.indiewire.com/2018/02/last-men-in-aleppo-director-feras-fayyad-might-skip-the-oscars-after-his-producer-and-star-are-blocked-from-visiting-the-u-s-1201928845/">&#8216;Last Men in Aleppo&#8217;: Director Feras Fayyad Might Skip the Oscars After His Producer and Star Are Blocked from Visiting the U.S.</a></li><li><a href="http://www.indiewire.com/2018/02/black-panther-oscar-rachel-morrison-cinematographer-marvel-movie-1201928584/">&#8216;Black Panther&#8217;: Oscar-Nominated Rachel Morrison Shot the Most Significant Marvel Movie Since &#8216;Iron Man&#8217;</a></li><li><a href="http://www.indiewire.com/2018/02/queer-eye-netflix-cast-interview-season-2-1201928799/">&#8216;Queer Eye&#8217;: The New Fab Five on Tackling Deeper Issues Like Police Profiling and Planning For Season 2</a></li><li><a href="http://www.indiewire.com/2018/02/stormy-daniels-movie-directors-suggestions-1201928780/">Stormy Daniels, the Movie: We Suggest the Best Directors to Handle the Story of Trump&#8217;s Former Fling</a></li></ul></div>			
+			<noscript>JavaScript is required to load the comments.</noscript>
+<div id="comments-loading" style="display:none">Loading comments...</div>
+<div id="comments-loaded"></div>
+<script type="text/javascript">document.getElementById('comments-loading').style.display = 'block';</script>
+		
+		</div>
+	</div>
+
+	<div class="right-side">
+	<div class="admz" id="adm-right-rail-1">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-indiewire-ros-300x250-uid6" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+<aside id="mmc_2day_popular-4" class="widget widget_mmc_2day_popular"><h4 class="widget-title">Most Popular</h4><ul class="module-content todays-hot"><li><div><a href="http://www.indiewire.com/2018/02/bill-paxton-family-sues-hospital-wrongful-death-lawuit-1201928442/" title="Bill Paxton&#039;s Family Sues Los Angeles Hospital for Wrongful Death of Late Actor"><span class="image"><img src="http://www.indiewire.com/wp-content/uploads/2017/02/shutterstock_6729083bj.jpg?w=780" alt="Bill Paxton" class="Thumbnail thumbnail todays-hot AAA" width="100" height="60" /></span><span class="title"><span>Bill Paxton's Family Sues Los Angeles Hospital for Wrongful Death of Late Actor</span></span></a></div></li><li><div><a href="http://www.indiewire.com/2018/02/anonymous-oscar-ballot-voter-best-picture-three-billboards-lady-bird-1201927235/" title="Anonymous Oscar Ballot: Costume Designer Loves &#039;Three Billboards,&#039; Thinks &#039;Lady Bird&#039; is &#039;Overrated&#039;"><span class="title"><span>Anonymous Oscar Ballot</span>: Costume Designer Loves 'Three Billboards,' Thinks 'Lady Bird' is 'Overrated'</span></a></div></li><li><div><a href="http://www.indiewire.com/2018/02/michael-fassbender-abuse-allegations-sunawin-leasi-andrews-1201927946/" title="Michael Fassbender&#039;s History of Alleged Abuse: Former Girlfriend&#039;s Story Resurfaces in #MeToo Era"><span class="title"><span>Michael Fassbender's History of Alleged Abuse</span>: Former Girlfriend's Story Resurfaces in #MeToo Era</span></a></div></li><li><div><a href="http://www.indiewire.com/2018/02/indie-romance-movies-streaming-netflix-1201928076/" title="13 Indie Romance Movies to Stream This Valentine&#039;s Day on Netflix and Beyond"><span class="title"><span>13 Indie Romance Movies to Stream This Valentine's Day on Netflix and Beyond</span></span></a></div></li><li><div><a href="http://www.indiewire.com/2018/02/natalie-portman-annihilation-whitewashing-problematic-1201928683/" title="Natalie Portman Wasn&#039;t Aware Her &#039;Annihilation&#039; Casting Was Whitewashing and Knows It &#039;Sounds&hellip;"><span class="title"><span>Natalie Portman Wasn't Aware Her 'Annihilation' Casting Was Whitewashing and Knows It 'Sounds&hellip;</span></span></a></div></li></ul></aside><div class="admz" id="adm-widget-indiewire-ros-300x600">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-indiewire-ros-300x600-uid7" class="ad-rotatable adw-300 adh-600"></div>
+	</div>
+		</div>
+
+	</div>
+		<aside id="zoninator_zoneposts_widget-3" class="widget widget-zone-posts">
+		<h4 class="widget-title">Featured Posts</h4>
+		
+		<ul>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/black-panther-challenge-founder-frederick-joseph-1201928153/">
+						#BlackPantherChallenge Founder Explains How the Campaign&#8217;s Success Proves the System Needs to Be Disrupted					</a>
+				</li>
+							<li>
+					<a href="http://www.indiewire.com/gallery/relationship-advice-best-dating-advice-tv-shows/">
+						Relationship Advice on TV: The Best Dating Tips From TV&#8217;s Best Characters					</a>
+				</li>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/black-panther-hype-social-media-racism-1201928176/">
+						Hype for &#8216;Black Panther&#8217; Could Outshine the Movie, and That’s Just Fine — Opinion					</a>
+				</li>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/natalie-portman-annihilation-whitewashing-problematic-1201928683/">
+						Natalie Portman Wasn&#8217;t Aware Her &#8216;Annihilation&#8217; Casting Was Whitewashing and Knows It &#8216;Sounds Problematic&#8217;					</a>
+				</li>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/chris-rock-netflix-tamborine-review-standup-1201928473/">
+						Chris Rock&#8217;s First Standup Special in a Decade is a Smaller, More Personal Return from an All-Time Great					</a>
+				</li>
+					</ul>
+
+		</aside>		<aside id="indiewire-spotlight-3" class="widget widget_indiewire-spotlight"><div class="spotlight__widget">
+	<h4 class="spotlight__widget-title">Spotlight Profiles</h4>
+	<div class="line-2"></div>
+	<h4 class="spotlight__widget-subtitle">1:1 Interviews with Top Contenders</h4>
+
+	<section class="module-carousel-spotlight" data-tb-region="homepage-slider-module">
+
+		
+			<ul id="iw-spotlight-slideshow">
+
+				
+					<li data-tb-region-item class="slide">
+
+					
+					
+													
+							<div class="featured__celeb-profile">
+
+								<a class="featured__profile-wrapper" href="http://www.indiewire.com/2018/01/saoirse-ronan-greta-gerwig-lady-bird-video-interview-oscars-female-filmmakers-1201918905/">
+
+									<img src="https://i2.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-29-at-3-00-59-pm.png?resize=288%2C192" alt="Greta Gerwig" class="featured__profile-image"/>
+
+									<div class="featured__profile-dek">
+
+										<h4 class="profile__title">Greta Gerwig</h4>
+
+										<h4 class="profile__subtitle">&#8220;Lady Bird&#8221;
+</h4>
+									</div>
+								</a>
+							</div>
+							<div class="celeb-profiles__list">
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2018/01/guillermo-del-toro-masturbation-scene-shape-of-water-1201920919/">
+
+									<img src="https://i2.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-24-at-4-55-34-pm.png?resize=133%2C88" alt="Guillermo del Toro" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Guillermo del Toro</h4>
+
+									<h4 class="profile__subtitle">&#8220;The Shape of Water&#8221;
+</h4>
+								</a>
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2017/12/mary-j-blige-mudbound-interview-awards-spotlight-video-1201910592/">
+
+									<img src="https://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-16-at-2-11-08-pm.png?resize=133%2C88" alt="Mary J. Blige" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Mary J. Blige</h4>
+
+									<h4 class="profile__subtitle">&#8220;Mudbound&#8221;
+</h4>
+								</a>
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2018/01/timothee-chalamet-armie-hammer-interview-video-call-me-by-your-name-1201916370/">
+
+									<img src="https://i0.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-16-at-1-53-45-pm.png?resize=133%2C88" alt="Timothée Chalamet" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Timothée Chalamet</h4>
+
+									<h4 class="profile__subtitle">&#8220;Call Me by Your Name&#8221;
+</h4>
+								</a>
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2018/01/gary-oldman-darkest-hour-video-interview-osacrs-1201921600/">
+
+									<img src="https://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-25-at-10-14-29-pm.png?resize=133%2C88" alt="Gary Oldman" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Gary Oldman</h4>
+
+									<h4 class="profile__subtitle">&#8220;Darkest Hour&#8221;
+</h4>
+								</a>
+																		</div>
+					</li>
+				
+					<li data-tb-region-item class="slide">
+
+					
+					
+													
+							<div class="featured__celeb-profile">
+
+								<a class="featured__profile-wrapper" href="http://www.indiewire.com/2018/01/daniela-vega-fantastic-woman-video-interview-1201912939/">
+
+									<img src="https://i0.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-17-at-1-19-10-pm.png?resize=288%2C192" alt="Daniela Vega" class="featured__profile-image"/>
+
+									<div class="featured__profile-dek">
+
+										<h4 class="profile__title">Daniela Vega</h4>
+
+										<h4 class="profile__subtitle">&#8220;A Fantastic Woman&#8221;
+</h4>
+									</div>
+								</a>
+							</div>
+							<div class="celeb-profiles__list">
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2017/12/the-big-sick-kumail-nanjiani-emily-v-gordon-interview-1201909850/">
+
+									<img src="https://i2.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-17-at-1-37-15-pm.png?resize=133%2C88" alt="Kumail Nanjiani" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Kumail Nanjiani</h4>
+
+									<h4 class="profile__subtitle">&#8220;The Big Sick&#8221;
+</h4>
+								</a>
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2017/12/claes-bang-the-square-monkey-ruben-osltund-video-1201908832/">
+
+									<img src="https://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-24-at-4-56-41-pm.png?resize=133%2C88" alt="Claes Bang" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Claes Bang</h4>
+
+									<h4 class="profile__subtitle">&#8220;The Square&#8221;
+</h4>
+								</a>
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2018/01/sean-baker-florida-project-video-interview-1201913646/">
+
+									<img src="https://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-16-at-2-21-59-pm.png?resize=133%2C88" alt="Sean Baker" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Sean Baker</h4>
+
+									<h4 class="profile__subtitle">&#8220;The Florida Project&#8221;
+</h4>
+								</a>
+											
+																						<a class="profile-wrapper" href="http://www.indiewire.com/2017/12/jessica-chastain-mollys-game-1201909281/">
+
+									<img src="https://i0.wp.com/www.indiewire.com/wp-content/uploads/2018/01/screen-shot-2018-01-29-at-3-06-44-pm.png?resize=133%2C88" alt="Jessica Chastain" class="celeb-profile__image"/>
+
+									<h4 class="profile__title">Jessica Chastain</h4>
+
+									<h4 class="profile__subtitle">&#8220;Molly&#8217;s Game&#8221;
+</h4>
+								</a>
+																		</div>
+					</li>
+							</ul>
+		
+		<div id="spotlight__line-wrapper">
+			<div id="spotlight__line"></div>
+		</div>
+
+		<ul class="spotlight-controls">
+			<li>
+				<a href="#" class="spotlight__stories-prev">
+					<i class="fa fa-bold fa-3x fa-angle-left"></i>
+				</a>
+			</li>
+			<li class="spotlight__pager"></li>
+			<li>
+				<a href="#" class="spotlight__stories-next">
+					<i class="fa fa-bold fa-3x fa-angle-right"></i>
+				</a>
+			</li>
+		</ul>
+
+	</section>
+</div>
+</aside>
+		<div class="OUTBRAIN" data-src="http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486"
+			data-widget-id="SB_1"
+			data-ob-template="IndieWire_1">
+		</div>
+
+		<aside id="advanced_text-5" class="widget widget_advanced_text"><h4 class="widget-title twwc-widget-title ">IndieWire Newsletter </h4>			<div class="textwidget bg-diagonals newsletter-widget"><p>Get the latest IndieWire alerts and newsletters delivered directly to your inbox</p>
+<p><a href="http://pages.email.indiewire.com/newslettersignup/" class="cta">Subscribe</a></p>
+</div>
+		</aside>		<aside id="zoninator_zoneposts_widget-7" class="widget widget-zone-posts">
+		<h4 class="widget-title">Awards</h4>
+		
+		<ul>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/2018-writers-guild-awards-winners-1201927522/">
+						2018 Writers Guild Awards: &#8216;Get Out,&#8217; &#8216;Call Me by Your Name,&#8217; and &#8216;Jane&#8217; Win Film Honors					</a>
+				</li>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/usc-scripter-awards-call-me-by-your-name-wins-best-adapted-screenplay-1201927435/">
+						USC Libraries Scripter Awards: &#8216;Call Me by Your Name&#8217; Wins Best Adapted Screenplay					</a>
+				</li>
+							<li>
+					<a href="http://www.indiewire.com/2018/02/oscar-contenders-awards-timothee-chalamet-sairse-ronan-gary-oldman-santa-barbara-videos-1201926139/">
+						Oscar Contenders Christopher Nolan, Gary Oldman, and Saoirse Ronan Take on the Awards Circuit in Santa Barbara — Watch					</a>
+				</li>
+					</ul>
+
+		</aside>		<aside id="text-5" class="widget widget_text"><h4 class="widget-title">Podcasts</h4>			<div class="textwidget"><h5><a href="http://www.indiewire.com/2018/02/the-detour-jason-jones-natalie-zea-samantha-bee-tbs-turn-it-on-podcast-1201927264/"><br />
+‘The Detour’ Stars Jason Jones and Natalie Zea Slide By Censors To Depict TV’s Most Inappropriate Family — Turn It On Podcast<br />
+</a></h5>
+<p>With Season 3 underway, Jones promises an unsettling season finale that will force TBS to pick up a Season 4.</p>
+<h5><a href="http://www.indiewire.com/2018/02/screen-talk-185-quentin-tarantino-dga-santa-barbara-1201926882/"><br />
+Will Quentin Tarantino’s Week of Scandals Have Long Term Effects on His Career? — IndieWire’s Movie Podcast<br />
+</a></h5>
+<p>Screen Talk, episode 185: What do we make of the Tarantino backlash? Plus, awards season updates from a busy week.</p>
+<h5><a href="http://www.indiewire.com/2018/02/screen-talk-184-black-panther-sundance-oscar-season-1201924380/"><br />
+Sundance, ‘Black Panther’ and Oscar Season: A Snapshot of the Road from Festivals to the Big Leagues<br />
+</a></h5>
+<p>Screen Talk, episode 184: How Sundance launches movies and filmmakers into the big leagues, and why it didn&#8217;t happen this year.</p>
+<h5><a href="http://www.indiewire.com/2018/02/lena-waithe-common-the-chi-showtime-turn-it-on-podcast-1201924216/"><br />
+Lena Waithe and Common On How They Hope ‘The Chi’ Will Generate Empathy for Black Families — Turn It On Podcast<br />
+</a></h5>
+<p>Newly renewed for a second season, Showtime&#8217;s &#8216;The Chi&#8217; came out of Waithe&#8217;s desire to tell the honest story of African-American life in the Windy City.</p>
+</div>
+		</aside><aside id="advanced_text-6" class="widget widget_advanced_text">			<div class="textwidget bg-diagonals filmmaker-toolkit"><p><a class="link" href="/c/filmmaker-toolkit/"><img src="https://www.indiewire.com/wp-content/uploads/2016/06/filmmaker-toolkit.png" alt="Filmmaker Toolkit"></a></p>
+<h5><a href="/2018/01/todd-haynes-ed-lachman-collaboration-wonderstruck-cinematography-1201916147/">Why Todd Haynes and Ed Lachman Are the Most Important Collaboration in Cinema</a></h5>
+<p>In "Wonderstruck" the duo recreate the visual language of the gritty '70s and the formalism of a black and white silent film.</p>
+<h5><a href="/2018/01/moviepass-1-5-million-subscribers-1201915498/">MoviePass Boom: 500,000 New Subscribers Join In Less Than 30 Days</a></h5>
+<p>The $9.95 card that allows customers to buy one movie ticket a day has grown from 20k to 1.5 million subscribers since an August price cut.</p>
+<h5><a href="/2018/01/hollywood-pay-gap-gender-race-1201915967/">Hollywood’s Pay Gap Shame: Why Michelle Williams and Mark Wahlberg Are Just the Beginning</a></h5>
+<p>The "All The Money In The World" headlines are the start of the next big controversy Hollywood won't be able to avoid.</p>
+</div>
+		</aside><aside id="advanced_text-7" class="widget widget_advanced_text"><h4 class="widget-title twwc-widget-title ">Follow Indiewire</h4>			<div class="textwidget follow-indiewire"><p><a href="http://www.facebook.com/indiewire" target="_blank" class="fa icon-facebook facebook"></a> <a href="http://www.twitter.com/indiewire" target="_blank" class="fa icon-twitter twitter"></a></p>
+</div>
+		</aside></div><!-- #secondary -->
+</div>
+
+
+		<div class="ad-above-footer">
+					</div>
+
+		       <footer id="footer" class="site-footer wrap" role="contentinfo">
+           <div id="other-pmc-properties">
+               		<ul id="property-snippets">
+        
+			<li class="footer-sites variety">
+				<a href="http://variety.com/2018/biz/news/hollywood-calls-for-gun-control-florida-high-school-shooting-1202699481/">
+					<h5 class="variety-logo logos"></h5>
+					<img src="https://pmcvariety.files.wordpress.com/2018/02/florida1.jpg?resize=180%2C101" width="180" height="101" alt="Variety" />
+					<p>Ellen DeGeneres, Chelsea Handler and Others Rally for Gun&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites tvline">
+				<a href="http://tvline.com/2018/02/14/nashville-season-6-video-avery-juliette-missing-episode-7/">
+					<h5 class="tvline-logo logos"></h5>
+					<img src="//pmctvline2.files.wordpress.com/2018/02/nashville-season-6-episode-7-video-juliette-missig.png?resize=180%2C101" width="180" height="101" alt="TVLine" />
+					<p>Nashville Video: Juliette&#039;s Gone MIA</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites deadline">
+				<a href="http://deadline.com/2018/02/mikaela-shiffrin-olympics-nbc-debut-florida-school-shooting-news-1202289134/">
+					<h5 class="deadline-logo logos"></h5>
+					<img src="//pmcdeadline2.files.wordpress.com/2018/02/shiffrin-feb-14-olympics.jpg?resize=180%2C101" width="180" height="101" alt="Deadline" />
+					<p>Mikaela Shiffrin Finally Makes 2018 Olympics Debut; NBC Rues&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites hollywoodlife">
+				<a href="http://hollywoodlife.com/2018/02/14/celebrity-big-brother-ariadna-gutierrez-hoh-round-3-nominations-recap/">
+					<h5 class="hollywoodlife-logo logos"></h5>
+					<img src="//www.indiewire.com/wp-content/plugins/pmc-plugins/pmc-footer/images/trans.png" width="180" height="101" alt="HollywoodLife" />
+					<p>'Celebrity Big Brother' Recap: Shannon Elizabeth Cries Amid&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites bgr">
+				<a href="http://bgr.com/2018/02/14/iphone-encryption-backdoor-us-government-huawei-zte/">
+					<h5 class="bgr-logo logos"></h5>
+					<img src="//boygeniusreport.files.wordpress.com/2018/01/huawei-mate-10-pro.jpg?quality=98&#038;strip=all&#038;resize=180%2C101" width="180" height="101" alt="BGR" />
+					<p>The NSA and FBI don't see the irony of boycotting phones with&hellip;</p>
+				</a>
+			</li>
+		        </ul>
+        <section class="footer-links"><ul><li><a href="/about-us/" title="About Us" rel="nofollow">About Us</a></li><li><a href="/advertise/" title="Advertise" rel="nofollow">Advertise</a></li><li><a href="http://pmc.com/terms-of-use/" title="Terms of Use" rel="nofollow">Terms of Use</a></li><li><a href="http://pmc.com/privacy-policy/" title="Privacy Policy" rel="nofollow">Privacy Policy</a></li><li><a href="http://pmc.com/privacy-policy/#california" title="Your Privacy Rights" rel="nofollow">Your Privacy Rights</a></li><li><a href="/contact-us/" title="Contact Us" rel="nofollow">Contact Us</a></li><li><a href="/email/" title="Newsletters" rel="nofollow">Newsletters</a></li></ul></section>    <section class="pmc-links">
+        <h3><a href="http://pmc.com/" target="_blank" title="PMC Network"><span>The Power of Content</span></a></h3>
+        <nav>
+            <ul class="pmc-properties icon-pmc-logos">
+                                        <li class="sister-logo sister-variety"><a href="http://variety.com/" >Variety</a></li>
+                                                <li class="sister-logo sister-tvline"><a href="http://tvline.com/" >TVLine</a></li>
+                                                <li class="sister-logo sister-deadline"><a href="http://deadline.com/" >Deadline</a></li>
+                                                <li class="sister-logo sister-hollywoodlife"><a href="http://hollywoodlife.com/" >HollywoodLife</a></li>
+                                                <li class="sister-logo sister-goldderby"><a href="http://www.goldderby.com" >GOLDDERBY</a></li>
+                        
+            </ul>
+        </nav>
+    </section>
+
+        <p class="copyright">Copyright &copy; 2018 Penske Business Media, LLC.  All rights reserved.</p><p class="copyright powered-by-vip">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=www.indiewire.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>           </div><!-- closes wrap -->
+       </footer>
+    		
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = window.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+		if( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ) {
+			window.pmc_krux['omni_visit_id'] = pmc_meta.omni_visit_id;
+		}
+	}
+})();
+
+</script>
+		<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push([
+	{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=p-60R-umvc0T-Cw&a.2=p-31f3D02tYU8zY" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+<script src="//dc8xl0ndzn2cb.cloudfront.net/js/indiewirecom/v0/keywee.min.js" type="text/javascript" async></script>
+
+<script type="text/javascript" src="//s.skimresources.com/js/87443X1557200.skimlinks.js"></script>
+
+	<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+	<script type="text/javascript">
+		function global_urlhashchanged() {
+			
+			// Track PV in GA
+			try {
+				ga( 'send', 'pageview', location.pathname + location.hash );
+			} catch(err) {}
+
+			// PMCVIP-2580. Try PV in Keywee
+			try {
+				if ( typeof window.snowplowKW == 'function' ) {
+					
+					window.snowplowKW( 'trackPageView' );
+				}
+			} catch ( err ) {
+			}
+			// Track Quantcast
+			try {
+
+				// need to reset the array containing the options previously sent
+				// as quantcast does not send the same key twice.
+				if (__qc && __qc.qpixelsent && __qc.qpixelsent.length > 0) {
+					__qc.qpixelsent.length = 0;
+				}
+				// First Quantcast Tag
+				_qoptions=[
+					{ qacct:"p-60R-umvc0T-Cw" }, // Tvline P-code
+					{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+				];
+
+				quantserve();
+
+			} catch(err) {}
+
+			// Track Comscore
+			try {
+				setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+				COMSCORE.beacon({c1:2,c2:"6035310",c3:"6035310",c4:"",c5:"",c6:"",c15:""});
+			} catch(err) {}
+
+			/**
+			 * Track pageview end
+			 */
+		}
+	</script>
+
+
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+				<div id="pmc-ad-bait" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width: 0 !important; height: 0 !important; position: fixed !important; left: -99999px !important;">ad</div>
+
+		<script>
+			if ( 'undefined' !== typeof jQuery ) {
+				var $pmc_ad_bait = jQuery('#pmc-ad-bait');
+				if ( $pmc_ad_bait.length ) {
+					if ( 'block' !== $pmc_ad_bait.css('display') ) {
+						window.pmc_is_adblocked = true;
+					}
+				}
+			}
+		</script>
+		<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": "indiewire.com",
+        "kw": [
+            "film",
+            "the-first-purge"
+        ],
+        "featured-video": "no",
+        "content-video": "yes"
+    },
+    "ad_list": {
+        "default": [
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/Indiewire/ros/leaderboard",
+                "id": "div-gpt-indiewire-ros-leaderboard-uid3",
+                "width": [
+                    [
+                        970,
+                        250
+                    ],
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        66
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        300
+                    ],
+                    [
+                        1000,
+                        150
+                    ]
+                ],
+                "adunit-order": 1,
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexusAst",
+                            "params": {
+                                "placementId": "9527302"
+                            }
+                        },
+                        {
+                            "bidder": "pubmatic",
+                            "params": {
+                                "publisherId": "120496",
+                                "adSlot": "desktop_indiewire_top@728x90"
+                            }
+                        },
+                        {
+                            "bidder": "rubicon",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "86102",
+                                "zoneId": "407180"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427198"
+                            }
+                        },
+                        {
+                            "bidder": "triplelift",
+                            "params": {
+                                "inventoryCode": "indiewire_desktop_top_728x90"
+                            }
+                        },
+                        {
+                            "bidder": "sonobi",
+                            "params": {
+                                "ad_unit": "3782/Indiewire/ros/leaderboard"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-indiewire-ros-leaderboard-uid3",
+                    "sizes": [
+                        [
+                            970,
+                            250
+                        ],
+                        [
+                            728,
+                            90
+                        ],
+                        [
+                            970,
+                            66
+                        ],
+                        [
+                            970,
+                            90
+                        ],
+                        [
+                            970,
+                            300
+                        ],
+                        [
+                            1000,
+                            150
+                        ]
+                    ]
+                },
+                "is_lazy_load": "no"
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/Indiewire/ros/right-rail-top",
+                "id": "div-gpt-indiewire-ros-300x250-uid6",
+                "width": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        300,
+                        251
+                    ]
+                ],
+                "adunit-order": 2,
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexusAst",
+                            "params": {
+                                "placementId": "9527302"
+                            }
+                        },
+                        {
+                            "bidder": "pubmatic",
+                            "params": {
+                                "publisherId": "120496",
+                                "adSlot": "desktop_indiewire_top@300x250"
+                            }
+                        },
+                        {
+                            "bidder": "rubicon",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "86102",
+                                "zoneId": "407180"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427197"
+                            }
+                        },
+                        {
+                            "bidder": "triplelift",
+                            "params": {
+                                "inventoryCode": "indiewire_desktop_top_300x250"
+                            }
+                        },
+                        {
+                            "bidder": "sonobi",
+                            "params": {
+                                "ad_unit": "3782/Indiewire/ros/right-rail-top"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-indiewire-ros-300x250-uid6",
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            300,
+                            251
+                        ]
+                    ]
+                },
+                "is_lazy_load": "no"
+            },
+            {
+                "targeting": [],
+                "slot": "3782/indiewire/ros/skin",
+                "id": "gpt-iw-ros-skin-uid2",
+                "adunit-order": 3,
+                "bidders": false,
+                "is_lazy_load": "no",
+                "oop": true
+            },
+            {
+                "targeting": [],
+                "slot": "3782/indiewire/ros/inline",
+                "id": "gpt-iw-article-inline-uid5",
+                "adunit-order": 9,
+                "bidders": false,
+                "is_lazy_load": "no",
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "mid"
+                },
+                "slot": "3782/indiewire/ros/mid-article",
+                "id": "gpt-iw-article-mid-article-uid0",
+                "width": [
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        300,
+                        251
+                    ],
+                    [
+                        620,
+                        350
+                    ]
+                ],
+                "adunit-order": 10,
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexusAst",
+                            "params": {
+                                "placementId": "11935238",
+                                "video": {
+                                    "skippable": true,
+                                    "playback_method": [
+                                        "auto_play_sound_off"
+                                    ]
+                                },
+                                "reserve": 10
+                            }
+                        }
+                    ],
+                    "mediaTypes": {
+                        "video": {
+                            "context": "outstream"
+                        }
+                    },
+                    "code": "gpt-iw-article-mid-article-uid0",
+                    "sizes": [
+                        [
+                            640,
+                            480
+                        ]
+                    ]
+                },
+                "is_lazy_load": "no"
+            },
+            {
+                "targeting": {
+                    "pos": "mid"
+                },
+                "slot": "3782/Indiewire/ros/right-rail-bottom",
+                "id": "div-gpt-indiewire-ros-300x600-uid7",
+                "width": [
+                    [
+                        300,
+                        600
+                    ],
+                    [
+                        300,
+                        1050
+                    ],
+                    [
+                        160,
+                        600
+                    ],
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "adunit-order": 10,
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexusAst",
+                            "params": {
+                                "placementId": "9527303"
+                            }
+                        },
+                        {
+                            "bidder": "pubmatic",
+                            "params": {
+                                "publisherId": "120496",
+                                "adSlot": "desktop_indiewire_mid@300x250"
+                            }
+                        },
+                        {
+                            "bidder": "rubicon",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "86102",
+                                "zoneId": "407180"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "435110"
+                            }
+                        },
+                        {
+                            "bidder": "triplelift",
+                            "params": {
+                                "inventoryCode": "indiewire_desktop_mid_300x250"
+                            }
+                        },
+                        {
+                            "bidder": "sonobi",
+                            "params": {
+                                "ad_unit": "3782/Indiewire/ros/right-rail-bottom"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-indiewire-ros-300x600-uid7",
+                    "sizes": [
+                        [
+                            300,
+                            600
+                        ],
+                        [
+                            300,
+                            1050
+                        ],
+                        [
+                            160,
+                            600
+                        ],
+                        [
+                            300,
+                            250
+                        ]
+                    ]
+                },
+                "is_lazy_load": "no"
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/Indiewire/ros/river",
+                "id": "div-gpt-indiewire-ros-620x250-uid4",
+                "width": [
+                    [
+                        620,
+                        250
+                    ],
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "adunit-order": 11,
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexusAst",
+                            "params": {
+                                "placementId": "9527303"
+                            }
+                        },
+                        {
+                            "bidder": "pubmatic",
+                            "params": {
+                                "publisherId": "120496",
+                                "adSlot": "desktop_indiewire_bottom@300x250"
+                            }
+                        },
+                        {
+                            "bidder": "rubicon",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "86102",
+                                "zoneId": "407180"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "435110"
+                            }
+                        },
+                        {
+                            "bidder": "triplelift",
+                            "params": {
+                                "inventoryCode": "indiewire_desktop_bottom_300x250"
+                            }
+                        },
+                        {
+                            "bidder": "sonobi",
+                            "params": {
+                                "ad_unit": "3782/Indiewire/ros/river"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-indiewire-ros-620x250-uid4",
+                    "sizes": [
+                        [
+                            620,
+                            250
+                        ],
+                        [
+                            300,
+                            250
+                        ]
+                    ]
+                },
+                "is_lazy_load": "no"
+            }
+        ],
+        "interrupt-ads": [
+            {
+                "targeting": [],
+                "slot": "3782/Indiewire/interstitial",
+                "id": "div-gpt-indiewire-interstitial-uid1",
+                "width": [
+                    [
+                        970,
+                        600
+                    ],
+                    [
+                        970,
+                        251
+                    ],
+                    [
+                        800,
+                        250
+                    ],
+                    [
+                        300,
+                        600
+                    ]
+                ],
+                "adunit-order": "10",
+                "bidders": false,
+                "is_lazy_load": "no"
+            }
+        ]
+    },
+    "ad_vast_tags": []
+});
+</script>
+
+	<div style="display:none">
+	</div>
+<script type="text/liquid" id="ac_article">
+	<div class="ac_title">{{ result | highlight: 'title' | unescape }}</div>
+	<div class="ac_sub">{{ result.published_at | date: "%h %d, %Y" }}</div>
+</script>
+
+<script type="text/liquid" id="ac_tag">
+	<div class="ac_title">
+		<a href="{{ result.url }}">{{ result.name }}</a>
+	</div>
+</script>
+<noscript><img src="https://s3.amazonaws.com/heartbeat.pmc.com/track?host=www.indiewire.com&#038;path=%2F2018%2F01%2Fthe-first-purge-teaser-trailer-make-america-great-again-1201923486%2F&#038;ct=article&#038;lob=indiewire&#038;loc=us&#038;env=desktop&#038;post_id=1201923486" border="0" width="0" height="0" style="z-index: 0; bottom: -1px; left: -1px; display: inline; position: fixed;" /></noscript><script type='text/javascript' src='http://www.indiewire.com/_static/??/wp-includes/js/jquery/ui/core.min.js,/wp-includes/js/jquery/ui/datepicker.min.js?m=1517951433j'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http:////pmc-d.openx.net/w/1.0/jstag?nc=3782-PMC+RON&#038;ver=4.9.4'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201807'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2018Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_ga_event_tracking = {"events":[{"selector":"a.page-links__next","category":"article-page","label":"next-page-in-article","nonInteraction":true}],"device":"[D]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indiewire.com/_static/??-eJyNkNFuwjAMRX9obtYBmvYw7VtCaoJLYmdOAu3fEwpIfZg03qzE5+TmmksCJ1yQi4kVUqieOJsRS7LuZKIMNWA2l+RVjtKN+c2siOd6ig7Wsw+ytwEOlV0hufmaws5JiEt+VXLSOkGx/gYvc6IJw6v0mCHQXq1Si39GHkTv578VdQacGp2XbH33/vdNF4mfzxG7UAdcflJ5QM1OFNcb/3Yi4gNCZTo3urVj2Ya5kFuc2CIWKNpKJ/YP70/87nf959eu324+xiv+/aCd'></script>
+<script type='text/javascript' src='//s.swiftypecdn.com/cc/7Trui6DqJ8tpzFU-Dhvj.js?ver=2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SwiftypeConfigs = {"engine_key":"7Trui6DqJ8tpzFU-Dhvj","redirect_to":"\/results","home_url":"http:\/\/www.indiewire.com\/","placeholder_image":"http:\/\/www.indiewire.com\/wp-content\/themes\/indiewire\/sprites\/logo\/Logo_IndieWire.png","image_size":"medium","sort_field":"published_at","specific_dates":"","sort_direction":"desc","autocomplete":{"tags":{"include":true,"name":"Tags"},"articles":{"include":true,"name":"Content"}},"author_list":[],"date_filters":{"date_options:radio-options":{"title":"Date Filter","default_option":0},"0":"content_type_facet:checkbox-facet","topics_facet:checkbox-facet":{"limit":7,"allowed_items":[],"disallowed_items":[]},"tags_facet:checkbox-facet":{"limit":7,"allowed_items":[],"disallowed_items":[]},"author_facet:checkbox-facet":[]},"custom_facet_settings":[],"meta_tags":{"post_types":{"post":"Article","pmc-gallery":"Gallery","film":"Film","survey":"Survey","ballot":"Ballot","video":"Video","poll":"Poll","profile":"Profile","award":"Award"},"show_content_type_meta_tag":true,"tags":["post_tag"],"topics":["category"],"custom_topics":[],"comment_count":true,"appeared_in_print":false},"trans":{"search":"Search","search_button":"Search","reference":"Relevance","pub_date_new":"Published Date (newest first)","pub_date_old":"Published Date (oldest first)","most_commented":"Most Commented","clear":"Clear","content_type":"Content Type","topics":"Topics","tags":"Tags","all":"All","twentyfour_hours":"Past 24 Hours","seven_days":"Past 7 Days","thirty_days":"Past 30 Days","twelve_months":"Past 12 Months","specific_dates":"Specific Dates"},"q":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_share_bar_lob_ga_tracking = {"permalink":"http:\/\/www.indiewire.com\/2018\/01\/the-first-purge-teaser-trailer-make-america-great-again-1201923486\/","is_mobile":"","share_list":{"facebook":{"name":"Facebook","title":"Share on Facebook","class":"btn-facebook","url":"https:\/\/www.facebook.com\/sharer.php","popup":true,"javascript":false,"popup_title":"Share on Facebook"},"twitter":{"name":"Twitter","title":"Tweet","class":"btn-twitter","url":"https:\/\/twitter.com\/intent\/tweet","popup":true,"javascript":false,"popup_title":"Share on Twitter"},"tumblr":{"name":"Tumblr","title":"Post to Tumblr","class":"btn-tumblr","url":"https:\/\/www.tumblr.com\/widgets\/share\/tool\/preview","popup":true,"javascript":false,"popup_title":"Share on Tumblr"},"pinit":{"name":"Pin It","title":"Pin it","class":"btn-pinterest","url":"http:\/\/pinterest.com\/pin\/create\/link\/","popup":true,"javascript":false,"popup_title":"Share on Pinterest"},"reddit":{"name":"Reddit","title":"Submit to Reddit","class":"btn-reddit","url":"http:\/\/www.reddit.com\/submit","popup":true,"javascript":false,"popup_title":"Share on Reddit"},"linkedin":{"name":"LinkedIn","title":"Share on LinkedIn","class":"btn-linkedin","url":"http:\/\/www.linkedin.com\/shareArticle","popup":true,"javascript":false,"popup_title":"Share on LinkedIn"},"whatsapp":{"name":"WhatsApp","title":"Share on WhatsApp","class":"btn-whatsapp","url":"whatsapp:\/\/send","popup":false,"javascript":false,"popup_title":"Share on Whats App"},"email":{"name":"Email","title":"Email","class":"btn-email","url":"mailto:","popup":true,"javascript":false,"popup_title":"Send an Email"},"print":{"name":"Print","title":"Print This Page","class":"btn-print","url":"javascript:window.print()","popup":false,"javascript":true,"popup_title":"Print the Article"},"comment":{"name":"Talk","title":"Talk","class":"btn-comment","url":"","popup":false,"javascript":false,"popup_title":"Post a Comment"}}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indiewire.com/_static/??-eJytkt1OwzAMhV+INCpjmrhAXPAIPMCUpW7rLn/EDlXfnnTrpoKKRoGrxNY5n6xjyz4I7R2DYxlMatCRDFaL+Z96rHkIIBURMMmO5OvUevE2eJfNVFh0RUd38nfAS0tfgQLhD7xsqbFJUTF6t2o2r1EZQa2KIA4qyv0hoalGZh1P3uofUByVPqJrLih02qQKptGtzVgRIZhhaXRuwWYpugqhxwij6d3r/L4liEOhB23gfpVTq+gTgfmxgYJng03LYo3VKlxchk3X4DrgkLOR+xyJPOfVY9WMa4WUDf6IIIzqP1dz6DzLcyIy4QS5rQue8OvNLCvzktJ3qlyqshxuQ1RiP968AYZJ/Wyfym25e9yWD5tN9wE/a1zp'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.indiewire.com\/wp-content\/plugins\/facebook\/channel.php","xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/en_US\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript' src='http://www.indiewire.com/wp-includes/js/wp-embed.min.js?m=1517951432g'></script>
+<script async="async" type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.9.4'></script>
+<script type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201807.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.8',blog:'112084106',post:'1201923486',tz:'-5',srv:'www.indiewire.com'} ]);
+	_stq.push([ 'clickTrackerInit', '112084106', '1201923486' ]);
+</script>
+<script>!function ( d, s, id ) {
+		var js, fjs = d.getElementsByTagName( s )[ 0 ], p = /^http:/.test( d.location ) ? 'http' : 'https';
+		if ( !d.getElementById( id ) ) {
+			js = d.createElement( s );
+			js.id = id;
+			js.src = p + "://platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore( js, fjs );
+		}
+	}( document, "script", "twitter-wjs" );</script>
+	</div> <!-- this should close the #layout-contanier div from header.php -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c8454aa091","applicationID":"84495514","transactionName":"ZwYHYhBRC0JWURILX15MJFUWWQpfGEEPDFdcBg==","queueTime":0,"applicationTime":220,"atts":"S0EQFFhLGB0VU0RYS00e","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
