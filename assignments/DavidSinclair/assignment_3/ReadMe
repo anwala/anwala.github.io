@@ -1,0 +1,6 @@
+The answers to assignment 3 are in the pdf file.
+The codes are in programs 01_gethtml.sh which is a shell script to get the curl documents for all the links from assignment 2.
+The output is in a folder called html
+A tar of the directory is called html.tar.gz
+The code for 02_processing.py is a python program.  The output is in a folder called processed.  It has over 400+ files.  
+A tar of that directory is called processed.tar.gz
