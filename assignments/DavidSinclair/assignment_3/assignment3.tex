@@ -1,0 +1,406 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[utf8]{inputenc}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{lmodern}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+%Used for color for programming language
+\usepackage{listings}
+\usepackage{color}
+
+\newcommand{\hmwkTitle}{Assignment\ \#3} % Assignment title
+\newcommand{\hmwkDueDate}{11:59pm February 20,\ 2018} % Due date
+\newcommand{\hmwkClass}{CS 535} % Course/class
+\newcommand{\hmwkClassTime}{16:20} % Class/lecture time
+\newcommand{\hmwkClassInstructor}{Alexander C. Nwala} % Teacher/lecturer
+\newcommand{\hmwkAuthorName}{David Sinclair} % Your name
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title{
+\vspace{2in}
+\textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
+\normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate}\\
+\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ \hmwkClassTime}}
+\vspace{3in}
+}
+\author{\textbf{\hmwkAuthorName}}
+
+
+\begin{document}
+
+\maketitle
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\setcounter{tocdepth}{1} % Uncomment this line if you don't want subsections listed in the ToC
+
+\pagebreak
+\tableofcontents
+\pagebreak 
+
+%----------------------------------------------------------------------------------------
+%	Create colors for scripting 
+%----------------------------------------------------------------------------------------
+
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+%----------------------------------------------------------------------------------------
+%	Problem 1 %----------------------------------------------------------------------------------------
+
+\section{Problem 1}
+\subsection{Question 1}
+1.  Download the 1000 URIs from assignment \#2.  "curl", "wget", or
+"lynx" are all good candidate programs to use.  We want just the
+raw HTML, not the images, stylesheets, etc.\\
+\\
+from the command line:\\
+\\
+\% curl http://www.cnn.com/ > www.cnn.com\\
+\\
+\%wget -O www.cnn.com http://www.cnn.com/\\
+\\
+\% lynx -source http://www.cnn.com/ > www.cnn.com\\
+\\
+"www.cnn.com" is just an example output file name, keep in mind
+that the shell will not like some of the characters that can occur
+in URIs (e.g.,).  You might want to hash the URIs to associate 
+them with their respective filename, like:\\
+\\
+\# echo -n "http://www.cs.odu.edu/show\_features.shtml?72" | md5
+41d5f125d13b4bb554e6e31b6b591eeb\\
+\\
+("md5sum" on some machines; note the "-n" in echo -- this removes
+the trailing newline.)\\
+\\
+Now use a tool to remove (most) of the HTML markup for all 1000 HTML documents.
+"python-boilerpipe" will do a fair job see\\ 
+(http://ws-dl.blogspot.com/2017/03/2017-03-20-survey-of-5-boilerplate.html):\\
+\\
+	from boilerpipe.extract import Extractor\\
+	extractor = Extractor(extractor='ArticleExtractor', html=html)\\
+	extractor.getText()\\
+\\
+Keep both files for each URI (i.e., raw HTML and processed).\\ 
+Upload both sets of files to your github account.\\
+\\
+\pagebreak
+\subsection{Answer 1}
+I created a program called 01\_gethtml.sh which used bash scripting and curl to get the links file which was a total of 499 records without the twitter.com links. from assignment 2.  The program took the links hashed the number to create the file name then put all the files into a directory called html.  The total number of files created was 499.  I archived the directory and added to the main directory called html.tar.\\
+\\
+I then created another program using the recommend python library to processes the html documents and remove the html code and leave only text.  The library ran into a couple of issues.  Some of the html files had no text in them, and some of the html files had code the library was unable to identify.  Out of the 499 files in the html directory, 472 files were processed with no issues.  A key file was created that linked the uri to a md5 file called htmlmd5.key.\\
+\\
+Below is an example of the output of the file.\\
+\\
+https://www.buzzfeed.com/albertonardelli/the\-governments\-own\-brexit\-analysis\-says\-the\-uk\-will\-be?utm\_term=.jcbRaqNkz3\#.jcbRaqNkz3   	 048d96bf6b3ab3a7f855e600ec0fa1dd.html\\
+https://www.instagram.com/p/BennV8RHV4p/ 	 72f66bc4d6e9ba35875f52526ebc151e.html\\
+https://mashable.com/2018/01/31/apple-responds-us-government-iphone-throttling-probe/ 	 1111953b36d7632584b9607977a5b51b.html\\
+http://www.ParliamentToday.com/free/viewnews.html?id=99247 	 4399a4fe928063c2d16fc5094701b1ed.html\\
+http://zeenews.india.com/hindi/india/modi-government-will-abolish-posts-vacant-from-past-5-years/369486 	 fc22ab56e514be60524f2171ac46c98b.html\\
+\\
+12 files had no text a sample of the list is provided but the entire list can be seen in the file called "NotextProcessing.txt".\\  
+\\
+No Text. b8ebc6df67a08cd31cd94bc1fa3c547c.html\\
+No Text. b30ee796fc9b349f27ee551d29f933da.html\\
+No Text. d0f33467d1dfd4353b8d9114d79f18cd.html\\
+No Text. c5542b9fca268da7a319fc24bb8fe238.html\\
+No Text. 2fdfa52642586bb5774f0f37880ef2ad.html\\
+\\
+Another 16 files had code the library was unable to identify and a sample of the list is provided but the entire list can be seen in the file called "ErrorProcessing.txt".\\
+\\
+UnicodeDecodeError. 1ed4459af9a5ed696690864be613702f.html\\
+UnicodeDecodeError. 82527b6708b8b5da93fa240c0f3731dc.html\\
+UnicodeDecodeError. cfac5dc77582a98b10d2ba6b4cf49b64.html\\
+UnicodeDecodeError. 14ae8829ac6414af9b21b7ad632d9695.html\\
+\\
+\pagebreak 
+
+%----------------------------------------------------------------------------------------
+%	Problem 2
+%----------------------------------------------------------------------------------------
+\section{Problem 2}
+\subsection{Question 2}
+2.  Choose a query term (e.g., "shadow") that is not a stop word
+(see week 5 slides) and not HTML markup from step 1 (e.g., "http")
+that matches at least 10 documents (hint: use "grep" on the processed
+files).  If the term is present in more than 10 documents, choose
+any 10 from your list.  (If you do not end up with a list of 10
+URIs, you've done something wrong).\\
+\\
+As per the example in the week 5 slides, compute TFIDF values for
+the term in each of the 10 documents and create a table with the
+TF, IDF, and TFIDF values, as well as the corresponding URIs.  The
+URIs will be ranked in decreasing order by TFIDF values.  For
+example:\\
+\\
+Table 1. 10 Hits for the term "shadow", ranked by TFIDF.\\
+\\
+TFIDF	TF	IDF	URI\\
+-----	--	---	---\\
+0.150	0.014	10.680	http://foo.com/\\
+0.044	0.008	10.680	http://bar.com/\\
+\\
+\\
+You can use Google or Bing for the DF estimation.  To count the
+number of words in the processed document (i.e., the deonminator
+for TF), you can use "wc":\\
+\\
+\% wc -w www.cnn.com.processed\\
+    2370 www.cnn.com.processed\\
+\\
+It won't be completely accurate, but it will be probably be
+consistently inaccurate across all files.  You can use more 
+accurate methods if you'd like, just explain how you did it.\\  
+\\
+Don't forget the log base 2 for IDF, and mind your significant
+digits!\\
+\\
+https://en.wikipedia.org/wiki/Significant\_figures\#Rounding\_and\_decimal\_places\\
+\\
+\subsection{Answer 2}
+The term that I looked for was "minister".  Ouc of the 472 files it was found in 76 files.  They ranged from max of 16 in one document to 1 in many other documents.  The list of files and the number of times minister was in each file is in a file called "minwordcount.txt".\\
+\\
+I sorted the minwordcount.txt file and selected the following 10 files to rank with the corrisponding minister count.\\
+\\
+Table 1. 10 Hits for the term "minister" by Count.\\
+\begin{center}
+  \begin{tabular}{ | c | c | c | c | c}
+    \hline
+     File Name & Count & Line Count & Word Count & Char Count\\ \hline
+     f81f0a8863d96799127430d352b8570f.txt & 16 & 181 & 3862 & 24029\\ \hline
+     fea2be6a9c57ddd7026b56029291b080.txt & 6 & 92 & 1899 & 11247\\ \hline
+     ea2dc97574e60ecb10171ec08afabeb7.txt & 6 & 26 & 1031 & 6375\\ \hline
+     91f0ccb56b3daa6095ac19def910cefb.txt & 5 & 33 & 733 & 4387\\ \hline
+     c95f9367f4aaf444cb1d33c3f5f86ea5.txt & 4 & 8 & 279 & 1738\\ \hline
+     2e124b0f8e405b73483fa6364732a868.txt & 4 & 19 & 419 & 2409\\ \hline
+     75d0df4f758c79db48f58b50ebe100d5.txt & 4 & 17 & 361 & 2109\\ \hline
+     936767979808b7b3348a18366158559e.txt & 4 & 21 & 472 & 2742\\ \hline
+     7e36f66513f6cd8cae045e3e814bedd0.txt & 3 & 21 & 532 & 3250\\ \hline
+     af9ca261c6e9e3937080a10e9b86b92e.txt & 3 & 28 & 563 & 3321\\
+    \hline
+  \end{tabular}
+\end{center}
+
+
+To determine IDF the number according to bing was 220,000,000 for the Document for Coupe from
+\\ http://www.worldwidewebsize.com and the Minister search using Bing pulled 40,700,000 documents.  This created the IDF number of .73283.\\
+\\
+Table 2. 10 Hits for the term "minister", ranked by TFIDF.\\
+\begin{center}
+  \begin{tabular}{ | c | c | c | c | l}
+    \hline
+   TFIDF & TF & IDF & File Name & URI\\ \hline
+    .01051 & .01434 & .73283 & c95f9367f4aaf444cb1d33c3f5f86ea5.txt & http://www.app.com.pk/imran-not-blame-federal-government-failures-marriyum/ \\ \hline
+    .00812 & .01108 & .73283 & 75d0df4f758c79db48f58b50ebe100d5.txt & https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592 \\ \hline    
+    .00700 & .00955 & .73283 & 2e124b0f8e405b73483fa6364732a868.txt & http://www.abplive.in/india-news/up-minister-embarrasses-yogi-says-corruption-has-increased-under-bjp-government-642539 \\ \hline
+    .00621 & .00847 & .73283 & 936767979808b7b3348a18366158559e.txt & https://www.ndtv.com/india\-news/in\-embarrassment\-for\-yogi\-adityanath\-government\-minister\-om\-prakash\-rajbhar\-says\-corruption\-up\-in\-ut\-1806592 \\ \hline
+    .00500 & .00682 & .73283 & 91f0ccb56b3daa6095ac19def910cefb.txt & https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could \\ \hline
+    .00427 & .00582 & .73283 & ea2dc97574e60ecb10171ec08afabeb7.txt & https://economictimes.indiatimes.com/news/politics\-and\-nation/eyes\-on\-2019\-polls\-government\-plans\-over\-60\-media\-units\-to\-expand\-outreach/articleshow/62716129\.cms \\ \hline
+    .00413 & .00564 & .73283 & 7e36f66513f6cd8cae045e3e814bedd0.txt & https://www.reuters.com/article/uk-britain-eu-may-spokesman/uk-government-will-hand-over-brexit-analysis-after-damaging-leak-idUSKBN1FK1XG \\ \hline
+    .00391 & .00533 & .73283 & af9ca261c6e9e3937080a10e9b86b92e.txt & http://www.bbc.co.uk/news/uk\-politics\-42884610 \\ \hline
+    .00303 & .00414 & .73283 & f81f0a8863d96799127430d352b8570f.txt & http://www.abc.net.au/news/2018-01-31/cabinet-files-reveal-inner-government-decisions/9168442 \\ \hline
+    .00232 & .00316 & .73283 & fea2be6a9c57ddd7026b56029291b080.txt & http://www.independent.co.uk/news/uk/politics/theresa \\     
+    \hline
+  \end{tabular}
+\end{center}
+
+
+
+\pagebreak
+%----------------------------------------------------------------------------------------
+%	Problem 3
+%----------------------------------------------------------------------------------------
+\section{Problem 3}
+\subsection{Question 3}
+3.  Now rank the same 10 URIs from question \#2, but this time 
+by their PageRank.  Use any of the free PR estimaters on the web,
+such as:\\
+\\
+http://pr.eyedomain.com/\\
+http://www.prchecker.info/check\_page\_rank.php\\
+http://www.seocentro.com/tools/search-engines/pagerank.html\\
+http://www.checkpagerank.net/\\
+\\
+If you use these tools, you'll have to do so by hand (they have
+anti-bot captchas), but there are only 10 to do.  Normalize the
+values they give you to be from 0 to 1.0.  Use the same tool on all
+10 (again, consistency is more important than accuracy).  Also
+note that these tools typically report on the domain rather than
+the page, so it's not entirely accurate.\\  
+\\
+Create a table similar to Table 1:\\
+\\
+Table 2.  10 hits for the term "shadow", ranked by PageRank.\\
+\\
+PageRank	URI\\
+--------	---\\
+0.9		http://bar.com/\\
+0.5		http://foo.com/\\
+\\
+Briefly compare and contrast the rankings produced in questions 2
+and 3.\\
+\\
+\subsection{Answer 3}
+
+I used http://pr.eyedomain.com for PageRank\\
+\\
+
+Table 3. 10 Hits for the term "minister", ranked by PageRank.\\
+\begin{center}
+  \begin{tabular}{ | c | l}
+    \hline
+   Page Rank & URI\\ \hline
+    9 & http://www.bbc.co.uk/\\ \hline 
+    8 & https://www.reuters.com\\ \hline
+    8 & http://www.abc.net.au \\ \hline
+    8 & http://www.independent.co.uk \\ \hline
+    7 & https://economictimes.indiatimes.com\\ \hline   
+    6 & https://www.ndtv.com/ \\ \hline 
+    6 & https://www.ndtv.com/ \\ \hline    
+    5 & http://www.app.com.pk/ \\ \hline
+    N/A & http://www.abplive.in/ \\ \hline
+    Can't Find & https://www.politicshome.com \\ \hline        
+    \hline
+  \end{tabular}
+\end{center}
+
+Briefly compare and contrast the rankings produced in questions 2
+and 3.\\
+
+In looking at question 2 and question 3.  I was expecting to see that the document that had the highest number of hits with the key word be the one in both questions.  But I was wrong.  The TFIDF for this document was actually on the lower end because it actually and a lot of words in the document.  This document, f81f0a8863d96799127430d352b8570f.txt, which had the word Minister appear 16 times.  actually ranked at 9 with a score of .00303.  The document, c95f9367f4aaf444cb1d33c3f5f86ea5.txt, that actually ranked highest in the TFIDF had the least number of words, but had the word Minister more times.  Document c95f9367f4aaf444cb1d33c3f5f86ea5.txt website was http://www.app.com.pk and document f81f0a8863d96799127430d352b8570f.txt website was http://www.abc.net.au.  So in looking at the page ranking by the website http://www.abc.net.au was ranked 8 and https://www.app.com.pk was ranked 5.  The http://pr.eyedomain.com used a Google page rank from 0-9 with 0 being the worst and 9 being the best.  So in looking at the two tables they almost reverse order.\\
+
+
+\pagebreak
+%----------------------------------------------------------------------------------------
+%	Problem 4
+%----------------------------------------------------------------------------------------
+\section{Problem 4}
+\subsection{Question 4}
+====================================================\\
+======Question 4 is for 3 points extra credit=======\\
+====================================================\\
+\\
+4.  Compute the Kendall Tau\_b score for both lists (use "b" because
+there will likely be tie values in the rankings).  Report both the
+Tau value and the "p" value.\\
+\\
+See:\\ 
+http://stackoverflow.com/questions/2557863/measures-of-association-in-r-kendalls-tau-b-and-tau-c\\
+http://en.wikipedia.org/wiki/Kendall\_tau\_rank\_correlation\_coefficient\#Tau\-b\\
+http://en.wikipedia.org/wiki/Correlation\_and\_dependence\\
+\\
+\subsection{Answer 4}
+
+\pagebreak
+%----------------------------------------------------------------------------------------
+%	Problem 5
+%----------------------------------------------------------------------------------------
+\section{Problem 5}
+\subsection{Question 5}
+====================================================\\
+======Question 5 is for 3 points extra credit=======\\
+====================================================\\
+\\
+5.  Compute a ranking for the 10 URIs from Q2 using Alexa information
+(see week 4 slides).  Compute the correlation (as per Q4) for all
+pairs of combinations for TFIDF, PR, and Alexa.\\
+\\
+\subsection{Answer 5}
+
+\pagebreak
+%----------------------------------------------------------------------------------------
+%	Problem 6
+%----------------------------------------------------------------------------------------
+\section{Problem 6}
+\subsection{Question 6}
+====================================================\\
+======Question 6 is for 2 points extra credit=======\\
+====================================================\\
+\\
+6.  Give an in-depth analysis, complete with examples, 
+graphs, and all other pertinent argumentation for 
+Kristen Stewart's (of "Twilight" fame) Erdos-Bacon number.\\
+\\
+\subsection{Answer 6}
+
+Kristen Stewart co-wrote an academic paper about artificial intelligence.  The paper was called "Bringing impressionism to life with neural style transfer in Come Swim".\\
+\\
+\cite{http://www.businessinsider.com/twilights-kristen-stewart-co-authored-a-paper-on-artificial-intelligence-2017-1} 
+
+Using this paper and counting the citations in it.  I came up with an EROS number of 5\\
+\\
+https://mathscinet-ams-org.proxy.lib.odu.edu/mathscinet/MRAuthorID/189017\\ 
+Table 6: Paul Erdos to Kristen Stewart work
+\begin{center}
+  \begin{tabular}{ | c | c | c | c}
+    \hline
+      Name & relation & name & Work Number\\ \hline
+      Paul Erdos & coauthored & Persi W. Diaconis & MR2126886 \\ \hline 
+      Persi W. Diaconis & coauthored & Bernd Sturmfels & MR1608156\\ \hline 
+      Bernd Sturmfels & coauthored & Jean Ponce & MR3641809\\ \hline 
+      Jean Ponce & coauthored & Andrew Zisserman & MR2912359\\ \hline 
+      Andrew Zisserman & cited & Kristen Stewart &  Not list in MathSci\\ \hline 
+    \hline
+  \end{tabular}
+\end{center}
+
+Then to determine Kristen Stewart Bacon Number, I used the website "The Oracle of Bacon"  According to the website:\\
+\\
+Kristen Stewart has a Bacon number of 2\\
+\\
+Table 6: Kevin Bacon to Kristen Stewart work
+\begin{center}
+  \begin{tabular}{ | c | c | c }
+    \hline
+      Name & Movie & Name\\ \hline
+      Kevin Bacon & Criminal Law & David Gow\\ \hline 
+      David Gow & On the Road & Kristen Stewart\\ \hline       
+    \hline
+  \end{tabular}
+\end{center}
+
+
+\pagebreak
+%----------------------------------------------------------------------------------------
+%	Problem 7
+%----------------------------------------------------------------------------------------
+\section{Problem 7}
+\subsection{Question 7}
+====================================================\\
+======Question 7 is for 2 points extra credit=======\\
+====================================================\\
+\\
+7.  Build a simple (i.e., no positional information) inverted file
+(in ASCII) for all the words from your 1000 URIs.  Upload the entire
+file to github and discuss an interesting portion of the file in
+your report.\\
+\\
+\subsection{Answer 7}
+
+\pagebreak
+\end{document}
