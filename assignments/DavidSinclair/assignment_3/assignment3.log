@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.11)  17 FEB 2018 09:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.11)  18 FEB 2018 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -925,17 +925,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 341--349
  []
 
 
-LaTeX Warning: Citation `http://www.businessinsider.com/twilights-kristen-stewa
-rt-co-authored-a-paper-on-artificial-intelligence-2017-1' on page 11 undefined 
-on input line 353.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--354
+Underfull \hbox (badness 10000) in paragraph at lines 351--359
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--359
+Underfull \hbox (badness 10000) in paragraph at lines 351--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--359
 
  []
 
@@ -950,40 +950,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 372--377
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 394--403
+Underfull \hbox (badness 10000) in paragraph at lines 396--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--403
+Underfull \hbox (badness 10000) in paragraph at lines 396--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--403
+Underfull \hbox (badness 10000) in paragraph at lines 396--405
 
  []
 
-[12] (./assignment3.aux)
 
-LaTeX Warning: There were undefined references.
+Underfull \hbox (badness 10000) in paragraph at lines 407--417
 
- ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--417
+
+ []
+
+[12] (./assignment3.aux) ) 
 Here is how much of TeX's memory you used:
- 4604 strings out of 495063
- 62961 string characters out of 3182201
+ 4603 strings out of 495063
+ 62849 string characters out of 3182201
  148643 words of memory out of 3000000
- 7684 multiletter control sequences out of 15000+200000
+ 7683 multiletter control sequences out of 15000+200000
  52791 words of font info for 53 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,7n,40p,1087b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/lm/lmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on assignment3.pdf (12 pages, 164752 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-
+rm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/lm/lmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lm
+r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
+Output written on assignment3.pdf (12 pages, 165571 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
