@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.11)  23 FEB 2018 20:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.11)  27 FEB 2018 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -626,94 +626,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--95
 <Question1.png, id=15, 462.528pt x 346.896pt>
 File: Question1.png Graphic file (type png)
  <use Question1.png>
-Package pdftex.def Info: Question1.png used on input line 96.
+Package pdftex.def Info: Question1.png used on input line 98.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
- [3 <./Question1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 104--118
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
+
+ []
+
+[3 <./Question1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--118
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--118
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--118
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--118
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--118
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 <Question2.png, id=21, 515.2851pt x 346.896pt>
 File: Question2.png Graphic file (type png)
  <use Question2.png>
-Package pdftex.def Info: Question2.png used on input line 119.
+Package pdftex.def Info: Question2.png used on input line 124.
 (pdftex.def)             Requested size: 515.28384pt x 346.89514pt.
 
-Overfull \hbox (14.79985pt too wide) in paragraph at lines 119--120
-[] 
+Overfull \hbox (29.79985pt too wide) in paragraph at lines 124--125
+[][] 
  []
 
 [4 <./Question2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 140--149
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--149
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--149
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--149
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--149
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
 
  []
 
 <Question4.png, id=29, 462.528pt x 346.896pt>
 File: Question4.png Graphic file (type png)
  <use Question4.png>
-Package pdftex.def Info: Question4.png used on input line 150.
+Package pdftex.def Info: Question4.png used on input line 157.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
- [6 <./Question4.png>] (./assignment4.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--159
+
+ []
+
+[6 <./Question4.png>] (./assignment4.aux) ) 
 Here is how much of TeX's memory you used:
  4618 strings out of 495063
  63097 string characters out of 3182201
@@ -722,14 +737,14 @@ Here is how much of TeX's memory you used:
  52791 words of font info for 53 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,6n,40p,243b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/font
-s/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/lm/l
-mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/lm/lmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/l
-mri12.pfb>
-Output written on assignment4.pdf (6 pages, 218271 bytes).
+{/usr/share/texlive/texmf-dist/fonts
+/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/lm/lm
+bx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/lm/lmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lm
+ri12.pfb>
+Output written on assignment4.pdf (6 pages, 218314 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
