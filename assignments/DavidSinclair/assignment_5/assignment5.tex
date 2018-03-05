@@ -394,6 +394,92 @@ https://d3js.org/\\
 \\
 \subsection{Answer 2}
 
+So I attempted the same thing using the D3 has explained in class.\\
+\\
+It is a lot of material to cover considering it contains HTML, CSS, and java.  Not that I am good at any of those.\\
+\\
+But in my many attempts, I created the following two pictures using two different types of d3 examples.\\
+\\
+I have been unable to remove the lines or links using the formulas currerntly.  But I believe given enough time I could figure it out.  The difference in the to figures \ref{fig:ques2} the way that I completed the tasks.\\
+\\
+\begin{figure}[H]
+  \centering
+  \begin{subfigure}[b]{0.4\linewidth}
+     \includegraphics[width=\linewidth]{d3karate_html.png} 
+     \caption{Coloring of the lines}
+  \end{subfigure}  
+  \begin{subfigure}[b]{0.4\linewidth}
+     \includegraphics[width=\linewidth]{d3karate1_html.png}
+     \caption{Getting labels correct}
+  \end{subfigure}
+  \caption{The karate club from 1977 class information.}
+  \label{fig:ques2}
+\end{figure}
+
+The coloring of the lines Figure \ref{fig:ques2} I used the following code and had the data in the html file.  This can be seen in the file called karate1.html but a snippet of code and some of the the data is included below.  I also am showing the ability to color the nodes and the lines by using different values for the groups and the removed links.
+
+\begin{lstlisting}
+ 
+//d3 code goes here 
+ var nodes_data =  [
+    {"name": "1","group": "1"},
+
+    {"name": "34","group": "2"},
+    ]
+
+//Create links data 
+var links_data = [
+        {"source": "1", "target": "2", "type":"A" }, 
+        {"source": "1", "target": "3", "type":"R" },
+    
+        {"source": "33", "target": "34", "type":"A" }
+]
+
+
+//Function to choose what color circle we have
+//Let's return blue for males and red for females
+function circleColour(d){
+	if(d.group =="1"){
+		return "red";
+	} else {
+		return "green";
+	}
+}
+
+//Function to choose the line colour and thickness 
+//If the link type is "A" return black 
+//If the link type is "R" return blue 
+function linkColour(d){
+	if(d.type == "A"){
+		return "black";
+	} else {
+		return "blue";
+	}
+}
+
+\end{lstlisting}
+
+The coloring of the nodes was continued in the second attempt but this time instead of keeping the data in the html code.  I changed it and put it in a json file.  This allowed me to change the data at any time but I had trouble with getting the links to display correctly.  The html file is called karate.html and the json file is called karate.json.\\
+\\
+I used "An A to Z of extra features for the D3 force layout" and the d3js.org website to assit in creating the work.
+
+@online{Coppelia,
+author = {Simon Raper},
+title = {An A to Z of extra features for the D3 force layout},
+year = {2014},
+url = {http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/},
+}
+
+\begin{lstlisting}
+ 
+d3.json("karate.json", function(error, graph) {
+  if (error) throw error;
+
+\end{lstlisting}
+
+I found this very challenging and a great learning experience.
+
+
 \pagebreak
 %----------------------------------------------------------------------------------------
 %	Problem 3

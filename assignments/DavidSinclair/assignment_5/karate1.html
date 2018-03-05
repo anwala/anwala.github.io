@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+ 
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+ 
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 9px helvetica;
+}
+ 
+</style>
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+ 
+//create somewhere to put the force directed graph
+var svg = d3.select("svg"),
+ width = +svg.attr("width"),
+ height = +svg.attr("height");
+ 
+//d3 code goes here 
+ var nodes_data =  [
+    {"name": "1","group": "1"},
+    {"name": "2","group": "1"},
+    {"name": "3","group": "1"},
+    {"name": "4","group": "1"},
+    {"name": "5","group": "1"},
+    {"name": "6","group": "1"},
+    {"name": "7","group": "1"},
+    {"name": "8","group": "1"},
+    {"name": "9","group": "2"},
+    {"name": "10","group": "2"},
+    {"name": "11","group": "1"},
+    {"name": "12","group": "1"},
+    {"name": "13","group": "1"},
+    {"name": "14","group": "1"},
+    {"name": "15","group": "2"},
+    {"name": "16","group": "2"},
+    {"name": "17","group": "1"},
+    {"name": "18","group": "1"},
+    {"name": "19","group": "2"},
+    {"name": "20","group": "1"},
+    {"name": "21","group": "2"},
+    {"name": "22","group": "1"},
+    {"name": "23","group": "2"},
+    {"name": "24","group": "2"},
+    {"name": "25","group": "2"},
+    {"name": "26","group": "2"},
+    {"name": "27","group": "2"},
+    {"name": "28","group": "2"},
+    {"name": "29","group": "2"},
+    {"name": "30","group": "2"},
+    {"name": "31","group": "2"},
+    {"name": "32","group": "2"},
+    {"name": "33","group": "2"},
+    {"name": "34","group": "2"},
+    ]
+//set up the simulation 
+//nodes only for now 
+var simulation = d3.forceSimulation()
+              .nodes(nodes_data);
+//add forces
+//we're going to add a charge to each node 
+//also going to add a centering force
+simulation
+    .force("charge_force", d3.forceManyBody())
+    .force("center_force", d3.forceCenter(width / 2, height / 2));
+
+//draw circles for the nodes 
+var node = svg.append("g")
+        .attr("class", "nodes")
+        .selectAll("circle")
+        .data(nodes_data)
+        .enter()
+        .append("circle")
+        .attr("r", 10)
+        .attr("fill",circleColour);
+
+//label the circles for the nodes
+node.append("text")
+    .attr("dx", 12)
+    .attr("dy", ".35em")
+    .text(function(d) { return d.name });
+
+//var text = svg.append("g")
+//    .attr("class", "labels")
+//    .selectAll("text")
+//    .data(nodes_data)
+//    .enter().append("text")
+//    .attr("dx", 12)
+//    .attr("dy", ".35em")
+//    .text(function(d) { return d.name });
+
+simulation.on("tick", tickActions );
+
+//Create links data 
+var links_data = [
+        {"source": "1", "target": "2", "type":"A" }, 
+        {"source": "1", "target": "3", "type":"R" },
+        {"source": "2", "target": "3", "type":"R" }, 
+        {"source": "1", "target": "4", "type":"A" }, 
+        {"source": "2", "target": "4", "type":"A" }, 
+        {"source": "3", "target": "4", "type":"R" }, 
+        {"source": "1", "target": "5", "type":"A" }, 
+        {"source": "1", "target": "6", "type":"A" }, 
+        {"source": "1", "target": "7", "type":"A" }, 
+        {"source": "5", "target": "7", "type":"A" },  
+        {"source": "6", "target": "7", "type":"A" }, 
+        {"source": "1", "target": "8", "type":"A" }, 
+        {"source": "2", "target": "8", "type":"A" }, 
+        {"source": "3", "target": "8", "type":"R" }, 
+        {"source": "4", "target": "8", "type":"A" }, 
+        {"source": "1", "target": "9", "type":"R" }, 
+        {"source": "3", "target": "9", "type":"A" }, 
+        {"source": "3", "target": "10", "type":"A" }, 
+        {"source": "1", "target": "11", "type":"A" }, 
+        {"source": "5", "target": "11", "type":"A" }, 
+        {"source": "6", "target": "11", "type":"A" }, 
+        {"source": "1", "target": "12", "type":"A" }, 
+        {"source": "1", "target": "13", "type":"A" }, 
+        {"source": "4", "target": "13", "type":"A" }, 
+        {"source": "1", "target": "14", "type":"A" }, 
+        {"source": "2", "target": "14", "type":"A" }, 
+        {"source": "3", "target": "14", "type":"R" }, 
+        {"source": "4", "target": "14", "type":"A" }, 
+        {"source": "6", "target": "17", "type":"A" }, 
+        {"source": "7", "target": "17", "type":"A" }, 
+        {"source": "1", "target": "18", "type":"A" }, 
+        {"source": "2", "target": "18", "type":"A" }, 
+        {"source": "1", "target": "20", "type":"A" }, 
+        {"source": "2", "target": "20", "type":"A" }, 
+        {"source": "1", "target": "22", "type":"A" },  
+        {"source": "2", "target": "22", "type":"A" },  
+        {"source": "24", "target": "26", "type":"A" }, 
+        {"source": "25", "target": "26", "type":"A" }, 
+        {"source": "3", "target": "28", "type":"A" }, 
+        {"source": "24", "target": "28", "type":"A" }, 
+        {"source": "25", "target": "28", "type":"A" }, 
+        {"source": "3", "target": "29", "type":"A" }, 
+        {"source": "24", "target": "30", "type":"A" }, 
+        {"source": "27", "target": "30", "type":"A" }, 
+        {"source": "2", "target": "31", "type":"R" }, 
+        {"source": "9", "target": "31", "type":"A" }, 
+        {"source": "1", "target": "32", "type":"R" }, 
+        {"source": "25", "target": "32", "type":"A" }, 
+        {"source": "26", "target": "32", "type":"A" }, 
+        {"source": "29", "target": "32", "type":"A" }, 
+        {"source": "3", "target": "33", "type":"R" }, 
+        {"source": "9", "target": "33", "type":"A" }, 
+        {"source": "15", "target": "33", "type":"A" }, 
+        {"source": "16", "target": "33", "type":"A" }, 
+        {"source": "19", "target": "33", "type":"A" }, 
+        {"source": "21", "target": "33", "type":"A" }, 
+        {"source": "23", "target": "33", "type":"A" }, 
+        {"source": "24", "target": "33", "type":"A" }, 
+        {"source": "30", "target": "33", "type":"A" }, 
+        {"source": "31", "target": "33", "type":"A" }, 
+        {"source": "32", "target": "33", "type":"A" }, 
+        {"source": "9", "target": "34", "type":"A" }, 
+        {"source": "10", "target": "34", "type":"A" }, 
+        {"source": "14", "target": "34", "type":"R" }, 
+        {"source": "15", "target": "34", "type":"A" },
+        {"source": "16", "target": "34", "type":"A" }, 
+        {"source": "19", "target": "34", "type":"A" }, 
+        {"source": "20", "target": "34", "type":"R" }, 
+        {"source": "21", "target": "34", "type":"A" }, 
+        {"source": "23", "target": "34", "type":"A" }, 
+        {"source": "24", "target": "34", "type":"A" }, 
+        {"source": "27", "target": "34", "type":"A" }, 
+        {"source": "28", "target": "34", "type":"A" }, 
+        {"source": "29", "target": "34", "type":"A" }, 
+        {"source": "30", "target": "34", "type":"A" }, 
+        {"source": "31", "target": "34", "type":"A" }, 
+        {"source": "32", "target": "34", "type":"A" }, 
+        {"source": "33", "target": "34", "type":"A" }
+]
+//set up the simulation 
+var simulation = d3.forceSimulation()
+					//add nodes
+					.nodes(nodes_data);
+
+//add forces
+//We're going to add a charge to each node
+//also going to add a centering force
+//and a link force
+var link_force =  d3.forceLink(links_data)
+                        .id(function(d) { return d.name; })
+
+simulation
+    .force("charge_force", d3.forceManyBody())
+    .force("center_force", d3.forceCenter(width / 2, height / 2))
+    .force("links",link_force);
+
+        
+//add tick instructions: 
+simulation.on("tick", tickActions );
+
+//draw lines for the links 
+var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(links_data)
+    .enter().append("line")
+      .attr("stroke-width", 2)
+      .style("stroke", linkColour);
+
+var drag_handler = d3.drag()
+	.on("start", drag_start)
+	.on("drag", drag_drag)
+	.on("end", drag_end);
+
+//same as u	sing .call on the node variable as in https://bl.ocks.org/mbostock/4062045 
+drag_handler(node)
+
+/** Functions **/
+
+
+function tickActions() {
+    //update circle positions to reflect node updates on each tick of the simulation 
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; })
+  }
+
+//Function to choose what color circle we have
+//Let's return blue for males and red for females
+function circleColour(d){
+	if(d.group =="1"){
+		return "red";
+	} else {
+		return "green";
+	}
+}
+
+//Function to choose the line colour and thickness 
+//If the link type is "A" return black 
+//If the link type is "R" return blue 
+function linkColour(d){
+	if(d.type == "A"){
+		return "black";
+	} else {
+		return "blue";
+	}
+}
+
+//drag handler
+//d is the node 
+function drag_start(d) {
+ if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+}
+
+function drag_drag(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+
+function drag_end(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+    
+
+// The complete tickActions function    
+function tickActions() {
+    //update circle positions each tick of the simulation 
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+        
+    //update link positions 
+    //simply tells one end of the line to follow one node around
+    //and the other end of the line to follow the other node around
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+ 
+  }
+
+
+</script>
