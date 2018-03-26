@@ -1,0 +1,1911 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.1.11)  25 MAR 2018 09:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**assignment7.tex
+(./assignment7.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count103
+\lst@gtempboxa=\box28
+\lst@token=\toks23
+\lst@length=\count104
+\lst@currlwidth=\dimen122
+\lst@column=\count105
+\lst@pos=\count106
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count107
+\lst@lineno=\count108
+\lst@maxwidth=\dimen125
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count109
+\lst@skipnumbers=\count110
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/02/03 v3.3-65 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/02/03 v1.5-62 caption3 kernel (AR)
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@tempdima=\dimen129
+\caption@indent=\dimen130
+\caption@parindent=\dimen131
+\caption@hangindent=\dimen132
+)
+\c@ContinuedFloat=\count111
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count112
+\c@subtable=\count113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count114
+\float@exts=\toks24
+\float@box=\box30
+\@float@everytoks=\toks25
+\@floatcapt=\box31
+) (./assignment7.aux)
+\openout1 = `assignment7.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen133
+\scratchbox=\box32
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen134
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count121
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 40.
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 40.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 40.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./assignment7.t
+oc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `assignment7.toc'.
+
+ [2]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--115
+
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 116
+.
+(/usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [3]
+Underfull \hbox (badness 10000) in paragraph at lines 158--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--178
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--301
+
+ []
+
+[5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 308--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--320
+
+ []
+
+<blogclust.jpg, id=35, 1204.5pt x 2007.5pt>
+File: blogclust.jpg Graphic file (type jpg)
+ <use blogclust.jpg>
+Package pdftex.def Info: blogclust.jpg used on input line 321.
+(pdftex.def)             Requested size: 240.89574pt x 401.49289pt.
+ [9 <./blogclust.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Overfull \hbox (3430.46306pt too wide) detected at line 336
+[]\OML/lmm/m/it/10 hellomynameisjustin:[];[] CLOUDBUSTING[];[] TheNorthernGirlG
+ames[];[] StephanieVetoPhotography[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 isyeli[
+]s\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] KidF[];[] SheMayBeNaked[];[] TheStearns
+Family[];[] HelenMcCookerybook[];[] thetravelingneighborhood[];[] TheThemesofMy
+Life[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 Morgan[]sBlog\OT1/lmr/m/n/10 "\OML/lm
+m/m/it/10 ;[] PaulinaGamero:MediaStudiesA\OT1/lmr/m/n/10 2[]\OML/lmm/m/it/10 ;[
+] headphonehead[];[] IncarnateGreen[];[] NewAmusements[]; \OT1/lmr/m/n/10 "\OML
+/lmm/m/it/10 She[]smadbutshe[]smagic:There[]snolieinherfire:\OT1/lmr/m/n/10 "\O
+ML/lmm/m/it/10 ;[] RantsfromthePants[];[] FACSOS\OT1/lmr/m/n/10 2\OML/lmm/m/it/
+10 Blogsessions[];[] HipInDetroit[];[] ELLIATOWNSENDA\OT1/lmr/m/n/10 2[]\OML/lm
+m/m/it/10 ;[] OneStunningSingleEgg[];[] Pewter\OT1/lmr/m/n/10 &\OML/lmm/m/it/10
+ Puddles[];[] PithyTitleHere[];[] AngieDynamo[];[] NothingButOrdinaryGlancesAtE
+xtraordinaryThings[];[] TheCheatCodesForDrugs[];[] aduchessnonethelesss[];[] Wo
+rds[];[] StonehillSketchbook[];[] HappyAccidents[];[] MPC[];[] TheSlowMusicMove
+ment[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 RileyHaas[]blog\OT1/lmr/m/n/10 "\OML/
+lmm/m/it/10 ;[] hmmhannahmary[];[] Skywriting[];[] thefastbreakofchampions[];[]
+ LukeAndTheRealBlog
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
+
+ []
+
+
+Overfull \hbox (284.56754pt too wide) detected at line 340
+[]\OML/lmm/m/it/10 PrimitiveOfferings[];[] www:doginasweater:comLiveShowReviewA
+rchive[];[] WyomingBeat[];[] RingtoneLirik[];[] TheCampusBuzzonWSOU[];[] AMusic
+HistorybyWayneR:Flower[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--344
+
+ []
+
+
+Overfull \hbox (500.76617pt too wide) detected at line 344
+[]\OML/lmm/m/it/10 Music \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 DropMagazine[];[
+] GreenEggsandHamMondays\OT1/lmr/m/n/10 8 \OMS/lmsy/m/n/10 ^^@ \OT1/lmr/m/n/10 
+10\OML/lmm/m/it/10 am[];[] UnexpectedlyBart\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 Ki
+ng\OT1/lmr/m/n/10 !)[]\OML/lmm/m/it/10 ;[] kaleidoscopekanvas \OMS/lmsy/m/n/10 
+^^@ \OML/lmm/m/it/10 KK[];[] SEVEN\OT1/lmr/m/n/10 1878[]\OML/lmm/m/it/10 ;[] Th
+reePups; OneCity[];[] fractalpress:gr[];[] TheNosebleedSection[];[] FridayNight
+Dream[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
+ []
+
+
+Overfull \hbox (2229.8027pt too wide) detected at line 348
+[]\OML/lmm/m/it/10 MyNameIsBlueCanary[];[] Indie; RockAndOtherGreatMusic[];[] S
+kiptrackmusic[];[] simonegoes[];[] AtoZappa\OT1/lmr/m/n/10 -\OML/lmm/m/it/10 So
+ngoftheday[];[] StereoPills[];[] TheRun\OT1/lmr/m/n/10 -\OML/lmm/m/it/10 OutGro
+ove[];[] BEEHIVECANDY[];[] JasmineHodge[];[] PSILAB[];[] F\OT1/lmr/m/n/10 -\OML
+/lmm/m/it/10 Measure[];[] KiDCHAIR[];[] WhatAmIDoing\OT1/lmr/m/n/10 ?[]\OML/lmm
+/m/it/10 ;[] mattgarman[];[] GLIPress[];[] Soundcheck[];[] SpinitronCharts[];[]
+ BleakBliss[];[] TheFleshyFresh[];[] DustandWaterStudios[];[] TooPoppy[];[] MAG
+GOTCAVIAR[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 RadioRithard[]sFolkways\OT1/lmr/
+m/n/10 "\OML/lmm/m/it/10 ;[] Encore[];[] macthemost[]; \OT1/lmr/m/n/10 "\OML/lm
+m/m/it/10 CaptainPanda[]sLocal\OT1/lmr/m/n/10 &\OML/lmm/m/it/10 IndependentMusi
+cShowcase\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] personamia[]; \OT1/lmr/m/n/10 "\
+OML/lmm/m/it/10 TheWorld[]sFirstInternetBaby\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;
+ \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 i[]mintootruthfulamood\OT1/lmr/m/n/10 "\OML/
+lmm/m/it/10 ;[] DidNotChart[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--352
+
+ []
+
+
+Overfull \hbox (1134.01598pt too wide) detected at line 352
+[]\OML/lmm/m/it/10 RadioheadBootlegs[];[] FranBrighton[];[] ORGANMYTH[]; \OT1/l
+mr/m/n/10 "\OML/lmm/m/it/10 Faland[]hoje\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] Y
+oumightfeelthesame[];[] earenjoy[];[] WebScienceandDigitalLibrariesResearchGrou
+p[];[] WhoneedsaTV\OT1/lmr/m/n/10 ?[]\OML/lmm/m/it/10 ;[] sweepingthekitchen[];
+[] SEMREGRAS[];[] ChemicalRobert\OT1/lmr/m/n/10 ![]\OML/lmm/m/it/10 ;[] Lostint
+heShuffle[];[] INDIEohren:\OT1/lmr/m/n/10 ![]\OML/lmm/m/it/10 ;[] StoriesFromth
+eCity; StoriesFromtheSea[];[] OutofmyMind[];[] Spotirama[];[] Yestermorrow[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--359
+
+ []
+
+
+Overfull \hbox (1880.19179pt too wide) detected at line 359
+[]\OML/lmm/m/it/10 Skiptrackmusic[];[] simonegoes[];[] AtoZappa \OMS/lmsy/m/n/1
+0 ^^@ \OML/lmm/m/it/10 Songoftheday[];[] StereoPills[];[] TheRun\OT1/lmr/m/n/10
+ -\OML/lmm/m/it/10 OutGroove[];[] BEEHIVECANDY[];[] JasmineHodge[];[] PSILAB[];
+[] F\OT1/lmr/m/n/10 -\OML/lmm/m/it/10 Measure[];[] KiDCHAIR[];[] PithyTitleHere
+[];[] Soundcheck[];[] BleakBliss[];[] TheFleshyFresh[];[] TooPoppy[];[] MAGGOTC
+AVIAR[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 RadioRithard[]sFolkways\OT1/lmr/m/n/
+10 "\OML/lmm/m/it/10 ;[] Encore[];[] macthemost[]; \OT1/lmr/m/n/10 "\OML/lmm/m/
+it/10 CaptainPanda[]sLocal\OT1/lmr/m/n/10 &\OML/lmm/m/it/10 IndependentMusicSho
+wcase\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] personamia[];[] TheSlowMusicMovement
+[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 TheWorld[]sFirstInternetBaby\OT1/lmr/m/n/
+10 "\OML/lmm/m/it/10 ;[] thefastbreakofchampions[]; \OT1/lmr/m/n/10 "\OML/lmm/m
+/it/10 i[]mintootruthfulamood\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] DidNotChart[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--363
+
+ []
+
+[10]
+Overfull \hbox (2440.18973pt too wide) detected at line 363
+[]\OML/lmm/m/it/10 CLOUDBUSTING[];[] TheNorthernGirlGames[];[] StephanieVetoPho
+tography[];[] ORGANMYTH[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 isyeli[]s\OT1/lmr/
+m/n/10 "\OML/lmm/m/it/10 ;[] KidF[];[] SheMayBeNaked[];[] TheStearnsFamily[];[]
+ HelenMcCookerybook[];[] thetravelingneighborhood[]; \OT1/lmr/m/n/10 "\OML/lmm/
+m/it/10 Morgan[]sBlog\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] headphonehead[];[] W
+ebScienceandDigitalLibrariesResearchGroup[];[] IncarnateGreen[]; \OT1/lmr/m/n/1
+0 "\OML/lmm/m/it/10 She[]smadbutshe[]smagic:There[]snolieinherfire:\OT1/lmr/m/n
+/10 "\OML/lmm/m/it/10 ;[] RantsfromthePants[];[] FACSOS\OT1/lmr/m/n/10 2\OML/lm
+m/m/it/10 Blogsessions[];[] HipInDetroit[];[] AngieDynamo[];[] NothingButOrdina
+ryGlancesAtExtraordinaryThings[];[] aduchessnonethelesss[];[] Words[];[] Stoneh
+illSketchbook[];[] HappyAccidents[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 RileyHaa
+s[]blog\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] hmmhannahmary[];[] Skywriting[];[]
+ LukeAndTheRealBlog[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--367
+
+ []
+
+
+Overfull \hbox (1090.82541pt too wide) detected at line 367
+[]\OML/lmm/m/it/10 Indie; RockAndOtherGreatMusic[];[] RadioheadBootlegs[];[] Gr
+eenEggsandHamMondays\OT1/lmr/m/n/10 8 \OMS/lmsy/m/n/10 ^^@ \OT1/lmr/m/n/10 10\O
+ML/lmm/m/it/10 am[];[] FranBrighton[];[] sweepingthekitchen[];[] TheCampusBuzzo
+nWSOU[];[] ChemicalRobert\OT1/lmr/m/n/10 ![]\OML/lmm/m/it/10 ;[] LostintheShuff
+le[];[] INDIEohren:\OT1/lmr/m/n/10 ![]\OML/lmm/m/it/10 ;[] StoriesFromtheCity; 
+StoriesFromtheSea[];[] GLIPress[];[] OneStunningSingleEgg[];[] TheCheatCodesFor
+Drugs[];[] Spotirama[];[] MPC[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--375
+
+ []
+
+
+Overfull \hbox (161.95831pt too wide) detected at line 375
+[]\OML/lmm/m/it/10 MyNameIsBlueCanary[];[] PrimitiveOfferings[];[] WyomingBeat[
+];[] ThreePups; OneCity[];[] NewAmusements[];[] Pewter\OT1/lmr/m/n/10 &\OML/lmm
+/m/it/10 Puddles[];[] SpinitronCharts[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--387
+
+ []
+
+
+Overfull \hbox (309.30888pt too wide) detected at line 387
+[]\OML/lmm/m/it/10 Music \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 DropMagazine[];[
+] UnexpectedlyBart\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 King\OT1/lmr/m/n/10 !)[]\OM
+L/lmm/m/it/10 ;[] kaleidoscopekanvas \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 KK[]
+;[] Youmightfeelthesame[];[] earenjoy[];[] fractalpress:gr[];[] TheNosebleedSec
+tion[];[] FridayNightDream[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+[11]
+Overfull \hbox (60.75635pt too wide) detected at line 402
+[]\OML/lmm/m/it/10 Youmightfeelthesame[];[] earenjoy[];[] WhoneedsaTV\OT1/lmr/m
+/n/10 ?[]\OML/lmm/m/it/10 ;[] SEMREGRAS[];[] ChemicalRobert\OT1/lmr/m/n/10 ![]\
+OML/lmm/m/it/10 ;[] INDIEohren:\OT1/lmr/m/n/10 ![]\OML/lmm/m/it/10 ;[] OutofmyM
+ind[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--418
+
+ []
+
+
+Overfull \hbox (36.42776pt too wide) detected at line 418
+[]\OML/lmm/m/it/10 PrimitiveOfferings[];[] www:doginasweater:comLiveShowReviewA
+rchive[];[] WyomingBeat[]; \OT1/lmr/m/n/10 "\OML/lmm/m/it/10 RadioRithard[]sFol
+kways\OT1/lmr/m/n/10 "
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--422
+
+ []
+
+
+Overfull \hbox (321.6688pt too wide) detected at line 422
+[]\OML/lmm/m/it/10 AtoZappa\OT1/lmr/m/n/10 -\OML/lmm/m/it/10 Songoftheday[];[] 
+PSILAB[];[] BleakBliss[];[] TheFleshyFresh[];[] Encore[];[] macthemost[]; \OT1/
+lmr/m/n/10 "\OML/lmm/m/it/10 CaptainPanda[]sLocal\OT1/lmr/m/n/10 &\OML/lmm/m/it
+/10 IndependentMusicShowcase\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10
+ "\OML/lmm/m/it/10 TheWorld[]sFirstInternetBaby\OT1/lmr/m/n/10 "
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--434
+
+ []
+
+[12]
+Overfull \hbox (217.63924pt too wide) detected at line 434
+[]\OML/lmm/m/it/10 Music \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 DropMagazine[];[
+] UnexpectedlyBart\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 King\OT1/lmr/m/n/10 !)[]\OM
+L/lmm/m/it/10 ;[] kaleidoscopekanvas \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 KK[]
+;[] SEVEN\OT1/lmr/m/n/10 1878[]\OML/lmm/m/it/10 ;[] fractalpress:gr[];[] TheNos
+ebleedSection[];[] FridayNightDream[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
+
+ []
+
+
+Overfull \hbox (1924.68459pt too wide) detected at line 442
+[]\OML/lmm/m/it/10 hellomynameisjustin:[];[] TheNorthernGirlGames[];[] Stephani
+eVetoPhotography[];[] KidF[];[] SheMayBeNaked[];[] TheStearnsFamily[];[] HelenM
+cCookerybook[];[] thetravelingneighborhood[];[] TheThemesofMyLife[]; \OT1/lmr/m
+/n/10 "\OML/lmm/m/it/10 Morgan[]sBlog\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] head
+phonehead[];[] IncarnateGreen[];[] NewAmusements[]; \OT1/lmr/m/n/10 "\OML/lmm/m
+/it/10 She[]smadbutshe[]smagic:There[]snolieinherfire:\OT1/lmr/m/n/10 "\OML/lmm
+/m/it/10 ;[] RantsfromthePants[];[] FACSOS\OT1/lmr/m/n/10 2\OML/lmm/m/it/10 Blo
+gsessions[];[] HipInDetroit[];[] ELLIATOWNSENDA\OT1/lmr/m/n/10 2[]\OML/lmm/m/it
+/10 ;[] aduchessnonethelesss[];[] Words[];[] HappyAccidents[]; \OT1/lmr/m/n/10 
+"\OML/lmm/m/it/10 RileyHaas[]blog\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] hmmhanna
+hmary[];[] LukeAndTheRealBlog[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--450
+
+ []
+
+
+Overfull \hbox (65.59511pt too wide) detected at line 450
+[]\OML/lmm/m/it/10 MyNameIsBlueCanary[];[] simonegoes[];[] StereoPills[];[] BEE
+HIVECANDY[];[] ThreePups; OneCity[];[] Soundcheck[];[] TooPoppy[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--462
+
+ []
+
+
+Overfull \hbox (132.36882pt too wide) detected at line 462
+[]\OML/lmm/m/it/10 Indie; RockAndOtherGreatMusic[];[] GreenEggsandHamMondays\OT
+1/lmr/m/n/10 8 \OMS/lmsy/m/n/10 ^^@ \OT1/lmr/m/n/10 10\OML/lmm/m/it/10 am[];[] 
+sweepingthekitchen[];[] StoriesFromtheCity; StoriesFromtheSea[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--466
+
+ []
+
+
+Overfull \hbox (388.83348pt too wide) detected at line 466
+[]\OML/lmm/m/it/10 Skiptrackmusic[];[] TheRun \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/i
+t/10 OutGroove[];[] KiDCHAIR[];[] PithyTitleHere[];[] DustandWaterStudios[];[] 
+TheSlowMusicMovement[];[] thefastbreakofchampions[]; \OT1/lmr/m/n/10 "\OML/lmm/
+m/it/10 i[]mintootruthfulamood\OT1/lmr/m/n/10 "\OML/lmm/m/it/10 ;[] DidNotChart
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--470
+
+ []
+
+[13]
+Overfull \hbox (182.0352pt too wide) detected at line 470
+[]\OML/lmm/m/it/10 CLOUDBUSTING[];[] PaulinaGamero:MediaStudiesA\OT1/lmr/m/n/10
+ 2[]\OML/lmm/m/it/10 ;[] TheCampusBuzzonWSOU[];[] LostintheShuffle[];[] Pewter\
+OT1/lmr/m/n/10 &\OML/lmm/m/it/10 Puddles[];[] AngieDynamo[];[] MPC[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--479
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 487--489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--489
+
+ []
+
+<blogs2d.jpg, id=58, 2007.5pt x 2007.5pt>
+File: blogs2d.jpg Graphic file (type jpg)
+ <use blogs2d.jpg>
+Package pdftex.def Info: blogs2d.jpg used on input line 716.
+(pdftex.def)             Requested size: 501.87378pt x 501.87378pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--717
+
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 4547.043521489129 3634.920533462348 3515.8839399478115 3458.281
+2091642527 3413.5608774776892 3374.276948606173
+ []
+
+
+Overfull \hbox (37.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3348.5127490457294 3330.3940050771434 3317.3067505599533 3305.1
+969527040324 3295.4500908367454 3285.6891855480026
+ []
+
+
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3277.2275986559007 3270.1385901969525 3263.082799426065 3255.87
+55514427567 3249.6470923772954 3244.011941280313
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3238.7892469552226 3234.086579881611 3229.0613466355403 3224.19
+3711293276 3218.728335385039 3212.8500053530183
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3207.689594320295 3203.150266194056 3198.9533959022415 3194.604
+889994371 3190.2897368511835 3186.1387931376194
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3182.1237121996005 3178.307526328884 3174.367903053554 3170.335
+0424791097 3166.752798856369 3163.6780409874955
+ []
+
+
+Overfull \hbox (12.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3160.747964784802 3157.7328575197034 3154.77644914824 3152.3402
+11326684 3150.327400154053 3148.4216402984066
+ []
+
+
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3146.772738354147 3145.4361232921538 3143.734960076024 3142.231
+6167059453 3140.7912084980576 3139.3835955178583
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3137.692572248288 3135.812385381646 3133.7239227427735 3131.648
+109416603 3129.5289450971286 3127.449995254269
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3125.071438129394 3122.7193354907677 3120.511591126518 3118.388
+668796023 3115.7190542096773 3113.3641392680834
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3111.59270032171 3109.946294358839 3108.4909193755507 3107.1045
+891536796 3105.8281331270755 3104.3869254043566
+ []
+
+
+Overfull \hbox (12.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3102.7047333666487 3101.097304378567 3099.543313580798 3098.084
+514759206 3096.672042743501 3095.224982182776
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3093.7313904382568 3092.027581045574 3090.2104044018242 3088.14
+9298803071 3085.775778734686 3083.383085340877
+ []
+
+
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3081.280947880271 3079.2365497560872 3077.298889320404 3075.807
+9645978023 3074.3080221743007 3072.8519787126897
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3071.385544451662 3069.9776196329103 3068.520092978661 3067.149
+274019729 3066.0729659332546 3065.082969393555
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3064.145666242849 3063.247777505517 3062.4154731034237 3061.479
+3494740084 3060.47169346936 3059.3756354829725
+ []
+
+
+Overfull \hbox (32.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3058.2960591681913 3057.2799939873075 3056.3485490106896 3055.4
+951120820288 3054.558508211861 3053.5233297680397
+ []
+
+
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3052.492524459361 3051.4628918740345 3050.5424254042914 3049.75
+17906129497 3049.011887797494 3048.4267260927068
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3047.870466981071 3047.3233654694677 3046.720716078761 3046.088
+62047069 3045.3160050260144 3044.4723715462014
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3043.6142328919223 3042.751093485595 3041.9547017515383 3041.11
+679117308 3040.203187631837 3039.3155044497316
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3038.4337518292828 3037.3790657049644 3036.231612133021 3035.03
+4051890081 3033.92414370466 3032.8730533644166
+ []
+
+
+Overfull \hbox (32.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3031.8514384291143 3031.0115886619897 3030.1571915968875 3029.3
+15418085879 3028.5644946694356 3027.8135124742435
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3027.0743907044857 3026.3341503127654 3025.670914861522 3025.04
+19271220862 3024.319727365977 3023.55506678629
+ []
+
+
+Overfull \hbox (12.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3022.896278116901 3022.24080916216 3021.625202638946 3021.08677
+07435423 3020.4753045684206 3019.804570141059
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3019.190171500445 3018.5863459090597 3018.07085127555 3017.5614
+498521454 3017.012432153466 3016.4620731400714
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3016.023992299319 3015.624103590204 3015.2562011442615 3014.830
+524961372 3014.4008117479275 3013.9826495271404
+ []
+
+
+Overfull \hbox (32.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3013.4962474781896 3012.9286083410416 3012.269670369528 3011.55
+01389901888 3010.8170161469952 3010.2410459543544
+ []
+
+
+Overfull \hbox (7.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3009.663304101802 3009.1072224531044 3008.5248957689 3007.91607
+90735205 3007.266301980161 3006.700046740064
+ []
+
+
+Overfull \hbox (17.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3006.1348407605383 3005.5784810027235 3004.98192385602 3004.406
+5914605812 3003.833067295151 3003.338651271685
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3002.945001280539 3002.6718369817313 3002.440720478205 3002.248
+8640560036 3002.129446978688 3002.0337810732885
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3001.9484257631143 3001.8549163701864 3001.79396223132 3001.765
+834504294 3001.7570522955025 3001.7243353713498
+ []
+
+
+Overfull \hbox (2.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3001.660285212706 3001.57275741207 3001.441502960767 3001.27522
+8739525 3001.086431043717 3000.875074772635
+ []
+
+
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 3000.643429796154 3000.396713353474 3000.1492043924527 2999.912
+0164241035 2999.7110462006226 2999.5104573539993
+ []
+
+
+Overfull \hbox (32.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 2999.313485769039 2999.1182000752583 2998.9180995860715 2998.71
+66064961407 2998.5037312919344 2998.3141994136927
+ []
+
+
+Overfull \hbox (22.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 2998.1518423336875 2997.9983505784876 2997.8364408655525 2997.6
+87367310575 2997.55462735149 2997.4192341791154
+ []
+
+
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 490--717
+\OT1/lmr/m/n/10 2997.2936262233748 2997.1901671639525 2997.108448852177 2997.03
+27283256684 2996.964839448901 2996.9327857105077
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--717
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--717
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--717
+
+ []
+
+
+Overfull \hbox (1.38979pt too wide) in paragraph at lines 490--717
+[] 
+ []
+
+[15] [16 <./blogs2d.jpg>]
+Overfull \hbox (20.64098pt too wide) in paragraph at lines 723--726
+\OT1/lmr/m/n/10 ===============================================================
+====
+ []
+
+
+Overfull \hbox (369.00635pt too wide) in paragraph at lines 723--726
+\OT1/lmr/m/n/10 ========The ques-tions be-low is for 3 points ex-tra credit====
+======= =================================================================== 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--733
+
+ []
+
+[17]
+Overfull \hbox (20.64098pt too wide) in paragraph at lines 741--744
+\OT1/lmr/m/n/10 ===============================================================
+====
+ []
+
+
+Overfull \hbox (369.00635pt too wide) in paragraph at lines 741--744
+\OT1/lmr/m/n/10 ========The ques-tions be-low is for 5 points ex-tra credit====
+======= =================================================================== 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--755
+
+ []
+
+[18] (./assignment7.aux) ) 
+Here is how much of TeX's memory you used:
+ 6078 strings out of 495063
+ 85969 string characters out of 3182201
+ 188511 words of memory out of 3000000
+ 9138 multiletter control sequences out of 15000+200000
+ 53102 words of font info for 54 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,6n,40p,7820b,1713s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-
+mathsy.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/us
+r/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texlive/t
+exmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/typ
+e1/public/lm/lmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lm
+bx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/lm/lmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lm
+ri12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/lm/lmtt9.pfb>
+Output written on assignment7.pdf (18 pages, 569027 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
