@@ -1,0 +1,55 @@
+Old Dominion University Mail - CS Collquium: Ne...
+https://mail.google.com/mail/u/0/?ui=2&ik=f6a80...
+DAVID SINCLAIR <dsinc002@odu.edu>
+CS Collquium: Nelson, Fri 4/6/2018
+1 message
+Steven J. Zeil <szeil@odu.edu>
+Mon, Apr 2, 2018 at 9:13 AM
+To: activefaculty <activefaculty@cs.odu.edu>, "grad@cs.odu.edu" <grad@cs.odu.edu>, SCI CS office
+<office@cs.odu.edu>, "b.d.allen@larc.nasa.gov" <b.d.allen@larc.nasa.gov>, Beth Johnson
+<esanc001@gmail.com>, CHRISTOPHE J VERNON <cvern002@odu.edu>, Curt Ivey <civey@cs.odu.edu>,
+"dnguyen,Harris Wu" <hwu@odu.edu>, "hgarcia@odu.edu" <hgarcia@odu.edu>, Jon Robison
+<jrobi075@odu.edu>, Kristen Davie Rude <kdavi068@odu.edu>, Michael Martin <mmart081@odu.edu>,
+"msosonkina@inbox.com" <msosonkina@inbox.com>, "r_armijos@yahoo.com" <r_armijos@yahoo.com>,
+"rdc@mitre.org" <rdc@mitre.org>, "shampooair@hotmail.com" <shampooair@hotmail.com>, "\"Sukenik,
+Charles I. (Physics)" <csukenik@odu.edu>, Zhanping Liu <z1liu@odu.edu>, "\"Bliss, James (Psychology)"
+<jbliss@odu.edu>, "Cooper,, John (chemistry and Biochemistry)" <jcooper@odu.edu>, "\"Harvey H. Roger,
+(OEAS)" <rharvey@odu.edu>, "\"Hynes, Wayne L (Biology)" <whynes@odu.edu>, "\"Kaneko, Hideaki (Math)"
+<hkaneko@odu.edu>, CS Systems Staff <syskids@cs.odu.edu>, "Dodge, Gail" <gdodge@odu.edu>
+COMPUTER SCIENCE COLLOQUIUM
+FRIDAY April 6
+E & CS Building 1st floor auditorium
+Time: 10:30 (donuts) 10:40 (talk)
+(Chairs: Please forward to interested faculty.)
+Weaponized Web Archives: Provenance Laundering of Short Order Evidence
+Dr. Michael Nelson,
+ODU Dept of Computer Science
+Abstract
+We are on the cusp of a "photoshop" moment in our ability to produce convincing synthetic audio and video
+content, adding a new dimension to the existing problem of text- and image-based “fake news”. Social
+media and the web and will be the primary vector for the spread of this disinformation, and soon web
+archives will be “weaponized” to 1) alter existing trustworthy sources, and 2) obfuscate the provenance of
+untrustworthy sources. As web archives increasingly become a source of evidence in political and cultural
+discourse, they will attract the attention of those who would seek to alter the historical record. We review
+the broader context of threats and opportunities, and then present one solution the Web Science and
+Digital Libraries group is working on to authenticate the integrity of web archives.
+1 of 2
+04/04/2018 08:11 AMOld Dominion University Mail - CS Collquium: Ne...
+https://mail.google.com/mail/u/0/?ui=2&ik=f6a80...
+CS Colloquium Schedule is available at http://www.cs.odu.edu/~zeil/colloq.html
+Colloquium Requirements for Graduate Students: https://graduate.cs.odu.edu/resources/colloquium/
+Students needing attendance credit for viewing online should email Dr. Weigle, the MS Graduate program
+director.
+ODU CS Grad Students should automatically* receive these announcements
+Anyone else wishing to receive them should send mail to zeil@cs.odu.edu
+*CS grad students not receiving these announcements are probably not in the 'grad' mail alias. They
+should send mail to <root@cs.odu.edu> asking to be included in the alias.
+--
+Dr. Steven J. Zeil
+Associate Professor & Assistant Chair,
+Dept. of Computer Science
+Old Dominion University
+zeil@cs.odu.edu
+http://www.cs.odu.edu/~zeil/
+2 of 2
+04/04/2018 08:11 AM
