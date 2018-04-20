@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T22:03:25Z",
+        "uri": "http://web.archive.org/web/20180131220325/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/"
+      },
+      {
+        "datetime": "2018-02-01T02:37:56Z",
+        "uri": "http://web.archive.org/web/20180201023756/https://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T22:03:25Z",
+      "uri": "http://web.archive.org/web/20180131220325/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/"
+    },
+    "last": {
+      "datetime": "2018-02-01T02:37:56Z",
+      "uri": "http://web.archive.org/web/20180201023756/https://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.indiewire.com/2018/01/the-first-purge-teaser-trailer-make-america-great-again-1201923486/"
+}
+

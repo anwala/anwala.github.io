@@ -1,0 +1,47 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T03:53:44Z",
+        "uri": "http://web.archive.org/web/20180131035344/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+      },
+      {
+        "datetime": "2018-01-31T07:35:03Z",
+        "uri": "http://web.archive.org/web/20180131073503/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+      },
+      {
+        "datetime": "2018-02-02T07:03:58Z",
+        "uri": "http://wayback.archive-it.org/all/20180202070358/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+      },
+      {
+        "datetime": "2018-02-02T07:03:58Z",
+        "uri": "http://web.archive.org/web/20180202070358/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+      },
+      {
+        "datetime": "2018-02-06T13:13:12Z",
+        "uri": "http://web.archive.org/web/20180206131312/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+      },
+      {
+        "datetime": "2018-02-15T09:43:36Z",
+        "uri": "http://web.archive.org/web/20180215094336/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T03:53:44Z",
+      "uri": "http://web.archive.org/web/20180131035344/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+    },
+    "last": {
+      "datetime": "2018-02-15T09:43:36Z",
+      "uri": "http://web.archive.org/web/20180215094336/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/30/glamour-female-gun-owners-explain-support-second-amendment/"
+}
+

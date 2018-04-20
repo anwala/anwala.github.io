@@ -1,0 +1,51 @@
+{
+  "original_uri": "http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-06-14T08:19:12Z",
+        "uri": "http://web.archive.org/web/20170614081912/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      },
+      {
+        "datetime": "2017-06-15T11:21:22Z",
+        "uri": "http://web.archive.org/web/20170615112122/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      },
+      {
+        "datetime": "2017-06-17T07:45:03Z",
+        "uri": "http://web.archive.org/web/20170617074503/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      },
+      {
+        "datetime": "2017-07-16T11:06:49Z",
+        "uri": "http://web.archive.org/web/20170716110649/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      },
+      {
+        "datetime": "2017-08-16T11:23:14Z",
+        "uri": "http://web.archive.org/web/20170816112314/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      },
+      {
+        "datetime": "2017-09-16T13:11:15Z",
+        "uri": "http://web.archive.org/web/20170916131115/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      },
+      {
+        "datetime": "2017-10-18T04:37:58Z",
+        "uri": "http://web.archive.org/web/20171018043758/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+      }
+    ],
+    "first": {
+      "datetime": "2017-06-14T08:19:12Z",
+      "uri": "http://web.archive.org/web/20170614081912/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+    },
+    "last": {
+      "datetime": "2017-10-18T04:37:58Z",
+      "uri": "http://web.archive.org/web/20171018043758/http://www.nationalreview.com:80/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.nationalreview.com/article/448527/paid-parental-leave-let-families-decide-which-arrangements-work-best"
+}
+

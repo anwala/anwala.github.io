@@ -1,0 +1,91 @@
+{
+  "original_uri": "http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T01:39:21Z",
+        "uri": "http://web.archive.org/web/20180130013921/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-01-30T18:29:42Z",
+        "uri": "http://web.archive.org/web/20180130182942/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-16T00:52:03Z",
+        "uri": "http://web.archive.org/web/20180216005203/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-17T00:53:04Z",
+        "uri": "http://web.archive.org/web/20180217005304/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-18T01:52:00Z",
+        "uri": "http://web.archive.org/web/20180218015200/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-19T01:54:36Z",
+        "uri": "http://web.archive.org/web/20180219015436/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-20T03:35:38Z",
+        "uri": "http://web.archive.org/web/20180220033538/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-20T10:17:29Z",
+        "uri": "http://web.archive.org/web/20180220101729/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-21T04:15:03Z",
+        "uri": "http://web.archive.org/web/20180221041503/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-22T05:10:18Z",
+        "uri": "http://web.archive.org/web/20180222051018/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-23T10:50:15Z",
+        "uri": "http://web.archive.org/web/20180223105015/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-24T11:59:58Z",
+        "uri": "http://web.archive.org/web/20180224115958/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-25T12:14:12Z",
+        "uri": "http://web.archive.org/web/20180225121412/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-26T12:43:13Z",
+        "uri": "http://web.archive.org/web/20180226124313/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-27T13:27:37Z",
+        "uri": "http://web.archive.org/web/20180227132737/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-02-28T16:13:04Z",
+        "uri": "http://web.archive.org/web/20180228161304/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      },
+      {
+        "datetime": "2018-03-01T18:06:40Z",
+        "uri": "http://web.archive.org/web/20180301180640/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T01:39:21Z",
+      "uri": "http://web.archive.org/web/20180130013921/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+    },
+    "last": {
+      "datetime": "2018-03-01T18:06:40Z",
+      "uri": "http://web.archive.org/web/20180301180640/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html"
+}
+

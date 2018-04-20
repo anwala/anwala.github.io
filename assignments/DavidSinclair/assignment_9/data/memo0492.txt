@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T02:31:18Z",
+        "uri": "http://web.archive.org/web/20180201023118/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T02:31:18Z",
+      "uri": "http://web.archive.org/web/20180201023118/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court"
+    },
+    "last": {
+      "datetime": "2018-02-01T02:31:18Z",
+      "uri": "http://web.archive.org/web/20180201023118/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court"
+}
+

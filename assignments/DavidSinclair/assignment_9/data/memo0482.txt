@@ -1,0 +1,139 @@
+{
+  "original_uri": "https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T15:28:13Z",
+        "uri": "http://web.archive.org/web/20180131152813/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-01-31T17:01:54Z",
+        "uri": "http://web.archive.org/web/20180131170154/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-01-31T18:10:02Z",
+        "uri": "http://web.archive.org/web/20180131181002/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-01-31T19:14:11Z",
+        "uri": "http://web.archive.org/web/20180131191411/https://washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-01-31T19:14:18Z",
+        "uri": "http://web.archive.org/web/20180131191418/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-01T05:42:20Z",
+        "uri": "http://web.archive.org/web/20180201054220/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-01T08:11:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180201081111/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-01T08:11:11Z",
+        "uri": "http://web.archive.org/web/20180201081111/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-01T13:18:47Z",
+        "uri": "http://archive.is/20180201131847/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-01T13:38:01Z",
+        "uri": "http://web.archive.org/web/20180201133801/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-05T15:31:38Z",
+        "uri": "http://web.archive.org/web/20180205153138/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-05T15:31:39Z",
+        "uri": "http://web.archive.org/web/20180205153139/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-08T20:04:18Z",
+        "uri": "http://web.archive.org/web/20180208200418/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-08T20:04:20Z",
+        "uri": "http://web.archive.org/web/20180208200420/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-10T00:03:45Z",
+        "uri": "http://web.archive.org/web/20180210000345/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-10T00:03:46Z",
+        "uri": "http://web.archive.org/web/20180210000346/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-11T00:34:14Z",
+        "uri": "http://web.archive.org/web/20180211003414/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-11T00:34:15Z",
+        "uri": "http://web.archive.org/web/20180211003415/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-11T14:39:15Z",
+        "uri": "http://web.archive.org/web/20180211143915/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-12T13:08:25Z",
+        "uri": "http://web.archive.org/web/20180212130825/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-12T13:08:26Z",
+        "uri": "http://web.archive.org/web/20180212130826/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-13T00:51:50Z",
+        "uri": "http://web.archive.org/web/20180213005150/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-14T01:43:12Z",
+        "uri": "http://web.archive.org/web/20180214014312/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-14T01:43:13Z",
+        "uri": "http://web.archive.org/web/20180214014313/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-20T13:13:29Z",
+        "uri": "http://web.archive.org/web/20180220131329/http://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-20T13:13:32Z",
+        "uri": "http://web.archive.org/web/20180220131332/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-27T03:01:33Z",
+        "uri": "http://wayback.archive-it.org/all/20180227030133/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-02-27T03:01:33Z",
+        "uri": "http://web.archive.org/web/20180227030133/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      },
+      {
+        "datetime": "2018-03-07T20:57:29Z",
+        "uri": "http://web.archive.org/web/20180307205729/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T15:28:13Z",
+      "uri": "http://web.archive.org/web/20180131152813/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+    },
+    "last": {
+      "datetime": "2018-03-07T20:57:29Z",
+      "uri": "http://web.archive.org/web/20180307205729/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html"
+}
+

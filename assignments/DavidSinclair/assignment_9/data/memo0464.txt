@@ -1,0 +1,55 @@
+{
+  "original_uri": "https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T11:29:10Z",
+        "uri": "http://web.archive.org/web/20180130112910/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-01-30T17:51:47Z",
+        "uri": "http://web.archive.org/web/20180130175147/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-01-30T19:11:14Z",
+        "uri": "http://web.archive.org/web/20180130191114/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-01-30T20:44:55Z",
+        "uri": "http://web.archive.org/web/20180130204455/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-01-31T12:48:08Z",
+        "uri": "http://web.archive.org/web/20180131124808/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-02-01T02:40:55Z",
+        "uri": "http://web.archive.org/web/20180201024055/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-02-02T00:57:14Z",
+        "uri": "http://web.archive.org/web/20180202005714/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      },
+      {
+        "datetime": "2018-02-02T05:06:04Z",
+        "uri": "http://web.archive.org/web/20180202050604/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T11:29:10Z",
+      "uri": "http://web.archive.org/web/20180130112910/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+    },
+    "last": {
+      "datetime": "2018-02-02T05:06:04Z",
+      "uri": "http://web.archive.org/web/20180202050604/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-yemen-security-clashes/yemen-separatists-capture-aden-government-confined-to-palace-residents-idUSKBN1FJ17E"
+}
+

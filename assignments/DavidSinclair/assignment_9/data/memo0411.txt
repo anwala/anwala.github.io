@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://news.goldseek.com/GATA/1517410980.php",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://news.goldseek.com/GATA/1517410980.php",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T21:53:16Z",
+        "uri": "http://web.archive.org/web/20180131215316/http://news.goldseek.com/GATA/1517410980.php"
+      },
+      {
+        "datetime": "2018-02-01T00:02:52Z",
+        "uri": "http://web.archive.org/web/20180201000252/http://news.goldseek.com/GATA/1517410980.php"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T21:53:16Z",
+      "uri": "http://web.archive.org/web/20180131215316/http://news.goldseek.com/GATA/1517410980.php"
+    },
+    "last": {
+      "datetime": "2018-02-01T00:02:52Z",
+      "uri": "http://web.archive.org/web/20180201000252/http://news.goldseek.com/GATA/1517410980.php"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://news.goldseek.com/GATA/1517410980.php",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://news.goldseek.com/GATA/1517410980.php",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://news.goldseek.com/GATA/1517410980.php"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://news.goldseek.com/GATA/1517410980.php"
+}
+

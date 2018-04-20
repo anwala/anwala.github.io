@@ -1,0 +1,91 @@
+{
+  "original_uri": "http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T19:46:43Z",
+        "uri": "http://web.archive.org/web/20180130194643/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-01-30T21:39:17Z",
+        "uri": "http://web.archive.org/web/20180130213917/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-01-31T07:52:11Z",
+        "uri": "http://web.archive.org/web/20180131075211/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-01-31T23:48:43Z",
+        "uri": "http://wayback.archive-it.org/all/20180131234843/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-01-31T23:48:43Z",
+        "uri": "http://web.archive.org/web/20180131234843/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-01T04:57:56Z",
+        "uri": "http://web.archive.org/web/20180201045756/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-01T22:35:50Z",
+        "uri": "http://web.archive.org/web/20180201223550/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-01T22:36:02Z",
+        "uri": "http://archive.is/20180201223602/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-02T07:01:17Z",
+        "uri": "http://web.archive.org/web/20180202070117/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-02T07:21:47Z",
+        "uri": "http://web.archive.org/web/20180202072147/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-03T07:19:51Z",
+        "uri": "http://web.archive.org/web/20180203071951/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-02-04T05:02:24Z",
+        "uri": "http://web.archive.org/web/20180204050224/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-03-03T06:55:04Z",
+        "uri": "http://web.archive.org/web/20180303065504/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-03-06T20:19:03Z",
+        "uri": "http://web.archive.org/web/20180306201903/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-03-08T18:11:42Z",
+        "uri": "http://web.archive.org/web/20180308181142/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-03-09T07:41:02Z",
+        "uri": "http://web.archive.org/web/20180309074102/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      },
+      {
+        "datetime": "2018-03-11T04:45:52Z",
+        "uri": "http://web.archive.org/web/20180311044552/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T19:46:43Z",
+      "uri": "http://web.archive.org/web/20180130194643/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+    },
+    "last": {
+      "datetime": "2018-03-11T04:45:52Z",
+      "uri": "http://web.archive.org/web/20180311044552/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/london/2018/01/30/swedish-government-custody-children-iraq-rape-year-old/"
+}
+
