@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:19:21Z",
+        "uri": "http://web.archive.org/web/20180131191921/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:19:21Z",
+      "uri": "http://web.archive.org/web/20180131191921/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/"
+    },
+    "last": {
+      "datetime": "2018-01-31T19:19:21Z",
+      "uri": "http://web.archive.org/web/20180131191921/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/"
+}
+

@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:17:46Z",
+        "uri": "http://web.archive.org/web/20180131161746/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:17:46Z",
+      "uri": "http://web.archive.org/web/20180131161746/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T16:17:46Z",
+      "uri": "http://web.archive.org/web/20180131161746/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.livemint.com/Politics/Mm9s2lVokAHlljZsXMQNeO/Karnataka-6th-Pay-Commission-30-hike-for-government-employ.html"
+}
+

@@ -1,0 +1,55 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T03:51:28Z",
+        "uri": "http://web.archive.org/web/20180131035128/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-01-31T07:05:50Z",
+        "uri": "http://web.archive.org/web/20180131070550/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-01-31T18:24:39Z",
+        "uri": "http://web.archive.org/web/20180131182439/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-01-31T18:35:13Z",
+        "uri": "http://wayback.archive-it.org/all/20180131183513/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-01-31T18:35:13Z",
+        "uri": "http://web.archive.org/web/20180131183513/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-01-31T20:55:33Z",
+        "uri": "http://archive.is/20180131205533/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-02-01T02:39:35Z",
+        "uri": "http://web.archive.org/web/20180201023935/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      },
+      {
+        "datetime": "2018-02-01T13:01:51Z",
+        "uri": "http://web.archive.org/web/20180201130151/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T03:51:28Z",
+      "uri": "http://web.archive.org/web/20180131035128/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+    },
+    "last": {
+      "datetime": "2018-02-01T13:01:51Z",
+      "uri": "http://web.archive.org/web/20180201130151/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/"
+}
+

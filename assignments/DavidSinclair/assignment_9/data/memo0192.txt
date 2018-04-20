@@ -1,0 +1,59 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T21:10:56Z",
+        "uri": "http://wayback.archive-it.org/all/20180131211056/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-01-31T21:10:56Z",
+        "uri": "http://web.archive.org/web/20180131211056/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-01-31T23:30:59Z",
+        "uri": "http://web.archive.org/web/20180131233059/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-01-31T23:33:36Z",
+        "uri": "http://web.archive.org/web/20180131233336/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-02-01T07:51:32Z",
+        "uri": "http://web.archive.org/web/20180201075132/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-02-01T11:46:48Z",
+        "uri": "http://web.archive.org/web/20180201114648/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-02-06T13:10:39Z",
+        "uri": "http://web.archive.org/web/20180206131039/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-02-18T00:37:14Z",
+        "uri": "http://web.archive.org/web/20180218003714/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      },
+      {
+        "datetime": "2018-03-06T06:37:51Z",
+        "uri": "http://web.archive.org/web/20180306063751/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T21:10:56Z",
+      "uri": "http://wayback.archive-it.org/all/20180131211056/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+    },
+    "last": {
+      "datetime": "2018-03-06T06:37:51Z",
+      "uri": "http://web.archive.org/web/20180306063751/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/31/south-dakota-gop-seeks-end-concealed-permit-requirement-dem-gov-pl/"
+}
+

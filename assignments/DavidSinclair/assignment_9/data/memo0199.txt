@@ -1,0 +1,83 @@
+{
+  "original_uri": "https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T10:26:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201102649/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-02-05T10:43:00Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205104300/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-02-12T11:07:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212110737/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-02-19T13:50:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219135022/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-02-26T14:00:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226140018/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-03-02T09:39:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180302093929/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-03-06T04:05:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180306040514/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-03-13T04:00:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180313040032/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-03-20T10:27:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180320102752/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-03-27T11:46:00Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180327114600/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-04-02T03:01:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402030104/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-04-02T16:49:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402164908/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-04-03T10:11:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180403101140/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-04-10T07:18:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180410071825/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      },
+      {
+        "datetime": "2018-04-17T06:15:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180417061537/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T10:26:49Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180201102649/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+    },
+    "last": {
+      "datetime": "2018-04-17T06:15:37Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180417061537/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/publications/further-education-commissioner-annual-report-2016-to-2017"
+}
+

@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-03-05T19:31:40Z",
+        "uri": "http://web.archive.org/web/20180305193140/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018"
+      }
+    ],
+    "first": {
+      "datetime": "2018-03-05T19:31:40Z",
+      "uri": "http://web.archive.org/web/20180305193140/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018"
+    },
+    "last": {
+      "datetime": "2018-03-05T19:31:40Z",
+      "uri": "http://web.archive.org/web/20180305193140/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.nhangle.com/state-government/Bill-targeting-gun-free-zones-stalls-in-House-committee-01312018"
+}
+

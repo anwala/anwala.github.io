@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-21T08:43:23Z",
+        "uri": "http://web.archive.org/web/20180221084323/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-21T08:43:23Z",
+      "uri": "http://web.archive.org/web/20180221084323/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE"
+    },
+    "last": {
+      "datetime": "2018-02-21T08:43:23Z",
+      "uri": "http://web.archive.org/web/20180221084323/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.db8oKL6aE"
+}
+
