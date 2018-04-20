@@ -1,0 +1,91 @@
+{
+  "original_uri": "https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T23:33:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201233324/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-02-08T06:25:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180208062526/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-02-15T02:59:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180215025931/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-02-23T07:06:41Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180223070641/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-02-27T13:29:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180227132918/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-02-28T14:02:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180228140238/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-03-02T03:02:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180302030226/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-03-04T03:32:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180304033204/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-03-08T04:04:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180308040427/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-03-13T13:19:30Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180313131930/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-03-18T09:26:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180318092618/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-03-22T11:48:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180322114834/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-04-02T08:28:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402082822/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-04-04T19:28:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404192840/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-04-05T15:27:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180405152722/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-04-12T09:55:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180412095526/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      },
+      {
+        "datetime": "2018-04-19T09:05:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180419090518/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T23:33:24Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180201233324/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+    },
+    "last": {
+      "datetime": "2018-04-19T09:05:18Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180419090518/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/publications/touchbase-dwp-news-about-work-working-age-benefits-and-services/january-2018-touchbase-edition-124"
+}
+

@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T09:13:18Z",
+        "uri": "http://web.archive.org/web/20180131091318/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme"
+      },
+      {
+        "datetime": "2018-01-31T21:41:31Z",
+        "uri": "http://archive.is/20180131214131/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T09:13:18Z",
+      "uri": "http://web.archive.org/web/20180131091318/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme"
+    },
+    "last": {
+      "datetime": "2018-01-31T21:41:31Z",
+      "uri": "http://archive.is/20180131214131/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.justice.gov/opa/pr/government-contractor-charged-26-million-fraud-scheme"
+}
+

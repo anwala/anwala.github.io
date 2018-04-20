@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://saljackenterprises.net/2018/01/30/31362/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://saljackenterprises.net/2018/01/30/31362/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-02T20:34:19Z",
+        "uri": "http://web.archive.org/web/20180202203419/https://saljackenterprises.net/2018/01/30/31362/"
+      },
+      {
+        "datetime": "2018-02-25T11:51:42Z",
+        "uri": "http://web.archive.org/web/20180225115142/https://saljackenterprises.net/2018/01/30/31362/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-02T20:34:19Z",
+      "uri": "http://web.archive.org/web/20180202203419/https://saljackenterprises.net/2018/01/30/31362/"
+    },
+    "last": {
+      "datetime": "2018-02-25T11:51:42Z",
+      "uri": "http://web.archive.org/web/20180225115142/https://saljackenterprises.net/2018/01/30/31362/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://saljackenterprises.net/2018/01/30/31362/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://saljackenterprises.net/2018/01/30/31362/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://saljackenterprises.net/2018/01/30/31362/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://saljackenterprises.net/2018/01/30/31362/"
+}
+

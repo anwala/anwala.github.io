@@ -1,0 +1,1011 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T04:25:09Z",
+        "uri": "http://web.archive.org/web/20180131042509/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T05:07:50Z",
+        "uri": "http://archive.is/20180131050750/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T06:01:12Z",
+        "uri": "http://web.archive.org/web/20180131060112/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T09:44:18Z",
+        "uri": "http://web.archive.org/web/20180131094418/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T15:46:47Z",
+        "uri": "http://archive.is/20180131154647/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T18:00:18Z",
+        "uri": "http://web.archive.org/web/20180131180018/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T18:00:25Z",
+        "uri": "http://wayback.archive-it.org/all/20180131180025/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T18:00:25Z",
+        "uri": "http://web.archive.org/web/20180131180025/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T20:50:36Z",
+        "uri": "http://archive.is/20180131205036/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-01-31T21:25:33Z",
+        "uri": "http://web.archive.org/web/20180131212533/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-01T07:52:39Z",
+        "uri": "http://web.archive.org/web/20180201075239/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-01T08:10:31Z",
+        "uri": "http://web.archive.org/web/20180201081031/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-01T08:39:00Z",
+        "uri": "http://web.archive.org/web/20180201083900/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-01T11:47:46Z",
+        "uri": "http://web.archive.org/web/20180201114746/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-01T22:35:07Z",
+        "uri": "http://web.archive.org/web/20180201223507/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T00:34:33Z",
+        "uri": "http://web.archive.org/web/20180202003433/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T05:15:33Z",
+        "uri": "http://web.archive.org/web/20180202051533/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T06:06:10Z",
+        "uri": "http://web.archive.org/web/20180202060610/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T08:50:28Z",
+        "uri": "http://web.archive.org/web/20180202085028/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T10:13:13Z",
+        "uri": "http://web.archive.org/web/20180202101313/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T10:59:37Z",
+        "uri": "http://web.archive.org/web/20180202105937/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T11:39:35Z",
+        "uri": "http://web.archive.org/web/20180202113935/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T13:34:20Z",
+        "uri": "http://web.archive.org/web/20180202133420/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T14:24:56Z",
+        "uri": "http://web.archive.org/web/20180202142456/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T15:14:11Z",
+        "uri": "http://web.archive.org/web/20180202151411/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T19:32:51Z",
+        "uri": "http://web.archive.org/web/20180202193251/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-02T22:49:10Z",
+        "uri": "http://web.archive.org/web/20180202224910/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-03T01:57:40Z",
+        "uri": "http://web.archive.org/web/20180203015740/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-03T11:24:34Z",
+        "uri": "http://web.archive.org/web/20180203112434/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-03T13:27:20Z",
+        "uri": "http://web.archive.org/web/20180203132720/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-03T14:00:53Z",
+        "uri": "http://web.archive.org/web/20180203140053/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-03T14:59:14Z",
+        "uri": "http://web.archive.org/web/20180203145914/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-03T22:12:16Z",
+        "uri": "http://web.archive.org/web/20180203221216/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-04T11:32:45Z",
+        "uri": "http://web.archive.org/web/20180204113245/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-04T22:42:18Z",
+        "uri": "http://web.archive.org/web/20180204224218/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-05T04:17:24Z",
+        "uri": "http://web.archive.org/web/20180205041724/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-05T06:29:03Z",
+        "uri": "http://web.archive.org/web/20180205062903/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-05T22:32:05Z",
+        "uri": "http://web.archive.org/web/20180205223205/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-06T05:58:25Z",
+        "uri": "http://web.archive.org/web/20180206055825/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-06T23:03:00Z",
+        "uri": "http://web.archive.org/web/20180206230300/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-07T06:18:27Z",
+        "uri": "http://web.archive.org/web/20180207061827/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-07T08:39:13Z",
+        "uri": "http://web.archive.org/web/20180207083913/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-07T09:27:03Z",
+        "uri": "http://web.archive.org/web/20180207092703/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-07T13:22:22Z",
+        "uri": "http://web.archive.org/web/20180207132222/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-07T22:23:29Z",
+        "uri": "http://web.archive.org/web/20180207222329/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-08T07:59:44Z",
+        "uri": "http://web.archive.org/web/20180208075944/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-08T08:45:16Z",
+        "uri": "http://web.archive.org/web/20180208084516/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-08T14:53:53Z",
+        "uri": "http://web.archive.org/web/20180208145353/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-09T03:00:39Z",
+        "uri": "http://web.archive.org/web/20180209030039/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-09T03:52:52Z",
+        "uri": "http://web.archive.org/web/20180209035252/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-09T04:13:16Z",
+        "uri": "http://web.archive.org/web/20180209041316/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-09T11:36:04Z",
+        "uri": "http://web.archive.org/web/20180209113604/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-09T13:03:51Z",
+        "uri": "http://web.archive.org/web/20180209130351/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-09T21:15:40Z",
+        "uri": "http://web.archive.org/web/20180209211540/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-10T10:32:16Z",
+        "uri": "http://web.archive.org/web/20180210103216/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-10T13:39:06Z",
+        "uri": "http://web.archive.org/web/20180210133906/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-11T00:35:48Z",
+        "uri": "http://web.archive.org/web/20180211003548/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-11T08:23:34Z",
+        "uri": "http://web.archive.org/web/20180211082334/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-11T14:08:03Z",
+        "uri": "http://web.archive.org/web/20180211140803/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-11T16:06:19Z",
+        "uri": "http://web.archive.org/web/20180211160619/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-11T22:39:24Z",
+        "uri": "http://web.archive.org/web/20180211223924/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-12T04:31:49Z",
+        "uri": "http://web.archive.org/web/20180212043149/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-12T05:27:58Z",
+        "uri": "http://web.archive.org/web/20180212052758/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-12T06:12:33Z",
+        "uri": "http://web.archive.org/web/20180212061233/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-12T06:39:50Z",
+        "uri": "http://web.archive.org/web/20180212063950/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-13T12:29:30Z",
+        "uri": "http://web.archive.org/web/20180213122930/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-13T15:18:34Z",
+        "uri": "http://web.archive.org/web/20180213151834/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-14T00:25:40Z",
+        "uri": "http://web.archive.org/web/20180214002540/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-14T13:44:12Z",
+        "uri": "http://web.archive.org/web/20180214134412/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-14T14:15:45Z",
+        "uri": "http://web.archive.org/web/20180214141545/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-14T17:10:30Z",
+        "uri": "http://web.archive.org/web/20180214171030/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-14T19:10:56Z",
+        "uri": "http://web.archive.org/web/20180214191056/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-15T02:49:30Z",
+        "uri": "http://web.archive.org/web/20180215024930/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-15T10:43:21Z",
+        "uri": "http://web.archive.org/web/20180215104321/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-15T23:21:03Z",
+        "uri": "http://web.archive.org/web/20180215232103/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-16T12:56:13Z",
+        "uri": "http://web.archive.org/web/20180216125613/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-17T13:29:58Z",
+        "uri": "http://web.archive.org/web/20180217132958/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T04:35:01Z",
+        "uri": "http://web.archive.org/web/20180218043501/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T06:42:25Z",
+        "uri": "http://web.archive.org/web/20180218064225/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T07:15:31Z",
+        "uri": "http://web.archive.org/web/20180218071531/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T10:48:45Z",
+        "uri": "http://web.archive.org/web/20180218104845/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T13:48:44Z",
+        "uri": "http://web.archive.org/web/20180218134844/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T14:09:04Z",
+        "uri": "http://web.archive.org/web/20180218140904/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-18T15:03:08Z",
+        "uri": "http://web.archive.org/web/20180218150308/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-19T13:18:10Z",
+        "uri": "http://web.archive.org/web/20180219131810/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-19T21:56:58Z",
+        "uri": "http://web.archive.org/web/20180219215658/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T01:37:33Z",
+        "uri": "http://web.archive.org/web/20180220013733/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T04:31:28Z",
+        "uri": "http://web.archive.org/web/20180220043128/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T06:54:40Z",
+        "uri": "http://web.archive.org/web/20180220065440/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T07:11:54Z",
+        "uri": "http://web.archive.org/web/20180220071154/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T08:20:09Z",
+        "uri": "http://web.archive.org/web/20180220082009/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T12:10:59Z",
+        "uri": "http://web.archive.org/web/20180220121059/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T12:42:59Z",
+        "uri": "http://web.archive.org/web/20180220124259/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T13:21:23Z",
+        "uri": "http://web.archive.org/web/20180220132123/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T14:40:49Z",
+        "uri": "http://web.archive.org/web/20180220144049/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T15:01:41Z",
+        "uri": "http://web.archive.org/web/20180220150141/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T18:24:14Z",
+        "uri": "http://web.archive.org/web/20180220182414/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T22:03:23Z",
+        "uri": "http://web.archive.org/web/20180220220323/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-20T22:22:08Z",
+        "uri": "http://web.archive.org/web/20180220222208/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-21T02:11:40Z",
+        "uri": "http://web.archive.org/web/20180221021140/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-21T14:01:44Z",
+        "uri": "http://web.archive.org/web/20180221140144/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-21T14:14:32Z",
+        "uri": "http://web.archive.org/web/20180221141432/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-22T07:56:22Z",
+        "uri": "http://web.archive.org/web/20180222075622/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-22T09:18:31Z",
+        "uri": "http://web.archive.org/web/20180222091831/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-22T14:59:11Z",
+        "uri": "http://web.archive.org/web/20180222145911/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-22T15:09:19Z",
+        "uri": "http://web.archive.org/web/20180222150919/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-22T15:16:13Z",
+        "uri": "http://web.archive.org/web/20180222151613/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-22T22:54:45Z",
+        "uri": "http://web.archive.org/web/20180222225445/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-23T13:21:16Z",
+        "uri": "http://web.archive.org/web/20180223132116/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-23T23:09:15Z",
+        "uri": "http://web.archive.org/web/20180223230915/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-25T15:01:54Z",
+        "uri": "http://web.archive.org/web/20180225150154/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-26T13:58:51Z",
+        "uri": "http://web.archive.org/web/20180226135851/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-26T23:02:31Z",
+        "uri": "http://web.archive.org/web/20180226230231/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-26T23:18:15Z",
+        "uri": "http://web.archive.org/web/20180226231815/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-27T09:54:27Z",
+        "uri": "http://web.archive.org/web/20180227095427/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-28T11:25:15Z",
+        "uri": "http://web.archive.org/web/20180228112515/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-28T11:48:59Z",
+        "uri": "http://web.archive.org/web/20180228114859/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-28T14:56:07Z",
+        "uri": "http://web.archive.org/web/20180228145607/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-02-28T20:40:16Z",
+        "uri": "http://web.archive.org/web/20180228204016/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-01T10:13:47Z",
+        "uri": "http://web.archive.org/web/20180301101347/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-01T13:11:09Z",
+        "uri": "http://web.archive.org/web/20180301131109/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-01T13:46:45Z",
+        "uri": "http://web.archive.org/web/20180301134645/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-02T00:59:19Z",
+        "uri": "http://web.archive.org/web/20180302005919/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-02T12:37:22Z",
+        "uri": "http://web.archive.org/web/20180302123722/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-02T14:01:39Z",
+        "uri": "http://web.archive.org/web/20180302140139/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-02T14:17:36Z",
+        "uri": "http://web.archive.org/web/20180302141736/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-02T19:43:55Z",
+        "uri": "http://web.archive.org/web/20180302194355/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-03T14:51:08Z",
+        "uri": "http://web.archive.org/web/20180303145108/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-03T15:31:29Z",
+        "uri": "http://web.archive.org/web/20180303153129/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-04T06:42:35Z",
+        "uri": "http://web.archive.org/web/20180304064235/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-04T15:01:07Z",
+        "uri": "http://web.archive.org/web/20180304150107/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-04T15:01:40Z",
+        "uri": "http://web.archive.org/web/20180304150140/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-04T22:48:51Z",
+        "uri": "http://web.archive.org/web/20180304224851/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-05T15:23:57Z",
+        "uri": "http://web.archive.org/web/20180305152357/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-05T17:25:41Z",
+        "uri": "http://web.archive.org/web/20180305172541/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-06T02:08:27Z",
+        "uri": "http://web.archive.org/web/20180306020827/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-06T12:48:31Z",
+        "uri": "http://web.archive.org/web/20180306124831/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-06T13:29:57Z",
+        "uri": "http://web.archive.org/web/20180306132957/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-07T07:57:22Z",
+        "uri": "http://web.archive.org/web/20180307075722/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-07T15:28:13Z",
+        "uri": "http://web.archive.org/web/20180307152813/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-07T15:44:11Z",
+        "uri": "http://web.archive.org/web/20180307154411/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-07T18:28:37Z",
+        "uri": "http://web.archive.org/web/20180307182837/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-07T22:45:45Z",
+        "uri": "http://web.archive.org/web/20180307224545/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-08T09:37:22Z",
+        "uri": "http://web.archive.org/web/20180308093722/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-08T17:06:32Z",
+        "uri": "http://web.archive.org/web/20180308170632/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-08T22:04:07Z",
+        "uri": "http://web.archive.org/web/20180308220407/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-08T23:56:38Z",
+        "uri": "http://web.archive.org/web/20180308235638/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-09T00:47:33Z",
+        "uri": "http://web.archive.org/web/20180309004733/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-09T02:28:12Z",
+        "uri": "http://web.archive.org/web/20180309022812/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-09T04:00:56Z",
+        "uri": "http://web.archive.org/web/20180309040056/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-09T10:17:53Z",
+        "uri": "http://web.archive.org/web/20180309101753/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-09T14:52:38Z",
+        "uri": "http://web.archive.org/web/20180309145238/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-09T20:17:21Z",
+        "uri": "http://web.archive.org/web/20180309201721/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-10T14:33:26Z",
+        "uri": "http://web.archive.org/web/20180310143326/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-10T16:07:14Z",
+        "uri": "http://web.archive.org/web/20180310160714/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-11T10:01:44Z",
+        "uri": "http://web.archive.org/web/20180311100144/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-11T11:49:11Z",
+        "uri": "http://web.archive.org/web/20180311114911/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-12T15:49:48Z",
+        "uri": "http://web.archive.org/web/20180312154948/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-12T23:17:20Z",
+        "uri": "http://web.archive.org/web/20180312231720/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-13T01:17:34Z",
+        "uri": "http://web.archive.org/web/20180313011734/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-13T08:38:32Z",
+        "uri": "http://web.archive.org/web/20180313083832/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-13T10:51:00Z",
+        "uri": "http://web.archive.org/web/20180313105100/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-14T05:03:08Z",
+        "uri": "http://web.archive.org/web/20180314050308/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-15T09:53:34Z",
+        "uri": "http://web.archive.org/web/20180315095334/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-15T18:19:16Z",
+        "uri": "http://web.archive.org/web/20180315181916/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-16T13:33:21Z",
+        "uri": "http://web.archive.org/web/20180316133321/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-17T14:54:26Z",
+        "uri": "http://web.archive.org/web/20180317145426/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-19T03:20:53Z",
+        "uri": "http://web.archive.org/web/20180319032053/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-19T06:53:23Z",
+        "uri": "http://web.archive.org/web/20180319065323/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-19T13:40:51Z",
+        "uri": "http://web.archive.org/web/20180319134051/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-20T06:56:55Z",
+        "uri": "http://web.archive.org/web/20180320065655/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-20T11:41:26Z",
+        "uri": "http://web.archive.org/web/20180320114126/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-20T17:51:45Z",
+        "uri": "http://web.archive.org/web/20180320175145/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-20T18:05:01Z",
+        "uri": "http://web.archive.org/web/20180320180501/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-22T00:58:32Z",
+        "uri": "http://web.archive.org/web/20180322005832/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-22T04:59:49Z",
+        "uri": "http://web.archive.org/web/20180322045949/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-22T18:40:03Z",
+        "uri": "http://web.archive.org/web/20180322184003/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-22T21:51:54Z",
+        "uri": "http://web.archive.org/web/20180322215154/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-23T07:32:22Z",
+        "uri": "http://web.archive.org/web/20180323073222/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-23T08:02:34Z",
+        "uri": "http://web.archive.org/web/20180323080234/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-23T11:12:28Z",
+        "uri": "http://web.archive.org/web/20180323111228/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-23T11:37:36Z",
+        "uri": "http://web.archive.org/web/20180323113736/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-23T21:00:15Z",
+        "uri": "http://web.archive.org/web/20180323210015/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-24T10:35:08Z",
+        "uri": "http://web.archive.org/web/20180324103508/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-24T15:15:50Z",
+        "uri": "http://web.archive.org/web/20180324151550/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-25T04:43:37Z",
+        "uri": "http://web.archive.org/web/20180325044337/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-25T18:14:30Z",
+        "uri": "http://web.archive.org/web/20180325181430/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-26T09:12:10Z",
+        "uri": "http://web.archive.org/web/20180326091210/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-26T17:00:14Z",
+        "uri": "http://web.archive.org/web/20180326170014/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-27T08:23:29Z",
+        "uri": "http://web.archive.org/web/20180327082329/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-27T16:51:56Z",
+        "uri": "http://web.archive.org/web/20180327165156/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-27T18:54:02Z",
+        "uri": "http://web.archive.org/web/20180327185402/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-28T08:40:30Z",
+        "uri": "http://web.archive.org/web/20180328084030/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-29T04:58:29Z",
+        "uri": "http://web.archive.org/web/20180329045829/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-29T10:49:38Z",
+        "uri": "http://web.archive.org/web/20180329104938/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-29T14:46:36Z",
+        "uri": "http://web.archive.org/web/20180329144636/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-30T15:57:17Z",
+        "uri": "http://web.archive.org/web/20180330155717/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-31T01:49:32Z",
+        "uri": "http://web.archive.org/web/20180331014932/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-31T15:26:35Z",
+        "uri": "http://web.archive.org/web/20180331152635/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-31T18:12:14Z",
+        "uri": "http://web.archive.org/web/20180331181214/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-03-31T20:42:46Z",
+        "uri": "http://web.archive.org/web/20180331204246/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-01T07:45:25Z",
+        "uri": "http://web.archive.org/web/20180401074525/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-01T15:08:56Z",
+        "uri": "http://web.archive.org/web/20180401150856/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-02T04:14:12Z",
+        "uri": "http://web.archive.org/web/20180402041412/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-02T11:46:11Z",
+        "uri": "http://web.archive.org/web/20180402114611/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-02T12:56:13Z",
+        "uri": "http://web.archive.org/web/20180402125613/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-02T15:16:42Z",
+        "uri": "http://web.archive.org/web/20180402151642/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-03T03:17:33Z",
+        "uri": "http://web.archive.org/web/20180403031733/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-03T08:16:28Z",
+        "uri": "http://web.archive.org/web/20180403081628/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-03T12:00:48Z",
+        "uri": "http://web.archive.org/web/20180403120048/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-03T19:49:26Z",
+        "uri": "http://web.archive.org/web/20180403194926/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-04T09:40:35Z",
+        "uri": "http://web.archive.org/web/20180404094035/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-04T12:10:48Z",
+        "uri": "http://web.archive.org/web/20180404121048/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-05T09:17:34Z",
+        "uri": "http://web.archive.org/web/20180405091734/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-05T13:03:16Z",
+        "uri": "http://web.archive.org/web/20180405130316/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-05T22:48:55Z",
+        "uri": "http://web.archive.org/web/20180405224855/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-06T09:31:14Z",
+        "uri": "http://web.archive.org/web/20180406093114/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-06T20:32:01Z",
+        "uri": "http://web.archive.org/web/20180406203201/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-06T21:29:23Z",
+        "uri": "http://web.archive.org/web/20180406212923/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-06T23:09:06Z",
+        "uri": "http://web.archive.org/web/20180406230906/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-06T23:47:36Z",
+        "uri": "http://web.archive.org/web/20180406234736/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-07T23:42:28Z",
+        "uri": "http://web.archive.org/web/20180407234228/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-08T22:11:24Z",
+        "uri": "http://web.archive.org/web/20180408221124/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-09T04:54:08Z",
+        "uri": "http://web.archive.org/web/20180409045408/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-09T06:25:52Z",
+        "uri": "http://web.archive.org/web/20180409062552/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-09T11:44:54Z",
+        "uri": "http://web.archive.org/web/20180409114454/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-11T02:00:21Z",
+        "uri": "http://web.archive.org/web/20180411020021/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-11T03:47:18Z",
+        "uri": "http://web.archive.org/web/20180411034718/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-11T08:14:10Z",
+        "uri": "http://web.archive.org/web/20180411081410/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-11T12:12:35Z",
+        "uri": "http://web.archive.org/web/20180411121235/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-11T19:34:27Z",
+        "uri": "http://web.archive.org/web/20180411193427/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-13T06:36:13Z",
+        "uri": "http://web.archive.org/web/20180413063613/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-13T17:51:30Z",
+        "uri": "http://web.archive.org/web/20180413175130/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-13T21:06:11Z",
+        "uri": "http://web.archive.org/web/20180413210611/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-14T07:26:03Z",
+        "uri": "http://web.archive.org/web/20180414072603/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-16T21:39:08Z",
+        "uri": "http://web.archive.org/web/20180416213908/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-17T00:15:52Z",
+        "uri": "http://web.archive.org/web/20180417001552/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-17T21:39:33Z",
+        "uri": "http://web.archive.org/web/20180417213933/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-18T00:40:06Z",
+        "uri": "http://web.archive.org/web/20180418004006/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-18T12:30:21Z",
+        "uri": "http://web.archive.org/web/20180418123021/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-18T21:54:33Z",
+        "uri": "http://web.archive.org/web/20180418215433/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-19T02:02:59Z",
+        "uri": "http://web.archive.org/web/20180419020259/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-19T07:15:33Z",
+        "uri": "http://web.archive.org/web/20180419071533/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-19T12:18:03Z",
+        "uri": "http://web.archive.org/web/20180419121803/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-19T16:11:32Z",
+        "uri": "http://web.archive.org/web/20180419161132/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-19T19:09:52Z",
+        "uri": "http://web.archive.org/web/20180419190952/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      },
+      {
+        "datetime": "2018-04-20T02:55:44Z",
+        "uri": "http://web.archive.org/web/20180420025544/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T04:25:09Z",
+      "uri": "http://web.archive.org/web/20180131042509/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+    },
+    "last": {
+      "datetime": "2018-04-20T02:55:44Z",
+      "uri": "http://web.archive.org/web/20180420025544/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/30/live-updates-trump-gives-first-state-of-union-address/"
+}
+

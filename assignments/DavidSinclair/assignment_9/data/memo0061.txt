@@ -1,0 +1,87 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:21:16Z",
+        "uri": "http://web.archive.org/web/20180131182116/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-02-01T09:10:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201091025/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-02-05T16:34:35Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205163435/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-02-12T16:44:28Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212164428/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-02-19T17:08:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219170831/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-02-27T15:25:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180227152526/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-03-02T13:26:41Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180302132641/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-03-06T15:19:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180306151924/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-03-13T15:11:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180313151151/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-03-20T13:42:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180320134222/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-03-27T14:41:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180327144137/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-04-02T20:07:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402200727/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-04-03T00:30:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180403003049/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-04-03T13:31:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180403133123/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-04-10T10:14:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180410101436/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      },
+      {
+        "datetime": "2018-04-17T09:04:09Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180417090409/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:21:16Z",
+      "uri": "http://web.archive.org/web/20180131182116/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+    },
+    "last": {
+      "datetime": "2018-04-17T09:04:09Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180417090409/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/selling-steroids-and-sex-meds-sees-gloucestershire-man-sentenced"
+}
+

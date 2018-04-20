@@ -1,0 +1,39 @@
+{
+  "original_uri": "http://www.australiaplaces.net/department-of-transport-3",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.australiaplaces.net/department-of-transport-3",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-08-31T19:55:02Z",
+        "uri": "http://web.archive.org/web/20170831195502/http://www.australiaplaces.net/department-of-transport-3"
+      },
+      {
+        "datetime": "2017-11-08T20:26:08Z",
+        "uri": "http://web.archive.org/web/20171108202608/http://www.australiaplaces.net/department-of-transport-3"
+      },
+      {
+        "datetime": "2018-03-07T08:24:04Z",
+        "uri": "http://web.archive.org/web/20180307082404/http://www.australiaplaces.net/department-of-transport-3"
+      },
+      {
+        "datetime": "2018-03-09T06:48:15Z",
+        "uri": "http://web.archive.org/web/20180309064815/http://www.australiaplaces.net/department-of-transport-3"
+      }
+    ],
+    "first": {
+      "datetime": "2017-08-31T19:55:02Z",
+      "uri": "http://web.archive.org/web/20170831195502/http://www.australiaplaces.net/department-of-transport-3"
+    },
+    "last": {
+      "datetime": "2018-03-09T06:48:15Z",
+      "uri": "http://web.archive.org/web/20180309064815/http://www.australiaplaces.net/department-of-transport-3"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.australiaplaces.net/department-of-transport-3",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.australiaplaces.net/department-of-transport-3",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.australiaplaces.net/department-of-transport-3"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.australiaplaces.net/department-of-transport-3"
+}
+
