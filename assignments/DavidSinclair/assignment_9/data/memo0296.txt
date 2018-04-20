@@ -1,0 +1,59 @@
+{
+  "original_uri": "http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-12-19T22:12:10Z",
+        "uri": "http://web.archive.org/web/20171219221210/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2017-12-20T22:28:15Z",
+        "uri": "http://web.archive.org/web/20171220222815/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2017-12-21T23:22:16Z",
+        "uri": "http://web.archive.org/web/20171221232216/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2018-01-07T15:51:55Z",
+        "uri": "http://web.archive.org/web/20180107155155/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2018-01-08T15:41:16Z",
+        "uri": "http://web.archive.org/web/20180108154116/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2018-01-09T15:26:17Z",
+        "uri": "http://web.archive.org/web/20180109152617/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2018-01-10T16:53:05Z",
+        "uri": "http://web.archive.org/web/20180110165305/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2018-04-17T20:47:15Z",
+        "uri": "http://web.archive.org/web/20180417204715/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      },
+      {
+        "datetime": "2018-04-18T22:13:47Z",
+        "uri": "http://web.archive.org/web/20180418221347/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+      }
+    ],
+    "first": {
+      "datetime": "2017-12-19T22:12:10Z",
+      "uri": "http://web.archive.org/web/20171219221210/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+    },
+    "last": {
+      "datetime": "2018-04-18T22:13:47Z",
+      "uri": "http://web.archive.org/web/20180418221347/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.cbc.ca/news/canada/nova-scotia/federal-government-to-spend-80m-on-ocean-protection-1.4454474"
+}
+

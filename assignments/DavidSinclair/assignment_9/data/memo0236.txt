@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-02T00:54:09Z",
+        "uri": "http://web.archive.org/web/20180202005409/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_"
+      },
+      {
+        "datetime": "2018-02-02T04:04:17Z",
+        "uri": "http://web.archive.org/web/20180202040417/https://rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-02T00:54:09Z",
+      "uri": "http://web.archive.org/web/20180202005409/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_"
+    },
+    "last": {
+      "datetime": "2018-02-02T04:04:17Z",
+      "uri": "http://web.archive.org/web/20180202040417/https://rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_state_of_our_union_a_house_divided_enslaved_mired_in_the_mistakes_"
+}
+

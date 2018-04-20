@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-02T19:55:34Z",
+        "uri": "http://web.archive.org/web/20180202195534/http://www.thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-02T19:55:34Z",
+      "uri": "http://web.archive.org/web/20180202195534/http://www.thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/"
+    },
+    "last": {
+      "datetime": "2018-02-02T19:55:34Z",
+      "uri": "http://web.archive.org/web/20180202195534/http://www.thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/"
+}
+

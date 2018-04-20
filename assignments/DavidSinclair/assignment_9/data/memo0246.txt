@@ -1,0 +1,135 @@
+{
+  "original_uri": "https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-17T14:09:20Z",
+        "uri": "http://web.archive.org/web/20180117140920/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-19T05:17:51Z",
+        "uri": "http://web.archive.org/web/20180119051751/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-19T11:09:57Z",
+        "uri": "http://web.archive.org/web/20180119110957/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-20T06:01:08Z",
+        "uri": "http://web.archive.org/web/20180120060108/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-20T06:01:18Z",
+        "uri": "http://web.archive.org/web/20180120060118/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-20T21:40:44Z",
+        "uri": "http://web.archive.org/web/20180120214044/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-20T21:41:12Z",
+        "uri": "http://web.archive.org/web/20180120214112/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-22T03:40:49Z",
+        "uri": "http://web.archive.org/web/20180122034049/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-22T03:41:00Z",
+        "uri": "http://web.archive.org/web/20180122034100/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-23T04:34:26Z",
+        "uri": "http://web.archive.org/web/20180123043426/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-23T04:34:35Z",
+        "uri": "http://web.archive.org/web/20180123043435/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-23T14:22:36Z",
+        "uri": "http://web.archive.org/web/20180123142236/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-24T06:25:13Z",
+        "uri": "http://web.archive.org/web/20180124062513/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-24T06:25:19Z",
+        "uri": "http://web.archive.org/web/20180124062519/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-25T06:12:37Z",
+        "uri": "http://web.archive.org/web/20180125061237/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-25T06:12:42Z",
+        "uri": "http://web.archive.org/web/20180125061242/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-28T14:16:23Z",
+        "uri": "http://web.archive.org/web/20180128141623/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-01-28T14:16:35Z",
+        "uri": "http://web.archive.org/web/20180128141635/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-01T17:17:31Z",
+        "uri": "http://web.archive.org/web/20180201171731/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-01T17:17:36Z",
+        "uri": "http://web.archive.org/web/20180201171736/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-03T07:20:48Z",
+        "uri": "http://web.archive.org/web/20180203072048/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-07T12:58:47Z",
+        "uri": "http://web.archive.org/web/20180207125847/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-07T12:58:53Z",
+        "uri": "http://web.archive.org/web/20180207125853/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-21T22:58:35Z",
+        "uri": "http://wayback.archive-it.org/all/20180221225835/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-02-21T22:58:35Z",
+        "uri": "http://web.archive.org/web/20180221225835/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-03-01T23:14:18Z",
+        "uri": "http://wayback.archive-it.org/all/20180301231418/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-03-01T23:14:18Z",
+        "uri": "http://web.archive.org/web/20180301231418/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      },
+      {
+        "datetime": "2018-03-18T12:20:17Z",
+        "uri": "http://web.archive.org/web/20180318122017/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-17T14:09:20Z",
+      "uri": "http://web.archive.org/web/20180117140920/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+    },
+    "last": {
+      "datetime": "2018-03-18T12:20:17Z",
+      "uri": "http://web.archive.org/web/20180318122017/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html"
+}
+

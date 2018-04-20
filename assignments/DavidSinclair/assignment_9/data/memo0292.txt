@@ -1,0 +1,55 @@
+{
+  "original_uri": "https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-23T01:12:09Z",
+        "uri": "http://web.archive.org/web/20180123011209/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-01-23T04:31:42Z",
+        "uri": "http://web.archive.org/web/20180123043142/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-01-23T07:52:33Z",
+        "uri": "http://web.archive.org/web/20180123075233/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-01-23T19:16:35Z",
+        "uri": "http://web.archive.org/web/20180123191635/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-01-24T05:44:27Z",
+        "uri": "http://web.archive.org/web/20180124054427/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-01-30T06:22:39Z",
+        "uri": "http://web.archive.org/web/20180130062239/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-02-02T08:16:34Z",
+        "uri": "http://web.archive.org/web/20180202081634/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      },
+      {
+        "datetime": "2018-02-10T06:57:34Z",
+        "uri": "http://web.archive.org/web/20180210065734/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-23T01:12:09Z",
+      "uri": "http://web.archive.org/web/20180123011209/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+    },
+    "last": {
+      "datetime": "2018-02-10T06:57:34Z",
+      "uri": "http://web.archive.org/web/20180210065734/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B"
+}
+

@@ -1,0 +1,71 @@
+{
+  "original_uri": "https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T09:11:20Z",
+        "uri": "http://web.archive.org/web/20180131091120/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-01-31T15:05:58Z",
+        "uri": "http://web.archive.org/web/20180131150558/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-12T22:28:34Z",
+        "uri": "http://web.archive.org/web/20180212222834/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-13T23:07:47Z",
+        "uri": "http://web.archive.org/web/20180213230747/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-14T23:43:38Z",
+        "uri": "http://web.archive.org/web/20180214234338/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-16T02:56:21Z",
+        "uri": "http://web.archive.org/web/20180216025621/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-17T03:15:29Z",
+        "uri": "http://web.archive.org/web/20180217031529/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-18T05:21:21Z",
+        "uri": "http://web.archive.org/web/20180218052121/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-19T05:43:24Z",
+        "uri": "http://web.archive.org/web/20180219054324/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-20T07:27:27Z",
+        "uri": "http://web.archive.org/web/20180220072727/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-21T13:04:44Z",
+        "uri": "http://web.archive.org/web/20180221130444/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      },
+      {
+        "datetime": "2018-02-22T13:24:19Z",
+        "uri": "http://web.archive.org/web/20180222132419/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T09:11:20Z",
+      "uri": "http://web.archive.org/web/20180131091120/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+    },
+    "last": {
+      "datetime": "2018-02-22T13:24:19Z",
+      "uri": "http://web.archive.org/web/20180222132419/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thenews.com.pk/latest/274971-sindh-government-imports-cancer-screening-machines-from-uk"
+}
+

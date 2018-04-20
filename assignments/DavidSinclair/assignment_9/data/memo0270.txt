@@ -1,0 +1,87 @@
+{
+  "original_uri": "https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:57:42Z",
+        "uri": "http://web.archive.org/web/20180131165742/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-01-31T18:00:14Z",
+        "uri": "http://web.archive.org/web/20180131180014/https://washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-01-31T18:00:19Z",
+        "uri": "http://web.archive.org/web/20180131180019/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-01T09:12:24Z",
+        "uri": "http://web.archive.org/web/20180201091224/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-11T13:59:19Z",
+        "uri": "http://web.archive.org/web/20180211135919/http://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-11T13:59:20Z",
+        "uri": "http://web.archive.org/web/20180211135920/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-12T14:30:47Z",
+        "uri": "http://web.archive.org/web/20180212143047/http://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-12T14:30:48Z",
+        "uri": "http://web.archive.org/web/20180212143048/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-13T15:05:13Z",
+        "uri": "http://web.archive.org/web/20180213150513/http://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-13T15:05:14Z",
+        "uri": "http://web.archive.org/web/20180213150514/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-14T15:55:11Z",
+        "uri": "http://web.archive.org/web/20180214155511/http://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-14T15:55:12Z",
+        "uri": "http://web.archive.org/web/20180214155512/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-17T17:47:46Z",
+        "uri": "http://web.archive.org/web/20180217174746/http://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-17T17:47:47Z",
+        "uri": "http://web.archive.org/web/20180217174747/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-18T16:53:53Z",
+        "uri": "http://web.archive.org/web/20180218165353/http://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      },
+      {
+        "datetime": "2018-02-18T16:53:54Z",
+        "uri": "http://web.archive.org/web/20180218165354/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:57:42Z",
+      "uri": "http://web.archive.org/web/20180131165742/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+    },
+    "last": {
+      "datetime": "2018-02-18T16:53:54Z",
+      "uri": "http://web.archive.org/web/20180218165354/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/news/capital-business/wp/2018/01/31/a-publicly-traded-staffing-firm-bets-big-on-government-contracting/"
+}
+
