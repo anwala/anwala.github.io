@@ -1,0 +1,91 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/new-members-announced-for-ofsted-board",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:14:32Z",
+        "uri": "http://web.archive.org/web/20180131191432/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-02-01T09:10:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201091023/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-02-01T19:12:53Z",
+        "uri": "http://web.archive.org/web/20180201191253/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-02-05T15:49:03Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205154903/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-02-12T16:06:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212160611/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-02-19T16:28:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219162827/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-02-26T15:59:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226155950/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-03-01T15:54:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180301155440/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-03-05T14:53:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305145315/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-03-12T15:49:10Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312154910/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-03-20T10:23:30Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180320102330/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-03-27T12:02:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180327120215/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-04-02T03:05:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402030551/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-04-02T17:06:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402170626/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-04-03T10:29:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180403102950/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-04-10T07:34:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180410073408/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      },
+      {
+        "datetime": "2018-04-17T06:32:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180417063255/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:14:32Z",
+      "uri": "http://web.archive.org/web/20180131191432/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+    },
+    "last": {
+      "datetime": "2018-04-17T06:32:55Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180417063255/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/new-members-announced-for-ofsted-board"
+}
+

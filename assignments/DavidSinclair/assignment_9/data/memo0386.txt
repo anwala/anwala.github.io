@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-04-05T21:34:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180405213426/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf"
+      }
+    ],
+    "first": {
+      "datetime": "2018-04-05T21:34:26Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180405213426/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf"
+    },
+    "last": {
+      "datetime": "2018-04-05T21:34:26Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180405213426/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/678443/NPPF_Timetable_Update-January_2018.pdf"
+}
+

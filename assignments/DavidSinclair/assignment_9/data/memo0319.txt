@@ -1,0 +1,87 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T11:51:36Z",
+        "uri": "http://web.archive.org/web/20180131115136/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-01-31T20:55:45Z",
+        "uri": "http://web.archive.org/web/20180131205545/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-02-01T09:10:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201091049/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-02-05T12:31:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205123153/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-02-12T12:55:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212125545/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-02-19T12:34:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219123429/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-02-26T22:28:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226222831/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-03-02T09:34:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180302093425/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-03-06T12:01:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180306120115/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-03-13T11:41:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180313114151/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-03-22T05:08:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180322050843/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-04-03T13:13:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180403131349/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-04-04T01:43:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404014334/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-04-04T06:24:48Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404062448/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-04-11T03:11:00Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180411031100/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      },
+      {
+        "datetime": "2018-04-18T02:34:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180418023447/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T11:51:36Z",
+      "uri": "http://web.archive.org/web/20180131115136/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+    },
+    "last": {
+      "datetime": "2018-04-18T02:34:47Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180418023447/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/pm-to-set-out-ambitious-new-approach-to-uk-china-education"
+}
+

@@ -1,0 +1,251 @@
+{
+  "original_uri": "https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-02-15T13:57:56Z",
+        "uri": "http://web.archive.org/web/20170215135756/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-15T22:31:42Z",
+        "uri": "http://web.archive.org/web/20170215223142/http://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-16T04:48:51Z",
+        "uri": "http://web.archive.org/web/20170216044851/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-16T14:21:01Z",
+        "uri": "http://web.archive.org/web/20170216142101/http://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-16T20:29:22Z",
+        "uri": "http://web.archive.org/web/20170216202922/http://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-19T18:35:43Z",
+        "uri": "http://archive.is/20170219183543/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-22T00:15:31Z",
+        "uri": "http://web.archive.org/web/20170222001531/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-02-23T13:42:30Z",
+        "uri": "http://web.archive.org/web/20170223134230/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-03-01T01:01:42Z",
+        "uri": "http://web.archive.org/web/20170301010142/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-03-29T02:21:44Z",
+        "uri": "http://web.archive.org/web/20170329022144/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-04-19T03:43:15Z",
+        "uri": "http://web.archive.org/web/20170419034315/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-04-21T06:29:03Z",
+        "uri": "http://web.archive.org/web/20170421062903/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-04-21T21:44:44Z",
+        "uri": "http://web.archive.org/web/20170421214444/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-04T21:00:04Z",
+        "uri": "http://web.archive.org/web/20170504210004/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-06T09:52:30Z",
+        "uri": "http://web.archive.org/web/20170506095230/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-07T17:42:28Z",
+        "uri": "http://web.archive.org/web/20170507174228/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-17T00:59:01Z",
+        "uri": "http://web.archive.org/web/20170517005901/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-22T12:56:08Z",
+        "uri": "http://web.archive.org/web/20170522125608/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-23T05:14:49Z",
+        "uri": "http://web.archive.org/web/20170523051449/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-24T16:07:46Z",
+        "uri": "http://web.archive.org/web/20170524160746/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-05-25T08:50:50Z",
+        "uri": "http://web.archive.org/web/20170525085050/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-06-15T23:12:48Z",
+        "uri": "http://web.archive.org/web/20170615231248/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-06-16T13:15:38Z",
+        "uri": "http://web.archive.org/web/20170616131538/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-05T12:41:59Z",
+        "uri": "http://web.archive.org/web/20170705124159/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-09T13:28:30Z",
+        "uri": "http://web.archive.org/web/20170709132830/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-15T15:53:07Z",
+        "uri": "http://web.archive.org/web/20170715155307/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-15T18:25:55Z",
+        "uri": "http://web.archive.org/web/20170715182555/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-17T04:11:35Z",
+        "uri": "http://web.archive.org/web/20170717041135/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-18T05:53:15Z",
+        "uri": "http://web.archive.org/web/20170718055315/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-19T09:54:21Z",
+        "uri": "http://web.archive.org/web/20170719095421/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-19T17:47:03Z",
+        "uri": "http://wayback.archive-it.org/all/20170719174703/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-19T17:47:03Z",
+        "uri": "http://web.archive.org/web/20170719174703/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-20T10:39:40Z",
+        "uri": "http://web.archive.org/web/20170720103940/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-21T04:04:27Z",
+        "uri": "http://web.archive.org/web/20170721040427/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-28T03:36:34Z",
+        "uri": "http://web.archive.org/web/20170728033634/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-07-29T02:42:38Z",
+        "uri": "http://web.archive.org/web/20170729024238/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-08-03T03:24:39Z",
+        "uri": "http://web.archive.org/web/20170803032439/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-08-12T09:23:21Z",
+        "uri": "http://web.archive.org/web/20170812092321/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-08-13T10:24:38Z",
+        "uri": "http://web.archive.org/web/20170813102438/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-08-14T17:04:41Z",
+        "uri": "http://web.archive.org/web/20170814170441/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-09-03T23:04:57Z",
+        "uri": "http://web.archive.org/web/20170903230457/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-09-08T16:01:37Z",
+        "uri": "http://web.archive.org/web/20170908160137/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-10-09T04:55:32Z",
+        "uri": "http://web.archive.org/web/20171009045532/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-10-10T07:18:55Z",
+        "uri": "http://web.archive.org/web/20171010071855/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-10-11T14:40:18Z",
+        "uri": "http://web.archive.org/web/20171011144018/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-10-17T22:33:53Z",
+        "uri": "http://web.archive.org/web/20171017223353/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-10-24T23:09:15Z",
+        "uri": "http://web.archive.org/web/20171024230915/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-11-08T20:45:12Z",
+        "uri": "http://web.archive.org/web/20171108204512/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-11-15T21:45:16Z",
+        "uri": "http://web.archive.org/web/20171115214516/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-11-18T18:02:13Z",
+        "uri": "http://web.archive.org/web/20171118180213/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-11-19T18:04:04Z",
+        "uri": "http://web.archive.org/web/20171119180404/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-12-18T08:52:45Z",
+        "uri": "http://web.archive.org/web/20171218085245/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-12-19T10:29:35Z",
+        "uri": "http://web.archive.org/web/20171219102935/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-12-22T21:09:52Z",
+        "uri": "http://wayback.archive-it.org/all/20171222210952/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2017-12-22T21:09:52Z",
+        "uri": "http://web.archive.org/web/20171222210952/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2018-01-17T04:14:38Z",
+        "uri": "http://web.archive.org/web/20180117041438/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      },
+      {
+        "datetime": "2018-03-07T22:53:48Z",
+        "uri": "http://web.archive.org/web/20180307225348/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+      }
+    ],
+    "first": {
+      "datetime": "2017-02-15T13:57:56Z",
+      "uri": "http://web.archive.org/web/20170215135756/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+    },
+    "last": {
+      "datetime": "2018-03-07T22:53:48Z",
+      "uri": "http://web.archive.org/web/20180307225348/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://newrepublic.com/article/140641/trump-turned-gop-party-eugenics"
+}
+

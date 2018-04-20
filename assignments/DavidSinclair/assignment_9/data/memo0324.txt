@@ -1,0 +1,35 @@
+{
+  "original_uri": "https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-29T17:59:32Z",
+        "uri": "http://web.archive.org/web/20180129175932/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+      },
+      {
+        "datetime": "2018-02-03T03:54:08Z",
+        "uri": "http://web.archive.org/web/20180203035408/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+      },
+      {
+        "datetime": "2018-03-03T01:07:56Z",
+        "uri": "http://web.archive.org/web/20180303010756/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-29T17:59:32Z",
+      "uri": "http://web.archive.org/web/20180129175932/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+    },
+    "last": {
+      "datetime": "2018-03-03T01:07:56Z",
+      "uri": "http://web.archive.org/web/20180303010756/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article"
+}
+
