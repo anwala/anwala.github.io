@@ -5,10 +5,11 @@ http://anwala.github.io/lectures/cs532-s19/
 Assignment #2
 Due: 11:59pm February 16
 
-1.  Write a Python program that extracts 1000 unique links from
-Twitter. Omit links from the Twitter domain (twitter.com). You might want to take a look at:
-Note: If we ask you to collect 1000 unique links, collect more (e.g., 1300).
+1.  Write a Python program that extracts 1000 unique 
+(collect more e.g., 1300 just in case) links from
+Twitter. Omit links from the Twitter domain (twitter.com).
 
+You might want to take a look at:
 https://pythonprogramming.net/twitter-api-streaming-tweets-python-tutorial/
 http://adilmoujahid.com/posts/2014/07/twitter-analytics/
 
