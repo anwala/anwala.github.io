@@ -45,4 +45,5 @@ Place: Dragas Hall, r. 1117
 * [A4 due 2019-03-09](./assignments/a4.txt)
 * [A5 due 2019-03-24](./assignments/a5.txt)
 * [A6 due 2019-03-31](./assignments/a6.txt)
+* [A7 due 2019-04-07](./assignments/a7.txt)
 
