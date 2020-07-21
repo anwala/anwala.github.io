@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://zeenews.india.com/hindi/union-budget/to-create-new-jobs-modi-government-will-spend-more-on-infrastructure/369640",
+  "uri": "http://zeenews.india.com/hindi/union-budget/to-create-new-jobs-modi-government-will-spend-more-on-infrastructure/369640",
+  "estimated-creation-date": "2018-01-31T13:04:04",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T17:48:15"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:04:04"
+    }
+  }
+}

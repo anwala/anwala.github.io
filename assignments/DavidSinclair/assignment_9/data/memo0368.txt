@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:01:15Z",
+        "uri": "http://archive.is/20180131180115/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:01:15Z",
+      "uri": "http://archive.is/20180131180115/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:01:15Z",
+      "uri": "http://archive.is/20180131180115/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://nationalpost.com/news/politics/400-bottles-of-wine-on-the-plane-federal-politicians-have-access-to-limitless-alcohol-on-government-flights"
+}
+

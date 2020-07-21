@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T08:03:17Z",
+        "uri": "http://web.archive.org/web/20180131080317/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T08:03:17Z",
+      "uri": "http://web.archive.org/web/20180131080317/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/"
+    },
+    "last": {
+      "datetime": "2018-01-31T08:03:17Z",
+      "uri": "http://web.archive.org/web/20180131080317/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/"
+}
+

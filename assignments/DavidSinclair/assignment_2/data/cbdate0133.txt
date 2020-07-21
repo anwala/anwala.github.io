@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.mcclatchydc.com/news/politics-government/article197466454.html",
+  "uri": "http://www.mcclatchydc.com/news/politics-government/article197466454.html",
+  "estimated-creation-date": "2018-01-31T14:55:42",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:55:42"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://route.overnewser.com/brexit_newz/?url=https://www.theguardian.com/politics/2018/jan/31/government-will-not-oppose-labour-motion-on-leaked-brexit-papers&utm_source=TrendyNewz&utm_medium=Brexit_Newz&utm_campaign=article",
+  "uri": "http://route.overnewser.com/brexit_newz/?url=https://www.theguardian.com/politics/2018/jan/31/government-will-not-oppose-labour-motion-on-leaked-brexit-papers&utm_source=TrendyNewz&utm_medium=Brexit_Newz&utm_campaign=article",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

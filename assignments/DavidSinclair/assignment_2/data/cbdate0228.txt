@@ -1,0 +1,58 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515068/why-the-government-believes-that-voting-to-remain-in-the-european-union-is-the-best-decision-for-the-uk.pdf",
+  "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515068/why-the-government-believes-that-voting-to-remain-in-the-european-union-is-the-best-decision-for-the-uk.pdf",
+  "estimated-creation-date": "2016-04-07T16:42:20",
+  "earliest-sources": [
+    "web.archive.org",
+    "www.webarchive.org.uk",
+    "webarchive.loc.gov",
+    "last-modified"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20160409143838/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515068/why-the-government-believes-that-voting-to-remain-in-the-european-union-is-the-best-decision-for-the-uk.pdf",
+      "memento-datetime": "2016-04-07T16:42:20",
+      "memento-pubdate": "",
+      "earliest": "2016-04-07T16:42:20"
+    },
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20160414102334/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515068/why-the-government-believes-that-voting-to-remain-in-the-european-union-is-the-best-decision-for-the-uk.pdf",
+      "memento-datetime": "2016-04-07T16:42:20",
+      "memento-pubdate": "",
+      "earliest": "2016-04-07T16:42:20"
+    },
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20160616171816/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515068/why-the-government-believes-that-voting-to-remain-in-the-european-union-is-the-best-decision-for-the-uk.pdf",
+      "memento-datetime": "2016-04-07T16:42:20",
+      "memento-pubdate": "",
+      "earliest": "2016-04-07T16:42:20"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20170306124341/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515068/why-the-government-believes-that-voting-to-remain-in-the-european-union-is-the-best-decision-for-the-uk.pdf",
+      "memento-datetime": "2017-03-06T12:43:41",
+      "memento-pubdate": "2017-03-06T12:43:41",
+      "earliest": "2017-03-06T12:43:41"
+    },
+    "backlinks": {
+      "earliest": "2016-04-11T12:32:35"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2016-04-07T16:42:20"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

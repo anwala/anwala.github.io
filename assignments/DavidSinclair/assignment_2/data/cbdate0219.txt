@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://iphoneupdates2.blogspot.com/",
+  "uri": "http://iphoneupdates2.blogspot.com/",
+  "estimated-creation-date": "2013-03-26T06:25:20",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20130402071235/http://iphoneupdates2.blogspot.com",
+      "memento-datetime": "2013-03-26T06:25:20",
+      "memento-pubdate": "",
+      "earliest": "2013-03-26T06:25:20"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2016-10-26T19:15:21"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.gbc.gi/news/government-signs-contract-worth-22-million-sewage-treatment-plant",
+  "uri": "http://www.gbc.gi/news/government-signs-contract-worth-22-million-sewage-treatment-plant",
+  "estimated-creation-date": "2018-01-30T19:54:59",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T19:54:59"
+    }
+  }
+}

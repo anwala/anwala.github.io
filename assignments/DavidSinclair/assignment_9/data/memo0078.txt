@@ -1,0 +1,35 @@
+{
+  "original_uri": "https://sputniknews.com/europe/201801251061054207-norway-government-diversity/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-25T11:18:15Z",
+        "uri": "http://web.archive.org/web/20180125111815/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+      },
+      {
+        "datetime": "2018-02-01T05:18:23Z",
+        "uri": "http://archive.is/20180201051823/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+      },
+      {
+        "datetime": "2018-03-01T15:42:38Z",
+        "uri": "http://web.archive.org/web/20180301154238/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-25T11:18:15Z",
+      "uri": "http://web.archive.org/web/20180125111815/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+    },
+    "last": {
+      "datetime": "2018-03-01T15:42:38Z",
+      "uri": "http://web.archive.org/web/20180301154238/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sputniknews.com/europe/201801251061054207-norway-government-diversity/"
+}
+

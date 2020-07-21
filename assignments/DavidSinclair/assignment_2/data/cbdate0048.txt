@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://joburl.ws/10704952",
+  "uri": "http://joburl.ws/10704952",
+  "estimated-creation-date": "2018-01-31T15:40:13",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:40:13"
+    }
+  }
+}

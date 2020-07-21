@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:19:38Z",
+        "uri": "http://web.archive.org/web/20180131181938/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:19:38Z",
+      "uri": "http://web.archive.org/web/20180131181938/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:19:38Z",
+      "uri": "http://web.archive.org/web/20180131181938/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+}
+

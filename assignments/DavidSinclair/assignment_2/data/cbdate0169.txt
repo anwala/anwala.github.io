@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://milaap.org/fundraisers/big-bang-workshop-2?utm_source=facebook&utm_medium=fundraisers-title&mlp_referrer_id=91462",
+  "uri": "https://milaap.org/fundraisers/big-bang-workshop-2?utm_source=facebook&utm_medium=fundraisers-title&mlp_referrer_id=91462",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.hotspotsetup.net/the-14-best-free-government-cell-phones/",
+  "uri": "http://www.hotspotsetup.net/the-14-best-free-government-cell-phones/",
+  "estimated-creation-date": "2017-11-26T14:13:26",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-11-26T14:13:26"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

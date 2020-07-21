@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://feedity.com/hop.aspx?BcFtDkAwDADQ/xJHqSI%2BErcxasS0TddJ3N57XduP8zDV1emueUFMa5BijVhsyo1qlDO62AdRXjJ%2BiB2CyU0MmmiPBGritDmopGsjOArvF0dYQxB3/AE%3D",
+  "uri": "https://feedity.com/hop.aspx?BcFtDkAwDADQ/xJHqSI%2BErcxasS0TddJ3N57XduP8zDV1emueUFMa5BijVhsyo1qlDO62AdRXjJ%2BiB2CyU0MmmiPBGritDmopGsjOArvF0dYQxB3/AE%3D",
+  "estimated-creation-date": "2018-01-31T15:34:34",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:34:34"
+    }
+  }
+}

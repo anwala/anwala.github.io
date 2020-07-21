@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+  "uri": "https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+  "estimated-creation-date": "2018-01-31T14:46:04",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131193621/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+      "memento-datetime": "2018-01-31T19:36:21",
+      "memento-pubdate": "2018-01-31T19:05:44",
+      "earliest": "2018-01-31T19:05:44"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T19:36:21"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T19:05:44"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:46:04"
+    }
+  }
+}

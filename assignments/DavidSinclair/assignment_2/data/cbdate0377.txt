@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.youtube.com/watch?v=E7LdPgAL4Mg&feature=youtu.be",
+  "uri": "https://www.youtube.com/watch?v=E7LdPgAL4Mg&feature=youtu.be",
+  "estimated-creation-date": "2017-12-18T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-12-18T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://motherboard.vice.com/en_us/article/wjpv35/canadas-telecoms-and-national-media-want-the-government-to-block-piracy-websites-crtc?utm_source=mbtwitter",
+  "uri": "https://motherboard.vice.com/en_us/article/wjpv35/canadas-telecoms-and-national-media-want-the-government-to-block-piracy-websites-crtc?utm_source=mbtwitter",
+  "estimated-creation-date": "2018-01-30T17:14:41",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T17:14:41"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

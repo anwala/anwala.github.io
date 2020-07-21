@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.facebook.com/energyupdatemag/posts/1840971039277802",
+  "uri": "https://www.facebook.com/energyupdatemag/posts/1840971039277802",
+  "estimated-creation-date": "2018-01-31T15:22:51",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:22:51"
+    }
+  }
+}

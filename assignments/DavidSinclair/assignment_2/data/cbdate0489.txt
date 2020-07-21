@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.france24.com/en/20180130-yemen-separatists-surround-presidential-palace-aden-uae?ref=tw",
+  "uri": "http://www.france24.com/en/20180130-yemen-separatists-surround-presidential-palace-aden-uae?ref=tw",
+  "estimated-creation-date": "2018-01-30T16:06:01",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T16:52:20"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T16:06:01"
+    }
+  }
+}

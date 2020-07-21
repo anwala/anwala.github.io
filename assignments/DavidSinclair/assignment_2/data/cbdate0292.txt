@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+  "uri": "https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+  "estimated-creation-date": "2018-01-22T23:24:41",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180123011209/https://www.reuters.com/article/us-time-warner-m-a-at-t/judge-orders-u-s-government-to-seek-consent-to-give-data-to-att-time-warner-idUSKBN1FB35B",
+      "memento-datetime": "2018-01-23T01:12:09",
+      "memento-pubdate": "2018-01-22T23:25:51",
+      "earliest": "2018-01-22T23:25:51"
+    },
+    "backlinks": {
+      "earliest": "2018-01-23T01:11:17"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-23T02:50:17"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-22T23:24:41"
+    }
+  }
+}

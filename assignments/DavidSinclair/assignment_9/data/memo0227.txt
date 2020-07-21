@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.cyberscoop.com/israel-cybersecurity-venture-funding/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T17:55:34Z",
+        "uri": "http://web.archive.org/web/20180131175534/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T17:55:34Z",
+      "uri": "http://web.archive.org/web/20180131175534/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/"
+    },
+    "last": {
+      "datetime": "2018-01-31T17:55:34Z",
+      "uri": "http://web.archive.org/web/20180131175534/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cyberscoop.com/israel-cybersecurity-venture-funding/"
+}
+

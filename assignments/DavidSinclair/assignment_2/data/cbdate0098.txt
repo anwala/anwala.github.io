@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://trump.pixaggregator.biz/trump-administration-considers-a-government-owned-5g-network/?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-considers-a-government-owned-5g-network",
+  "uri": "http://trump.pixaggregator.biz/trump-administration-considers-a-government-owned-5g-network/?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-considers-a-government-owned-5g-network",
+  "estimated-creation-date": "2018-01-31T15:08:22",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:08:22"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

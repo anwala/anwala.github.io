@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/https://mashable.com/2018/01/31/apple-responds-us-government-iphone-throttling-probe/",
+  "uri": "https://mashable.com/2018/01/31/apple-responds-us-government-iphone-throttling-probe/",
+  "estimated-creation-date": "2018-01-31T15:19:23",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201025437/https://mashable.com/2018/01/31/apple-responds-us-government-iphone-throttling-probe/",
+      "memento-datetime": "2018-02-01T02:54:37",
+      "memento-pubdate": "2018-01-31T15:19:23",
+      "earliest": "2018-01-31T15:19:23"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180204083432/https://mashable.com/2018/01/31/apple-responds-us-government-iphone-throttling-probe/",
+      "memento-datetime": "2018-02-04T08:34:32",
+      "memento-pubdate": "2018-01-31T15:19:23",
+      "earliest": "2018-01-31T15:19:23"
+    },
+    "backlinks": {
+      "earliest": "2018-02-01T01:38:37"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:19:23"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T16:08:09"
+    }
+  }
+}

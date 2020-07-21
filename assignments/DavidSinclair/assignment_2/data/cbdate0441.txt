@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hindi.news18.com/news/jharkhand/jamshedpur-there-is-no-dialogue-within-the-government-kunal-shadangi-1254065.html",
+  "uri": "https://hindi.news18.com/news/jharkhand/jamshedpur-there-is-no-dialogue-within-the-government-kunal-shadangi-1254065.html",
+  "estimated-creation-date": "2018-01-31T15:27:19",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T18:05:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:27:19"
+    }
+  }
+}

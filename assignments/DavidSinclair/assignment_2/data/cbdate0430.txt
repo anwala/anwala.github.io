@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://uk.reuters.com/article/uk-britain-eu-may-spokesman/uk-government-will-hand-over-brexit-analysis-after-damaging-leak-idUKKBN1FK1XG",
+  "uri": "https://uk.reuters.com/article/uk-britain-eu-may-spokesman/uk-government-will-hand-over-brexit-analysis-after-damaging-leak-idUKKBN1FK1XG",
+  "estimated-creation-date": "2018-01-31T15:39:15",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131165337/https://uk.reuters.com/article/uk-britain-eu-may-spokesman/uk-government-will-hand-over-brexit-analysis-after-damaging-leak-idUKKBN1FK1XG",
+      "memento-datetime": "2018-01-31T16:53:37",
+      "memento-pubdate": "2018-01-31T15:39:15",
+      "earliest": "2018-01-31T15:39:15"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T16:49:06"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:46:40"
+    }
+  }
+}

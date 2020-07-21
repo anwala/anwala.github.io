@@ -1,0 +1,127 @@
+{
+  "original_uri": "http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:19:38Z",
+        "uri": "http://web.archive.org/web/20180131181938/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-05T10:39:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205103929/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-05T12:14:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205121438/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-12T12:39:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212123908/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-12T14:46:28Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212144628/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-19T11:38:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219113846/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-19T14:49:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219144925/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-26T11:41:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226114120/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-26T14:54:54Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226145454/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-02-26T18:08:43Z",
+        "uri": "http://web.archive.org/web/20180226180843/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-05T11:59:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305115920/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-05T15:39:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305153922/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-12T12:02:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312120211/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-12T14:32:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312143227/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-14T15:58:44Z",
+        "uri": "http://web.archive.org/web/20180314155844/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-19T12:06:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180319120616/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-19T14:56:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180319145637/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-26T12:52:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180326125251/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-26T13:39:06Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180326133906/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-03-29T01:34:33Z",
+        "uri": "http://web.archive.org/web/20180329013433/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-04-02T14:36:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402143650/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-04-02T15:24:02Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402152402/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-04-09T13:26:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180409132631/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-04-09T14:03:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180409140355/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-04-16T12:56:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180416125640/https://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      },
+      {
+        "datetime": "2018-04-16T15:15:54Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180416151554/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:19:38Z",
+      "uri": "http://web.archive.org/web/20180131181938/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+    },
+    "last": {
+      "datetime": "2018-04-16T15:15:54Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180416151554/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://thelincolnite.co.uk/2018/01/karen-lee-mp-calls-for-government-to-review-closure-of-lincoln-walk-in-centre/"
+}
+

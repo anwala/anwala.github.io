@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/https://www.androidauthority.com/us-government-apple-iphone-slowdown-834224/",
+  "uri": "https://www.androidauthority.com/us-government-apple-iphone-slowdown-834224/",
+  "estimated-creation-date": "2018-01-31T08:28:44",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131165707/https://www.androidauthority.com/us-government-apple-iphone-slowdown-834224/",
+      "memento-datetime": "2018-01-31T15:58:15",
+      "memento-pubdate": "2018-01-31T08:28:44",
+      "earliest": "2018-01-31T08:28:44"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180204083450/https://www.androidauthority.com/us-government-apple-iphone-slowdown-834224/",
+      "memento-datetime": "2018-02-04T06:43:27",
+      "memento-pubdate": "2018-01-31T08:28:44",
+      "earliest": "2018-01-31T08:28:44"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T08:28:44"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:28:50"
+    }
+  }
+}

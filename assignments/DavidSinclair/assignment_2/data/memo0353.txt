@@ -1,0 +1,159 @@
+{
+  "original_uri": "https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-08T09:37:07Z",
+        "uri": "http://web.archive.org/web/20161008093707/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-11-12T07:26:42Z",
+        "uri": "http://web.archive.org/web/20161112072642/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-11-29T17:10:24Z",
+        "uri": "http://web.archive.org/web/20161129171024/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-10T02:28:10Z",
+        "uri": "http://web.archive.org/web/20161210022810/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-11T02:01:32Z",
+        "uri": "http://web.archive.org/web/20161211020132/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-12T00:56:17Z",
+        "uri": "http://web.archive.org/web/20161212005617/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-13T00:56:00Z",
+        "uri": "http://web.archive.org/web/20161213005600/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-17T15:45:44Z",
+        "uri": "http://web.archive.org/web/20161217154544/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-17T15:45:45Z",
+        "uri": "http://web.archive.org/web/20161217154545/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-22T04:10:40Z",
+        "uri": "http://web.archive.org/web/20161222041040/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-29T04:20:13Z",
+        "uri": "http://web.archive.org/web/20161229042013/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2016-12-30T13:02:42Z",
+        "uri": "http://web.archive.org/web/20161230130242/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-01-24T22:19:09Z",
+        "uri": "http://web.archive.org/web/20170124221909/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-02-21T02:44:05Z",
+        "uri": "http://web.archive.org/web/20170221024405/http://www.usajobs.gov:80/Help/working-in-government/unique-hiring-paths/veterans"
+      },
+      {
+        "datetime": "2017-02-25T10:24:11Z",
+        "uri": "http://web.archive.org/web/20170225102411/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-04-26T21:52:44Z",
+        "uri": "http://web.archive.org/web/20170426215244/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-04-27T05:21:24Z",
+        "uri": "http://web.archive.org/web/20170427052124/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-05-07T01:39:08Z",
+        "uri": "http://web.archive.org/web/20170507013908/http://www.usajobs.gov:80/Help/working-in-government/unique-hiring-paths/veterans"
+      },
+      {
+        "datetime": "2017-05-13T03:24:08Z",
+        "uri": "http://web.archive.org/web/20170513032408/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-05-13T08:00:39Z",
+        "uri": "http://web.archive.org/web/20170513080039/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-06-08T08:11:02Z",
+        "uri": "http://web.archive.org/web/20170608081102/http://www.usajobs.gov:80/Help/working-in-government/unique-hiring-paths/veterans"
+      },
+      {
+        "datetime": "2017-06-22T17:49:11Z",
+        "uri": "http://wayback.archive-it.org/all/20170622174911/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-06-22T17:49:11Z",
+        "uri": "http://web.archive.org/web/20170622174911/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-06-22T17:49:12Z",
+        "uri": "http://wayback.archive-it.org/all/20170622174912/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-06-22T17:49:12Z",
+        "uri": "http://web.archive.org/web/20170622174912/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-06-27T21:45:59Z",
+        "uri": "http://web.archive.org/web/20170627214559/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-06-27T21:45:59Z",
+        "uri": "http://web.archive.org/web/20170627214559/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-07-13T03:58:14Z",
+        "uri": "http://web.archive.org/web/20170713035814/http://www.usajobs.gov:80/Help/working-in-government/unique-hiring-paths/veterans"
+      },
+      {
+        "datetime": "2017-08-14T06:56:21Z",
+        "uri": "http://wayback.archive-it.org/all/20170814065621/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-08-14T06:56:21Z",
+        "uri": "http://web.archive.org/web/20170814065621/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-08-14T06:56:22Z",
+        "uri": "http://wayback.archive-it.org/all/20170814065622/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-08-14T06:56:22Z",
+        "uri": "http://web.archive.org/web/20170814065622/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2017-09-16T01:31:10Z",
+        "uri": "http://web.archive.org/web/20170916013110/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      },
+      {
+        "datetime": "2018-01-28T04:58:54Z",
+        "uri": "http://web.archive.org/web/20180128045854/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-08T09:37:07Z",
+      "uri": "http://web.archive.org/web/20161008093707/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+    },
+    "last": {
+      "datetime": "2018-01-28T04:58:54Z",
+      "uri": "http://web.archive.org/web/20180128045854/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/"
+}
+

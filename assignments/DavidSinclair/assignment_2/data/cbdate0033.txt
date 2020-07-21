@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.jmOrDP54o",
+  "uri": "https://www.buzzfeed.com/albertonardelli/the-governments-own-brexit-analysis-says-the-uk-will-be?utm_term=.jmOrDP54o",
+  "estimated-creation-date": "2018-01-31T15:11:29",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:11:29"
+    }
+  }
+}

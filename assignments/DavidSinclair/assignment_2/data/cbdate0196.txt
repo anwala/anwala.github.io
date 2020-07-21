@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.change.org/p/ontario-provincial-government-save-the-bees-across-canada?recruiter=29240832&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive",
+  "uri": "https://www.change.org/p/ontario-provincial-government-save-the-bees-across-canada?recruiter=29240832&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive",
+  "estimated-creation-date": "2018-01-31T15:37:13",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:37:13"
+    }
+  }
+}

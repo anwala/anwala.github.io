@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+  "uri": "http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+  "estimated-creation-date": "2018-01-30T15:16:44",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131035128/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+      "memento-datetime": "2018-01-31T03:45:27",
+      "memento-pubdate": "2018-01-30T15:16:44",
+      "earliest": "2018-01-30T15:16:44"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180131183513/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+      "memento-datetime": "2018-01-31T18:24:25",
+      "memento-pubdate": "2018-01-30T15:16:44",
+      "earliest": "2018-01-30T15:16:44"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180131205533/http://www.breitbart.com/big-government/2018/01/30/left-blasts-tone-deaf-inexcusable-joe-kennedy-pick-privileged-white-man-who-is-not-progressive-enough/",
+      "memento-datetime": "2018-01-31T20:55:33",
+      "memento-pubdate": "2018-01-31T20:55:33",
+      "earliest": "2018-01-31T20:55:33"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T03:45:27"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T15:16:44"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

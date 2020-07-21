@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://icotalks.net/ico-knowledgebase/us-government-claims-bitcoin-cash-is-original-bitcoin/",
+  "uri": "https://icotalks.net/ico-knowledgebase/us-government-claims-bitcoin-cash-is-original-bitcoin/",
+  "estimated-creation-date": "2018-01-30T15:49:31",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:46:33"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T15:49:31"
+    }
+  }
+}

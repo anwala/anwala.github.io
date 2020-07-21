@@ -1,0 +1,35 @@
+{
+  "original_uri": "https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T09:14:20Z",
+        "uri": "http://web.archive.org/web/20180131091420/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+      },
+      {
+        "datetime": "2018-01-31T09:54:49Z",
+        "uri": "http://web.archive.org/web/20180131095449/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+      },
+      {
+        "datetime": "2018-01-31T10:29:55Z",
+        "uri": "http://web.archive.org/web/20180131102955/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T09:14:20Z",
+      "uri": "http://web.archive.org/web/20180131091420/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T10:29:55Z",
+      "uri": "http://web.archive.org/web/20180131102955/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://hindi.news18.com/news/nation/judge-pay-ezaf-arrear-law-government-1252979.html"
+}
+

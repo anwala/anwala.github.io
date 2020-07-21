@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>GAB</title>
+
+  <meta name="description" content="Gab">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  
+  <!-- Configured Head Tags  -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/icon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/icon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/icon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/icon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/icon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/icon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/icon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/icon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/icon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icon/favicon-32x32.png">
+  <link rel="manifest" href="/v2/assets/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/icon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  
+
+  <script src="/v2/assets/js/jquery.js"></script>
+  <script src="/v2/assets/js/favico.js"></script>
+  <script src="/assets/js/jquery.caret.js"></script>
+  <script src="/v2/assets/js/pusher.js"></script>
+
+  
+  <script defer type="text/javascript" src="https://js.stripe.com/v2/"></script>
+  <!--<script src="/assets/js/video.js"></script>
+  <link href="/assets/js/video.css" rel="stylesheet">-->
+  <link href="//amp.azure.net/libs/amp/2.1.2/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
+  <script src="//amp.azure.net/libs/amp/2.1.2/azuremediaplayer.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.4.0/videojs-contrib-hls.min.js"></script>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script src="/assets/js/jquery.atwho.gab.js"></script>
+  <style>
+    .atwho-view-ul .autocomplete {
+      font-size: 12px;
+      line-height: 25px;
+      color: #333;
+    }
+
+    .atwho-view-ul .autocomplete strong {
+      color: #000;
+    }
+
+    .atwho-view-ul .autocomplete img {
+      width: 25px;
+      border-radius: 50%;
+      height: 25px;
+      background: #f9f9f9;
+      float: left;
+      margin-right: 5px;
+    }
+  </style>
+  <script src="/v2/assets/js/tinymce/tinymce.min.js"></script>
+  <style>
+    .mce-tinymce {
+      border: none !important;
+      border-top: 1px solid #eee !important;
+      box-shadow: none !important;
+    }
+  </style>
+
+  <!-- base url -->
+  <base href="/">
+
+  <!-- login -->
+  <script>
+    window.authUser = null;
+    window.storage = { "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjAsImlzcyI6Imh0dHBzOi8vZ2FiLmFpL2RodHlsZXIvcG9zdHMvMTkwMDEzNjgiLCJpYXQiOjE1MTg2NjQwNjYsImV4cCI6MTUxOTAyNDA2NiwibmJmIjoxNTE4NjY0MDY2LCJqdGkiOiJUQWs2NnlCVWFzWE82U2UyIn0.2D_tqn3AxHLDlu4KTGQr23-0nXGTtDI_AfUTbh0DGag" };
+    window.tvLive = true;
+    window.canCreateBroadcast = false;
+    window.followingUsernames = [];
+    window.showOnboarding = false
+  </script>
+
+  
+</head>
+
+<body>
+
+  <app></app>
+
+  <!-- Piwik -->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//piwik.gab.ai/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Piwik Code -->
+
+<!--[gab-scripts]--><script type='text/javascript' src='v2/dist/polyfills.5a84686149e43.js'></script><script type='text/javascript' src='v2/dist/main.5a84686149e43.js'></script><!--[gab-scripts]-->
+
+<script src="https://use.typekit.net/lef4juc.js?q=1"></script>
+<script>try{Typekit.load({ async: false });}catch(e){}</script>
+</body>
+</html>

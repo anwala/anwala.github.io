@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-29T18:29:06Z",
+        "uri": "http://web.archive.org/web/20180129182906/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030"
+      },
+      {
+        "datetime": "2018-01-29T22:03:13Z",
+        "uri": "http://web.archive.org/web/20180129220313/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-29T18:29:06Z",
+      "uri": "http://web.archive.org/web/20180129182906/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030"
+    },
+    "last": {
+      "datetime": "2018-01-29T22:03:13Z",
+      "uri": "http://web.archive.org/web/20180129220313/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.phonearena.com/news/US-government-considers-building-a-5G-network_id102030"
+}
+

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/news/uk-puts-forward-jodrell-bank-observatory-as-2019-world-heritage-nomination",
+  "uri": "https://www.gov.uk/government/news/uk-puts-forward-jodrell-bank-observatory-as-2019-world-heritage-nomination",
+  "estimated-creation-date": "2018-01-29T14:01:15",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180129150534/https://www.gov.uk/government/news/uk-puts-forward-jodrell-bank-observatory-as-2019-world-heritage-nomination",
+      "memento-datetime": "2018-01-29T15:05:34",
+      "memento-pubdate": "",
+      "earliest": "2018-01-29T15:05:34"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T14:01:15"
+    }
+  }
+}

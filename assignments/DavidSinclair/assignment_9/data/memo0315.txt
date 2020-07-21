@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T07:04:32Z",
+        "uri": "http://web.archive.org/web/20180131070432/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/"
+      },
+      {
+        "datetime": "2018-01-31T09:13:31Z",
+        "uri": "http://web.archive.org/web/20180131091331/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T07:04:32Z",
+      "uri": "http://web.archive.org/web/20180131070432/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/"
+    },
+    "last": {
+      "datetime": "2018-01-31T09:13:31Z",
+      "uri": "http://web.archive.org/web/20180131091331/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://rightsinfo.org/government-defeated-snoopers-charter-ruled-unlawful/"
+}
+

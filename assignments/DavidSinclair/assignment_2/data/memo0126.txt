@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-23T20:46:26Z",
+        "uri": "http://web.archive.org/web/20180123204626/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-23T20:46:26Z",
+      "uri": "http://web.archive.org/web/20180123204626/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal"
+    },
+    "last": {
+      "datetime": "2018-01-23T20:46:26Z",
+      "uri": "http://web.archive.org/web/20180123204626/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://aclj.org/government-corruption/fbi-secret-society-revealed-amid-texting-scandal"
+}
+

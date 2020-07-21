@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-04T06:20:10Z",
+        "uri": "http://web.archive.org/web/20180204062010/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-04T06:20:10Z",
+      "uri": "http://web.archive.org/web/20180204062010/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could"
+    },
+    "last": {
+      "datetime": "2018-02-04T06:20:10Z",
+      "uri": "http://web.archive.org/web/20180204062010/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.politicshome.com/news/uk/political-parties/conservative-party/news/92477/tory-minister-suggests-government-could"
+}
+

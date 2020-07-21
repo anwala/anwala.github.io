@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reddit.com/r/worldnews/comments/7u9sqr/top_secret_australian_government_files_found_in/",
+  "uri": "https://www.reddit.com/r/worldnews/comments/7u9sqr/top_secret_australian_government_files_found_in/",
+  "estimated-creation-date": "2018-01-31T14:42:43",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:42:43"
+    }
+  }
+}

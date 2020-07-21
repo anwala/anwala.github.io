@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+  "uri": "http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+  "estimated-creation-date": "2018-01-30T12:46:56",
+  "earliest-sources": [
+    "web.archive.org",
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130124656/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+      "memento-datetime": "2018-01-30T12:46:56",
+      "memento-pubdate": "2018-01-30T15:41:41",
+      "earliest": "2018-01-30T12:46:56"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T12:46:56"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T08:28:01"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T19:46:48"
+    }
+  }
+}

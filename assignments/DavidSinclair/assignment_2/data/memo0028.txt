@@ -1,0 +1,35 @@
+{
+  "original_uri": "http://www.thecollegefix.com/post/41484/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.thecollegefix.com/post/41484/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T08:39:38Z",
+        "uri": "http://web.archive.org/web/20180131083938/http://www.thecollegefix.com/post/41484/"
+      },
+      {
+        "datetime": "2018-01-31T12:43:19Z",
+        "uri": "http://web.archive.org/web/20180131124319/https://www.thecollegefix.com/post/41484/"
+      },
+      {
+        "datetime": "2018-01-31T20:59:04Z",
+        "uri": "http://web.archive.org/web/20180131205904/https://www.thecollegefix.com/post/41484/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T08:39:38Z",
+      "uri": "http://web.archive.org/web/20180131083938/http://www.thecollegefix.com/post/41484/"
+    },
+    "last": {
+      "datetime": "2018-01-31T20:59:04Z",
+      "uri": "http://web.archive.org/web/20180131205904/https://www.thecollegefix.com/post/41484/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.thecollegefix.com/post/41484/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.thecollegefix.com/post/41484/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.thecollegefix.com/post/41484/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.thecollegefix.com/post/41484/"
+}
+

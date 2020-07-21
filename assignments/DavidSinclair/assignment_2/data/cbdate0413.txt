@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/collections/areas-of-research-interest",
+  "uri": "https://www.gov.uk/government/collections/areas-of-research-interest",
+  "estimated-creation-date": "2017-06-28T15:43:45",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170628154345/https://www.gov.uk/government/collections/areas-of-research-interest",
+      "memento-datetime": "2017-06-28T15:43:45",
+      "memento-pubdate": "",
+      "earliest": "2017-06-28T15:43:45"
+    },
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20170701175410/https://www.gov.uk/government/collections/areas-of-research-interest",
+      "memento-datetime": "2017-07-01T17:54:10",
+      "memento-pubdate": "",
+      "earliest": "2017-07-01T17:54:10"
+    },
+    "backlinks": {
+      "earliest": "2017-06-28T15:43:46"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T14:49:44"
+    }
+  }
+}

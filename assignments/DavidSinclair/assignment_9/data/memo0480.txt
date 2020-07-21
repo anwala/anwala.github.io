@@ -1,0 +1,83 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:03:39Z",
+        "uri": "http://web.archive.org/web/20180131180339/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-02-01T09:10:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201091027/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-02-03T07:23:36Z",
+        "uri": "http://web.archive.org/web/20180203072336/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-02-05T15:20:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205152022/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-02-12T15:32:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212153240/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-02-19T15:57:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219155717/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-02-26T15:29:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226152914/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-03-01T14:58:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180301145834/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-03-05T15:26:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305152611/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-03-12T15:18:12Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312151812/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-03-19T16:03:48Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180319160348/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-03-26T15:16:30Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180326151630/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-04-02T16:17:44Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402161744/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-04-09T15:18:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180409151826/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      },
+      {
+        "datetime": "2018-04-16T14:58:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180416145823/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:03:39Z",
+      "uri": "http://web.archive.org/web/20180131180339/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+    },
+    "last": {
+      "datetime": "2018-04-16T14:58:23Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180416145823/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/robots-compete-in-nuclear-decommissioning-challenge"
+}
+

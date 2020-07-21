@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://www.sloughobserver.co.uk/news/15910120.MP_gains_Government_support_for_Sikh_war_memorial/",
+  "uri": "http://www.sloughobserver.co.uk/news/15910120.MP_gains_Government_support_for_Sikh_war_memorial/",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

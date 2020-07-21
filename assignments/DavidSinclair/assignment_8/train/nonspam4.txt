@@ -1,0 +1,49 @@
+Old Dominion University Mail - MS Thesis Defens...
+https://mail.google.com/mail/u/0/?ui=2&ik=f6a80...
+DAVID SINCLAIR <dsinc002@odu.edu>
+MS Thesis Defense for Lloyd Decker - April 12, 9am
+2 messages
+Weigle, Michele C. <mweigle@cs.odu.edu>
+To: SCI CS faculty <faculty@cs.odu.edu>, SCI CS grad <grad@cs.odu.edu>
+Cc: "Sturtevant, Ariel S." <ariel@cs.odu.edu>
+Tue, Apr 3, 2018 at 1:31 PM
+All are invited to attend the MS Thesis defense for Lloyd Decker. Attendance counts towards the
+colloquium requirement.
+Lloyd Decker
+April 12, 9AM, E&CS Building 3316 (Conference room)
+The committee members are:
+Dr. Olariu (Advisor)
+Dr. Weigle (Committee Member)
+Dr. Zeil (Committee Member)
+Thesis: Supporting Big Data at the Vehicular Edge
+Abstract:
+Vehicle networks are common place and many applications have been developed to utilize their sensor
+and computing resources. This is a great utilization of these resources as long as they are mobile. The
+question to ask is whether these resources could be put to use when the vehicle is not mobile. If the
+vehicle is parked, the resources are simply dormant and waiting for use. If the vehicle has a connection to
+a larger computing infrastructure, then it can put its resources towards that infrastructure. With enough
+vehicles interconnected, there exists a computing environment that could handle many cloud-based
+application services. If these vehicles were electric, then they could in return receive electrical charging
+services.
+This thesis will investigate the use of parked vehicles to form a datacenter infrastructure for supporting Big
+Data processing. This discussion will provide a baseline for this computing infrastructure, and the basis for
+further investigation on the use of these untapped resources.
+--
+Dr. Michele C. Weigle
+Associate Professor
+Graduate Program Director
+Department of Computer Science
+Old Dominion University
+Norfolk, VA 23529
+mweigle@cs.odu.edu
+http://www.cs.odu.edu/~mweigle
+Weigle, Michele C. <mweigle@cs.odu.edu>
+To: SCI CS faculty <faculty@cs.odu.edu>, SCI CS grad <grad@cs.odu.edu>
+Cc: "Sturtevant, Ariel S." <ariel@cs.odu.edu>
+1 of 2
+Tue, Apr 3, 2018 at 1:31 PM
+04/04/2018 08:06 AMOld Dominion University Mail - MS Thesis Defens...
+https://mail.google.com/mail/u/0/?ui=2&ik=f6a80...
+[Quoted text hidden]
+2 of 2
+04/04/2018 08:06 AM

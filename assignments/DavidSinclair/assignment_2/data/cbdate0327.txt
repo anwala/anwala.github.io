@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+  "uri": "https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+  "estimated-creation-date": "2018-01-31T10:22:54",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131165327/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+      "memento-datetime": "2018-01-31T16:53:27",
+      "memento-pubdate": "2018-01-31T10:22:54",
+      "earliest": "2018-01-31T10:22:54"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T16:53:27"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T10:22:54"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T19:10:10"
+    }
+  }
+}

@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+
+
+
+<script src="/cdn-cgi/apps/head/JPRH1RsAlaoYU3DTevkCw8hZl68.js"></script><script type="text/javascript">
+        _atrk_opts = { atrk_acct:"2SUWo1IWhd10/9", domain:"lindaikejisblog.com",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=2SUWo1IWhd10/9" style="display:none" height="1" width="1" alt="" /></noscript>
+
+<meta name="msvalidate.01" content="719833708E0933F036AF05F7454D1325" />
+<meta name="google-site-verification" content="fl7Tra4d_sW7z05buG5PCUNgOgt6P4VoHFqOVvYRxvM" />
+<meta name="google-signin-client_id" content="783508407836-61bsogdsngcs1sa942fromqbgchojer6.apps.googleusercontent.com">
+<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta http-equiv="content-type" CONTENT="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+<meta name="csrf-token" content="2frFtSff06ezL4MUSi1ezZHgKWA6CN9qs3OblFBQ" />
+<title>Federal Government says it will shut down all open drug markets this year</title>
+<link rel="canonical" href="https://www.lindaikejisblog.com/2018/1/federal-government-says-it-will-shut-down-all-open-drug-markets-this-year.html" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.lindaikejisblog.com/2018/1/federal-government-says-it-will-shut-down-all-open-drug-markets-this-year.html">
+<meta name="description" content="The Nigerian Federal Government has said it will shut down all open drug markets this year to curb unwholesome drug distribution system. &nbsp;
+
+&nbsp;
+
+The Minister of Health, Prof. Isaac Ade">
+<meta name="keywords" content="Federal,Government,says,it,will,shut,down,all,open,drug,markets,this,year,news, blog, politics, gossip, Events, Entertainment, Lifestyle, Fashion, Beauty, Inspiration">
+<meta property="article:published_time" content="2018-01-31T16:15:24+01:00">
+<meta property="article:section" content="blog">
+<link rel="icon" type="image/png" href="https://www.lindaikejisblog.com/img/favicon.png">
+<meta property="article:tag" content="federal government" /> <meta property="article:tag" content="folorunsho adewole" /> <meta property="article:tag" content="nigeria" /> <meta property="article:tag" content="drugs" /> <meta property="article:tag" content="open market" />
+<meta property="og:description" content="The Nigerian Federal Government has said it will shut down all open drug markets this year to curb unwholesome drug distribution system. &nbsp;
+
+&nbsp;
+
+The Minister of Health, Prof. Isaac Ade" />
+<meta property="og:title" content="Federal Government says it will shut down all open drug markets this year" />
+<meta property="og:url" content="https://www.lindaikejisblog.com/2018/1/federal-government-says-it-will-shut-down-all-open-drug-markets-this-year.html" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:image" content="https://alexis.lindaikejisblog.com/photos/shares/5a71d8dee9827.PNG" />
+<meta property="og:site_name" content="Linda Ikeji's Blog" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="Linda Ikeji" />
+<meta name="twitter:title" content="Federal Government says it will shut down all open drug markets this year" />
+<meta name="twitter:desciption" content="The Nigerian Federal Government has said it will shut down all open drug markets this year to curb unwholesome drug distribution system. &nbsp;
+
+&nbsp;
+
+The Minister of Health, Prof. Isaac Ade" />
+<meta name="twitter:image" content="https://alexis.lindaikejisblog.com/photos/shares/5a71d8dee9827.PNG" />
+<meta name="twitter:site" content="@lindaikeji" />
+<script data-cfasync="true" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.lindaikejisblog.com\/","name":"Linda Ikeji&#039;s Blog | News, blog, politics, gossip, Events, Entertainment, Lifestyle, Fashion, Beauty, Inspiration","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.lindaikejisblog.com\/search\/result\/?search={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script data-cfasync="true" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https://www.lindaikejisblog.com/2018/1/federal-government-says-it-will-shut-down-all-open-drug-markets-this-year.html","sameAs":["https:\/\/www.facebook.com\/LindaIkejiBlog","https:\/\/twitter.com\/lindaikeji"],"@id":"#organization","name":"Linda Ikeji&#039;s Blog","logo":"http://www.lindaikejisblog.com/img/favicon.png"}</script>
+<link rel="manifest" href="/manifest.json">
+<link rel="stylesheet" href="https://www.lindaikejisblog.com/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.lindaikejisblog.com/css/style.css">
+<script data-cfasync="true" async src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script data-cfasync="true">
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(["init", {
+            appId: "84aa5873-f67e-4f60-81db-11321ed42400",
+            autoRegister: false,
+            notifyButton: {
+                enable: true /* Set to false to hide */
+            }
+        }]);
+    </script>
+<link rel="shortcut icon" href="https://www.lindaikejisblog.com/img/favicon.png" type="image/png">
+<script>
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-46375425-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+<script data-cfasync="true" async src="https://www.lindaikejisblog.com/js/vendor/all.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials-theme-flat.css" />
+<script data-cfasync="true">
+        function detectmob() {
+            if( navigator.userAgent.match(/Android/i)
+                || navigator.userAgent.match(/webOS/i)
+                || navigator.userAgent.match(/iPhone/i)
+                || navigator.userAgent.match(/iPad/i)
+                || navigator.userAgent.match(/iPod/i)
+                || navigator.userAgent.match(/BlackBerry/i)
+                || navigator.userAgent.match(/Windows Phone/i)
+            ){
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+
+    </script>
+</head>
+<body class="page" style="background: url(https://alexis.lindaikejisblog.com/advertss/1518211946.jpg
+) repeat;">
+<div class="header">
+<div class="date">
+
+<ul>
+<li>
+<a href="https://www.youtube.com/channel/UCj-Ur2GPU_bVKQmktoxx3mw" target="_blank"><img src="https://www.lindaikejisblog.com/img/oplay.png" style="height: 20px;" alt="">LindaIkejiTV</a>
+</li>
+<li>
+<a href="https://www.lindaikejisocial.com/" target="_blank"><img src="https://www.lindaikejisblog.com/img/lis_favicon.ico" style="height: 20px;" alt="">LindaIkejiSocial</a>
+</li>
+<li>
+<a target="_blank" href="javascript:;" data-toggle="modal" data-target="#ads"><img src="https://www.lindaikejisblog.com/img/advert.png" style="height: 20px;" alt="">Advert enquiry</a>
+</li>
+</ul>
+</div>
+<div class="blog_title">
+<div class="signage">
+<h3><a href="https://www.lindaikejisblog.com" style="color: #fff;text-decoration: none;">Welcome to Linda Ikeji's Blog <em class="hidden-xs hidden-md" style="font-size: 13px">So much more to read now <img src="https://www.lindaikejisblog.com/images/wink.png" alt=""></em></a></h3>
+<p>
+News, Events, Entertainment, Lifestyle, Fashion, Beauty, Inspiration and yes... Gossip! *Wink*
+</p>
+</div>
+<div class="container search_pane">
+<div class="form_group">
+<form action="https://www.lindaikejisblog.com/search/result" method="get">
+<input type="text" name="search" class="form-control" placeholder="Search Linda Ikeji's Blog">
+</form>
+</div>
+</div>
+<div class="search_btn">
+<img class="default" src="https://www.lindaikejisblog.com/images/icon_search.png" alt="">
+<img class="searching" src="https://www.lindaikejisblog.com/images/icon_close.png" alt="">
+</div>
+</div>
+</div>
+<div class="main"> <div class="da x728" style="margin-bottom: 18px"> <script async class='img-responsive' layout='responsive' style='margin: auto;' src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="4203630909" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).onload = function () {
+        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+            adsbygoogle.push({})
+        })
+    }
+</script>
+<br /> <a href="javascript:;"> <img src="https://alexis.lindaikejisblog.com/advertss/1518002545.png" layout='responsive' onclick="changeUrl('https://www.palpensions.com/need-a-pal/')" alt="advert banner" /> </a> <br /> <a href="javascript:;"> <img src="https://alexis.lindaikejisblog.com/advertss/1518175941.jpg" layout='responsive' onclick="changeUrl('https://mtnonline.com/pulseplayscupid/?utm_source=google&amp;utm_medium=banner&amp;utm_campaign=MTNPulsePlaysCupid')" alt="advert banner" /> </a> <br /> <a href="javascript:;"> <img src="https://alexis.lindaikejisblog.com/advertss/1518540963.gif" layout='responsive' onclick="changeUrl('http://bit.ly/GAIMReloadedDanceContest')" alt="advert banner" /> </a> <br /> <script async class='img-responsive' layout='responsive' style='margin: auto;' src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="8602040910" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).onload = function () {
+        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+            adsbygoogle.push({})
+        })
+    }
+</script> <br /> <script async class='img-responsive' layout='responsive' style='margin: auto;' src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="2422455341" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <br /> </div> <div class="board"> <div class="container con_style"> <div class="row"> <div class="col-md-9 main_board"> <div class="row"> <div class="col-md-12"> <article class="big_story" style="word-wrap: break-word;"> <h1 class="title">Federal Government says it will shut down all open drug markets this year</h1> <br /> <summary class="description" style="font-size: 16px !important;line-height: 21px;"> <br /> <p style="text-align:center"><img alt='Federal Government says it will shut down all open drug markets this year' class='img-responsive text-center' style='margin: auto;' alt="" src="https://alexis.lindaikejisblog.com/photos/shares/5a71d8dee9827.PNG" style="height:285px; width:350px" /> <br /><div class="text-center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="1205044426" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></p>
+<p>The Nigerian Federal Government has said it will shut down all open drug markets this year to curb unwholesome drug distribution system. &nbsp;</p>
+<p>&nbsp;</p>
+<p>The Minister of Health, Prof. Isaac Adewole, disclosed this in a statement issued after a ground breaking ceremony of the Coordinated Wholesale Centre (CWC) in Abia. Adewole, in the statement made available to the News Agency of Nigeria by the Pharmacists Council of Nigeria (PCN), frowned at the chaotic drug distribution system in the country thereby endangering the lives of the populace. &nbsp;</p>
+<p>&nbsp;</p>
+<p>He noted that the closure of all open drug markets would immediately kick start full implementation of the CWC component of the National Drug Distribution Guidelines (NDDG).&nbsp;The minister, who identified unsatisfactory drug distribution system as one of the challenges in the use of medicine in the country, however said that this has led to poor product handling.</p>
+<p>&nbsp;</p>
+<p>Adewole added that it has also led to difficulty in product tracking for statistical purposes, circulation of substandard products, difficulty in audit trail and destruction of professional practice. According to him, the ministry issued the NDDG in 2013 in its bid to reverse the ugly trend of unsatisfactory drug distribution system. &nbsp;The statement also quoted the Registrar of PCN, Mr Elijah Mohammed, describing the CWC as one of the concepts of NDDG to cater for or accommodate open drug marketers. &nbsp;</p>
+<p>&nbsp;</p>
+<p>Mohammed, who identified open drug market as the hub of major drug supply and major drug problem in the country, noted that the measure would assist in sanitising drug distribution system in the country. &nbsp;The registrar said that the federal government, being sensitive to the yearnings of Nigerians, provided the CWC as an alternative to those in the open drug market instead of pushing them out. &nbsp;According to him, the CWC will provide effective regulatory activities and ensure good pharmaceutical service delivery in the country. &nbsp;It would have control over the efficacy of drugs coming into Nigeria and being made available for consumption for Nigerians, he said. &nbsp;Mohammed described CWC as a purpose built infrastructure that would cater for storage condition, practice environment, security and also in terms of regulatory activities, among others. &nbsp;</p>
+</summary> <div class="meta"> <a href="javascript:;" onclick="shareData('Federal Government says it will shut down all open drug markets this year','','https://www.lindaikejisblog.com/p/2018/1/federal-government-says-it-will-shut-down-all-open-drug-markets-this-year.html')" class="share_link">
+<img src="https://www.lindaikejisblog.com/images/icon_share.png" alt=""></a>
+<div class="post_age"> by Linda Ikeji at 31/01/2018 4:15 PM</div>
+<div class="divider">|</div>
+<div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/1/federal-government-says-it-will-shut-down-all-open-drug-markets-this-year.html#comments">8 Comments</a></div>
+</div>
+<div class="meta">
+<h5 style="color: #000;">Share this Story</h5><div id="share"></div>
+</div>
+<script>
+        $("#share").jsSocials({
+            shares: ["email", "twitter", "facebook", "googleplus", "linkedin",  "whatsapp"]
+        });
+    </script>
+<div class="demo-item content">
+<div id="shareIcons"></div>
+</div>
+</article>
+</div> <div class="text-center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="8308195748" data-ad-format="auto"></ins>
+<script>
+                                    (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+</div>
+
+</div>
+
+<hr />
+<div class="more_stories flexslider" style="margin-top: 80px;">
+<h3>Most Read Stories</h3>
+<ul class="slides" style="display:none;">
+<li class="car_item" style="width: 180px;"> <a href="https://www.lindaikejisblog.com/2018/2/this-guest-at-a-party-has-got-everyone-talking.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a81540aa064e.PNG' alt='' style='height: 150px;' /> <p>This guest at a party has got everyone talking</p> </a> </li> <li class="car_item" style="width: 180px;"> <a href="https://www.lindaikejisblog.com/2018/2/heartbreaking-video-2-year-old-girl-narrates-how-her-47-year-old-school-supervisor-allegedly-sexually-assaulted-her-at-their-school-in-lekki.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a81fcb91a9ac.png' alt='' style='height: 150px;' /> <p>Heartbreaking video! 2 year old girl narrates how her 47 year old school supervisor allegedly sexually assaulted her at their school in Lekki</p> </a> </li> <li class="car_item" style="width: 180px;"> <a href="https://www.lindaikejisblog.com/2018/2/she-is-a-whore-she-should-go-to-brazil-or-countries-where-prostitution-is-legalized-man-blasts-big-brother-naija-housemate-princess.html"> <img src='https://2.bp.blogspot.com/-sDrkkmqs9F0/WoMGCse_szI/AAAAAAANbLY/685QlZcqJwYV0PC28wrXx4y_ZZNJYXnSQCLcBGAs/s320/FB_IMG_1518519970173.jpg' alt='' style='height: 150px;' /> <p>"She is a whore! She should go to Brazil or countries where prostitution is legalized" Man blasts Big Brother Naija housemate, Princess</p> </a> </li> <li class="car_item" style="width: 180px;"> <a href="https://www.lindaikejisblog.com/2018/2/photos-looks-like-bbnaija-2018-housemate-cee-c-is-also-married-this-could-be-a-heartbreak-for-tobi.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a815b7c56b87.jpg' alt='' style='height: 150px;' /> <p>Photos: Looks like BBNaija 2018 housemate, Cee-C is also married! This could be a heartbreak for Tobi</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/sad-commuters-cry-and-touch-the-corpse-of-an-anglican-priest-killed-in-ghastly-accident-begging-him-to-wake-up-photosvideo-2.html"> <img src='https://3.bp.blogspot.com/-ve-b04fiVVk/WoGkhNDWJZI/AAAAAAANa7A/MlWLUYqZ4hwkerTzc1KvWgn_qxFa0fs9wCLcBGAs/s320/hj.png' alt='' style='height: 150px;' /> <p> Sad! Commuters cry and touch the corpse of an Anglican priest killed in ghastly accident, begging him to wake up (photos/video)</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/20-photos-of-half-naked-brazilian-dancers-in-sparkly-g-strings-skimpy-wears-as-they-flood-the-street-for-rio-carnival-photos.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a82eaea6c416.jpg' alt='' style='height: 150px;' /> <p>20 photos of Half-naked Brazilian dancers in sparkly G-strings & skimpy wears as they flood the street for Rio carnival (Photos)</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/wow-yall-need-to-see-the-look-on-ceecs-face-as-tobi-and-bambam-bond.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a83097f30813.PNG' alt='' style='height: 150px;' /> <p>Wow! Y'all need to see the look on CeeC's face as Tobi and Bambam bond </p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/check-out-this-epic-twitter-clap-back.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a82e7431991b.PNG' alt='' style='height: 150px;' /> <p>Check out this epic Twitter clap back</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/see-what-this-twitter-user-wrote-about-the-chrisland-school-child-molestation-case.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a82bd2290a25.png' alt='' style='height: 150px;' /> <p>See what this twitter user wrote about the Chrisland school child molestation case</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/see-what-happened-when-this-lady-tried-to-shoot-her-shot-it-didnt-go-down-well.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a8162cf8d675.jpg' alt='' style='height: 150px;' /> <p>See what happened when this lady tried to shoot her shot. It didn't go down well..</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/ugandan-man-asks-why-bbnaija-always-outshines-bbathe-replies-from-nigerian-are-hilarious.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a8412b8740e2.png' alt='' style='height: 150px;' /> <p>Ugandan man asks why BBNaija always outshines BBA...the replies from Nigerian are hilarious</p> </a> </li> <li class="car_item" style="width: 180px; display: none; "> <a href="https://www.lindaikejisblog.com/2018/2/awwww-finally-big-brother-housemates-ceec-and-tobi-kiss-passionately-and-its-the-sweetest-video-youll-see-today.html"> <img src='https://alexis.lindaikejisblog.com/photos/shares/thumbs/5a845f42e57c3.PNG' alt='' style='height: 150px;' /> <p>Awwww! Finally, Big Brother housemates CeeC and Tobi kiss passionately and its the sweetest video you'll see today</p> </a> </li> </ul> </div> <hr> <div class="comments_area"> <h3 id="comments">Comments <span>(8)</span></h3> <div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">Isoboye Tom</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> Its just like EFCC telling someone that they will arrest him or her soon, what is the need here </p> <a href="javascript:;" onclick="likeComment('696108')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696108">1</span></a> <a href="javascript:;" onclick="dlikeComment('696108')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696108"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696108')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+<div class="comment reply">
+<a href="#" class="pic" style="overflow:hidden">
+<img src="                                                            https://lh4.googleusercontent.com/-jhaPeeliozM/AAAAAAAAAAI/AAAAAAAAAG8/WuYtW1JmD4I/s96-c/photo.jpg
+                                                            " alt="">
+</a>
+<div class="comment_holder">
+<div class="comment_top">
+<a href="#" class="profile_name" style="font-size: 14px;">Daemii</a> about 2 weeks ago
+</div>
+<p style="font-size: 16px; margin-top: 6px;">
+Issorait.
+</p>
+<a href="javascript:;" onclick="likeComment('696283')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696283"> 0
+</span></a>
+<a href="javascript:;" onclick="dlikeComment('696283')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696283"> 0
+</span></a>
+<a href="javascript:;" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;" onclick="replyComment('696283')">Reply</a>
+</div>
+</div>
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">Vincent Salau</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> Aiit </p> <a href="javascript:;" onclick="likeComment('696144')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696144"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('696144')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696144"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696144')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">motphem</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> better </p> <a href="javascript:;" onclick="likeComment('696179')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696179"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('696179')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696179"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696179')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">Anonymous</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> Awon science students </p> <a href="javascript:;" onclick="likeComment('696232')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696232"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('696232')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696232"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696232')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="3519258719" data-ad-format="auto"></ins>
+<script>
+                                                    (adsbygoogle = window.adsbygoogle || []).push({});
+                                                </script>
+<br /> 
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://lh4.googleusercontent.com/-jhaPeeliozM/AAAAAAAAAAI/AAAAAAAAAG8/WuYtW1JmD4I/s96-c/photo.jpg " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">Daemii</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> Issorait. </p> <a href="javascript:;" onclick="likeComment('696283')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696283"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('696283')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696283"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696283')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">Anonymous</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> Naija full of shit. So many regulations and no implementation. Talk is just cheap...! </p> <a href="javascript:;" onclick="likeComment('696344')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696344"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('696344')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696344"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696344')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">Gideon</a> about 2 weeks ago </div> <p style="font-size: 16px; margin-top: 6px;"> That&#039;s a mission impossible. He dare try such thing in Nigeria and watch himself to roasted like chicken </p> <a href="javascript:;" onclick="likeComment('696567')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_696567"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('696567')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_696567"> 0 </span></a> <a href="javascript:;" onclick="replyComment('696567')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+
+</div>
+</div>
+<div class="comment"> <a href="#" class="pic" style="overflow:hidden"> <img src="  https://www.lindaikejisblog.com/img/default_avatar.png " alt=""> </a> <div class="comment_holder"> <div class="comment_top"> <a href="#" class="profile_name" style="font-size: 14px;">alley merry law</a> about 1 week ago </div> <p style="font-size: 16px; margin-top: 6px;"> ok </p> <a href="javascript:;" onclick="likeComment('697113')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Like this! <span class="count_697113"> 0 </span></a> <a href="javascript:;" onclick="dlikeComment('697113')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;">Dislike this! <span class="dcount_697113"> 0 </span></a> <a href="javascript:;" onclick="replyComment('697113')" class="btn btn-danger btn-xs" style="font-size:10px;line-height: 16px;background: #8d112b;padding: 0px 4px;"> Reply</a> <br /> 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="4244827654" data-ad-format="auto"></ins>
+<script>
+                                                    (adsbygoogle = window.adsbygoogle || []).push({});
+                                                </script>
+<br /> 
+
+</div>
+</div>
+
+<div class="comment_field_area" id="postcomment">
+<div class="g-signin2 pull-right" data-onsuccess="onSignIn" style="margin-bottom: 10px"></div>
+<h3>Add your comment </h3>
+<div class="error alert alert-danger" style="display:none"></div>
+<div style="display:none" class="loading" style="margin:auto;"><img style="height: 50px;" src="https://www.lindaikejisblog.com/img/loading.gif" alt="" /></div>
+<div class="success alert alert-success" style="display:none">Your Post has been submitted</div>
+<input type="hidden" id="anono" class="form-control">
+<div class="clearfix"></div>
+<div class="ano">
+<input type="text" id="full_name_c" placeholder="Fullname" class=" form-control"><br />
+<input type="text" id="email_c" placeholder="Email" class=" form-control"><br />
+</div>
+<input type="hidden" id="parent_id" class="form-control">
+ <textarea id="comment_c" placeholder="Enter your comment" class="form-control"></textarea><br />
+<div class="pull-left" style="font-size: 14px;line-height: 50px">
+<input type="checkbox" id="ano" onclick="changeData()"><span style="margin-left: 5px; font-size: 16px;">Anonymous</span><br />
+</div>
+<button class="comment_btn pull-right" onclick="submit_comment()">Submit Comment</button>
+<div class="clearfix"></div>
+</div>
+
+</div>
+<hr>
+</div>
+
+<div class="col-md-3 side_board"> <div class="da side_first"> <div class="hidden-xs"> <div class="da x728"> <a href="http://www.accessbankplc.com/savetoday" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1501463407.gif" height="250" layout="responsive" alt="advert banner" /> </a> <a href="https://www.skyebankng.com/" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1515673489.png" height="250" layout="responsive" alt="advert banner" /> </a> <a href="http:// www.gloworld.com/ng/personal/data/data-plans/?utm_source=linda&amp;utm_medium=banner&amp;utm_campaign=data-unmatched" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1517486802.jpg" height="250" layout="responsive" alt="advert banner" /> </a> <a href="http://myistore.com.ng/store-locator/" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1517486941.jpg" height="250" layout="responsive" alt="advert banner" /> </a> <a href="https://goo.gl/TT8Hy6" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1513093043.gif" height="250" layout="responsive" alt="advert banner" /> </a> <a href="" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1515408082.jpg" height="250" layout="responsive" alt="advert banner" /> </a> <a href="http://hnkinteriors.com/en/" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1515495595.jpg" height="250" layout="responsive" alt="advert banner" /> </a> <a href="http://www.lolavitabeauty.com/" target="_blank"> <img src="https://www.lindaikejisblog.com/advertss/1510316376.gif" height="250" layout="responsive" alt="advert banner" /> </a> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="2088958672" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="6922127730" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="3969974417" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="1167593393" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="1721771946" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="3395259341" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="3682076098" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="7425524760" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="1139318012" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="6794969375" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="9912087307" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="6105059454" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="1287847040" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="7501901604" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="5857647441" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="5178635372" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="5716857276" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="3726308125" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="6080653504" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2427099653703778" data-ad-slot="3262918478" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div> </div> </div> <h2 style="padding: 10px;background: #890e2a;color: #fff;">Older Posts...</h2> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://2.bp.blogspot.com/-CGFcuhjENks/WoQ8-bjkifI/AAAAAAANbUo/ajs86IF0AxU2AtqJnZglIQtoPz9qrJYxgCLcBGAs/s320/DSC_3648.jpg' alt='Lagos get ready The Maltavator Challenge Train is coming your way ' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/lagos-get-ready-the-maltavator-challenge-train-is-coming-your-way.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Lagos get ready The Maltavator Challenge Train is coming your way </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+After an exciting and energetic outing at Enugu and Benin, Nigeria&rsquo;s p ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Lagos get ready The Maltavator Challenge Train is coming your way ','https://2.bp.blogspot.com/-CGFcuhjENks/WoQ8-bjkifI/AAAAAAANbUo/ajs86IF0AxU2AtqJnZglIQtoPz9qrJYxgCLcBGAs/s320/DSC_3648.jpg','https://www.lindaikejisblog.com/p/2018/2/lagos-get-ready-the-maltavator-challenge-train-is-coming-your-way.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/lagos-get-ready-the-maltavator-challenge-train-is-coming-your-way.html#comments"> 4 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://1.bp.blogspot.com/-1aGALA4-Frs/WoQ6xiveV8I/AAAAAAANbTk/X9gGMCFkU3oZnadD6V7jT3hGQmXKR_ewQCLcBGAs/s320/KEVIN%2BDAVID%2BCOVER%2BSLEVE.jpg' alt='Kevin David Kaydee fearlessly brings back good music with ' 'Come and Stay''' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/kevin-david-kaydee-fearlessly-brings-back-good-music-with-come-and-stay.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Kevin David Kaydee fearlessly brings back good music with &#039;&#039;Come and Stay&#039;&#039; </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Kevin &ldquo;Kaydee&rdquo; David consolidates on his status as a fearless ar ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Kevin David Kaydee fearlessly brings back good music with Come and Stay','https://1.bp.blogspot.com/-1aGALA4-Frs/WoQ6xiveV8I/AAAAAAANbTk/X9gGMCFkU3oZnadD6V7jT3hGQmXKR_ewQCLcBGAs/s320/KEVIN%2BDAVID%2BCOVER%2BSLEVE.jpg','https://www.lindaikejisblog.com/p/2018/2/kevin-david-kaydee-fearlessly-brings-back-good-music-with-come-and-stay.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/kevin-david-kaydee-fearlessly-brings-back-good-music-with-come-and-stay.html#comments"> 4 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a843a8148849.PNG' alt='' Pray for Nigeria's unity and progress' - President Buhari urges Christians as lent begins' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/pray-for-nigerias-unity-and-progress-president-buhari-urges-christians-as-lent-begins.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> &#039;Pray for Nigeria&#039;s unity and progress&#039; - President Buhari urges Christians as lent begins </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Read the press statement below...
+President Muhammadu Buhari felicitate ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Pray for Nigerias unity and progress - President Buhari urges Christians as lent begins','https://www.lindaikejisblog.com/photos/shares/thumbs/5a843a8148849.PNG','https://www.lindaikejisblog.com/p/2018/2/pray-for-nigerias-unity-and-progress-president-buhari-urges-christians-as-lent-begins.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/pray-for-nigerias-unity-and-progress-president-buhari-urges-christians-as-lent-begins.html#comments"> 10 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://1.bp.blogspot.com/-HgzpAvGX6B8/WoQ5jkl1keI/AAAAAAANbTU/3iitTTPyLVYQDXALCzoaNm8T4vvnVlkPwCLcBGAs/s320/IMG-20180209-WA0010.jpg' alt='Win a dinner date for Two with Praiz this valentine' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/win-a-dinner-date-for-two-with-praiz-this-valentine.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Win a dinner date for Two with Praiz this valentine </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Afro Pop and R&amp;B heart rob Praiz has an amazing Valentine planned out fo ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Win a dinner date for Two with Praiz this valentine','https://1.bp.blogspot.com/-HgzpAvGX6B8/WoQ5jkl1keI/AAAAAAANbTU/3iitTTPyLVYQDXALCzoaNm8T4vvnVlkPwCLcBGAs/s320/IMG-20180209-WA0010.jpg','https://www.lindaikejisblog.com/p/2018/2/win-a-dinner-date-for-two-with-praiz-this-valentine.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/win-a-dinner-date-for-two-with-praiz-this-valentine.html#comments"> 3 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a8439387d194.PNG' alt='Jabita hotel boss,Â Rasheed Shitta-Bey dies in his hotel 24-hours before valentine' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/jabita-hotel-boss-rasheed-shitta-bey-dies-in-his-hotel-24-hours-before-valentine.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Jabita hotel boss, Rasheed Shitta-Bey dies in his hotel 24-hours before valentine </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Popular Lagos socialite, Rasheed Shitta-Bey who owns Jabita Hotels in Ikeja, ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Jabita hotel boss,Â Rasheed Shitta-Bey dies in his hotel 24-hours before valentine','https://www.lindaikejisblog.com/photos/shares/thumbs/5a8439387d194.PNG','https://www.lindaikejisblog.com/p/2018/2/jabita-hotel-boss-rasheed-shitta-bey-dies-in-his-hotel-24-hours-before-valentine.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/jabita-hotel-boss-rasheed-shitta-bey-dies-in-his-hotel-24-hours-before-valentine.html#comments"> 12 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a8437468dba6.jpg' alt='Cristiano Ronaldo relaxes with his girlfriend and children ahead of Champions League clash (Photo)' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/cristiano-ronaldo-relaxes-with-his-girlfriend-and-children-ahead-of-champions-league-clash-photo.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Cristiano Ronaldo relaxes with his girlfriend and children ahead of Champions League clash (Photo) </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Cristiano Ronaldo, 33, will be in the forefront for Real Madrid when they fa ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Cristiano Ronaldo relaxes with his girlfriend and children ahead of Champions League clash (Photo)','https://www.lindaikejisblog.com/photos/shares/thumbs/5a8437468dba6.jpg','https://www.lindaikejisblog.com/p/2018/2/cristiano-ronaldo-relaxes-with-his-girlfriend-and-children-ahead-of-champions-league-clash-photo.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/cristiano-ronaldo-relaxes-with-his-girlfriend-and-children-ahead-of-champions-league-clash-photo.html#comments"> 10 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://1.bp.blogspot.com/-AMNptgaCGFY/WoQ1z0_aqxI/AAAAAAANbSo/hiFFe4zHAjsF689URzffyy0ogqljm0AYQCLcBGAs/s320/r.jpg' alt='Pennek Nigeria valentine offer you canât afford to miss' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/pennek-nigeria-valentine-offer-you-cant-afford-to-miss.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Pennek Nigeria valentine offer you can’t afford to miss </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Will you want to own a Duplex in Lekki without breaking the bank?
+Will yo ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Pennek Nigeria valentine offer you canât afford to miss','https://1.bp.blogspot.com/-AMNptgaCGFY/WoQ1z0_aqxI/AAAAAAANbSo/hiFFe4zHAjsF689URzffyy0ogqljm0AYQCLcBGAs/s320/r.jpg','https://www.lindaikejisblog.com/p/2018/2/pennek-nigeria-valentine-offer-you-cant-afford-to-miss.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/pennek-nigeria-valentine-offer-you-cant-afford-to-miss.html#comments"> 3 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://1.bp.blogspot.com/-82UlnYS_E-0/WoQzvtTZYcI/AAAAAAANbSU/n3h0JkwwAI8f5B73-wn4p6ipwnbOxJ8xgCLcBGAs/s320/IMG_20180214_112504_532.JPG' alt='"Stop telling me to cover up. Hubby likes it like strawberry milkshake"- Newly married Nigerian Instagram celeb Roman Goddess, warns followers' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/stop-telling-me-to-cover-up-hubby-likes-it-like-strawberry-milkshake-newly-married-nigerian-instagram-celeb-roman-goddess-warns-followers.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> &quot;Stop telling me to cover up. Hubby likes it like strawberry milkshake&quot;- Newly married Nigerian Instagram celeb Roman Goddess, warns followers </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Newly married popular Nigerian Instagram celeb, Roman Goddess, has warned of ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('&quot;Stop telling me to cover up. Hubby likes it like strawberry milkshake&quot;- Newly married Nigerian Instagram celeb Roman Goddess, warns followers','https://1.bp.blogspot.com/-82UlnYS_E-0/WoQzvtTZYcI/AAAAAAANbSU/n3h0JkwwAI8f5B73-wn4p6ipwnbOxJ8xgCLcBGAs/s320/IMG_20180214_112504_532.JPG','https://www.lindaikejisblog.com/p/2018/2/stop-telling-me-to-cover-up-hubby-likes-it-like-strawberry-milkshake-newly-married-nigerian-instagram-celeb-roman-goddess-warns-followers.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/stop-telling-me-to-cover-up-hubby-likes-it-like-strawberry-milkshake-newly-married-nigerian-instagram-celeb-roman-goddess-warns-followers.html#comments"> 19 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a8433acad3f2.png' alt='Tiffany Haddish spills on Beyonce confronting actress who ' touched Jay-Z's chest'' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/tiffany-haddish-spills-on-beyonce-confronting-actress-who-touched-jay-zs-chest.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Tiffany Haddish spills on Beyonce confronting actress who &#039;touched Jay-Z&#039;s chest&#039; </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Girls Trip actress Tiffany Haddish has shared more details about the time sh ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Tiffany Haddish spills on Beyonce confronting actress who touched Jay-Zs chest','https://www.lindaikejisblog.com/photos/shares/thumbs/5a8433acad3f2.png','https://www.lindaikejisblog.com/p/2018/2/tiffany-haddish-spills-on-beyonce-confronting-actress-who-touched-jay-zs-chest.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/tiffany-haddish-spills-on-beyonce-confronting-actress-who-touched-jay-zs-chest.html#comments"> 11 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://2.bp.blogspot.com/-9V-kjpSOai4/WoQydqZR2FI/AAAAAAANbSE/ij1o4l7ATbIfcw1ZYRDK78pLFe031EWPgCLcBGAs/s320/FB_IMG_1518603016990.jpg' alt='Photo: Shouldn' t they be in class? Secondary students gather at a shop buying Valentine gifts' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/photo-shouldnt-they-be-in-class-secondary-students-gather-at-a-shop-buying-valentine-gifts.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Photo: Shouldn&#039;t they be in class? Secondary students gather at a shop buying Valentine gifts </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Nothing wrong with buying gifts for their friends...whoever as long as they ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Photo: Shouldnt they be in class? Secondary students gather at a shop buying Valentine gifts','https://2.bp.blogspot.com/-9V-kjpSOai4/WoQydqZR2FI/AAAAAAANbSE/ij1o4l7ATbIfcw1ZYRDK78pLFe031EWPgCLcBGAs/s320/FB_IMG_1518603016990.jpg','https://www.lindaikejisblog.com/p/2018/2/photo-shouldnt-they-be-in-class-secondary-students-gather-at-a-shop-buying-valentine-gifts.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/photo-shouldnt-they-be-in-class-secondary-students-gather-at-a-shop-buying-valentine-gifts.html#comments"> 9 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a842db37b509.PNG' alt='People have strong reactions to Barack and Michelle Obama' s portraits' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/people-have-strong-reactions-to-barack-and-michelle-obamas-portraits.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> People have strong reactions to Barack and Michelle Obama&#039;s portraits </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+The official portraits of former USA President&nbsp;Barack Obama&nbsp;and Fi ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('People have strong reactions to Barack and Michelle Obamas portraits','https://www.lindaikejisblog.com/photos/shares/thumbs/5a842db37b509.PNG','https://www.lindaikejisblog.com/p/2018/2/people-have-strong-reactions-to-barack-and-michelle-obamas-portraits.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/people-have-strong-reactions-to-barack-and-michelle-obamas-portraits.html#comments"> 10 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://2.bp.blogspot.com/-f4lqKYzLuR4/WoQt-ijsp6I/AAAAAAANbRk/aYJQMeTITy4FtW0zTpjgLAOLbR0Xgn_NQCLcBGAs/s1600/gh.jpg' alt='' How to handle a break up' - by Chude Jideonwo' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/how-to-handle-a-break-up-by-chude-jideonwo.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> &#039;How to handle a break up&#039; - by Chude Jideonwo </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Read Chude&#39;s piece below...
+&nbsp;
+Till this day, I have PTSD ov ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('How to handle a break up - by Chude Jideonwo','https://2.bp.blogspot.com/-f4lqKYzLuR4/WoQt-ijsp6I/AAAAAAANbRk/aYJQMeTITy4FtW0zTpjgLAOLbR0Xgn_NQCLcBGAs/s1600/gh.jpg','https://www.lindaikejisblog.com/p/2018/2/how-to-handle-a-break-up-by-chude-jideonwo.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/how-to-handle-a-break-up-by-chude-jideonwo.html#comments"> 8 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a842dd1d8e58.png' alt='' Apart from sex what else can an African Lady offer in a relationship?' - Twitter user asks' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/apart-from-sex-what-else-can-an-african-lady-offer-in-a-relationship-twitter-user-asks.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> &#039;Apart from sex what else can an African Lady offer in a relationship?&#039; - Twitter user asks </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Lol. See question...
+</p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Apart from sex what else can an African Lady offer in a relationship? - Twitter user asks','https://www.lindaikejisblog.com/photos/shares/thumbs/5a842dd1d8e58.png','https://www.lindaikejisblog.com/p/2018/2/apart-from-sex-what-else-can-an-african-lady-offer-in-a-relationship-twitter-user-asks.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/apart-from-sex-what-else-can-an-african-lady-offer-in-a-relationship-twitter-user-asks.html#comments"> 34 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a8429c7700c2.PNG' alt='Toronto Fashion Academy targets Nigerian talents' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/toronto-fashion-academy-targets-nigerian-talents.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Toronto Fashion Academy targets Nigerian talents </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Nigerian talents who are into modelling, fashion and beauty are positioned f ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Toronto Fashion Academy targets Nigerian talents','https://www.lindaikejisblog.com/photos/shares/thumbs/5a8429c7700c2.PNG','https://www.lindaikejisblog.com/p/2018/2/toronto-fashion-academy-targets-nigerian-talents.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/toronto-fashion-academy-targets-nigerian-talents.html#comments"> 3 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a8426dc4b3e0.jpg' alt='Caption this photo of Rotimi Amaechi, Tunde Fashola and Fayemi' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/caption-this-photo-of-rotimi-amaechi-tunde-fashola-and-fayemi.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Caption this photo of Rotimi Amaechi, Tunde Fashola and Fayemi </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+The politicians were captured today at the&nbsp;Federal Executive Council (F ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Caption this photo of Rotimi Amaechi, Tunde Fashola and Fayemi','https://www.lindaikejisblog.com/photos/shares/thumbs/5a8426dc4b3e0.jpg','https://www.lindaikejisblog.com/p/2018/2/caption-this-photo-of-rotimi-amaechi-tunde-fashola-and-fayemi.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/caption-this-photo-of-rotimi-amaechi-tunde-fashola-and-fayemi.html#comments"> 11 comments</a></div> </div> </article> <hr> <article class="side_story"> <div class="row story_holder" style="height:84px;overflow: hidden;"> <a href="#" class="col-md-5 col-xs-5 pic"> <img src='https://www.lindaikejisblog.com/photos/shares/thumbs/5a8422681389f.PNG' alt='Actress, Moyo Lawal takes a picture inside a coffin, tags it "mortuary selfie' ' layout='responsive' class='lazyload' /> </a> <a href="https://www.lindaikejisblog.com/2018/2/actress-moyo-lawal-takes-a-picture-inside-a-coffin-tags-it-mortuary-selfie.html" style="font-size:13px; margin-bottom: 0px;" class="col-md-7 col-xs-7 title"> Actress, Moyo Lawal takes a picture inside a coffin, tags it &quot;mortuary selfie&#039; </a> <p class="col-md-7 col-xs-7" style="word-wrap: break-word;font-size: 11px;">
+Actress Moyo Lawal shared this photo on her page and captioned it; &quot;#mo ... </p> </div> <div class="meta" style="font-size: 11px;"> <a href="javascript:;" onclick="shareData('Actress, Moyo Lawal takes a picture inside a coffin, tags it &quot;mortuary selfie','https://www.lindaikejisblog.com/photos/shares/thumbs/5a8422681389f.PNG','https://www.lindaikejisblog.com/p/2018/2/actress-moyo-lawal-takes-a-picture-inside-a-coffin-tags-it-mortuary-selfie.html')" class="share_link"> <img src="https://www.lindaikejisblog.com/images/icon_share.png" style="padding: 1px;" alt=""> </a> <div class="post_age"> by Linda Ikeji at 14/02/2018</div> <div class="divider">|</div> <div class="comments"><a style="color: #000;" href="https://www.lindaikejisblog.com/2018/2/actress-moyo-lawal-takes-a-picture-inside-a-coffin-tags-it-mortuary-selfie.html#comments"> 15 comments</a></div> </div> </article> <hr> </div> </div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="container">
+<ul>
+<li><a href="javascript:;" data-toggle="modal" data-target="#contactus">News/Tip-off</a></li>
+<li><a href="javascript:;" data-toggle="modal" data-target="#ads">Advertise with us</a></li>
+</ul>
+</div>
+<div class="last_line">
+<p>&copy; Copyright LindaIkeji 2018</p>
+</div>
+</div>
+<div id="contactus" class="modal fade" role="dialog">
+<div class="modal-dialog">
+
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 class="modal-title">Contact Us</h4>
+</div>
+<div class="modal-body">
+<p>Contact us via email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ac6e3e4eeebe3e1efe0e3caede7ebe3e6a4e9e5e7">[email&#160;protected]</a></p>
+</div>
+</div>
+</div>
+</div>
+<div id="ads" class="modal fade" role="dialog">
+<div class="modal-dialog">
+
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 class="modal-title">Contact Us</h4>
+</div>
+<div class="modal-body">
+<p>Contact us via email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c002522282d25272926252d283f0c2b212d2520622f2321">[email&#160;protected]</a></p>
+<p>Contact us via Phone: 08163941957, 08118879335</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog share_modal" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel"><b>Share Story</b></h4>
+</div>
+<div class="modal-body">
+<div class="story" style="overflow-x: hidden">
+<div class="pic modal_pic">
+</div>
+<p class="modal_text" style="font-size: 18px;font-weight: bold">
+</p>
+</span>
+</div>
+<div class="share_pane social_spp">
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<link rel="stylesheet" href="https://www.lindaikejisblog.com/js/vendor/flexslider.css">
+<noscript id="deferred-styles">
+<link rel="stylesheet" href="https://www.lindaikejisblog.com/css/animate.css">
+<link rel="stylesheet" href="https://www.lindaikejisblog.com/css/icon/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials-theme-flat.css" />
+</noscript>
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script data-cfasync="true">
+    var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+    };
+    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+        webkitRequestAnimationFrame || msRequestAnimationFrame;
+    if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+    else window.addEventListener('load', loadDeferredStyles);
+</script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script>
+        $(function(){
+            // get hash value
+            var hash = window.location.hash;
+            // now scroll to element with that id
+            if(hash) {
+                $('html, body').animate({scrollTop: $(hash).offset().top});
+            }
+        });
+                var i = '131562';
+        var jqxhr = $.get( "https://alexis.lindaikejisblog.com/save/count/"+i, function() {
+            console.log('...');
+        });
+       function onSignIn(googleUser) {
+            var profile = googleUser.getBasicProfile();
+            $('#full_name_c').val(profile.getName());
+            $('#email_c').val(profile.getEmail());
+            $('.ano').append("<input type='hidden' name='img_url' id='img_url' value='"+profile.getImageUrl()+"'/>");
+            $('.ano').append('<a href="#" class="pull-right label label-danger" style="margin-bottom: 10px;" onclick="signOut();">Google Sign out</a>');
+
+
+        }
+
+        function signOut() {
+            var auth2 = gapi.auth2.getAuthInstance();
+            auth2.signOut().then(function () {
+                console.log('User signed out.');
+            });
+        }
+    </script>
+
+<script data-cfasync="true">
+    $(document).ready(function(){
+        if(detectmob()){
+            $(".story_img").css("margin-top", "-20px");
+            $(".remove_mobile").html("");
+            $(".desktop_ads").empty();
+        }else{
+            $(".show_mobile").html("");
+            $(".mobile_ads").empty();
+        }
+        $(function() {
+
+
+            $('.flexslider').flexslider({
+                animation: "slide",
+                animationLoop: true,
+                itemWidth: 180,
+                itemMargin: 12,
+                controlNav: false
+            });
+        });
+
+    });
+
+
+
+    $(document).ready(function(){
+
+        $('.search_btn').click(function () {
+            $('.signage').toggleClass('hide');
+            $('.blog_title').toggleClass('search_area');
+            $('.search_pane').toggleClass('show');
+            $(this).toggleClass('search');
+        });
+
+        $('.slides').show();
+    });
+
+    $(document).ready(function(){$("#full_name_c").val(localStorage.getItem("fullname")),$("#email_c").val(localStorage.getItem("email"))});
+
+    function shareData(title, img,url){
+        $('.modal_pic').html('<img src="'+img+'"/>');
+        $('.modal_text').html(title);
+        $('.social_spp').html(`<a href="https://www.facebook.com/sharer/sharer.php?u=`+url+`" class="share_btn facebook">
+            <div class="img_holder">
+            <img class="x2_icon" src="https://www.lindaikejisblog.com/images/social_icon_fb.png" alt="">
+            </div>
+            Facebook
+            </a>
+            <a href="https://twitter.com/home?status=`+url+`" class="share_btn twitter">
+            <div class="img_holder">
+            <img src="https://www.lindaikejisblog.com/images/social_icon_tw.png" alt="">
+            </div>
+            Twitter
+            </a>
+            <a href="whatsapp://send?text=`+url+`" class="share_btn whatsapp">
+            <div class="img_holder">
+            <img src="https://www.lindaikejisblog.com/images/social_icon_wa.png" alt="">
+            </div>
+            Whatsapp
+            </a>`)
+        $('#myModal').modal();
+    }
+    function replyComment(o){scrollToElement("#postcomment",600),$("#parent_id").val(o)}var scrollToElement=function(o,t){var l=t?t:600;$("html,body").animate({scrollTop:$(o).offset().top},l)};
+
+    // specify id of element and optional scroll speed as arguments
+    function submit_comment(){
+        $('.loading').show('slow');
+        var ano = $("#anono").val();
+
+
+        //get the full_name
+        if(ano != "1") {
+            full_name = $('#full_name_c').val();
+            localStorage.setItem('fullname', full_name);
+            if (!full_name) {
+                $('.error').show('slow');
+                $('.error').html("Enter your full_name");
+                $('.loading').hide('slow');
+                return
+
+            }
+            //get the email
+            var email = $('#email_c').val();
+            if (!email) {
+                $('.error').show('slow');
+                $('.error').html("Enter your email address");
+                $('.loading').hide('slow');
+
+                return;
+            }
+            if (!validateEmail(email)) {
+                $('.error').show('slow');
+                $('.error').html("Not a valid email");
+                return;
+            }
+            localStorage.setItem('email',email);
+        }
+
+        //get the comment
+        var comment = $('#comment_c').val();
+        if(!comment){
+            $('.error').show('slow');
+            $('.error').html("Enter your comment");
+            return;
+        }
+
+        var parent_id = $('#parent_id').val();
+
+
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+
+        var full_name = $('#full_name_c').val();
+        var email = $('#email_c').val();
+        var comment = $('#comment_c').val();
+        var img_url = $('#img_url').val();
+        //at this point send an ajax call to the server saving the fcm token
+                    $.ajax({
+            url: 'https://www.lindaikejisblog.com/save/comment',
+            type: 'post',
+            data:  '_token='+ CSRF_TOKEN +"&full_name="+full_name+"&img_url="+ img_url +"&email="+ email+"&comment="+ comment+"&parent_id="+ parent_id+"&blog_id="+'RlpVWGJaSFBNcXpvSUZqNjE3V2hyZz09',
+            processData: false,
+            success: function( data, textStatus, jQxhr ){
+                if(data == "success") {
+                    $('.error').hide();
+                    $('.success').show();
+                    $('#comment_c').val("");
+                }else{
+                    $('.error').show('slow');
+                    $('.error').html("Error Occured!!!");
+                }
+                $('.loading').hide('slow');
+
+            },
+            error: function(){
+                $('.loading').hide('slow');
+                $('.error').show("slow");
+                $('.error').html("An Error Occured, Please try again!!!");
+            }
+        });
+            }
+
+    function validateEmail(a){var n=/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;return n.test(a)}function changeData(){$(".ano").toggle("slow"),$("#anono").val("1")}function changeUrl(a){window.location=a}
+
+
+
+    function likeComment(id){
+        var remove = 0;
+        if(localStorage.getItem('comment_'+id)){
+            var remove = 1;
+        }
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+
+        var url = 'https://www.lindaikejisblog.com/save/likes';
+
+        //at this point send an ajax call to the server saving the fcm token
+        $.ajax({
+            url: url,
+            type: 'post',
+            data: '_token=' + CSRF_TOKEN + "&id=" + id +  "&remove=" + remove,
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var count_like = $('.count_' + id).html();
+                if (data == "success") {
+                    total = parseInt(count_like) + 1;
+                    localStorage.setItem('comment_' + id, "done");
+                } else {
+                    total = parseInt(count_like) - 1;
+                    localStorage.removeItem('comment_' + id)
+                }
+                $('.count_' + id).html(total);
+            },
+            error: function () {
+                console.log('Oops');
+            }
+        });
+
+    }
+
+    function dlikeComment(id){
+        var remove = 0;
+        if(localStorage.getItem('dcomment_'+id)){
+            var remove = 1;
+        }
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+
+        var url = 'https://www.lindaikejisblog.com/save/dislikes';
+
+        //at this point send an ajax call to the server saving the fcm token
+        $.ajax({
+            url: url,
+            type: 'post',
+            data: '_token=' + CSRF_TOKEN + "&id=" + id +  "&remove=" + remove,
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var count_like = $('.dcount_' + id).html();
+                if (data == "success") {
+                    total = parseInt(count_like) + 1;
+                    localStorage.setItem('dcomment_' + id, "done");
+                } else {
+                    total = parseInt(count_like) - 1;
+                    localStorage.removeItem('dcomment_' + id)
+                }
+                $('.dcount_' + id).html(total);
+            },
+            error: function () {
+                console.log('Oops');
+            }
+        });
+
+    }
+
+
+
+</script>
+
+<script>
+    console.log('Designed by FlutureTech');
+</script>
+ <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55d70e0741850788"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (!document.cookie || document.cookie.indexOf('AVPDCAP=') == -1) {
+  document.write('<scr'+'ipt src="https://ads.roiadserver.com/servlet/view/dynamic/javascript/zone?zid=2&pid=0&resolution='+(window.innerWidth||screen.width)+'x'+(window.innerHeight||screen.height)+'&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
+}
+//]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4fb3ccc3a5","applicationID":"69907539","transactionName":"YAdaMkBXWksFUxBQCVlNeQVGX1tWS0ALShI=","queueTime":0,"applicationTime":114,"atts":"TEBZRAhNSUU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

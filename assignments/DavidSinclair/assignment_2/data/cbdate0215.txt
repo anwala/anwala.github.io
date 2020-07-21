@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://toplocalnow.com/ca/winnipeg/at/9",
+  "uri": "http://toplocalnow.com/ca/winnipeg/at/9",
+  "estimated-creation-date": "2017-02-26T15:28:05",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170913040824/http://toplocalnow.com/ca/winnipeg/at/9",
+      "memento-datetime": "2017-09-13T04:08:24",
+      "memento-pubdate": "",
+      "earliest": "2017-09-13T04:08:24"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2017-02-26T15:28:05"
+    }
+  }
+}

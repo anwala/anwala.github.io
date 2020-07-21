@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/30/jeff-flake-trump-referring-dreamers-illegal-feel-groans-lot-people/amp/?__twitter_impression=true",
+  "uri": "http://www.breitbart.com/big-government/2018/01/30/jeff-flake-trump-referring-dreamers-illegal-feel-groans-lot-people/amp/?__twitter_impression=true",
+  "estimated-creation-date": "2018-01-30T20:50:42",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T20:50:42"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

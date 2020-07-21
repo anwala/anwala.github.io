@@ -1,0 +1,47 @@
+{
+  "original_uri": "https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T03:53:44Z",
+        "uri": "http://web.archive.org/web/20180131035344/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+      },
+      {
+        "datetime": "2018-01-31T05:43:48Z",
+        "uri": "http://web.archive.org/web/20180131054348/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+      },
+      {
+        "datetime": "2018-01-31T20:12:54Z",
+        "uri": "http://archive.is/20180131201254/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+      },
+      {
+        "datetime": "2018-02-01T16:57:22Z",
+        "uri": "http://web.archive.org/web/20180201165722/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+      },
+      {
+        "datetime": "2018-02-05T06:21:28Z",
+        "uri": "http://web.archive.org/web/20180205062128/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+      },
+      {
+        "datetime": "2018-02-05T15:23:45Z",
+        "uri": "http://web.archive.org/web/20180205152345/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T03:53:44Z",
+      "uri": "http://web.archive.org/web/20180131035344/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+    },
+    "last": {
+      "datetime": "2018-02-05T15:23:45Z",
+      "uri": "http://web.archive.org/web/20180205152345/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/"
+}
+

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://jobs.marketinghire.com/jobs/10704952/marketing-and-communications-coordinator",
+  "uri": "http://jobs.marketinghire.com/jobs/10704952/marketing-and-communications-coordinator",
+  "estimated-creation-date": "2018-01-31T15:23:33",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T15:23:33"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:46:05"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "original_uri": "https://www.gov.uk/government/collections/police-financial-reserves",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/collections/police-financial-reserves",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T17:23:39Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201172339/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-02-05T10:38:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205103851/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-02-12T10:58:59Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212105859/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-02-12T21:24:06Z",
+        "uri": "http://web.archive.org/web/20180212212406/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-02-19T10:37:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219103729/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-02-26T13:33:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226133311/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-03-02T01:27:30Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180302012730/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-03-05T13:27:48Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305132748/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-03-12T13:30:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312133058/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-03-19T13:52:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180319135211/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-03-27T01:29:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180327012914/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-04-02T07:30:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402073019/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-04-02T21:02:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402210204/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-04-03T01:59:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180403015932/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-04-10T11:34:03Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180410113403/https://www.gov.uk/government/collections/police-financial-reserves"
+      },
+      {
+        "datetime": "2018-04-17T10:30:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180417103001/https://www.gov.uk/government/collections/police-financial-reserves"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T17:23:39Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180201172339/https://www.gov.uk/government/collections/police-financial-reserves"
+    },
+    "last": {
+      "datetime": "2018-04-17T10:30:01Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180417103001/https://www.gov.uk/government/collections/police-financial-reserves"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/collections/police-financial-reserves",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/collections/police-financial-reserves",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/collections/police-financial-reserves"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/collections/police-financial-reserves"
+}
+

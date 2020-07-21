@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thespainreport.com/articles/1345-180131123700-in-signal-messages-puigdemont-admits-catalan-republic-is-over-spanish-government-is-winning",
+  "uri": "https://www.thespainreport.com/articles/1345-180131123700-in-signal-messages-puigdemont-admits-catalan-republic-is-over-spanish-government-is-winning",
+  "estimated-creation-date": "2018-01-31T12:18:04",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T12:18:04"
+    }
+  }
+}

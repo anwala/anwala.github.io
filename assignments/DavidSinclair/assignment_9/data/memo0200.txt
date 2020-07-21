@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:12:16Z",
+        "uri": "http://web.archive.org/web/20180131181216/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:12:16Z",
+      "uri": "http://web.archive.org/web/20180131181216/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:12:16Z",
+      "uri": "http://web.archive.org/web/20180131181216/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://aajtak.intoday.in/story/china-said-india-risk-taking-ability-rise-under-modi-government-1-981329.html"
+}
+

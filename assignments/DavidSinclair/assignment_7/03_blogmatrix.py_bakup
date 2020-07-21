@@ -1,0 +1,43 @@
+import requests #used for url request information
+import sys	#used for search strings and removeing of string information
+import re	#used for search strings and removeing of string information
+import feedparser
+
+# Returns title and dictionary of 
+# word counts for an RSS feed
+
+def getwordcounts(url):
+  # Parse the feed
+  d=feedparser.parse(url)
+  wc={}
+
+  # Loop over all the entries
+  # description==RSS; summary==Atom
+  for e in d.entries:
+    if 'summary' in e: 
+       summary=e.summary
+    else: 
+       summary=e.description
+
+    # Extract a list of words
+    # A7 doesn’t use summary --anwala
+#    words=getwords(e.titlie+' '+summary)
+    words=getwords(e.titlie)
+    for word in words:
+      wc.setdefault(word,0)
+      wc[word]+=1
+
+  return (d.feed.title,wc)
+
+#url='http://f-measure.blogspot.com/'
+url='http://ws-dl.blogspot.com/'
+responce=getwordcounts(url)
+
+#with open('blogurlclean.txt') as f:
+#   text = f.read().splitlines()
+#   print(text)
+#   for url in text:
+#      response = getwordcounts(url)
+#      print(response)
+
+

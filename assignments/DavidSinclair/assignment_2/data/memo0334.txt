@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-18T11:55:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180118115542/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-18T11:55:42Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180118115542/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf"
+    },
+    "last": {
+      "datetime": "2018-01-18T11:55:42Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180118115542/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/672518/DSU-Jan-PDF-for-pub.pdf"
+}
+

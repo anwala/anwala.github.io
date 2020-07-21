@@ -1,0 +1,50 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+  "uri": "https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+  "estimated-creation-date": "2016-03-24T07:07:59",
+  "earliest-sources": [
+    "web.archive.org",
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20160324070759/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+      "memento-datetime": "2016-03-24T07:07:59",
+      "memento-pubdate": "",
+      "earliest": "2016-03-24T07:07:59"
+    },
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20160402022201/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+      "memento-datetime": "2016-04-02T02:22:01",
+      "memento-pubdate": "",
+      "earliest": "2016-04-02T02:22:01"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20160404234935/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+      "memento-datetime": "2016-04-04T23:49:35",
+      "memento-pubdate": "2016-04-04T23:49:35",
+      "earliest": "2016-04-04T23:49:35"
+    },
+    "backlinks": {
+      "earliest": "2016-03-24T07:07:59"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:43:38"
+    }
+  }
+}

@@ -1,0 +1,1631 @@
+{
+  "original_uri": "http://www.4vision.biz",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.4vision.biz",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2004-01-22T20:37:50Z",
+        "uri": "http://web.archive.org/web/20040122203750/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-08-06T00:56:51Z",
+        "uri": "http://web.archive.org/web/20050806005651/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-08-11T01:05:59Z",
+        "uri": "http://web.archive.org/web/20050811010559/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-08-14T23:44:06Z",
+        "uri": "http://web.archive.org/web/20050814234406/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-09-23T11:25:57Z",
+        "uri": "http://web.archive.org/web/20050923112557/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-09-30T20:28:33Z",
+        "uri": "http://web.archive.org/web/20050930202833/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-13T06:10:45Z",
+        "uri": "http://web.archive.org/web/20051013061045/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-24T00:19:23Z",
+        "uri": "http://web.archive.org/web/20051024001923/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-24T23:51:33Z",
+        "uri": "http://web.archive.org/web/20051024235133/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-28T01:52:34Z",
+        "uri": "http://web.archive.org/web/20051028015234/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-28T01:52:57Z",
+        "uri": "http://web.archive.org/web/20051028015257/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-29T00:07:43Z",
+        "uri": "http://web.archive.org/web/20051029000743/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-29T04:43:08Z",
+        "uri": "http://web.archive.org/web/20051029044308/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-10-30T00:45:03Z",
+        "uri": "http://web.archive.org/web/20051030004503/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-01T00:41:21Z",
+        "uri": "http://web.archive.org/web/20051101004121/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-03T01:00:49Z",
+        "uri": "http://web.archive.org/web/20051103010049/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-04T00:47:21Z",
+        "uri": "http://web.archive.org/web/20051104004721/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-05T01:02:34Z",
+        "uri": "http://web.archive.org/web/20051105010234/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-06T01:18:40Z",
+        "uri": "http://web.archive.org/web/20051106011840/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-06T02:19:18Z",
+        "uri": "http://web.archive.org/web/20051106021918/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-23T21:44:26Z",
+        "uri": "http://web.archive.org/web/20051123214426/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T07:10:46Z",
+        "uri": "http://web.archive.org/web/20051124071046/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T10:41:18Z",
+        "uri": "http://web.archive.org/web/20051124104118/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T10:47:40Z",
+        "uri": "http://web.archive.org/web/20051124104740/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T11:50:36Z",
+        "uri": "http://web.archive.org/web/20051124115036/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T12:29:12Z",
+        "uri": "http://web.archive.org/web/20051124122912/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T15:42:33Z",
+        "uri": "http://web.archive.org/web/20051124154233/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T18:21:31Z",
+        "uri": "http://web.archive.org/web/20051124182131/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T19:41:06Z",
+        "uri": "http://web.archive.org/web/20051124194106/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T20:42:42Z",
+        "uri": "http://web.archive.org/web/20051124204242/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-24T23:01:49Z",
+        "uri": "http://web.archive.org/web/20051124230149/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T00:41:43Z",
+        "uri": "http://web.archive.org/web/20051125004143/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T02:20:05Z",
+        "uri": "http://web.archive.org/web/20051125022005/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T04:32:07Z",
+        "uri": "http://web.archive.org/web/20051125043207/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T04:46:49Z",
+        "uri": "http://web.archive.org/web/20051125044649/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T04:56:55Z",
+        "uri": "http://web.archive.org/web/20051125045655/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T05:51:37Z",
+        "uri": "http://web.archive.org/web/20051125055137/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-25T06:59:07Z",
+        "uri": "http://web.archive.org/web/20051125065907/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-28T02:20:47Z",
+        "uri": "http://web.archive.org/web/20051128022047/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-29T01:13:03Z",
+        "uri": "http://web.archive.org/web/20051129011303/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-11-30T00:57:54Z",
+        "uri": "http://web.archive.org/web/20051130005754/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-01T01:01:08Z",
+        "uri": "http://web.archive.org/web/20051201010108/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-02T03:27:54Z",
+        "uri": "http://web.archive.org/web/20051202032754/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-04T01:39:32Z",
+        "uri": "http://web.archive.org/web/20051204013932/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-05T00:49:46Z",
+        "uri": "http://web.archive.org/web/20051205004946/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-06T00:49:05Z",
+        "uri": "http://web.archive.org/web/20051206004905/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-08T00:57:36Z",
+        "uri": "http://web.archive.org/web/20051208005736/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-10T03:29:43Z",
+        "uri": "http://web.archive.org/web/20051210032943/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-10T08:35:33Z",
+        "uri": "http://web.archive.org/web/20051210083533/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-12T06:50:57Z",
+        "uri": "http://web.archive.org/web/20051212065057/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-14T09:28:57Z",
+        "uri": "http://web.archive.org/web/20051214092857/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-16T11:16:10Z",
+        "uri": "http://web.archive.org/web/20051216111610/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-17T13:35:46Z",
+        "uri": "http://web.archive.org/web/20051217133546/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-24T13:46:25Z",
+        "uri": "http://web.archive.org/web/20051224134625/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-26T11:14:12Z",
+        "uri": "http://web.archive.org/web/20051226111412/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-27T06:39:40Z",
+        "uri": "http://web.archive.org/web/20051227063940/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-27T07:50:21Z",
+        "uri": "http://web.archive.org/web/20051227075021/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-28T04:48:11Z",
+        "uri": "http://web.archive.org/web/20051228044811/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-29T04:36:36Z",
+        "uri": "http://web.archive.org/web/20051229043636/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2005-12-30T03:06:11Z",
+        "uri": "http://web.archive.org/web/20051230030611/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-01T03:45:13Z",
+        "uri": "http://web.archive.org/web/20060101034513/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-04T04:09:00Z",
+        "uri": "http://web.archive.org/web/20060104040900/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-11T04:31:55Z",
+        "uri": "http://web.archive.org/web/20060111043155/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-12T04:34:57Z",
+        "uri": "http://web.archive.org/web/20060112043457/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-12T17:10:48Z",
+        "uri": "http://web.archive.org/web/20060112171048/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-13T04:35:50Z",
+        "uri": "http://web.archive.org/web/20060113043550/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-14T07:14:04Z",
+        "uri": "http://web.archive.org/web/20060114071404/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-15T03:17:32Z",
+        "uri": "http://web.archive.org/web/20060115031732/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-15T10:51:18Z",
+        "uri": "http://web.archive.org/web/20060115105118/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-16T06:42:00Z",
+        "uri": "http://web.archive.org/web/20060116064200/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-17T09:18:09Z",
+        "uri": "http://web.archive.org/web/20060117091809/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-01-18T05:54:21Z",
+        "uri": "http://web.archive.org/web/20060118055421/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-03T04:03:43Z",
+        "uri": "http://web.archive.org/web/20060203040343/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-03T12:50:07Z",
+        "uri": "http://web.archive.org/web/20060203125007/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-04T14:14:21Z",
+        "uri": "http://web.archive.org/web/20060204141421/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-05T04:11:20Z",
+        "uri": "http://web.archive.org/web/20060205041120/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-06T02:45:04Z",
+        "uri": "http://web.archive.org/web/20060206024504/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-07T01:27:32Z",
+        "uri": "http://web.archive.org/web/20060207012732/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-09T02:30:53Z",
+        "uri": "http://web.archive.org/web/20060209023053/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-14T03:47:43Z",
+        "uri": "http://web.archive.org/web/20060214034743/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-14T08:41:23Z",
+        "uri": "http://web.archive.org/web/20060214084123/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-14T08:41:46Z",
+        "uri": "http://web.archive.org/web/20060214084146/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-16T02:27:17Z",
+        "uri": "http://web.archive.org/web/20060216022717/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-16T11:31:49Z",
+        "uri": "http://web.archive.org/web/20060216113149/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-20T13:16:22Z",
+        "uri": "http://web.archive.org/web/20060220131622/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-21T12:29:19Z",
+        "uri": "http://web.archive.org/web/20060221122919/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-22T13:22:55Z",
+        "uri": "http://web.archive.org/web/20060222132255/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-23T14:09:12Z",
+        "uri": "http://web.archive.org/web/20060223140912/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-24T13:46:08Z",
+        "uri": "http://web.archive.org/web/20060224134608/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-25T13:44:05Z",
+        "uri": "http://web.archive.org/web/20060225134405/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-26T13:19:10Z",
+        "uri": "http://web.archive.org/web/20060226131910/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-27T13:06:14Z",
+        "uri": "http://web.archive.org/web/20060227130614/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-02-28T13:46:33Z",
+        "uri": "http://web.archive.org/web/20060228134633/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-01T13:08:02Z",
+        "uri": "http://web.archive.org/web/20060301130802/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-02T13:37:13Z",
+        "uri": "http://web.archive.org/web/20060302133713/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-09T11:07:16Z",
+        "uri": "http://web.archive.org/web/20060309110716/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-09T11:07:23Z",
+        "uri": "http://web.archive.org/web/20060309110723/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-09T11:07:28Z",
+        "uri": "http://web.archive.org/web/20060309110728/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-09T11:08:30Z",
+        "uri": "http://web.archive.org/web/20060309110830/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-09T16:07:48Z",
+        "uri": "http://web.archive.org/web/20060309160748/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-10T16:51:50Z",
+        "uri": "http://web.archive.org/web/20060310165150/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-12T18:24:50Z",
+        "uri": "http://web.archive.org/web/20060312182450/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-14T20:00:29Z",
+        "uri": "http://web.archive.org/web/20060314200029/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-15T22:37:53Z",
+        "uri": "http://web.archive.org/web/20060315223753/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-16T17:53:03Z",
+        "uri": "http://web.archive.org/web/20060316175303/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-18T15:22:12Z",
+        "uri": "http://web.archive.org/web/20060318152212/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-19T15:44:07Z",
+        "uri": "http://web.archive.org/web/20060319154407/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-21T16:37:56Z",
+        "uri": "http://web.archive.org/web/20060321163756/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-22T23:42:59Z",
+        "uri": "http://web.archive.org/web/20060322234259/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-23T16:43:04Z",
+        "uri": "http://web.archive.org/web/20060323164304/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-25T19:08:36Z",
+        "uri": "http://web.archive.org/web/20060325190836/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-26T17:26:38Z",
+        "uri": "http://web.archive.org/web/20060326172638/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-27T15:49:17Z",
+        "uri": "http://web.archive.org/web/20060327154917/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-28T17:43:20Z",
+        "uri": "http://web.archive.org/web/20060328174320/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-29T17:24:43Z",
+        "uri": "http://web.archive.org/web/20060329172443/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-03-31T17:52:12Z",
+        "uri": "http://web.archive.org/web/20060331175212/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-11T15:55:09Z",
+        "uri": "http://web.archive.org/web/20060411155509/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-12T11:46:08Z",
+        "uri": "http://web.archive.org/web/20060412114608/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-13T11:42:16Z",
+        "uri": "http://web.archive.org/web/20060413114216/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-15T11:28:48Z",
+        "uri": "http://web.archive.org/web/20060415112848/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-17T11:08:19Z",
+        "uri": "http://web.archive.org/web/20060417110819/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-20T12:50:54Z",
+        "uri": "http://web.archive.org/web/20060420125054/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-21T11:36:28Z",
+        "uri": "http://web.archive.org/web/20060421113628/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-22T16:10:55Z",
+        "uri": "http://web.archive.org/web/20060422161055/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-24T11:10:41Z",
+        "uri": "http://web.archive.org/web/20060424111041/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-25T17:12:31Z",
+        "uri": "http://web.archive.org/web/20060425171231/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-25T19:08:38Z",
+        "uri": "http://web.archive.org/web/20060425190838/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-26T17:19:30Z",
+        "uri": "http://web.archive.org/web/20060426171930/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-26T21:23:33Z",
+        "uri": "http://web.archive.org/web/20060426212333/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-28T16:50:00Z",
+        "uri": "http://web.archive.org/web/20060428165000/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-29T03:29:11Z",
+        "uri": "http://web.archive.org/web/20060429032911/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-29T03:30:02Z",
+        "uri": "http://web.archive.org/web/20060429033002/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-29T14:03:39Z",
+        "uri": "http://web.archive.org/web/20060429140339/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-04-30T12:22:01Z",
+        "uri": "http://web.archive.org/web/20060430122201/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-01T14:34:36Z",
+        "uri": "http://web.archive.org/web/20060501143436/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-02T14:49:16Z",
+        "uri": "http://web.archive.org/web/20060502144916/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-03T15:53:43Z",
+        "uri": "http://web.archive.org/web/20060503155343/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-04T17:02:17Z",
+        "uri": "http://web.archive.org/web/20060504170217/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-05T17:22:38Z",
+        "uri": "http://web.archive.org/web/20060505172238/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-06T16:54:23Z",
+        "uri": "http://web.archive.org/web/20060506165423/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-07T13:41:28Z",
+        "uri": "http://web.archive.org/web/20060507134128/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-07T15:10:37Z",
+        "uri": "http://web.archive.org/web/20060507151037/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-08T17:22:02Z",
+        "uri": "http://web.archive.org/web/20060508172202/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-09T15:36:38Z",
+        "uri": "http://web.archive.org/web/20060509153638/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-11T02:40:16Z",
+        "uri": "http://web.archive.org/web/20060511024016/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-11T15:40:51Z",
+        "uri": "http://web.archive.org/web/20060511154051/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-11T15:56:23Z",
+        "uri": "http://web.archive.org/web/20060511155623/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-19T10:12:29Z",
+        "uri": "http://web.archive.org/web/20060519101229/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:18:04Z",
+        "uri": "http://web.archive.org/web/20060520111804/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:20:07Z",
+        "uri": "http://web.archive.org/web/20060520112007/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:20:09Z",
+        "uri": "http://web.archive.org/web/20060520112009/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:20:25Z",
+        "uri": "http://web.archive.org/web/20060520112025/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:20:37Z",
+        "uri": "http://web.archive.org/web/20060520112037/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:39:30Z",
+        "uri": "http://web.archive.org/web/20060520113930/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:39:54Z",
+        "uri": "http://web.archive.org/web/20060520113954/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:40:34Z",
+        "uri": "http://web.archive.org/web/20060520114034/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:40:46Z",
+        "uri": "http://web.archive.org/web/20060520114046/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:41:51Z",
+        "uri": "http://web.archive.org/web/20060520114151/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T11:42:05Z",
+        "uri": "http://web.archive.org/web/20060520114205/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-20T16:38:53Z",
+        "uri": "http://web.archive.org/web/20060520163853/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-21T17:20:23Z",
+        "uri": "http://web.archive.org/web/20060521172023/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-22T16:16:17Z",
+        "uri": "http://web.archive.org/web/20060522161617/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-23T16:45:41Z",
+        "uri": "http://web.archive.org/web/20060523164541/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-24T16:34:08Z",
+        "uri": "http://web.archive.org/web/20060524163408/http://4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-05-24T17:18:44Z",
+        "uri": "http://web.archive.org/web/20060524171844/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-27T16:37:44Z",
+        "uri": "http://web.archive.org/web/20060527163744/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-28T16:07:39Z",
+        "uri": "http://web.archive.org/web/20060528160739/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-28T16:31:50Z",
+        "uri": "http://web.archive.org/web/20060528163150/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-05-29T16:35:03Z",
+        "uri": "http://web.archive.org/web/20060529163503/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-12T14:35:08Z",
+        "uri": "http://web.archive.org/web/20060612143508/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-14T16:19:56Z",
+        "uri": "http://web.archive.org/web/20060614161956/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-14T16:26:27Z",
+        "uri": "http://web.archive.org/web/20060614162627/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-06-15T18:57:12Z",
+        "uri": "http://web.archive.org/web/20060615185712/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-15T19:50:38Z",
+        "uri": "http://web.archive.org/web/20060615195038/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-16T21:20:16Z",
+        "uri": "http://web.archive.org/web/20060616212016/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-16T21:40:21Z",
+        "uri": "http://web.archive.org/web/20060616214021/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-17T17:24:33Z",
+        "uri": "http://web.archive.org/web/20060617172433/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-18T13:23:17Z",
+        "uri": "http://web.archive.org/web/20060618132317/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-19T16:00:28Z",
+        "uri": "http://web.archive.org/web/20060619160028/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-19T16:06:43Z",
+        "uri": "http://web.archive.org/web/20060619160643/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-21T16:54:15Z",
+        "uri": "http://web.archive.org/web/20060621165415/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-23T19:49:00Z",
+        "uri": "http://web.archive.org/web/20060623194900/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-24T22:51:16Z",
+        "uri": "http://web.archive.org/web/20060624225116/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-26T20:03:15Z",
+        "uri": "http://web.archive.org/web/20060626200315/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-27T15:26:00Z",
+        "uri": "http://web.archive.org/web/20060627152600/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-27T19:03:53Z",
+        "uri": "http://web.archive.org/web/20060627190353/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-28T19:12:23Z",
+        "uri": "http://web.archive.org/web/20060628191223/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-06-28T21:01:47Z",
+        "uri": "http://web.archive.org/web/20060628210147/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-07-05T05:08:40Z",
+        "uri": "http://web.archive.org/web/20060705050840/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-07-06T02:24:18Z",
+        "uri": "http://web.archive.org/web/20060706022418/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-07-19T12:54:34Z",
+        "uri": "http://web.archive.org/web/20060719125434/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-07-19T12:56:01Z",
+        "uri": "http://web.archive.org/web/20060719125601/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-07-19T12:57:18Z",
+        "uri": "http://web.archive.org/web/20060719125718/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-07-20T13:07:38Z",
+        "uri": "http://web.archive.org/web/20060720130738/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-04T06:52:03Z",
+        "uri": "http://web.archive.org/web/20060804065203/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-12T23:05:25Z",
+        "uri": "http://web.archive.org/web/20060812230525/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-13T03:30:11Z",
+        "uri": "http://web.archive.org/web/20060813033011/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-13T08:31:34Z",
+        "uri": "http://web.archive.org/web/20060813083134/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-13T13:50:43Z",
+        "uri": "http://web.archive.org/web/20060813135043/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-13T20:26:40Z",
+        "uri": "http://web.archive.org/web/20060813202640/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-14T03:15:57Z",
+        "uri": "http://web.archive.org/web/20060814031557/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-14T12:47:22Z",
+        "uri": "http://web.archive.org/web/20060814124722/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-14T19:07:19Z",
+        "uri": "http://web.archive.org/web/20060814190719/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-15T01:43:54Z",
+        "uri": "http://web.archive.org/web/20060815014354/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-15T08:28:46Z",
+        "uri": "http://web.archive.org/web/20060815082846/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-15T13:04:25Z",
+        "uri": "http://web.archive.org/web/20060815130425/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-15T20:53:05Z",
+        "uri": "http://web.archive.org/web/20060815205305/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-16T03:53:31Z",
+        "uri": "http://web.archive.org/web/20060816035331/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-26T05:48:05Z",
+        "uri": "http://web.archive.org/web/20060826054805/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-26T05:50:06Z",
+        "uri": "http://web.archive.org/web/20060826055006/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-26T05:50:29Z",
+        "uri": "http://web.archive.org/web/20060826055029/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-26T16:24:51Z",
+        "uri": "http://web.archive.org/web/20060826162451/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-26T23:29:57Z",
+        "uri": "http://web.archive.org/web/20060826232957/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-08-30T14:35:37Z",
+        "uri": "http://web.archive.org/web/20060830143537/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-09-02T12:22:57Z",
+        "uri": "http://web.archive.org/web/20060902122257/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-10-04T03:54:52Z",
+        "uri": "http://web.archive.org/web/20061004035452/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-10-29T22:54:29Z",
+        "uri": "http://web.archive.org/web/20061029225429/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-11-01T20:38:28Z",
+        "uri": "http://web.archive.org/web/20061101203828/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-11-02T22:10:13Z",
+        "uri": "http://web.archive.org/web/20061102221013/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-11-10T08:55:21Z",
+        "uri": "http://web.archive.org/web/20061110085521/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-11-10T10:10:18Z",
+        "uri": "http://web.archive.org/web/20061110101018/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-11-10T17:53:55Z",
+        "uri": "http://web.archive.org/web/20061110175355/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-11-10T20:41:54Z",
+        "uri": "http://web.archive.org/web/20061110204154/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-11-12T05:16:43Z",
+        "uri": "http://web.archive.org/web/20061112051643/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-11-13T08:27:16Z",
+        "uri": "http://web.archive.org/web/20061113082716/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2006-12-05T03:52:01Z",
+        "uri": "http://web.archive.org/web/20061205035201/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2006-12-05T09:37:41Z",
+        "uri": "http://web.archive.org/web/20061205093741/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-02-04T04:24:32Z",
+        "uri": "http://web.archive.org/web/20070204042432/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-02-10T01:11:14Z",
+        "uri": "http://web.archive.org/web/20070210011114/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-02-12T13:41:46Z",
+        "uri": "http://web.archive.org/web/20070212134146/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-03-12T13:12:14Z",
+        "uri": "http://web.archive.org/web/20070312131214/http://www.4vision.biz:80/?"
+      },
+      {
+        "datetime": "2007-03-21T06:07:02Z",
+        "uri": "http://web.archive.org/web/20070321060702/http://4vision.biz:80/?"
+      },
+      {
+        "datetime": "2007-04-04T05:00:13Z",
+        "uri": "http://web.archive.org/web/20070404050013/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-04-06T17:37:13Z",
+        "uri": "http://web.archive.org/web/20070406173713/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-04-06T17:46:47Z",
+        "uri": "http://web.archive.org/web/20070406174647/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-04-27T10:47:52Z",
+        "uri": "http://web.archive.org/web/20070427104752/http://4vision.biz:80/?"
+      },
+      {
+        "datetime": "2007-05-02T22:35:39Z",
+        "uri": "http://web.archive.org/web/20070502223539/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-05-26T20:54:43Z",
+        "uri": "http://web.archive.org/web/20070526205443/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-05-28T01:20:44Z",
+        "uri": "http://web.archive.org/web/20070528012044/http://4vision.biz:80/?"
+      },
+      {
+        "datetime": "2007-06-23T16:49:42Z",
+        "uri": "http://web.archive.org/web/20070623164942/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-06-24T15:33:45Z",
+        "uri": "http://web.archive.org/web/20070624153345/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-06-29T11:09:13Z",
+        "uri": "http://web.archive.org/web/20070629110913/http://4vision.biz:80/?"
+      },
+      {
+        "datetime": "2007-08-24T20:18:43Z",
+        "uri": "http://web.archive.org/web/20070824201843/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-08-25T12:15:33Z",
+        "uri": "http://web.archive.org/web/20070825121533/http://4vision.biz:80/?"
+      },
+      {
+        "datetime": "2007-10-11T04:04:52Z",
+        "uri": "http://web.archive.org/web/20071011040452/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-10-15T22:53:19Z",
+        "uri": "http://web.archive.org/web/20071015225319/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-10-20T17:14:50Z",
+        "uri": "http://web.archive.org/web/20071020171450/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-10-29T02:57:52Z",
+        "uri": "http://web.archive.org/web/20071029025752/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-02T08:53:27Z",
+        "uri": "http://web.archive.org/web/20071102085327/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-06T02:36:50Z",
+        "uri": "http://web.archive.org/web/20071106023650/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-09T23:03:47Z",
+        "uri": "http://web.archive.org/web/20071109230347/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-13T17:20:42Z",
+        "uri": "http://web.archive.org/web/20071113172042/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-17T18:12:28Z",
+        "uri": "http://web.archive.org/web/20071117181228/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-21T22:19:32Z",
+        "uri": "http://web.archive.org/web/20071121221932/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-11-26T11:23:06Z",
+        "uri": "http://web.archive.org/web/20071126112306/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-12-01T04:12:05Z",
+        "uri": "http://web.archive.org/web/20071201041205/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-12-06T03:01:30Z",
+        "uri": "http://web.archive.org/web/20071206030130/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-12-11T05:39:28Z",
+        "uri": "http://web.archive.org/web/20071211053928/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-12-17T13:07:32Z",
+        "uri": "http://web.archive.org/web/20071217130732/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-12-23T04:13:26Z",
+        "uri": "http://web.archive.org/web/20071223041326/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2007-12-29T18:12:42Z",
+        "uri": "http://web.archive.org/web/20071229181242/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-01-05T00:26:17Z",
+        "uri": "http://web.archive.org/web/20080105002617/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-01-11T15:07:52Z",
+        "uri": "http://web.archive.org/web/20080111150752/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-01-19T04:39:30Z",
+        "uri": "http://web.archive.org/web/20080119043930/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-02-02T05:23:05Z",
+        "uri": "http://web.archive.org/web/20080202052305/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-02-13T02:18:24Z",
+        "uri": "http://web.archive.org/web/20080213021824/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-02-26T00:37:25Z",
+        "uri": "http://web.archive.org/web/20080226003725/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-03-11T09:24:19Z",
+        "uri": "http://web.archive.org/web/20080311092419/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-03-25T10:53:22Z",
+        "uri": "http://web.archive.org/web/20080325105322/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-04-10T19:07:56Z",
+        "uri": "http://web.archive.org/web/20080410190756/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-05-11T02:05:00Z",
+        "uri": "http://web.archive.org/web/20080511020500/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-06-05T08:05:21Z",
+        "uri": "http://web.archive.org/web/20080605080521/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-06-15T15:35:21Z",
+        "uri": "http://web.archive.org/web/20080615153521/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-06-23T07:10:31Z",
+        "uri": "http://web.archive.org/web/20080623071031/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-01T03:45:43Z",
+        "uri": "http://web.archive.org/web/20080701034543/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-02T06:09:41Z",
+        "uri": "http://web.archive.org/web/20080702060941/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-03T06:18:02Z",
+        "uri": "http://web.archive.org/web/20080703061802/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-03T20:04:28Z",
+        "uri": "http://web.archive.org/web/20080703200428/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2008-07-04T10:43:54Z",
+        "uri": "http://web.archive.org/web/20080704104354/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-05T11:40:01Z",
+        "uri": "http://web.archive.org/web/20080705114001/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-06T12:23:25Z",
+        "uri": "http://web.archive.org/web/20080706122325/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-07T15:57:39Z",
+        "uri": "http://web.archive.org/web/20080707155739/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-08T17:43:32Z",
+        "uri": "http://web.archive.org/web/20080708174332/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-09T20:23:34Z",
+        "uri": "http://web.archive.org/web/20080709202334/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-10T22:57:04Z",
+        "uri": "http://web.archive.org/web/20080710225704/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-11T23:53:57Z",
+        "uri": "http://web.archive.org/web/20080711235357/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-13T01:35:26Z",
+        "uri": "http://web.archive.org/web/20080713013526/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-14T01:43:29Z",
+        "uri": "http://web.archive.org/web/20080714014329/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-15T04:18:28Z",
+        "uri": "http://web.archive.org/web/20080715041828/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-16T06:45:59Z",
+        "uri": "http://web.archive.org/web/20080716064559/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-18T12:37:49Z",
+        "uri": "http://web.archive.org/web/20080718123749/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-21T19:56:30Z",
+        "uri": "http://web.archive.org/web/20080721195630/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-23T22:19:44Z",
+        "uri": "http://web.archive.org/web/20080723221944/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-24T22:54:27Z",
+        "uri": "http://web.archive.org/web/20080724225427/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-26T05:44:19Z",
+        "uri": "http://web.archive.org/web/20080726054419/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-27T07:04:42Z",
+        "uri": "http://web.archive.org/web/20080727070442/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-28T08:47:05Z",
+        "uri": "http://web.archive.org/web/20080728084705/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-29T11:40:58Z",
+        "uri": "http://web.archive.org/web/20080729114058/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-07-30T15:39:48Z",
+        "uri": "http://web.archive.org/web/20080730153948/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-05T02:30:07Z",
+        "uri": "http://web.archive.org/web/20080805023007/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-06T05:04:11Z",
+        "uri": "http://web.archive.org/web/20080806050411/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-07T06:23:47Z",
+        "uri": "http://web.archive.org/web/20080807062347/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-08T06:58:16Z",
+        "uri": "http://web.archive.org/web/20080808065816/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-09T13:02:07Z",
+        "uri": "http://web.archive.org/web/20080809130207/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-10T16:14:30Z",
+        "uri": "http://web.archive.org/web/20080810161430/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-11T16:51:39Z",
+        "uri": "http://web.archive.org/web/20080811165139/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-12T18:42:28Z",
+        "uri": "http://web.archive.org/web/20080812184228/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-13T19:34:01Z",
+        "uri": "http://web.archive.org/web/20080813193401/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-14T20:26:00Z",
+        "uri": "http://web.archive.org/web/20080814202600/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-16T01:43:38Z",
+        "uri": "http://web.archive.org/web/20080816014338/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-17T01:45:06Z",
+        "uri": "http://web.archive.org/web/20080817014506/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-18T01:25:00Z",
+        "uri": "http://web.archive.org/web/20080818012500/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-19T13:22:17Z",
+        "uri": "http://web.archive.org/web/20080819132217/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-21T04:43:31Z",
+        "uri": "http://web.archive.org/web/20080821044331/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-22T05:31:14Z",
+        "uri": "http://web.archive.org/web/20080822053114/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-23T06:49:47Z",
+        "uri": "http://web.archive.org/web/20080823064947/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-24T07:11:07Z",
+        "uri": "http://web.archive.org/web/20080824071107/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-25T07:56:28Z",
+        "uri": "http://web.archive.org/web/20080825075628/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-26T09:03:54Z",
+        "uri": "http://web.archive.org/web/20080826090354/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-27T09:16:38Z",
+        "uri": "http://web.archive.org/web/20080827091638/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-28T10:29:25Z",
+        "uri": "http://web.archive.org/web/20080828102925/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-08-29T14:27:05Z",
+        "uri": "http://web.archive.org/web/20080829142705/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-09-01T22:02:05Z",
+        "uri": "http://web.archive.org/web/20080901220205/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-09-14T22:45:55Z",
+        "uri": "http://web.archive.org/web/20080914224555/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-10-12T18:42:09Z",
+        "uri": "http://web.archive.org/web/20081012184209/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-10-30T08:52:07Z",
+        "uri": "http://web.archive.org/web/20081030085207/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-11-12T09:02:59Z",
+        "uri": "http://web.archive.org/web/20081112090259/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-12-05T04:48:42Z",
+        "uri": "http://web.archive.org/web/20081205044842/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-12-17T04:28:51Z",
+        "uri": "http://web.archive.org/web/20081217042851/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2008-12-20T11:44:40Z",
+        "uri": "http://web.archive.org/web/20081220114440/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2009-01-26T20:47:09Z",
+        "uri": "http://web.archive.org/web/20090126204709/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2009-02-07T09:15:02Z",
+        "uri": "http://web.archive.org/web/20090207091502/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2009-02-20T13:35:04Z",
+        "uri": "http://web.archive.org/web/20090220133504/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2009-03-06T07:02:39Z",
+        "uri": "http://web.archive.org/web/20090306070239/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2010-01-04T17:23:10Z",
+        "uri": "http://web.archive.org/web/20100104172310/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2010-02-08T10:04:14Z",
+        "uri": "http://web.archive.org/web/20100208100414/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2010-12-31T01:12:51Z",
+        "uri": "http://web.archive.org/web/20101231011251/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2011-08-11T06:06:15Z",
+        "uri": "http://web.archive.org/web/20110811060615/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2011-10-19T14:04:23Z",
+        "uri": "http://web.archive.org/web/20111019140423/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2011-11-19T13:28:43Z",
+        "uri": "http://web.archive.org/web/20111119132843/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2011-12-20T07:17:09Z",
+        "uri": "http://web.archive.org/web/20111220071709/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2012-04-28T06:34:09Z",
+        "uri": "http://web.archive.org/web/20120428063409/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2012-06-20T16:10:02Z",
+        "uri": "http://web.archive.org/web/20120620161002/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2012-08-15T07:49:00Z",
+        "uri": "http://web.archive.org/web/20120815074900/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2012-09-15T14:21:44Z",
+        "uri": "http://web.archive.org/web/20120915142144/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2012-10-28T21:25:24Z",
+        "uri": "http://web.archive.org/web/20121028212524/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2012-10-30T21:58:05Z",
+        "uri": "http://wayback.archive-it.org/all/20121030215805/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2012-10-30T21:58:05Z",
+        "uri": "http://web.archive.org/web/20121030215805/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2012-12-08T03:06:11Z",
+        "uri": "http://web.archive.org/web/20121208030611/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2012-12-09T12:15:02Z",
+        "uri": "http://web.archive.org/web/20121209121502/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2012-12-16T15:11:11Z",
+        "uri": "http://web.archive.org/web/20121216151111/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2012-12-23T12:13:34Z",
+        "uri": "http://web.archive.org/web/20121223121334/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2012-12-26T01:48:57Z",
+        "uri": "http://web.archive.org/web/20121226014857/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2013-01-31T07:33:15Z",
+        "uri": "http://web.archive.org/web/20130131073315/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2013-04-02T20:02:42Z",
+        "uri": "http://web.archive.org/web/20130402200242/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2013-04-30T08:46:54Z",
+        "uri": "http://web.archive.org/web/20130430084654/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2013-05-21T00:17:05Z",
+        "uri": "http://web.archive.org/web/20130521001705/http://4vision.biz/"
+      },
+      {
+        "datetime": "2013-05-28T22:27:55Z",
+        "uri": "http://web.archive.org/web/20130528222755/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2013-06-04T01:42:56Z",
+        "uri": "http://web.archive.org/web/20130604014256/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2013-07-28T00:00:34Z",
+        "uri": "http://web.archive.org/web/20130728000034/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2013-08-10T14:10:45Z",
+        "uri": "http://web.archive.org/web/20130810141045/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2013-10-09T21:00:25Z",
+        "uri": "http://web.archive.org/web/20131009210025/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2013-11-09T12:53:36Z",
+        "uri": "http://web.archive.org/web/20131109125336/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2014-05-16T23:35:09Z",
+        "uri": "http://web.archive.org/web/20140516233509/http://4vision.biz/"
+      },
+      {
+        "datetime": "2014-07-24T08:02:01Z",
+        "uri": "http://web.archive.org/web/20140724080201/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2014-12-16T18:59:43Z",
+        "uri": "http://web.archive.org/web/20141216185943/http://4vision.biz/"
+      },
+      {
+        "datetime": "2015-02-02T03:36:32Z",
+        "uri": "http://web.archive.org/web/20150202033632/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2015-02-06T20:12:22Z",
+        "uri": "http://web.archive.org/web/20150206201222/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2015-04-05T04:14:29Z",
+        "uri": "http://web.archive.org/web/20150405041429/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2015-05-12T09:28:47Z",
+        "uri": "http://web.archive.org/web/20150512092847/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2015-07-07T00:36:58Z",
+        "uri": "http://web.archive.org/web/20150707003658/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2015-08-01T02:30:39Z",
+        "uri": "http://web.archive.org/web/20150801023039/http://4vision.biz/"
+      },
+      {
+        "datetime": "2015-08-10T20:18:18Z",
+        "uri": "http://web.archive.org/web/20150810201818/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2015-09-27T04:09:54Z",
+        "uri": "http://web.archive.org/web/20150927040954/http://4vision.biz/"
+      },
+      {
+        "datetime": "2016-01-09T15:49:05Z",
+        "uri": "http://web.archive.org/web/20160109154905/http://4vision.biz/"
+      },
+      {
+        "datetime": "2016-01-27T20:48:30Z",
+        "uri": "http://web.archive.org/web/20160127204830/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-02-06T18:03:52Z",
+        "uri": "http://web.archive.org/web/20160206180352/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-03-05T08:08:06Z",
+        "uri": "http://web.archive.org/web/20160305080806/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-03-05T08:19:14Z",
+        "uri": "http://web.archive.org/web/20160305081914/http://4vision.biz/"
+      },
+      {
+        "datetime": "2016-03-05T12:19:54Z",
+        "uri": "http://web.archive.org/web/20160305121954/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-03-05T12:45:06Z",
+        "uri": "http://web.archive.org/web/20160305124506/http://4vision.biz/"
+      },
+      {
+        "datetime": "2016-03-19T03:52:55Z",
+        "uri": "http://web.archive.org/web/20160319035255/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-03-20T18:07:38Z",
+        "uri": "http://web.archive.org/web/20160320180738/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-06-19T03:05:53Z",
+        "uri": "http://web.archive.org/web/20160619030553/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2016-07-20T18:28:48Z",
+        "uri": "http://web.archive.org/web/20160720182848/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2016-08-21T18:52:57Z",
+        "uri": "http://web.archive.org/web/20160821185257/http://4vision.biz:80/"
+      },
+      {
+        "datetime": "2016-09-22T20:51:31Z",
+        "uri": "http://web.archive.org/web/20160922205131/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2016-10-02T16:47:20Z",
+        "uri": "http://web.archive.org/web/20161002164720/http://4vision.biz/"
+      },
+      {
+        "datetime": "2016-10-17T14:40:22Z",
+        "uri": "http://web.archive.org/web/20161017144022/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2016-10-26T10:24:08Z",
+        "uri": "http://web.archive.org/web/20161026102408/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2016-12-27T09:09:11Z",
+        "uri": "http://web.archive.org/web/20161227090911/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2017-06-11T10:20:40Z",
+        "uri": "http://web.archive.org/web/20170611102040/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2017-06-25T19:15:00Z",
+        "uri": "http://web.archive.org/web/20170625191500/http://4vision.biz/"
+      },
+      {
+        "datetime": "2017-08-24T02:00:37Z",
+        "uri": "http://web.archive.org/web/20170824020037/http://www.4vision.biz:80/"
+      },
+      {
+        "datetime": "2017-08-30T05:23:44Z",
+        "uri": "http://web.archive.org/web/20170830052344/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2017-08-30T20:58:38Z",
+        "uri": "http://web.archive.org/web/20170830205838/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2017-09-24T17:27:15Z",
+        "uri": "http://web.archive.org/web/20170924172715/http://4vision.biz/"
+      },
+      {
+        "datetime": "2017-12-11T01:28:14Z",
+        "uri": "http://web.archive.org/web/20171211012814/http://www.4vision.biz"
+      },
+      {
+        "datetime": "2017-12-21T12:59:38Z",
+        "uri": "http://web.archive.org/web/20171221125938/http://www.4vision.biz"
+      },
+      {
+        "datetime": "2018-01-29T14:05:01Z",
+        "uri": "http://web.archive.org/web/20180129140501/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2018-03-02T06:31:55Z",
+        "uri": "http://web.archive.org/web/20180302063155/http://www.4vision.biz/"
+      },
+      {
+        "datetime": "2018-03-15T06:02:16Z",
+        "uri": "http://web.archive.org/web/20180315060216/http://4vision.biz/"
+      }
+    ],
+    "first": {
+      "datetime": "2004-01-22T20:37:50Z",
+      "uri": "http://web.archive.org/web/20040122203750/http://4vision.biz:80/"
+    },
+    "last": {
+      "datetime": "2018-03-15T06:02:16Z",
+      "uri": "http://web.archive.org/web/20180315060216/http://4vision.biz/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.4vision.biz",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.4vision.biz",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.4vision.biz"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.4vision.biz"
+}
+

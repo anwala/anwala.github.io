@@ -1,0 +1,91 @@
+{
+  "original_uri": "http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T17:00:11Z",
+        "uri": "http://web.archive.org/web/20180131170011/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-01T09:51:27Z",
+        "uri": "http://web.archive.org/web/20180201095127/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-01T20:46:15Z",
+        "uri": "http://web.archive.org/web/20180201204615/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-01T21:01:56Z",
+        "uri": "http://web.archive.org/web/20180201210156/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-02T01:07:22Z",
+        "uri": "http://web.archive.org/web/20180202010722/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-02T10:27:37Z",
+        "uri": "http://web.archive.org/web/20180202102737/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-03T10:51:47Z",
+        "uri": "http://web.archive.org/web/20180203105147/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-04T11:31:17Z",
+        "uri": "http://web.archive.org/web/20180204113117/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-05T11:49:45Z",
+        "uri": "http://web.archive.org/web/20180205114945/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-06T12:40:44Z",
+        "uri": "http://web.archive.org/web/20180206124044/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-07T13:20:32Z",
+        "uri": "http://web.archive.org/web/20180207132032/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-08T16:11:38Z",
+        "uri": "http://web.archive.org/web/20180208161138/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-09T16:35:35Z",
+        "uri": "http://web.archive.org/web/20180209163535/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-10T16:26:39Z",
+        "uri": "http://web.archive.org/web/20180210162639/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-11T17:25:06Z",
+        "uri": "http://web.archive.org/web/20180211172506/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-12T18:20:53Z",
+        "uri": "http://web.archive.org/web/20180212182053/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      },
+      {
+        "datetime": "2018-02-15T14:54:02Z",
+        "uri": "http://web.archive.org/web/20180215145402/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T17:00:11Z",
+      "uri": "http://web.archive.org/web/20180131170011/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+    },
+    "last": {
+      "datetime": "2018-02-15T14:54:02Z",
+      "uri": "http://web.archive.org/web/20180215145402/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/world/2018/01/31/top-secret-files-left-in-filing-cabinets-sold-at-second-hand-shop.html"
+}
+

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+  "uri": "https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+  "estimated-creation-date": "2018-01-31T13:48:32",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131182056/https://www.gov.uk/government/news/government-publishes-police-reserves-to-increase-transparency",
+      "memento-datetime": "2018-01-31T18:20:56",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T18:20:56"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:48:32"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://brtupdates.blog/2018/01/31/top-government-official-stabs-his-wife-on-the-head-and-chest-flees-home/",
+  "uri": "https://brtupdates.blog/2018/01/31/top-government-official-stabs-his-wife-on-the-head-and-chest-flees-home/",
+  "estimated-creation-date": "2018-01-31T15:43:47",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:43:47"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

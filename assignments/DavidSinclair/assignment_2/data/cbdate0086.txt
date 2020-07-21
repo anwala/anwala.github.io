@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://macdailynews.com/2018/01/31/apple-confirms-u-s-government-inquiries-over-throttling-iphones-with-aging-batteries/",
+  "uri": "http://macdailynews.com/2018/01/31/apple-confirms-u-s-government-inquiries-over-throttling-iphones-with-aging-batteries/",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131203527/http://macdailynews.com/2018/01/31/apple-confirms-u-s-government-inquiries-over-throttling-iphones-with-aging-batteries/",
+      "memento-datetime": "2018-01-31T20:33:56",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T20:33:56"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:28:21"
+    }
+  }
+}

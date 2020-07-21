@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-04T05:48:07Z",
+        "uri": "http://wayback.archive-it.org/all/20180204054807/https://www.jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition"
+      },
+      {
+        "datetime": "2018-02-04T05:48:07Z",
+        "uri": "http://web.archive.org/web/20180204054807/https://www.jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-04T05:48:07Z",
+      "uri": "http://wayback.archive-it.org/all/20180204054807/https://www.jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition"
+    },
+    "last": {
+      "datetime": "2018-02-04T05:48:07Z",
+      "uri": "http://web.archive.org/web/20180204054807/https://www.jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition"
+}
+

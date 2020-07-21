@@ -1,0 +1,43 @@
+{
+  "original_uri": "https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:30:18Z",
+        "uri": "http://web.archive.org/web/20180131193018/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+      },
+      {
+        "datetime": "2018-02-01T02:03:39Z",
+        "uri": "http://web.archive.org/web/20180201020339/http://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+      },
+      {
+        "datetime": "2018-02-01T02:39:02Z",
+        "uri": "http://web.archive.org/web/20180201023902/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+      },
+      {
+        "datetime": "2018-02-01T06:51:41Z",
+        "uri": "http://web.archive.org/web/20180201065141/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+      },
+      {
+        "datetime": "2018-02-25T07:27:57Z",
+        "uri": "http://web.archive.org/web/20180225072757/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:30:18Z",
+      "uri": "http://web.archive.org/web/20180131193018/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+    },
+    "last": {
+      "datetime": "2018-02-25T07:27:57Z",
+      "uri": "http://web.archive.org/web/20180225072757/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://talkingpointsmemo.com/livewire/sanders-pelosi-should-smile-more"
+}
+

@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+  "uri": "https://jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+  "estimated-creation-date": "2018-01-31T15:12:25",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180204054807/https://www.jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+      "memento-datetime": "2018-02-04T05:48:07",
+      "memento-pubdate": "",
+      "earliest": "2018-02-04T05:48:07"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180204054807/https://www.jacobinmag.com/2018/01/germany-elections-cdu-spd-merkel-schulz-coalition",
+      "memento-datetime": "2018-02-04T05:48:07",
+      "memento-pubdate": "",
+      "earliest": "2018-02-04T05:48:07"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:12:25"
+    }
+  }
+}

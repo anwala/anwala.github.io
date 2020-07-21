@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+  "uri": "https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+  "estimated-creation-date": "2018-01-31T06:34:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131165504/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+      "memento-datetime": "2018-01-31T16:20:37",
+      "memento-pubdate": "2018-01-31T06:34:00",
+      "earliest": "2018-01-31T06:34:00"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T16:20:37"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:53:59"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T06:34:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:28:34"
+    }
+  }
+}

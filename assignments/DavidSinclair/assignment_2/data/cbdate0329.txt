@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+  "uri": "http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+  "estimated-creation-date": "2018-01-30T23:59:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131103150/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+      "memento-datetime": "2018-01-31T05:59:00",
+      "memento-pubdate": "2018-01-30T23:59:00",
+      "earliest": "2018-01-30T23:59:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T05:59:00"
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T23:59:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

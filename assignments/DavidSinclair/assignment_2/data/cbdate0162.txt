@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://act.greenpeace.org/page/18489/action/1?utm_campaign=Climate-Bight&utm_source=facebook&utm_term=FBSPR&utm_medium=social&bucket=Climate-Bight&source=ca_Climate-Bight_.uso_facebook_.uter_FBSPR_.umed_social_._20180129125609_&src=FBSPR&ea.tracking.id=ca_Climate-Bight_.uso_facebook_.uter_FBSPR_.umed_social_._20180129125609_",
+  "uri": "https://act.greenpeace.org/page/18489/action/1?utm_campaign=Climate-Bight&utm_source=facebook&utm_term=FBSPR&utm_medium=social&bucket=Climate-Bight&source=ca_Climate-Bight_.uso_facebook_.uter_FBSPR_.umed_social_._20180129125609_&src=FBSPR&ea.tracking.id=ca_Climate-Bight_.uso_facebook_.uter_FBSPR_.umed_social_._20180129125609_",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

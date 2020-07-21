@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+  "uri": "http://thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+  "estimated-creation-date": "2018-02-02T19:55:34",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180202195534/http://www.thenational.scot/news/15907732.Has_Mundell____grossly_misled____Scottish_public_on_Brexit_impact_report_/",
+      "memento-datetime": "2018-02-02T19:55:34",
+      "memento-pubdate": "",
+      "earliest": "2018-02-02T19:55:34"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

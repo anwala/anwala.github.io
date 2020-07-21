@@ -1,0 +1,751 @@
+{
+  "original_uri": "http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-10-21T12:59:04Z",
+        "uri": "http://web.archive.org/web/20171021125904/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-21T17:01:22Z",
+        "uri": "http://web.archive.org/web/20171021170122/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-21T17:32:07Z",
+        "uri": "http://web.archive.org/web/20171021173207/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-21T20:12:00Z",
+        "uri": "http://archive.is/20171021201200/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-22T07:01:13Z",
+        "uri": "http://web.archive.org/web/20171022070113/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-22T17:51:52Z",
+        "uri": "http://web.archive.org/web/20171022175152/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-22T23:38:36Z",
+        "uri": "http://web.archive.org/web/20171022233836/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T00:01:28Z",
+        "uri": "http://web.archive.org/web/20171023000128/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T01:00:29Z",
+        "uri": "http://web.archive.org/web/20171023010029/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T05:41:59Z",
+        "uri": "http://web.archive.org/web/20171023054159/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T07:05:19Z",
+        "uri": "http://web.archive.org/web/20171023070519/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T08:11:09Z",
+        "uri": "http://web.archive.org/web/20171023081109/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T08:26:26Z",
+        "uri": "http://web.archive.org/web/20171023082626/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T09:01:09Z",
+        "uri": "http://web.archive.org/web/20171023090109/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T09:31:39Z",
+        "uri": "http://web.archive.org/web/20171023093139/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T10:01:41Z",
+        "uri": "http://web.archive.org/web/20171023100141/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T10:36:17Z",
+        "uri": "http://web.archive.org/web/20171023103617/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-23T22:38:35Z",
+        "uri": "http://web.archive.org/web/20171023223835/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T03:31:05Z",
+        "uri": "http://web.archive.org/web/20171024033105/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T08:15:06Z",
+        "uri": "http://web.archive.org/web/20171024081506/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T08:25:30Z",
+        "uri": "http://web.archive.org/web/20171024082530/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T08:36:28Z",
+        "uri": "http://web.archive.org/web/20171024083628/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T08:46:52Z",
+        "uri": "http://web.archive.org/web/20171024084652/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T09:02:31Z",
+        "uri": "http://web.archive.org/web/20171024090231/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T09:17:08Z",
+        "uri": "http://web.archive.org/web/20171024091708/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T09:28:40Z",
+        "uri": "http://web.archive.org/web/20171024092840/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T09:40:21Z",
+        "uri": "http://web.archive.org/web/20171024094021/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T11:11:04Z",
+        "uri": "http://web.archive.org/web/20171024111104/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T11:21:28Z",
+        "uri": "http://web.archive.org/web/20171024112128/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T13:08:58Z",
+        "uri": "http://web.archive.org/web/20171024130858/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T23:00:53Z",
+        "uri": "http://web.archive.org/web/20171024230053/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T23:05:46Z",
+        "uri": "http://web.archive.org/web/20171024230546/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T23:26:22Z",
+        "uri": "http://web.archive.org/web/20171024232622/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-24T23:39:04Z",
+        "uri": "http://web.archive.org/web/20171024233904/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T00:03:15Z",
+        "uri": "http://web.archive.org/web/20171025000315/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T01:23:31Z",
+        "uri": "http://web.archive.org/web/20171025012331/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T03:01:09Z",
+        "uri": "http://web.archive.org/web/20171025030109/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T05:50:34Z",
+        "uri": "http://web.archive.org/web/20171025055034/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T09:31:40Z",
+        "uri": "http://web.archive.org/web/20171025093140/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T10:02:20Z",
+        "uri": "http://web.archive.org/web/20171025100220/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T18:57:17Z",
+        "uri": "http://web.archive.org/web/20171025185717/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T20:18:40Z",
+        "uri": "http://web.archive.org/web/20171025201840/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T22:19:48Z",
+        "uri": "http://web.archive.org/web/20171025221948/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-25T23:01:55Z",
+        "uri": "http://web.archive.org/web/20171025230155/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T01:30:25Z",
+        "uri": "http://web.archive.org/web/20171026013025/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T05:01:36Z",
+        "uri": "http://web.archive.org/web/20171026050136/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T06:38:28Z",
+        "uri": "http://web.archive.org/web/20171026063828/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T07:07:03Z",
+        "uri": "http://web.archive.org/web/20171026070703/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T07:17:10Z",
+        "uri": "http://web.archive.org/web/20171026071710/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T07:19:19Z",
+        "uri": "http://web.archive.org/web/20171026071919/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T07:38:26Z",
+        "uri": "http://web.archive.org/web/20171026073826/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T07:49:31Z",
+        "uri": "http://web.archive.org/web/20171026074931/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T08:31:34Z",
+        "uri": "http://web.archive.org/web/20171026083134/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T09:02:16Z",
+        "uri": "http://web.archive.org/web/20171026090216/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T11:14:22Z",
+        "uri": "http://web.archive.org/web/20171026111422/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T15:30:51Z",
+        "uri": "http://web.archive.org/web/20171026153051/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T16:22:26Z",
+        "uri": "http://web.archive.org/web/20171026162226/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T16:31:43Z",
+        "uri": "http://web.archive.org/web/20171026163143/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T16:32:31Z",
+        "uri": "http://web.archive.org/web/20171026163231/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T16:39:46Z",
+        "uri": "http://web.archive.org/web/20171026163946/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T20:34:30Z",
+        "uri": "http://web.archive.org/web/20171026203430/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T20:35:13Z",
+        "uri": "http://archive.is/20171026203513/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-26T23:01:24Z",
+        "uri": "http://web.archive.org/web/20171026230124/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T03:02:02Z",
+        "uri": "http://web.archive.org/web/20171027030202/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T07:25:00Z",
+        "uri": "http://web.archive.org/web/20171027072500/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T07:54:52Z",
+        "uri": "http://web.archive.org/web/20171027075452/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T10:31:19Z",
+        "uri": "http://web.archive.org/web/20171027103119/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T10:41:35Z",
+        "uri": "http://web.archive.org/web/20171027104135/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T10:52:55Z",
+        "uri": "http://web.archive.org/web/20171027105255/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T11:31:19Z",
+        "uri": "http://web.archive.org/web/20171027113119/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T12:02:18Z",
+        "uri": "http://web.archive.org/web/20171027120218/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T23:34:14Z",
+        "uri": "http://web.archive.org/web/20171027233414/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-27T23:46:23Z",
+        "uri": "http://web.archive.org/web/20171027234623/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T00:15:53Z",
+        "uri": "http://web.archive.org/web/20171028001553/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T13:34:04Z",
+        "uri": "http://web.archive.org/web/20171028133404/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T19:01:19Z",
+        "uri": "http://web.archive.org/web/20171028190119/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T19:31:28Z",
+        "uri": "http://web.archive.org/web/20171028193128/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T20:01:59Z",
+        "uri": "http://web.archive.org/web/20171028200159/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T21:22:01Z",
+        "uri": "http://web.archive.org/web/20171028212201/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T22:26:06Z",
+        "uri": "http://web.archive.org/web/20171028222606/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T23:59:56Z",
+        "uri": "http://web.archive.org/web/20171028235956/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-28T23:59:57Z",
+        "uri": "http://web.archive.org/web/20171028235957/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T02:42:06Z",
+        "uri": "http://web.archive.org/web/20171029024206/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T02:43:03Z",
+        "uri": "http://web.archive.org/web/20171029024303/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T02:55:18Z",
+        "uri": "http://web.archive.org/web/20171029025518/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T03:05:21Z",
+        "uri": "http://web.archive.org/web/20171029030521/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T03:15:49Z",
+        "uri": "http://web.archive.org/web/20171029031549/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T03:26:02Z",
+        "uri": "http://web.archive.org/web/20171029032602/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T11:01:19Z",
+        "uri": "http://web.archive.org/web/20171029110119/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T13:01:33Z",
+        "uri": "http://web.archive.org/web/20171029130133/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T14:16:23Z",
+        "uri": "http://web.archive.org/web/20171029141623/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T14:34:59Z",
+        "uri": "http://web.archive.org/web/20171029143459/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-29T18:33:02Z",
+        "uri": "http://web.archive.org/web/20171029183302/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-30T01:19:51Z",
+        "uri": "http://wayback.archive-it.org/all/20171030011951/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-30T01:19:51Z",
+        "uri": "http://web.archive.org/web/20171030011951/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-30T03:02:35Z",
+        "uri": "http://web.archive.org/web/20171030030235/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-31T01:19:31Z",
+        "uri": "http://wayback.archive-it.org/all/20171031011931/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-31T01:19:31Z",
+        "uri": "http://web.archive.org/web/20171031011931/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-31T13:58:25Z",
+        "uri": "http://web.archive.org/web/20171031135825/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-10-31T14:10:33Z",
+        "uri": "http://web.archive.org/web/20171031141033/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-01T12:46:45Z",
+        "uri": "http://web.archive.org/web/20171101124645/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-01T19:17:12Z",
+        "uri": "http://web.archive.org/web/20171101191712/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-02T12:27:17Z",
+        "uri": "http://web.archive.org/web/20171102122717/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-02T12:40:24Z",
+        "uri": "http://web.archive.org/web/20171102124024/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-03T07:28:04Z",
+        "uri": "http://web.archive.org/web/20171103072804/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-03T07:41:14Z",
+        "uri": "http://web.archive.org/web/20171103074114/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-03T07:51:21Z",
+        "uri": "http://web.archive.org/web/20171103075121/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-03T08:02:55Z",
+        "uri": "http://web.archive.org/web/20171103080255/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-05T02:24:03Z",
+        "uri": "http://web.archive.org/web/20171105022403/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-05T02:40:12Z",
+        "uri": "http://web.archive.org/web/20171105024012/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-05T02:50:24Z",
+        "uri": "http://web.archive.org/web/20171105025024/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-05T03:01:31Z",
+        "uri": "http://web.archive.org/web/20171105030131/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-06T09:08:17Z",
+        "uri": "http://web.archive.org/web/20171106090817/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-06T19:05:22Z",
+        "uri": "http://web.archive.org/web/20171106190522/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-06T23:14:03Z",
+        "uri": "http://web.archive.org/web/20171106231403/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-10T23:58:14Z",
+        "uri": "http://web.archive.org/web/20171110235814/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-11T00:08:17Z",
+        "uri": "http://web.archive.org/web/20171111000817/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-11T00:23:21Z",
+        "uri": "http://web.archive.org/web/20171111002321/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-12T17:40:34Z",
+        "uri": "http://web.archive.org/web/20171112174034/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-14T10:32:06Z",
+        "uri": "http://web.archive.org/web/20171114103206/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-14T10:42:23Z",
+        "uri": "http://web.archive.org/web/20171114104223/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-14T10:53:37Z",
+        "uri": "http://web.archive.org/web/20171114105337/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-14T11:05:12Z",
+        "uri": "http://web.archive.org/web/20171114110512/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-15T16:07:01Z",
+        "uri": "http://web.archive.org/web/20171115160701/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-16T00:06:19Z",
+        "uri": "http://web.archive.org/web/20171116000619/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-16T19:19:45Z",
+        "uri": "http://web.archive.org/web/20171116191945/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-18T03:35:54Z",
+        "uri": "http://web.archive.org/web/20171118033554/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-21T00:23:42Z",
+        "uri": "http://web.archive.org/web/20171121002342/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-11-22T23:07:55Z",
+        "uri": "http://web.archive.org/web/20171122230755/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-03T06:43:12Z",
+        "uri": "http://web.archive.org/web/20171203064312/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-03T06:56:36Z",
+        "uri": "http://web.archive.org/web/20171203065636/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-03T07:09:02Z",
+        "uri": "http://web.archive.org/web/20171203070902/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-03T07:20:34Z",
+        "uri": "http://web.archive.org/web/20171203072034/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-03T07:31:56Z",
+        "uri": "http://web.archive.org/web/20171203073156/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-03T07:45:26Z",
+        "uri": "http://web.archive.org/web/20171203074526/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-05T07:54:49Z",
+        "uri": "http://web.archive.org/web/20171205075449/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-07T00:23:06Z",
+        "uri": "http://web.archive.org/web/20171207002306/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-07T00:46:10Z",
+        "uri": "http://web.archive.org/web/20171207004610/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-07T01:00:00Z",
+        "uri": "http://web.archive.org/web/20171207010000/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-12T14:55:53Z",
+        "uri": "http://web.archive.org/web/20171212145553/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-12T14:55:58Z",
+        "uri": "http://web.archive.org/web/20171212145558/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-14T21:58:11Z",
+        "uri": "http://web.archive.org/web/20171214215811/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T16:46:34Z",
+        "uri": "http://web.archive.org/web/20171219164634/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T17:01:19Z",
+        "uri": "http://web.archive.org/web/20171219170119/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T17:02:28Z",
+        "uri": "http://web.archive.org/web/20171219170228/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T17:15:32Z",
+        "uri": "http://web.archive.org/web/20171219171532/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T17:30:33Z",
+        "uri": "http://web.archive.org/web/20171219173033/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T17:45:30Z",
+        "uri": "http://web.archive.org/web/20171219174530/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T18:00:44Z",
+        "uri": "http://web.archive.org/web/20171219180044/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T18:15:36Z",
+        "uri": "http://web.archive.org/web/20171219181536/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T18:30:51Z",
+        "uri": "http://web.archive.org/web/20171219183051/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T18:45:49Z",
+        "uri": "http://web.archive.org/web/20171219184549/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T19:00:55Z",
+        "uri": "http://web.archive.org/web/20171219190055/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T23:23:12Z",
+        "uri": "http://web.archive.org/web/20171219232312/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T23:33:57Z",
+        "uri": "http://web.archive.org/web/20171219233357/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-19T23:44:35Z",
+        "uri": "http://web.archive.org/web/20171219234435/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-20T01:06:32Z",
+        "uri": "http://web.archive.org/web/20171220010632/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-21T17:40:17Z",
+        "uri": "http://web.archive.org/web/20171221174017/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-23T02:23:42Z",
+        "uri": "http://web.archive.org/web/20171223022342/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-23T06:52:22Z",
+        "uri": "http://web.archive.org/web/20171223065222/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-25T03:41:12Z",
+        "uri": "http://wayback.archive-it.org/all/20171225034112/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2017-12-25T03:41:12Z",
+        "uri": "http://web.archive.org/web/20171225034112/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-03T22:29:09Z",
+        "uri": "http://web.archive.org/web/20180103222909/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-04T01:37:47Z",
+        "uri": "http://web.archive.org/web/20180104013747/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-04T18:08:52Z",
+        "uri": "http://web.archive.org/web/20180104180852/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-05T11:09:32Z",
+        "uri": "http://web.archive.org/web/20180105110932/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-05T11:23:25Z",
+        "uri": "http://web.archive.org/web/20180105112325/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-05T11:35:47Z",
+        "uri": "http://web.archive.org/web/20180105113547/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-05T23:08:34Z",
+        "uri": "http://web.archive.org/web/20180105230834/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-08T14:01:04Z",
+        "uri": "http://web.archive.org/web/20180108140104/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-08T14:13:38Z",
+        "uri": "http://web.archive.org/web/20180108141338/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-10T00:02:49Z",
+        "uri": "http://web.archive.org/web/20180110000249/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-16T23:10:30Z",
+        "uri": "http://wayback.archive-it.org/all/20180116231030/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-16T23:10:30Z",
+        "uri": "http://web.archive.org/web/20180116231030/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-17T23:32:05Z",
+        "uri": "http://web.archive.org/web/20180117233205/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-20T01:50:23Z",
+        "uri": "http://web.archive.org/web/20180120015023/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-24T19:25:37Z",
+        "uri": "http://wayback.archive-it.org/all/20180124192537/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-01-24T19:25:37Z",
+        "uri": "http://web.archive.org/web/20180124192537/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-02-02T16:57:46Z",
+        "uri": "http://web.archive.org/web/20180202165746/https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-02-02T22:30:57Z",
+        "uri": "http://web.archive.org/web/20180202223057/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-02-04T03:11:38Z",
+        "uri": "http://perma-archives.org/warc/20180204031138/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      },
+      {
+        "datetime": "2018-02-04T03:11:38Z",
+        "uri": "http://web.archive.org/web/20180204031138/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+      }
+    ],
+    "first": {
+      "datetime": "2017-10-21T12:59:04Z",
+      "uri": "http://web.archive.org/web/20171021125904/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+    },
+    "last": {
+      "datetime": "2018-02-04T03:11:38Z",
+      "uri": "http://web.archive.org/web/20180204031138/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion"
+}
+

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+  "uri": "http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+  "estimated-creation-date": "2018-01-31T04:09:18",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131125151/http://www.newsweek.com/top-secret-government-files-found-second-hand-shop-795840",
+      "memento-datetime": "2018-01-31T12:19:08",
+      "memento-pubdate": "2018-01-31T04:09:18",
+      "earliest": "2018-01-31T04:09:18"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T23:52:01"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T04:09:18"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:45:08"
+    }
+  }
+}

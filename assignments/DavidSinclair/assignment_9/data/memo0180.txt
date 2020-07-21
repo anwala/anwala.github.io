@@ -1,0 +1,79 @@
+{
+  "original_uri": "https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-11-13T08:19:28Z",
+        "uri": "http://webarchive.loc.gov/all/20151113081928/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2015-11-17T02:11:02Z",
+        "uri": "http://web.archive.org/web/20151117021102/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2016-03-16T11:36:34Z",
+        "uri": "http://web.archive.org/web/20160316113634/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2016-07-04T03:00:06Z",
+        "uri": "http://web.archive.org/web/20160704030006/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2016-08-05T15:29:35Z",
+        "uri": "http://web.archive.org/web/20160805152935/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2016-08-26T05:20:50Z",
+        "uri": "http://web.archive.org/web/20160826052050/https://www.mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-08-09T02:35:59Z",
+        "uri": "http://web.archive.org/web/20170809023559/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-09-01T13:27:12Z",
+        "uri": "http://web.archive.org/web/20170901132712/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-09-01T22:58:34Z",
+        "uri": "http://web.archive.org/web/20170901225834/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-09-30T04:37:21Z",
+        "uri": "http://web.archive.org/web/20170930043721/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-10-20T18:19:43Z",
+        "uri": "http://web.archive.org/web/20171020181943/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-12-22T14:56:18Z",
+        "uri": "http://web.archive.org/web/20171222145618/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2017-12-22T19:19:12Z",
+        "uri": "http://web.archive.org/web/20171222191912/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      },
+      {
+        "datetime": "2018-01-31T13:03:49Z",
+        "uri": "http://web.archive.org/web/20180131130349/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-11-13T08:19:28Z",
+      "uri": "http://webarchive.loc.gov/all/20151113081928/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+    },
+    "last": {
+      "datetime": "2018-01-31T13:03:49Z",
+      "uri": "http://web.archive.org/web/20180131130349/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://mattdehart.com/2015/11/12/government-threatens-40-years-in-jail-matt-dehart-forced-into-plea-deal/"
+}
+

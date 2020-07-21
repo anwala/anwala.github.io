@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+  "uri": "https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+  "estimated-creation-date": "2015-02-10T20:52:33",
+  "earliest-sources": [
+    "webarchive.loc.gov"
+  ],
+  "sources": {
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20150210205233/http://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+      "memento-datetime": "2015-02-10T20:52:33",
+      "memento-pubdate": "",
+      "earliest": "2015-02-10T20:52:33"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20150906123418/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+      "memento-datetime": "2015-09-06T12:34:18",
+      "memento-pubdate": "",
+      "earliest": "2015-09-06T12:34:18"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170121030300/https://www.stlouisfed.org/publications/central-banker/spring-2013/is-the-fed-monetizing-government-debt",
+      "memento-datetime": "2017-01-21T03:03:00",
+      "memento-pubdate": "",
+      "earliest": "2017-01-21T03:03:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:28:58"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf",
+  "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf",
+  "estimated-creation-date": "2018-01-31T11:07:06",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T11:07:06"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:36:03"
+    }
+  }
+}

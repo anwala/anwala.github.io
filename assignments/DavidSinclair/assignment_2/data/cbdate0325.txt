@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/news/world/politics/modern-slavery-global-fund-davos-us-uk-government-a8176801.html",
+  "uri": "http://www.independent.co.uk/news/world/politics/modern-slavery-global-fund-davos-us-uk-government-a8176801.html",
+  "estimated-creation-date": "2018-01-24T23:26:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180125054930/http://www.independent.co.uk/news/world/politics/modern-slavery-global-fund-davos-us-uk-government-a8176801.html",
+      "memento-datetime": "2018-01-25T00:35:42",
+      "memento-pubdate": "2018-01-24T23:26:00",
+      "earliest": "2018-01-24T23:26:00"
+    },
+    "backlinks": {
+      "earliest": "2018-01-25T00:35:42"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-25T00:35:42"
+    },
+    "pubdate": {
+      "earliest": "2018-01-24T23:26:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-25T08:37:37"
+    }
+  }
+}

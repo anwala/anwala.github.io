@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.change.org/p/chinese-government-cui-tiankai-governor-mr-chen-wu-enought-is-enought-china-stop-to-torture-ore-pets-shame-on-you-the-world-is-watching-you?recruiter=194406836&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_petition&utm_term=share_petition",
+  "uri": "https://www.change.org/p/chinese-government-cui-tiankai-governor-mr-chen-wu-enought-is-enought-china-stop-to-torture-ore-pets-shame-on-you-the-world-is-watching-you?recruiter=194406836&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_petition&utm_term=share_petition",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

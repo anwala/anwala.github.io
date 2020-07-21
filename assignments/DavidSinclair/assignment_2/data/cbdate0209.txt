@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.smh.com.au/world/cambodia-links-jailed-australian-spy-with-banned-opposition-party-20180131-p4yz4l.html?utm_source=twitter&utm_medium=social&utm_campaign=nc&eid=socialn%3Atwi-13omn1677-edtrl-other%3Annn-17%2F02%2F2014-edtrs_socialshare-all-nnn-nnn-vars-o%26sa%3DD%26usg%3DALhdy28zsr6qiq",
+  "uri": "http://www.smh.com.au/world/cambodia-links-jailed-australian-spy-with-banned-opposition-party-20180131-p4yz4l.html?utm_source=twitter&utm_medium=social&utm_campaign=nc&eid=socialn%3Atwi-13omn1677-edtrl-other%3Annn-17%2F02%2F2014-edtrs_socialshare-all-nnn-nnn-vars-o%26sa%3DD%26usg%3DALhdy28zsr6qiq",
+  "estimated-creation-date": "2018-02-01T08:11:57",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-02-01T08:11:57"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnbc.com/2018/01/26/new-york-new-jersey-connecticut-plan-to-sue-federal-government-over-salt-caps.html?__source=sharebar%7Clinkedin&par=sharebar",
+  "uri": "https://www.cnbc.com/2018/01/26/new-york-new-jersey-connecticut-plan-to-sue-federal-government-over-salt-caps.html?__source=sharebar%7Clinkedin&par=sharebar",
+  "estimated-creation-date": "2018-01-26T13:24:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-26T13:24:45"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:40:30"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Assignment 2 is located in assignment_2 folder
+
+The file to look for is assignment2.pdf.  This contains the questions and answers for assignment 2.
+
+The rest of the items included are to show the work.
+The programs are listed from 01_...py ==> 15_...py
+If the programs are run in oder they will produce similar results but numbers will change becasue the url's (data) will change.
+Py 01 produce the inital link file which is called raw.
+All other programs produce either a .txt, .csv, .file and the output can be seen.
+The 09_json.py program produces a directory called data that inputs both the memo and carb dating files into it.  
+I copied the files from data direcory but may have missed one or two, because I was coping a 100 at a time.  I
+the created a json.tar.gz file which is the data directory archived.
+The 15_counter only produces text of the screen showing the counts of data.
+
+David Sinclair

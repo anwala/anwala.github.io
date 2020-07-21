@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://wsbuzz.com/sport/government-scrambles-get-nfl-playoff-games-troops/",
+  "uri": "http://wsbuzz.com/sport/government-scrambles-get-nfl-playoff-games-troops/",
+  "estimated-creation-date": "2018-01-21T18:40:24",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-21T18:40:24"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:39:07"
+    }
+  }
+}

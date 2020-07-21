@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://governmentaggregator.com/2018/01/31/capture-business-hhs-fy18-government-sales-insider/",
+  "uri": "http://governmentaggregator.com/2018/01/31/capture-business-hhs-fy18-government-sales-insider/",
+  "estimated-creation-date": "2018-01-31T10:06:16",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T10:06:16"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:37:45"
+    }
+  }
+}

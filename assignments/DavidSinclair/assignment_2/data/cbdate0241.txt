@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.thenewstribune.com/news/politics-government/article197495794.html",
+  "uri": "http://www.thenewstribune.com/news/politics-government/article197495794.html",
+  "estimated-creation-date": "2018-01-31T13:26:31",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131145732/http://www.thenewstribune.com/news/politics-government/article197495794.html",
+      "memento-datetime": "2018-01-31T14:57:32",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T14:57:32"
+    },
+    "backlinks": {
+      "earliest": "2018-02-01T20:12:03"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:26:31"
+    }
+  }
+}

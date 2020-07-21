@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.pharmatutor.org/content/february-2018/career-for-mpharm-bpharm-mba-at-kerala-medical-services-corporation-ltd",
+  "uri": "https://www.pharmatutor.org/content/february-2018/career-for-mpharm-bpharm-mba-at-kerala-medical-services-corporation-ltd",
+  "estimated-creation-date": "2018-01-31T15:46:36",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:52:37"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:46:36"
+    }
+  }
+}

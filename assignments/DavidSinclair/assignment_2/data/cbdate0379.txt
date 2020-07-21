@@ -1,0 +1,56 @@
+{
+  "self": "http://localhost:8888/cd/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+  "uri": "http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+  "estimated-creation-date": "2017-10-21T12:58:41",
+  "earliest-sources": [
+    "web.archive.org",
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171021125904/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+      "memento-datetime": "2017-10-21T12:58:41",
+      "memento-pubdate": "",
+      "earliest": "2017-10-21T12:58:41"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20171021201200/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+      "memento-datetime": "2017-10-21T20:12:00",
+      "memento-pubdate": "2017-10-21T20:12:00",
+      "earliest": "2017-10-21T20:12:00"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20171030011951/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+      "memento-datetime": "2017-10-30T01:10:05",
+      "memento-pubdate": "",
+      "earliest": "2017-10-30T01:10:05"
+    },
+    "perma-archives.org": {
+      "uri-m": "http://perma-archives.org/warc/20180204031138/http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion",
+      "memento-datetime": "2018-02-04T03:01:44",
+      "memento-pubdate": "",
+      "earliest": "2018-02-04T03:01:44"
+    },
+    "backlinks": {
+      "earliest": "2017-10-21T12:58:41"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:49:07"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2017-10-21T20:27:06"
+    }
+  }
+}

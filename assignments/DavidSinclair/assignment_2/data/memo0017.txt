@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:57:47Z",
+        "uri": "http://web.archive.org/web/20180131165747/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/"
+      },
+      {
+        "datetime": "2018-02-01T07:32:21Z",
+        "uri": "http://web.archive.org/web/20180201073221/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:57:47Z",
+      "uri": "http://web.archive.org/web/20180131165747/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/"
+    },
+    "last": {
+      "datetime": "2018-02-01T07:32:21Z",
+      "uri": "http://web.archive.org/web/20180201073221/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://indianexpress.com/article/north-east-india/assam/assam-government-working-wih-dedication-for-good-governance-says-sarbananda-sonowal-5046645/"
+}
+

@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-29T07:14:33Z",
+        "uri": "http://archive.is/20180129071433/http://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial"
+      },
+      {
+        "datetime": "2018-02-01T02:28:55Z",
+        "uri": "http://web.archive.org/web/20180201022855/http://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-29T07:14:33Z",
+      "uri": "http://archive.is/20180129071433/http://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial"
+    },
+    "last": {
+      "datetime": "2018-02-01T02:28:55Z",
+      "uri": "http://web.archive.org/web/20180201022855/http://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://reason.com/blog/2018/01/25/government-is-gutting-the-right-to-trial"
+}
+

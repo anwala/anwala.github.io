@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.conveniencestore.co.uk/news/minister-underlines-government-support-for-rural-shops/562816.article",
+  "uri": "https://www.conveniencestore.co.uk/news/minister-underlines-government-support-for-rural-shops/562816.article",
+  "estimated-creation-date": "2018-01-31T13:28:49",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:28:49"
+    }
+  }
+}

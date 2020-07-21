@@ -1,0 +1,826 @@
+
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+<title>Progress of the Government�s Implementation of Anti-Corruption Laws</title>
+<meta name="description" content="�����Ъ�����ѹ��,Progress of the Government�s Implementation of Anti-Corruption Laws"/>
+<meta name="keyword" content="�����Ъ�����ѹ��,Progress of the Government�s Implementation of Anti-Corruption Laws"/>
+<meta property="og:title" content="Progress of the Government�s Implementation of Anti-Corruption Laws"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://thailand.prd.go.th/thailand/ewt_news.php?nid=6296&amp;filename=index"/>
+<meta property="og:image" content="http://thailand.prd.go.th/ewt_news.php/images/article/news6296/n20180129_6296.jpg"/>
+<meta property="og:site_name" content="�����Ъ�����ѹ��"/>
+<meta property="og:description" content="Deputy Prime Minister Wissanu Krea-ngam gave a briefing on the progress of the Government�s implementation of anti-corruption laws at a �Meet-the-Press� event, held at Government House on the topic �Laws for the Future of Thailand.�"/>
+
+
+<script language="javascript">
+function chk_comment(){
+var name_comment = document.getElementById('name_comment').value;
+var detail = document.getElementById('detail').value;
+	if (detail=='' || name_comment == ''){
+		alert('Please complete all required fields');
+		return false;
+	}else{
+		//open_data('', 'show_comment','','');
+		if(document.getElementById('chkpic11').value == ""){
+			alert('Please input picture text.');
+			document.getElementById('chkpic11').focus();
+			return false;
+		}
+		return true;
+	}
+}
+
+
+function open_data(url, divId,account_sub_type_id,bank_account_id) {
+	var name_comment = document.getElementById('name_comment').value;
+	var detail = document.getElementById('detail').value;		
+	var news_id = '6296';
+	var objDiv = document.getElementById(divId);
+	url='ewt_comment_news.php?news_id='+news_id+'&name_comment='+name_comment+'&detail='+detail;
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					document.getElementById('name_comment').value = '';
+					document.getElementById('detail').value = '';
+					objDiv.innerHTML = req.responseText;
+			}
+			//,'onSuccess':function(req) { }
+		}
+	);
+}
+</script>
+<link href="css/design.css" rel="stylesheet" type="text/css">
+<link href="css/jquery.cluetip.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/style_calendar.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"  type="text/javascript" src="js/calendar.js"></script>
+<script language="JavaScript"  type="text/javascript" src="js/loadcalendar.js"></script>
+<script language="JavaScript"  type="text/javascript" src="js/calendar-th.js"></script>
+<script type="text/javascript" language="JavaScript1.2" src="js/stm31.js"></script>
+<script type="text/javascript" src="js/AjaxRequest.js"></script>
+<script type="text/javascript" src="js/excute.js"></script>
+<script type="text/javascript" src="js/jquery/jquery-1.2.3.pack.js"></script>
+<script type='text/javascript' src='js/jquery/jquery-1.2.3.min.js'></script>
+<script type='text/javascript' src='js/jquery/jquery.jqDock.js'></script>
+<script src="js/jquery/jquery.dimensions.js" type="text/javascript"></script>
+<script src="js/jquery/jquery.hoverIntent.js" type="text/javascript"></script>
+<script src="js/jquery/jquery.cluetip.js" type="text/javascript"></script>
+<script language="javascript1.2">
+function txt_area(prov,amph,gid) {
+	var objDiv = document.getElementById("nav"+gid);
+	objDiv.style.display = '';
+	url='list_tumbon.php?prov='+prov+'&&amph='+amph+'&gid='+gid;
+
+					
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					objDiv.innerHTML = req.responseText; 
+					
+			}
+		}
+	);
+	
+}
+function loadnewsarea(bid,gid,data) {
+	var objDiv = document.getElementById("show_comment"+bid);
+	url='ewt_article_preview.php?bid='+bid+'&gid='+gid+'&data='+data;
+
+					
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					objDiv.innerHTML = req.responseText; 
+					
+			}
+		}
+	);
+	
+}
+function help(page_id){
+window.open('help.php?page='+page_id+'','help_popup','top=60,left=80,width=800,height=600,resizable=0,status=0');
+}
+</script>
+<script type="text/javascript" language="javascript">
+	function changeStyle(c) {
+		var x = document.getElementsByTagName("span");
+		for (i=0;x && i < x.length; i++) {
+			x[i].removeAttribute("style");
+		}
+		document.all.stext.href='css/'+c+'.css';
+	}
+</script>
+<script type="text/javascript">
+function ChangeLanguage(lang){
+ 					document.all.formtextchangelang.innerHTML = "<table width=\"100%\" height=\"100%\"><form name=\"changeform\" method=\"post\" action=\"ewt_language_block.php\"><input name=\"language\" type=\"hidden\" id=\"language\" value=\""+ lang +"\"><input name=\"filename\" type=\"hidden\" id=\"filename\" value=\"index\"><input name=\"page\" type=\"hidden\" id=\"page\" value=\"" + this.location + "\"></form><tr><td><div align=\"center\"><font size=\"5\" face=\"Verdana, Arial, Helvetica, sans-serif\"><strong>Please Wait...</strong></font></div></td></tr></table>";
+changeform.submit();
+ }
+</script>
+<link id="stext" href=""  rel="stylesheet" type="text/css">
+<link  href="css/interface.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+
+#icon_botton{
+	PADDING-LEFT: 150px; POSITION: relative; TOP: 0px
+}
+
+DIV.jqDockLabel {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 14px; BORDER-TOP: 0px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; BORDER-LEFT: 0px; COLOR: #000000; PADDING-TOP: 0px; BORDER-BOTTOM: 8px; FONT-STYLE: italic; WHITE-SPACE: nowrap; BACKGROUND-COLOR: transparent
+}
+DIV.jqDockLabelLink {
+	CURSOR: pointer
+}
+DIV.jqDockLabelImage {
+	CURSOR: default
+}
+#icon_botton DIV.jqDockLabel {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 1px; 
+}
+.demo {
+	DISPLAY: none
+}
+.demo IMG {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; BORDER-LEFT: 0px; WIDTH: 48px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; HEIGHT: 48px
+}
+-->
+</style>
+<script>
+function show_article_rendom(bid,filename,mainwidth,global_theme) {
+	var objDiv = document.getElementById("show_article_rendom"+bid);
+	
+	url='ad_script-bk.php?bid='+bid+'&filename='+filename+'&mainwidth='+mainwidth+'&global_theme='+global_theme;
+
+					
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					objDiv.innerHTML = req.responseText; 
+					
+			}
+		}
+	);
+	
+}
+function show_virtual_list(bid,b_link) {
+	var objDiv = document.getElementById("show_virtual_list"+bid);
+	
+	url='ewt_virtual.php?vid='+b_link;
+
+					
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					objDiv.innerHTML = req.responseText; 
+					
+			}
+		}
+	);
+	
+}
+function show_org_list(bid) {
+	var objDiv = document.getElementById("show_org_list"+bid);
+	
+	url='org_preview.php';
+
+					
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					objDiv.innerHTML = req.responseText; 
+					
+			}
+		}
+	);
+	
+}
+function findPosX(obj)
+{
+ var curleft = 0;
+ if (document.getElementById || document.all)
+ {
+  while (obj.offsetParent)
+  {
+   curleft += obj.offsetLeft
+   obj = obj.offsetParent;
+  }
+ }
+ else if (document.layers)
+  curleft += obj.x;
+
+ return curleft;
+}
+function findPosY(obj)
+{
+ var curtop = 0;
+ if (document.getElementById || document.all)
+ {
+  while (obj.offsetParent)
+  {
+   curtop += obj.offsetTop
+   obj = obj.offsetParent;
+  }
+ }
+ else if (document.layers)
+  curtop += obj.y;
+ return curtop;
+}
+</script>
+<script language="javascript1.2">
+function category_swebb(obj){
+var objDiv = document.getElementById("category_swebb");
+	url='webboard_category.php?type='+obj;
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+					objDiv.innerHTML = req.responseText; 
+					
+			}
+		}
+	);
+}
+function ajax_save_menu_log(m_id, mp_id, Glink, Gtarget){
+	
+var objDiv = document.getElementById("category_swebb");
+	url='menu_log.php?m_id='+m_id+'&mp_id='+mp_id;
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+				if(Gtarget=='_blank') {
+					window.open(Glink,'myWindow');
+				} else {
+					window.location.href=Glink;
+				}
+			}
+		}
+	);
+}
+function ajax_save_log(url){
+	AjaxRequest.get(
+		{
+			'url':url
+			,'onLoading':function() { }
+			,'onLoaded':function() { }
+			,'onInteractive':function() { }
+			,'onComplete':function() { }
+			,'onSuccess':function(req) { 
+			}
+		}
+	);
+}
+				</script>
+
+<span id="formtextchangelang"></span>
+
+<script type="text/javascript" src="js/jquery/jquery.lightbox.js"></script>
+		<style type="text/css">
+		#lightbox{
+	position: absolute;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+	}
+
+#lightbox a img{ border: none; }
+
+#outerImageContainer{
+	position: relative;
+	background-color: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	}
+
+#imageContainer{
+	padding: 10px;
+	}
+
+#loading{
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+	}
+#hoverNav{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	}
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{
+	width: 49%;
+	height: 100%;
+	background: transparent url(mainpic/lightbox/blank.gif) no-repeat; /* Trick IE into showing hover */
+	display: block;
+	}
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(mainpic/lightbox/prev.gif) left 50% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(mainpic/lightbox/next.gif) right 50% no-repeat; }
+
+/*** START : next / previous text links ***/
+#nextLinkText, #prevLinkText{
+color: #FF9834;
+font-weight:bold;
+text-decoration: none;
+}
+#nextLinkText{
+padding-left: 0px;
+}
+#prevLinkText{
+padding-right: 0px;
+}
+/*** END : next / previous text links ***/
+/*** START : added padding when navbar is on top ***/
+
+.ontop #imageData {
+    padding-top: 5px;
+}
+
+/*** END : added padding when navbar is on top ***/
+
+#imageDataContainer{
+	font: 12px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	}
+
+#imageData{
+	padding:0 10px;
+	}
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: center; padding-bottom: 1.0em;	}
+#imageData #bottomNavClose{ width: 10px; float: right;  padding-bottom: 0.7em;	}
+#imageData #helpDisplay {clear: left; float: left; display: block; }
+
+#overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+	background-color: #000;
+	filter:alpha(opacity=60);
+	-moz-opacity: 0.6;
+	opacity: 0.6;
+	display: none;
+	}
+	
+
+.clearfix:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+	}
+
+* html>body .clearfix {
+	display: inline-block; 
+	width: 100%;
+	}
+
+* html .clearfix {
+	/* Hides from IE-mac \*/
+	height: 1%;
+	/* End hide from IE-mac */
+	}	
+		</style>
+</head>
+<body  leftmargin="0" topmargin="0" bgcolor="#c4b8c9"  >
+<table id="ewt_main_structure" width="1024" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr  valign="top" > 
+    <td id="ewt_main_structure_top" height="" bgcolor="" colspan="3" background=""> 
+            <DIV ><style type="text/css">
+
+@font-face {
+    font-family: 'thaisans';
+    src: url('fonts/ThaiSansNeue-Regular.eot');
+    src: url('fonts/ThaiSansNeue-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ThaiSansNeue-Regularr.woff') format('woff'),
+         url('fonts/ThaiSansNeue-Regular.ttf') format('truetype'),
+         url('fonts/ThaiSansNeue-Regular.svg#ThaiSansNeue') format('svg');
+}
+
+
+body {
+	background-image: url(images/design2017/bg_temp.png);
+	background-repeat: repeat-x;
+}
+
+
+/*a:link {
+	color: #000;
+}
+a:visited {
+	color: #000;
+}
+a:hover {
+	color: #000;
+}
+a:active {
+	color: #000;
+}*/
+
+.headtext {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	color:#000;
+	padding:5px;
+                  margin-buttom:5px;
+	border-bottom:#c20e1a 2px solid;
+	width:96%;
+}
+
+.head {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#000;
+	padding:5px;
+
+}
+.textw{
+	
+	font-family:'thaisans';
+	font-size:30px;
+	color:#fff;
+	padding:5px;
+                  font-weight:600;
+                  text-decoration: none;
+	
+}
+
+.textw a{
+	
+	font-family:'thaisans';
+	font-size:30px;
+	color:#fff;
+	padding:5px;
+                   font-weight:600;
+                  text-decoration: none;
+
+	
+}
+
+.underline {
+	height:auto;
+	border-bottom: thin solid #0f3cba;
+	padding:5px;
+}
+
+.goto-top{
+    position: fixed;
+    display: none;
+    z-index: 999;
+    bottom: 1.8em;
+    right: 1.8em;
+    display: block;
+}
+</style>
+
+
+<div class="goto-top"><a href="#"><img alt="" src="images/design2017/goto_top.png" /></a> </div></DIV>
+            <DIV ><table width="1024" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="700" valign="top"></DIV>
+            <DIV ><img border="0" alt="" src="images/design2017/logo.png" /></DIV>
+            <DIV ></td>
+      <td align="center" valign="middle">
+<table width="80%" border="0" cellspacing="5" cellpadding="8">
+        <tbody>
+          <tr>
+            <td colspan="3" align="center" valign="top"></DIV>
+            <DIV ><script type="text/javascript" language="JavaScript1.2">stm_bm(["menu0a49",430,"","mainpic/o.gif",0,"","",0,0,40,50,30,1,0,0,"","",0],this);
+stm_bp("p0",[0,4,0,0,0,5,1,1,100,"",-2,"",-2,50,0,0,"#fffff7","","",3,1,0,"#000000"]);
+stm_ai("p0",[1,"HOME","","",-1,-1,0,"javascript:ajax_save_menu_log('0006','0006_0001','main.php?filename=index','_self');","","","HOME","","",-1,-1,0,"","",-1,-1,0,0,1,"",0,"",0,"","",3,3,0,0,"","","#FFFFFF","#9541de"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ai("p1",[1,"ABOUT�PRD","","",-1,-1,0,"javascript:ajax_save_menu_log('0006','0006_0002','ewt_news.php?nid=1414','_self');","",""," ABOUT PRD","","",-1,-1,0,"","",-1,-1,0,0,1,"",0,"",0,"","",3,3,0,0,"","","#FFFFFF","#9541de"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ai("p2",[1,"CONTACT","","",-1,-1,0,"javascript:ajax_save_menu_log('0006','0006_0003','ewt_news.php?nid=39','_self');","","","CONTACT","","",-1,-1,0,"","",-1,-1,0,0,1,"",0,"",0,"","",3,3,0,0,"","","#FFFFFF","#9541de"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ai("p3",[1,"SURVEY","","",-1,-1,0,"javascript:ajax_save_menu_log('0006','0006_0004','main.php?filename=survey','_self');","","","SURVEY","","",-1,-1,0,"","",-1,-1,0,0,1,"",0,"",0,"","",3,3,0,0,"","","#FFFFFF","#9541de"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ep();
+stm_em();
+</script></DIV>
+            <DIV ></td>
+            </tr>
+          <tr>
+            <td width="30%"></DIV>
+            <DIV ><script type="text/javascript" language="JavaScript1.2">stm_bm(["menu0a49",430,"","mainpic/o.gif",0,"","",0,0,40,50,30,1,0,0,"","",0],this);
+stm_bp("p0",[0,4,0,0,0,1,1,1,100,"",-2,"",-2,50,0,0,"#fffff7","","",3,1,0,"#000000"]);
+stm_ai("p0",[1,"TH","","",-1,-1,0,"","","","","","",-1,-1,0,"","",-1,-1,0,0,1,"",0,"",0,"","",3,3,0,0,"","","#000000","#9541de"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ai("p1",[1,"|","","",-1,-1,0,"","","","","","",-1,-1,0,"","",-1,-1,0,0,1,"",0,"",0,"","",3,3,0,0,"","","#000000","#9541de"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ai("p2",[1,"EN","","",-1,-1,0,"","","","","","",-1,-1,0,"","",-1,-1,0,0,1,"#a786b5",0,"#a786b5",0,"","",3,3,0,0,"","","#000000","#333333"," bold 13px Arial"," bold 13px Arial",0,0]);
+stm_ep();
+stm_em();
+</script></DIV>
+            <DIV ></td>
+            <td width="50"><!--  search form -->
+              <form name="search76" method="post" action="search_result.php">
+                <table width="0%" border="0" cellpadding="0" cellspacing="0" >
+                  <tr valign="bottom">
+                    <td width="6" height="33"></td>
+                    <td><input name="keyword" type="text" id="keyword"  style="background-color:#FFF; height:27px; width:200px; border:0px #FFF; font-family:Tahoma, Geneva, sans-serif; size:16px; text-align:center " size="36"   />
+                      <input type="hidden" name="searchby" value="1" />
+                      </td>
+                    <td><input name="button" type="image" id="button" value="Submit" src="images/design2017/search.png"  title="เน€เธยเน€เธเธ…เน€เธเธ”เน€เธยเน€เธโฌเน€เธยเน€เธเธ—เน€เธยเน€เธเธเน€เธยเน€เธยเน€เธยเน€เธเธเน€เธเธ’"/></td>
+                    </tr>
+                  </table>
+                </form>
+              
+  <!--  search form --></td>
+            <td></DIV>
+            <DIV ><a href="ewt_w3c/" target="_self"><img border="0" alt="" src="images/design2017/w3c.png" /></a> </DIV>
+            <DIV ></td>
+            </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/></DIV>
+          </td>
+  </tr>
+  <tr valign="top" > 
+	<td id="ewt_main_structure_left" width="0" bgcolor="" background="">
+          </td>
+    <td  id="ewt_main_structure_body" width="1024" bgcolor="#ffffff" height="160" background="" align="center"> 
+	      <DIV><table width="98%" border="0" align="center" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>      </DIV>
+            <DIV><table width="" border="0" cellspacing="0" cellpadding="0" class="text_normal" >
+  <tr  height="">
+    <td  ><a href="##P" onclick="PrintNews('index', 600, 400,'');" ><img src="mainpic/printer.gif" border="0"  alt="Print this page" align="absmiddle">   Print this page</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="##M" onclick="window.open('mail_send.php', 'mail', 'status=yes, menubar=no, scrollbars=yes, resizable=yes, height=450, width=600, left=150,top=100');" ><img src="mainpic/mail.gif" border="0"  alt="Send this page" align="absmiddle">   Send this page</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="pdf.php" target="_blank"><img src="mainpic/pdf.gif" border="0"  alt="export to PDF" align="absmiddle">   Export to PDF</a></td>
+  </tr>
+</table>
+<script language="javascript1.2">
+function PrintNews(filename,w,h){
+var page = chk_path();
+if(page == 'search_result.php'){
+var keyword =window.document.formSearchAEWT.keyword.value;
+var search_mode =window.document.formSearchAEWT.search_mode.value;
+window.open('printerFriendlt.php?filename=index&page='+page+'&keyword='+keyword+'&search_mode='+search_mode, 'printer_search', 'status=yes, menubar=no, scrollbars=yes, resizable=yes, height=450, width=600, left=150,top=100');
+}
+if(page == 'main.php' || page == 'site_preview.php'){
+
+window.open('printerFriendlt.php?filename=index&page='+page, 'printer_main', 'status=yes, menubar=no, scrollbars=yes, resizable=yes, height=450, width=600, left=150,top=100');
+}
+if(page == 'ewt_news.php'){
+
+window.open('printerFriendlt.php?filename=index&page='+page+'&nid=6296', 'printer_ewt_news', 'status=yes, menubar=no, scrollbars=yes, resizable=yes, height=450, width=600, left=150,top=100');
+}
+if(page == 'ewt_snews.php'){
+
+window.open('printerFriendlt.php?filename=index&page='+page+'&s=', 'printer_ewt_snews', 'status=yes, menubar=no, scrollbars=yes, resizable=yes, height=450, width=600, left=150,top=100');
+}
+if(page == 'more_news.php'){
+
+window.open('printerFriendlt.php?filename=index&page='+page+'&cid=', 'printer_more_news', 'status=yes, menubar=no, scrollbars=yes, resizable=yes, height=450, width=600, left=150,top=100');
+}
+}
+function chk_path(){
+<!--
+var sPath = window.location.pathname;
+var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+return sPage;
+//-->
+}
+</script>
+      </DIV>
+            <DIV></td>
+    <td align="right">
+
+ <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57e8e7b17c4da62e"></script>
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox"></div>
+
+
+<div class="addthis_native_toolbox"></div>
+
+
+
+</td>
+  </tr>
+</table>
+<hr size="1" color="#cccccc" width="98%">      </DIV>
+      	     <table width="99%" border="0" cellpadding="5" cellspacing="0" >
+		           <tr>
+            <td class="text_normal"><span  style="FONT: 12px 'Tahoma';"> <a href="more_news.php?cid=4&filename=index"  style="FONT: 12px 'Tahoma';"> INSIDE THAILAND</a> <a href="rss/group4.xml" target="_blank"><img src="mainpic/ico_rss.gif"  border="0" align="absmiddle"></a></span>
+</td>
+          </tr>
+		  		                    <tr>
+            <td class="text_head"><div style="FONT: 20px 'Tahoma';">Progress of the Government�s Implementation of Anti-Corruption Laws</div><hr size="1" color="#CCCCCC">
+									<span style="FONT: 12px 'Tahoma';"> 27 January 2018 </span>
+									<span style="FONT: 12px 'Tahoma';">(Readers 119)</span>
+						<br><span style="FONT: 12px 'Tahoma';"></span>
+</td>
+          </tr>
+	  </table>
+	
+	  <br>
+<table border="0" align="center" cellpadding="8" cellspacing="0" class="text_normal">
+    <tr > 
+       <td valign="top" align="center"> 
+       <div><a href="images/article/news6296/n20180129092802_70279.jpg" class="lightbox" rel="flowers"  id="0"><img src="images/article/news6296/t20180129092802_70279.jpg" name="imgx1y0" id="imgx1y0" style="border-color:'#C3C3C3'" border=1></a></div>
+      </td>
+      </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    <tr > 
+     </tr>
+	
+    </table>
+  <table width="90%" border="0" align="center" cellpadding="8" cellspacing="0" class="text_normal">
+    <tr align="left" > 
+    <td  valign="top">
+
+<div>&nbsp;</div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">Deputy Prime Minister Wissanu Krea-ngam gave a briefing on the progress of the Government�s implementation of anti-corruption laws at a "Meet-the-Press� event, held at Government House on the topic "Laws for the Future of Thailand.� </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">The Deputy Prime Minister said that many relevant agencies confirmed that the Licensing Facilitation Act, which was announced as law in July 2015, has been able to tackle corruption to a great extent. </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">This Act applies to the granting of all permissions or licensing, as well as all registrations or notifications, for which an application is required prior to doing any activity. In rendering licensing facilitation to the public, each government agency is required to prepare a licensing manual for the public. </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">The manual consists of the rules, procedures, and conditions for the submission of the application, work flow, and period of time for the granting of the license, as well as necessary documents to be attached with the application. </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">Another anti-corruption law is the Government Procurement and Supplies Management Act 2017, which replaced the procurement regulations of the Prime Minister�s Office. This law sets penalties for authorities who take bribes. It also extends the adoption of the state procurement process to cover state enterprises, public organizations, and independent organizations, as well. </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">As for the draft bill on offences concerning conflict of interest between personal gain and public benefit, it is being considered by the National Legislative Assembly. The new law prohibits officials from approving government projects, or withdrawing a case, for their own personal gain. </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">Both officials and members of the private sector are prohibited from interfering in the appointment or transfer of officials for their own benefit. The bill is intended to prevent officials from receiving bribes by using their official positions. </span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>
+
+<div align="justify"><span style="FONT-SIZE: 12pt; FONT-FAMILY: Verdana">&nbsp;</span></div>      </td>
+  </tr>
+</table>
+	  </td>
+              <td id="ewt_main_structure_right" width="0" bgcolor="" background="">
+					  </td>
+  </tr>
+  <tr valign="top" > 
+    <td id="ewt_main_structure_bottom" height="60" bgcolor="" colspan="3" background=""> 
+            <DIV>
+
+<table cellspacing="0" cellpadding="15" width="100%" border="0">
+	
+<tbody>
+		
+<tr>
+			
+<td bgcolor="#b178e2" valign="top" width="30%" scope="col" align="left"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ffffff">Foreign Office, The Government Public Relations Department, Office of the Prime Minister <br />
+					9 Rama VI Road, Bangkok 10400, Thailand </span><br />
+				</td>
+			
+<td bgcolor="#b178e2" valign="top" width="30%" scope="col" align="left">
+				
+<div><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ffffff">Tel: (+66-2) 618-2323 ext. 1700, 1707 </span></div>
+				
+<div><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #ffffff">Fax : (+66-2) 618-2358 E-mail : <a href="mailto:prforeign@gmail.com">prforeign@gmail.com</a> &nbsp;</span><br />
+					</div></td>
+			
+<td bgcolor="#b178e2" valign="top" width="18%" scope="col" align="left">
+				
+<table cellspacing="3" cellpadding="5" width="100%" border="0">
+					
+<tbody>
+						
+<tr>
+							
+<th scope="col"><a href="more_news.php?cid=12"><img border="0" src="images/design2015/rss.png" width="37" height="37" /></a></th>
+							
+<th scope="col"><a href="https://www.facebook.com/thailandprd" target="_blank"><img border="0" src="images/design2015/facebook.png" width="37" height="37" /></a></th>
+							
+<th scope="col"><a href="https://twitter.com/prdthailand" target="_blank"><img border="0" src="images/design2015/twitter.png" width="37" height="37" /></a></th>
+							
+<th scope="col"><a href="main.php?filename=Newsletters"><img border="0" src="images/design2015/mail.png" width="37" height="37" /></a></th>
+							
+<th scope="col"><img src="images/design2015/star.png" width="37" height="37" /></th>
+						</tr>
+					</tbody>
+				</table></td>
+		</tr>
+	</tbody>
+</table></DIV>
+            <DIV>			<table width="99%" border="0"  align="center"  cellpadding="5" cellspacing="0"  bgcolor="" background="">
+			  <tr>
+				<td align="center" bgcolor="" background=""><span class="text_normal"><font color=""  face=""><span style="font-size:"><b><nobr>Number of Visitors</nobr><div><img src="ewt_c.php?id=1"></div></b></span></font></span></td>
+			  </tr>
+			</table>
+</DIV>
+          </td>
+  </tr>
+</table>
+<script language="javascript">
+document.write("<img src=\"ewt_stat.php?t=news&filename=6296&load=1&res="+screen.width+"x"+screen.height+"\" width=\"1\" height=\"1\" style=\"display:none\">");	
+</script>
+
+</body>
+</html>
+<script>
+	$(document).ready(function(){
+		$(".lightbox").lightbox({
+			category_id : '',
+			filename : 'index',
+			page : '',
+			BID : '',
+			vote : '0',
+			comment : '0',
+			send : '0',
+			showimg : 1
+		});
+	});
+</script>

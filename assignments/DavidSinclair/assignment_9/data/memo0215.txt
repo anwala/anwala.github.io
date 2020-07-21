@@ -1,0 +1,63 @@
+{
+  "original_uri": "http://toplocalnow.com/ca/winnipeg/at/9",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://toplocalnow.com/ca/winnipeg/at/9",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-13T04:08:24Z",
+        "uri": "http://web.archive.org/web/20170913040824/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2017-09-29T01:22:56Z",
+        "uri": "http://web.archive.org/web/20170929012256/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-01-23T06:18:39Z",
+        "uri": "http://web.archive.org/web/20180123061839/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-01-29T07:57:52Z",
+        "uri": "http://web.archive.org/web/20180129075752/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-02-02T12:07:18Z",
+        "uri": "http://web.archive.org/web/20180202120718/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-02-02T23:05:39Z",
+        "uri": "http://web.archive.org/web/20180202230539/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-02-03T01:15:00Z",
+        "uri": "http://web.archive.org/web/20180203011500/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-02-03T02:16:09Z",
+        "uri": "http://web.archive.org/web/20180203021609/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-02-03T06:53:24Z",
+        "uri": "http://web.archive.org/web/20180203065324/http://toplocalnow.com/ca/winnipeg/at/9"
+      },
+      {
+        "datetime": "2018-02-25T08:35:09Z",
+        "uri": "http://web.archive.org/web/20180225083509/http://toplocalnow.com/ca/winnipeg/at/9"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-13T04:08:24Z",
+      "uri": "http://web.archive.org/web/20170913040824/http://toplocalnow.com/ca/winnipeg/at/9"
+    },
+    "last": {
+      "datetime": "2018-02-25T08:35:09Z",
+      "uri": "http://web.archive.org/web/20180225083509/http://toplocalnow.com/ca/winnipeg/at/9"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://toplocalnow.com/ca/winnipeg/at/9",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://toplocalnow.com/ca/winnipeg/at/9",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://toplocalnow.com/ca/winnipeg/at/9"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://toplocalnow.com/ca/winnipeg/at/9"
+}
+

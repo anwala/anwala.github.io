@@ -1,0 +1,43 @@
+{
+  "original_uri": "http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-25T03:17:11Z",
+        "uri": "http://archive.is/20180125031711/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+      },
+      {
+        "datetime": "2018-03-17T05:06:05Z",
+        "uri": "http://web.archive.org/web/20180317050605/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+      },
+      {
+        "datetime": "2018-03-24T05:28:05Z",
+        "uri": "http://web.archive.org/web/20180324052805/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+      },
+      {
+        "datetime": "2018-03-31T17:07:13Z",
+        "uri": "http://web.archive.org/web/20180331170713/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+      },
+      {
+        "datetime": "2018-04-07T10:54:10Z",
+        "uri": "http://web.archive.org/web/20180407105410/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-25T03:17:11Z",
+      "uri": "http://archive.is/20180125031711/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+    },
+    "last": {
+      "datetime": "2018-04-07T10:54:10Z",
+      "uri": "http://web.archive.org/web/20180407105410/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.illegalaliencrimereport.com/crimes-against-children/over-the-hill-dreamer-raped-young-girl-in-north-carolina/"
+}
+

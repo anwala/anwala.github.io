@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+  "uri": "http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+  "estimated-creation-date": "2018-01-29T23:34:44",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130013921/http://www.miamiherald.com/news/politics-government/state-politics/article197293659.html",
+      "memento-datetime": "2018-01-30T01:39:21",
+      "memento-pubdate": "",
+      "earliest": "2018-01-30T01:39:21"
+    },
+    "backlinks": {
+      "earliest": "2018-01-30T01:39:21"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T23:34:44"
+    }
+  }
+}

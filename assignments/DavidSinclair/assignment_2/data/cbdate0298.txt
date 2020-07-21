@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thecanary.co/uk/2018/01/30/government-just-mauled-watchdog-deals-immigration-cases/",
+  "uri": "https://www.thecanary.co/uk/2018/01/30/government-just-mauled-watchdog-deals-immigration-cases/",
+  "estimated-creation-date": "2018-01-30T19:40:42",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": "2018-01-30T21:20:58"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T19:40:42"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T19:53:54"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.concisenews.global/news/kogi-reject-local-government-autonomy/",
+  "uri": "https://www.concisenews.global/news/kogi-reject-local-government-autonomy/",
+  "estimated-creation-date": "2018-01-31T16:28:50",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T16:28:50"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

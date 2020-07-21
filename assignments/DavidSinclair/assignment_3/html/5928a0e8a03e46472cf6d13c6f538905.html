@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie6 ie oldie" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7 ie oldie" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8 ie oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" version="XHTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <!--[if IE]><![endif]-->
+<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="preconnect" href="//code.jquery.com" />
+<link rel="dns-prefetch" href="//code.jquery.com" />
+<link rel="preconnect" href="//object.cato.org" />
+<link rel="dns-prefetch" href="//object.cato.org" />
+<link rel="preconnect" href="//stats.g.doubleclick.net" />
+<link rel="shortcut icon" href="https://www.cato.org/sites/cato.org/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
+<meta name="publication_date" content="2018/1/31"><meta name="node_creation_date" content="2018/1/31"><meta name="site" content="Cato Institute"><meta name="description" content="Expecting it to do so is a recipe for disaster." />
+<meta name="robots" content="noodp" />
+<link rel="image_src" href="https://object.cato.org/sites/cato.org/files/logos/cato-logo.jpg" />
+<link rel="canonical" href="https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem" />
+<link rel="shortlink" href="https://www.cato.org/node/74507" />
+<meta property="fb:admins" content="5311211" />
+<meta property="fb:app_id" content="158687980817033" />
+<meta property="fb:pages" content="26668999076" />
+<meta property="og:site_name" content="Cato Institute" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Government Cannot Solve Every Societal Problem" />
+<meta property="og:url" content="https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem" />
+<meta property="og:description" content="Expecting it to do so is a recipe for disaster." />
+<meta property="og:image" content="https://www.cato.org/sites/cato.org/files/default-social-images/catocommentary_fb_5.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@CatoInstitute" />
+<meta name="twitter:url" content="https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem" />
+<meta name="twitter:title" content="Government Cannot Solve Every Societal Problem" />
+<meta name="twitter:description" content="Expecting it to do so is a recipe for disaster." />
+<meta property="article:published_time" content="2018-01-31T06:34:00-05:00" />
+  <title>Government Cannot Solve Every Societal Problem | Cato Institute</title>
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0">
+  <script>
+    WebFontConfig = {
+      google: { families: ['Droid Serif:400,700,400italic,700italic', 'Shadows Into Light Two'] },
+      custom: { families: ['Hoefler'],
+        urls: ['https://cloud.typography.com/684222/756420/css/fonts.css?2'] }
+    };
+    (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.async = true;
+      s.parentNode.insertBefore(wf, s);
+    })(document);
+  </script>
+  <script src="https://use.fontawesome.com/8f74555eb5.js"></script>
+  <link rel="stylesheet" href="/sites/cato.org/files/advagg_css/css__CENVHE4mkXqXm4g2qNA7eKURXQ4t4qdpvOTLFqcHmnY__Bb4XFrqXqVgh0FGGq52aZbIkpc-pmK7weu5nDyEH_pM__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.css" media="all" />
+<link rel="stylesheet" href="/sites/cato.org/files/advagg_css/css__LrKo7jdgA8uPFYkAQmAp1zyyViL4C_GCiH1_ZglO9SI__8I3FCCefcoauB3nBy6kFnJrU78qBEDTeTgs6NSR-6I4__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.css" media="all" />
+  <!-- Do you want IE to work? -->
+  <!--[if lt IE 9 ]>
+  <script src="https://files.cato.org/sites/all/themes/cato/_js/libs/ieshiv.js"></script>
+  <script src="https://files.cato.org/sites/all/themes/cato/_js/browser-update.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-74507 node-type-publications pub-page" >
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<header id="header" class="header">
+  <div class="wrapper">
+
+        <a href="/" title="Home" rel="home" id="logo" class="hdr-logo">
+      <img src="https://www.cato.org/sites/cato.org/files/cato-logo_0.png" alt="Home"/>
+    </a>
+    
+    <div id="block-system-main-menu-trigger"><i class="fa fa-bars"></i></div>
+    <div id="main-search-trigger"><i class="fa fa-search"></i></div>
+
+    <!--googleoff: index-->
+      <div class="region region-menu">
+    <div id="block-catomegamenu-catomegamenu" class="block block-catomegamenu main-nav">
+
+      
+  <div class="content">
+    <div class="item-list"><ul class="menu"><li class="expanded level-1 mega-top-link catomegamenu-research first"><a href="/research">Research</a></li>
+<li class="expanded level-1 mega-top-link catomegamenu-events"><a href="/events">Events</a></li>
+<li class="expanded level-1 mega-top-link catomegamenu-publications"><a href="/publications">Publications</a></li>
+<li class="expanded reverse-flyout level-1 mega-top-link catomegamenu-commentary"><a href="/commentary">Commentary</a></li>
+<li class="expanded reverse-flyout level-1 mega-top-link catomegamenu-store"><a href="http://www.cato.org/store/">Store</a></li>
+<li class="expanded reverse-flyout level-1 mega-top-link catomegamenu-support last"><a href="/support">Support</a></li>
+</ul></div>  </div>
+</div>
+<nav id="block-menu-menu-submenu" class="block block-menu nav-sub">
+  <div class="content">
+    <ul class="menu"><li class="first leaf level-1"><a href="/about">About Cato</a></li>
+<li class="leaf level-1"><a href="/blog">Blog</a></li>
+<li class="leaf level-1"><a href="/people/policy-scholars">Our Experts</a></li>
+<li class="leaf level-1"><a href="/projects">Our Centers</a></li>
+<li class="leaf level-1"><a href="https://www.facebook.com/CatoInstitute" rel="me" target="_blank"><i class="fa fa-facebook-square"></i>Facebook</a></li>
+<li class="last leaf level-1"><a href="https://twitter.com/catoinstitute" rel="me" target="_blank"><i class="fa fa-twitter"></i>Twitter</a></li>
+</ul>  </div>
+</nav><div id="block-block-57" class="block block-block hdr-search">
+
+      
+  <div class="content">
+    <form class="search-form" action="https://find.cato.org/search" method="get" id="search-block-form" accept-charset="UTF-8" target="_self"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text form-search" placeholder="Search" type="search" id="edit-search-block-form--2" name="q" value="" size="15" maxlength="128" /></div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div>
+<input type="hidden" name="client" value="default_frontend" /><input type="hidden" name="output" value="xml_no_dtd" /><input type="hidden" name="proxystylesheet" value="default_frontend" /><input type="hidden" name="sort" value="date:D:L:d1" /><input type="hidden" name="entsp" value="a__cato_policy_drew0115" /><input type="hidden" name="wc" value="200" /><input type="hidden" name="wc_mc" value="1" /><input type="hidden" name="oe" value="UTF-8" /><input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="ud" value="1" /><input type="hidden" name="exclude_apps" value="1" /><input type="hidden" name="site" value="web_collection" /></div>
+</div></form>  </div>
+</div>
+  </div>
+        <!--googleon: index-->
+
+  </div>
+</header> <!-- /#header -->
+
+<div class="wrapper">
+  <div id="content" role="main">
+
+    
+    <section id="page-area">
+      <a id="main-content"></a>
+                              <div class="tabs"></div>                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div class="pub-section-head">
+  Commentary  </div>
+
+<h1 class="page-h1">Government Cannot Solve Every Societal Problem</h1>
+
+<article about="/publications/commentary/government-cannot-solve-every-societal-problem" typeof="sioc:Item foaf:Document">
+
+  <footer class="byline">
+          <div id="pub-authors">By 
+  <a href="/people/michael-tanner" typeof="foaf:Person" property="foaf:name" rel="foaf:publications" html="1">Michael D. Tanner</a></div>
+        
+  <div class="field-source-info">
+    This article appeared on <em><a href="http://www.nationalreview.com" target="_blank">National Review
+(Online)</a></em> on January 31, 2018.  </div>
+  </footer>
+
+  
+  
+  <div class="article-body body-text dropcap-detail-text">
+    
+  <div class="field-body">
+    <p>The Western world can breathe easy. British prime minister
+Theresa May has solved one of the great crises of our time: She has
+appointed a Minister of Loneliness. Tracey Crouch, who is currently
+the Tory undersecretary for Sports and Civil Society, will be
+charged with leading a government-wide effort to “develop a
+strategy” for ending “loneliness and social isolation” among
+adults.</p>
+<p>It is easy to have a laugh at the expense of the Brits, of
+course, although just last year President Obama’s surgeon general,
+Dr. Vivek Murthy, wrote an article for the Harvard Business Review
+arguing that the societal problem of loneliness needs more
+attention from business and government. But there is something
+bigger at work here. There is now a general belief, one
+increasingly shared by politicians and voters of both parties, that
+every problem, large or small, can only be solved by the
+government.</p>
+<p>The Declaration of Independence says that governments are
+instituted among men to secure our unalienable rights to life,
+liberty, and the pursuit of happiness. Today, too many people see
+government as the solution to whatever ails us.</p>
+<blockquote class="pullquote right">
+<p class="pq-quote"><span class="pq-body">Expecting it to do so is
+a recipe for disaster.</span></p>
+</blockquote>
+<p>Obesity a problem? We need the government to regulate what we
+eat. Wages too low? The government should set them. Are people
+doing things that you think are immoral? Criminalize those things.
+“There ought to be a law” has become the all-purpose political
+rallying cry.</p>
+<p>And while omnipresent government may be the ethos of modern
+politics, it does not come without a cost.</p>
+<p>The most obvious one, of course, is the modern leviathan state.
+We have a federal government that spends more than $4 trillion per
+year, is $20 trillion in debt, and regulates nearly every aspect of
+our lives. State and local governments follow suit. From our
+bedrooms to our businesses, there seems no area of our lives that
+lawmakers don’t believe it is their job to oversee, restrict,
+subsidize, or otherwise intrude upon.</p>
+<p>This leaves us poorer, of course, but it also leaves us less
+free. In the most recent Human Freedom Index, which looks at both
+economic and personal liberties, the United States ranks 17th. As
+Gerald Ford once said, “A government big enough to give you
+everything you want is big enough to take away everything you
+have.”</p>
+<p>Moreover, those who rely on government to solve all problems
+will likely be disappointed. Most government programs are at best a
+failure and at worst do active harm to society and the people they
+purport to help. As Milton Friedman once put it, “If you put the
+federal government in charge of the Sahara Desert, in five years
+there would be a shortage of sand.”</p>
+<p>Civil society — that vast conglomeration of activity
+undertaken by individuals in the absence of government coercion
+— has proven to do far more good. Yet, insidiously, our
+over-reliance on government saps the vitality of civil society and
+non-government alternatives. “If government is not seen as a
+legitimate source of intervention, individuals and associations
+will respond,” Charles Murray once noted. “If instead government is
+permitted to respond, government will seize the opportunity, expand
+on it, and eventually take over altogether.”</p>
+<p>Moreover, relying on government to solve every problem in
+society inevitably leads to political disagreements about how to
+solve those problems. If everything in our lives becomes political,
+then there is no respite from the political. This can only increase
+the polarization of society, driving Americans farther into their
+respective bunkers.</p>
+<p>Obviously, there is a proper role for government, and the limits
+of that role will always be the subject of political debate. But
+perhaps the next time we encounter a problem in society, we should
+think twice before asking government to solve it for us.</p>
+  </div>
+
+      </div>
+
+  
+  
+  
+  <a name="full"></a>
+  </article>
+
+<div class="pub-page-share-tools"><div class="pub-page-share-tools-rel"><ul class="pub-page-share-list"><li class="twitter first"><a href="https://twitter.com/intent/tweet?url=https%3A//www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem&amp;text=Government%20Cannot%20Solve%20Every%20Societal%20Problem&amp;via=CatoInstitute&amp;related=Libertarianism" target="_blank" rel="nofollow"><i class="fa fa-fw fa-twitter "></i>Tweet</a></li>
+<li class="facebook"><a href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A//www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem" target="_blank" rel="nofollow"><i class="fa fa-fw fa-facebook-square "></i>Like</a></li>
+<li class="reddit"><a href="https://reddit.com/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem" target="_blank" rel="nofollow"><i class="fa fa-fw fa-reddit fa-lg "></i>Submit</a></li>
+<li class="google last"><a href="https://plus.google.com/share?url=https%3A//www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem" target="_blank" rel="nofollow"><i class="fa fa-fw fa-google-plus fa-lg "></i>Plus</a></li>
+</ul></div></div><!-- share-tools -->
+
+<div class="expert-attribution clearfix">
+      <div class="expert-attribution-link">
+  <div class="field-cropped-picture">
+    <a href="/people/michael-tanner"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://object.cato.org/sites/cato.org/files/styles/resp__img__pubauthor-15x/s3/authors/crops/tanner.jpg?itok=AIDIDNe5&amp;timestamp=1354970882 1.5x, https://object.cato.org/sites/cato.org/files/styles/resp__img__pubauthor/s3/authors/crops/tanner.jpg?itok=SgPPDT1K&amp;timestamp=1354970882 1x, https://object.cato.org/sites/cato.org/files/styles/resp__img__pubauthor-2x/s3/authors/crops/tanner.jpg?itok=R3fcKjVH&amp;timestamp=1354970882 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://object.cato.org/sites/cato.org/files/styles/resp__img__pubauthor-2x/s3/authors/crops/tanner.jpg?itok=R3fcKjVH&amp;timestamp=1354970882" alt="" title="" />
+</picture></a>  </div>
+</div>
+      <div class="expert-attribution-text quote">
+      
+  <div class="field-auth-bio">
+    <a href="https://www.cato.org/people/michael-tanner">Michael
+Tanner</a> is a senior fellow at the Cato Institute and the author
+of <em>Going for Broke: Deficits, Debt, and the Entitlement
+Crisis</em>.  </div>
+    </div>
+</div><!-- expert-atribution -->
+  </div>
+</div>
+  </div>
+            <!--googleoff: index-->
+                        <!--googleon: index-->
+    </section>
+    <!-- /#content -->
+
+  </div>
+</div> <!-- /#main -->
+
+<!--googleoff: index-->
+<footer class="main-footer">
+  <div class="wrapper">
+      <aside class="region region-footer-fourth col-1">
+    <div id="block-block-27" class="block block-block ftr-signup">
+
+      <h3 class="section-h3">Sign Up</h3>
+    
+  <div class="content">
+        <p class="ftr-txt">Receive periodic updates on Cato research, events, and publications.</p>
+	      <!-- Begin MailChimp Signup Form -->
+	      
+	      
+	      <div id="mc_embed_signup">
+	      <form action="//cato.us1.list-manage.com/subscribe/post?u=98c97f42691d5de57bc944822&amp;id=395878584c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="ftr-signup-form form-basic" target="_blank" novalidate="">
+	      
+	      
+	      <div class="mc-field-group">
+	      
+	      	<input type="email" value="" name="EMAIL" placeholder="Email" class="text-input ftr-text-input" id="mce-EMAIL" /></div>
+	      
+	      <div id="mce-responses" class="clear">
+	      		<div class="response" id="mce-error-response" style="display:none"></div>
+	      		<div class="response" id="mce-success-response" style="display:none"></div>
+	      	</div>
+	      
+	      
+	      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="submit-input ftr-submit-input" /></div>
+	      
+	      <div class="mc-field-group input-group">
+	      
+	      <input type="hidden" value="512" name="group[214][512]" id="mce-group[214]-214-0" /><input type="hidden" value="128" name="group[214][128]" id="mce-group[214]-214-8" /></div>
+	      
+	      
+	      
+	      <div id="mce-responses" class="clear">
+	      		<div class="response" id="mce-error-response" style="display:none"></div>
+	      		<div class="response" id="mce-success-response" style="display:none"></div>
+	      	</div>	
+	      </form>
+	      </div>
+	      
+	      <!--End mc_embed_signup-->
+	      
+<p class="ftr-txt"><a href="/ecommunity?utm_source=mailchimp-signup&amp;utm_medium=banner&amp;utm_campaign=ecommunity-mailchimp-signup" target="_blank">See our full list of email newsletters</a></p>
+
+
+<!-- GOALS TRACKING WITH MAILCHIMP AND GA -->
+
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+	var $mcGoal = {'settings':{'uuid':'98c97f42691d5de57bc944822','dc':'us1'}};
+	(function() {
+		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+	})(); 
+
+//--><!]]>
+</script><!-- END GOALS TRACKING WITH MAILCHIMP AND GA -->  </div>
+</div>
+  </aside>
+      <aside class="region region-footer-third col-2">
+    <div id="block-menu-menu-also-from-cato" class="block block-menu ftr-list">
+
+      <h3 class="section-h3">Also from Cato</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf level-1"><a href="/students" rel="me">Internships and Student Programs</a></li>
+<li class="leaf level-1"><a href="https://www.downsizinggovernment.org" rel="me" target="_blank">DownsizingGovernment.org</a></li>
+<li class="leaf level-1"><a href="https://www.libertarianism.org" rel="me" target="_blank">Libertarianism.org</a></li>
+<li class="leaf level-1"><a href="http://humanprogress.org/" rel="me" target="_blank">HumanProgress.org</a></li>
+<li class="leaf level-1"><a href="https://www.cato-unbound.org" rel="me" target="_blank">Cato Unbound</a></li>
+<li class="leaf level-1"><a href="http://www.policemisconduct.net" rel="me" target="_blank">PoliceMisconduct.net</a></li>
+<li class="leaf level-1"><a href="http://www.freedominthe50states.org/" rel="me" target="_blank">Freedom in the 50 States</a></li>
+<li class="leaf level-1"><a href="http://overlawyered.com/" rel="me" target="_blank">Overlawyered</a></li>
+<li class="leaf level-1"><a href="http://www.elcato.org" rel="me" target="_blank">ElCato.org</a></li>
+<li class="last leaf level-1"><a href="http://www.alt-m.org/" rel="me" target="_blank">Alt-M</a></li>
+</ul>  </div>
+</div>
+  </aside>
+      <aside class="region region-footer-second col-3">
+    <div id="block-menu-menu-social-media" class="block block-menu ftr-list">
+
+      <h3 class="section-h3">Social Media</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf level-1"><a href="https://www.facebook.com/CatoInstitute" rel="me" class="link-facebook" target="_blank"><i class="fa fa-facebook-square fa-fw"></i> Facebook</a></li>
+<li class="leaf level-1"><a href="https://twitter.com/catoinstitute" rel="me" class="link-twitter" target="_blank"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
+<li class="leaf level-1"><a href="https://plus.google.com/+TheCatoInstitute" rel="me publisher" class="link-googleplus" target="_blank"><i class="fa fa-google-plus fa-fw"></i> Google+</a></li>
+<li class="leaf level-1"><a href="https://www.youtube.com/catoinstitutevideo" rel="me" class="link-youtube" target="_blank"><i class="fa fa-youtube-play fa-fw"></i> YouTube</a></li>
+<li class="leaf level-1"><a href="https://www.linkedin.com/company/cato-institute" rel="me" class="link-linkedin" target="_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a></li>
+<li class="leaf level-1"><a href="https://instagram.com/catoinstitute" rel="me" class="link-instagram" target="_blank"><i class="fa fa-instagram fa-fw"></i> Instagram</a></li>
+<li class="leaf level-1"><a href="https://catoinstitute.tumblr.com" rel="me" class="link-tumblr" target="_blank"><i class="fa fa-tumblr fa-fw"></i> Tumblr</a></li>
+<li class="last leaf level-1"><a href="https://www.cato.org/ecommunity/rss" class="link-rss"><i class="fa fa-rss fa-fw"></i> RSS</a></li>
+</ul>  </div>
+</div>
+  </aside>
+      <aside class="region region-footer-first col-4">
+    <div id="block-block-1" class="block block-block ftr-info">
+
+      
+  <div class="content">
+    <a href="/" class="ftr-logo"><img src="/sites/cato.org/files/cato-logo_0.png" /></a>
+<p class="ftr-address">Cato Institute<br />
+1000 Massachusetts Ave, NW<br />
+Washington, DC 20001-5403</p>
+<ul class="ftr-phone"><li>Phone (202) 842 0200</li>
+</ul><p class="ftr-txt"><a href="/contact-us">Contact Us</a></p>
+<p class="ftr-txt"><a href="/for-media">Media Contact</a></p>  </div>
+</div>
+  </aside>
+  </div>
+</footer> <!-- /#footer -->
+<!--googleon: index-->
+<script src="/sites/all/libraries/modernizr/modernizr-latest.js?p45ug1"></script>
+<script src="//code.jquery.com/jquery-1.7.2.min.js"></script>
+<script>
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+</script>
+<script src="/sites/cato.org/files/advagg_js/js__xTy0HeJ6IKKYK7zTMdTGO5ITkVfTG8rhkdLdYHsTOTw__pZ_VH05e4czmMa27SpKLRW5AiTytpUslWC9BV24pG1w__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js"></script>
+<script src="//code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+<script>
+window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+</script>
+<script src="/sites/cato.org/files/advagg_js/js__JoFxZrt4wt_sG1bC_-c9uFj0JyMzH9mfKaNyhYWyozQ__ZpE9gOtVk45USuwcFA3zsgQm-KJhbXQApJqjAolULtc__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js"></script>
+<script>
+document.createElement( "picture" );
+</script>
+<script src="/sites/cato.org/files/advagg_js/js__-f9u9kMOxKwrrX80zOKws80wTvjv-NeRoPzZwXHL0gs__a5nYa4D23mXhPWm9KyRne4RIBfNo3Cjq0mNLdaAeR9M__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js"></script>
+<script>
+catoGoogleAnalytics =  {"cookieDomain": "auto"};
+if (Modernizr.localstorage) {
+  queryString = location.search;
+  mcId = queryString.match('mc_eid=(.*)');
+  if(mcId){
+    localStorage['mcId'] = mcId[1];
+  }
+  if (localStorage['mcId']) {
+    catoGoogleAnalytics.userId = localStorage['mcId'];
+  }
+}
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-1677831-1", catoGoogleAnalytics);ga("set", "dimension1", "Michael D. Tanner");ga("set", "dimension2", "The Nanny State, Limited Government, Economic Freedom");if(typeof catoGoogleAnalytics != 'undefined' && catoGoogleAnalytics.hasOwnProperty('userId')){
+  ga('set', 'dimension3', localStorage['mcId']);
+}ga("send", "pageview");
+</script>
+<script src="/sites/cato.org/files/advagg_js/js__GzBAXHJw9N1uRYxL9qxONtPthOovf8HlzseUlILplxY__ALee-04MjOg4K9ki-H62JgIB5-T0ITR1sjyvuSiWOKw__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js"></script>
+<script src="/sites/cato.org/files/advagg_js/js__X0MbEjFQ-AhGXBeeUvhFBDKHmozLHY_xFgKCJ8IhNNA__GWWERhkso-R96QJfDK4fESgR8TcDtqBxYYJxwi_BhJA__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js"></script>
+<script>
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cato","theme_token":"LmPP7-UDr4vR-qE8cfYLSDli7DhQbFKnGuJ41xAn93g","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/cato_institute\/responsivevideo\/responsivevideo.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/custompage\/custompage.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.base.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/all\/modules\/contrib\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/themes\/cato\/styles\/stylesheets\/screen.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/libraries\/modernizr\/modernizr-latest.js":1,"\/\/code.jquery.com\/jquery-1.7.2.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/code.jquery.com\/ui\/1.10.2\/jquery-ui.min.js":1,"sites\/all\/libraries\/scrollTo\/jquery.scrollTo-min.js":1,"sites\/all\/libraries\/smooth-scroll\/jquery.localscroll.min.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/contrib\/spamspan\/spamspan.js":1,"sites\/all\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/cato_institute\/catomegamenu\/catomegamenu.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/cato\/_js\/libs\/jquery.sticky.js":1,"sites\/all\/themes\/cato\/_js\/libs\/jquery.fixed-scroll.js":1,"sites\/all\/themes\/cato\/_js\/libs\/wilto-carousel.js":1,"sites\/all\/themes\/cato\/_js\/libs\/jquery.masonry.min.js":1,"sites\/all\/themes\/cato\/_js\/libs\/jquery.imagesloaded.min.js":1,"sites\/all\/themes\/cato\/_js\/libs\/jquery.hoverIntent.minified.js":1,"sites\/all\/themes\/cato\/_js\/libs\/jquery.getUrlVar.js":1,"sites\/all\/themes\/cato\/_js\/script.js":1,"sites\/all\/themes\/cato\/_js\/smoothScroll.js":1,"sites\/all\/themes\/cato\/_js\/dialog.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"custom_search":{"form_target":"_self","solr":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip|epub|mobi","trackColorbox":1},"js":{"tokens":[]}});
+</script>
+  <!— Facebook Pixel Code —>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '454916984694808'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id= 454916984694808&ev=PageView&noscript=1"
+/></noscript>
+<!— DO NOT MODIFY —>
+<!— End Facebook Pixel Code —><script src="/sites/cato.org/files/advagg_js/js__784n-KqgbQKGW6hhVErYy9YZTUlTfvy1NMc_SHLD990__beUvrOdY2kWhqWCKD19Az7Ze6WoKIErtF59-w35O_cM__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js" async="async"></script>
+<script src="/sites/cato.org/files/advagg_js/js___Weo722cMICqp_44WWk_lcjyIQB-yadh-caReRrGI18__O4A57Sv5pz88_XnltO_gB5wHXvKWgKesy_ZA-iNCclg__Ym3Q-r4DaaPH_U5CyptAi6jBErswINZbXq_hi8KAoFM.js" async="async"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a0fc03e915","applicationID":"7801710","transactionName":"ZF1SYUNRWkQCBkdZCV0XcVZFWVtZTAtcVANsSFFSVG9CXgYS","queueTime":0,"applicationTime":648,"atts":"SBpRFwtLSUo=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560370032';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

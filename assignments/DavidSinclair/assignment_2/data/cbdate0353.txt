@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+  "uri": "https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+  "estimated-creation-date": "2016-07-03T03:22:16",
+  "earliest-sources": [
+    "backlinks"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20161008093707/https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+      "memento-datetime": "2016-10-08T09:37:07",
+      "memento-pubdate": "",
+      "earliest": "2016-10-08T09:37:07"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170622174911/http://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/",
+      "memento-datetime": "2017-06-22T17:49:11",
+      "memento-pubdate": "",
+      "earliest": "2017-06-22T17:49:11"
+    },
+    "backlinks": {
+      "earliest": "2016-07-03T03:22:16"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T23:52:03"
+    }
+  }
+}

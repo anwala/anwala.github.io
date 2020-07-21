@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2018-01-31T08:24:54",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131082454/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+      "memento-datetime": "2018-01-31T08:24:54",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T08:24:54"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

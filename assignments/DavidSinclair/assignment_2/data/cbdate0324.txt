@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+  "uri": "https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+  "estimated-creation-date": "2018-01-29T15:41:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180129175932/https://www.lawgazette.co.uk/law/judges-pensions-government-loses-appeal-tribunal-challenge/5064572.article",
+      "memento-datetime": "2018-01-29T17:59:32",
+      "memento-pubdate": "2018-01-29T15:41:00",
+      "earliest": "2018-01-29T15:41:00"
+    },
+    "backlinks": {
+      "earliest": "2018-01-29T17:59:08"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-29T15:41:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T16:02:10"
+    }
+  }
+}

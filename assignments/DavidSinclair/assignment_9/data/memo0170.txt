@@ -1,0 +1,179 @@
+{
+  "original_uri": "https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-29T23:46:33Z",
+        "uri": "http://web.archive.org/web/20180129234633/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-01-29T23:58:37Z",
+        "uri": "http://web.archive.org/web/20180129235837/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-01-30T01:23:05Z",
+        "uri": "http://web.archive.org/web/20180130012305/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-01-30T06:38:11Z",
+        "uri": "http://web.archive.org/web/20180130063811/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-01-30T12:38:22Z",
+        "uri": "http://web.archive.org/web/20180130123822/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-01-31T00:10:12Z",
+        "uri": "http://web.archive.org/web/20180131001012/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-01-31T09:57:29Z",
+        "uri": "http://web.archive.org/web/20180131095729/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-01T10:52:48Z",
+        "uri": "http://web.archive.org/web/20180201105248/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-02T11:31:44Z",
+        "uri": "http://web.archive.org/web/20180202113144/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-02T11:43:14Z",
+        "uri": "http://web.archive.org/web/20180202114314/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-03T11:44:36Z",
+        "uri": "http://web.archive.org/web/20180203114436/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-04T12:34:53Z",
+        "uri": "http://web.archive.org/web/20180204123453/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-05T12:48:36Z",
+        "uri": "http://web.archive.org/web/20180205124836/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-06T13:53:27Z",
+        "uri": "http://web.archive.org/web/20180206135327/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-07T14:21:04Z",
+        "uri": "http://web.archive.org/web/20180207142104/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-07T14:21:04Z",
+        "uri": "http://web.archive.org/web/20180207142104/http://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-07T14:37:17Z",
+        "uri": "http://web.archive.org/web/20180207143717/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-08T15:36:37Z",
+        "uri": "http://web.archive.org/web/20180208153637/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-09T20:24:25Z",
+        "uri": "http://web.archive.org/web/20180209202425/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-11T18:17:05Z",
+        "uri": "http://web.archive.org/web/20180211181705/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-12T18:54:18Z",
+        "uri": "http://web.archive.org/web/20180212185418/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-13T19:45:47Z",
+        "uri": "http://web.archive.org/web/20180213194547/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-14T20:17:22Z",
+        "uri": "http://web.archive.org/web/20180214201722/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-16T00:26:06Z",
+        "uri": "http://web.archive.org/web/20180216002606/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-17T01:07:53Z",
+        "uri": "http://web.archive.org/web/20180217010753/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-18T03:40:57Z",
+        "uri": "http://web.archive.org/web/20180218034057/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-19T03:54:05Z",
+        "uri": "http://web.archive.org/web/20180219035405/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-20T04:58:18Z",
+        "uri": "http://web.archive.org/web/20180220045818/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-02-21T06:34:30Z",
+        "uri": "http://web.archive.org/web/20180221063430/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-03-06T02:30:36Z",
+        "uri": "http://web.archive.org/web/20180306023036/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-03-18T20:09:47Z",
+        "uri": "http://web.archive.org/web/20180318200947/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-06T10:23:01Z",
+        "uri": "http://web.archive.org/web/20180406102301/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-07T10:33:50Z",
+        "uri": "http://web.archive.org/web/20180407103350/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-09T07:55:21Z",
+        "uri": "http://web.archive.org/web/20180409075521/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-11T02:47:57Z",
+        "uri": "http://web.archive.org/web/20180411024757/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-12T02:27:49Z",
+        "uri": "http://web.archive.org/web/20180412022749/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-12T08:19:17Z",
+        "uri": "http://web.archive.org/web/20180412081917/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-15T08:48:36Z",
+        "uri": "http://web.archive.org/web/20180415084836/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      },
+      {
+        "datetime": "2018-04-18T03:04:00Z",
+        "uri": "http://web.archive.org/web/20180418030400/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-29T23:46:33Z",
+      "uri": "http://web.archive.org/web/20180129234633/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+    },
+    "last": {
+      "datetime": "2018-04-18T03:04:00Z",
+      "uri": "http://web.archive.org/web/20180418030400/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thestar.com/news/world/2018/01/29/women-in-iran-publicly-remove-hijabs-to-protest-countrys-islamic-dress-code.html"
+}
+

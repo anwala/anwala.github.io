@@ -1,0 +1,55 @@
+{
+  "self": "http://localhost:8888/cd/https://www.guardian.com/en/index.html",
+  "uri": "https://www.guardian.com/en/index.html",
+  "estimated-creation-date": "2003-08-26T18:07:18",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20030830070307/http://www.guardian.com:80/en/index.html",
+      "memento-datetime": "2003-08-26T18:07:18",
+      "memento-pubdate": "",
+      "earliest": "2003-08-26T18:07:18"
+    },
+    "wayback.vefsafn.is": {
+      "uri-m": "http://wayback.vefsafn.is/wayback/20160611132629/http://guardian.com/en/index.html",
+      "memento-datetime": "2016-06-11T13:26:29",
+      "memento-pubdate": "",
+      "earliest": "2016-06-11T13:26:29"
+    },
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20160719000633/http://guardian.com/en/index.html",
+      "memento-datetime": "2016-07-19T00:06:33",
+      "memento-pubdate": "",
+      "earliest": "2016-07-19T00:06:33"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20160927024416/http://www.guardian.com/en/index.html",
+      "memento-datetime": "2016-09-27T02:44:16",
+      "memento-pubdate": "",
+      "earliest": "2016-09-27T02:44:16"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-27T20:51:10"
+    }
+  }
+}

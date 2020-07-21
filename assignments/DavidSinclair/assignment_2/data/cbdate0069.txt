@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.app.com.pk/imran-not-blame-federal-government-failures-marriyum/",
+  "uri": "http://www.app.com.pk/imran-not-blame-federal-government-failures-marriyum/",
+  "estimated-creation-date": "2018-01-31T15:42:18",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131180006/http://www.app.com.pk/imran-not-blame-federal-government-failures-marriyum/",
+      "memento-datetime": "2018-01-31T18:00:06",
+      "memento-pubdate": "2018-01-31T15:42:18",
+      "earliest": "2018-01-31T15:42:18"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:42:18"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:51:35"
+    }
+  }
+}

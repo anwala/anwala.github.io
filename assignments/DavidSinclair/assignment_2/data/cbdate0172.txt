@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://uncova.com/kogi-assembly-rejects-local-government-autonomy-proposed-by-nass",
+  "uri": "http://uncova.com/kogi-assembly-rejects-local-government-autonomy-proposed-by-nass",
+  "estimated-creation-date": "2018-01-31T15:38:18",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:38:18"
+    }
+  }
+}

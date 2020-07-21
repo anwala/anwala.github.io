@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://www.thenational.scot/news/15907848.LibDem_peer_slams_UK_for_treatment_of_Scottish_Government/?ref=twtrec",
+  "uri": "http://www.thenational.scot/news/15907848.LibDem_peer_slams_UK_for_treatment_of_Scottish_Government/?ref=twtrec",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

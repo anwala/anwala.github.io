@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://ref.gl/O1ncVPm3",
+  "uri": "http://ref.gl/O1ncVPm3",
+  "estimated-creation-date": "2017-06-26T13:51:14",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2017-06-26T13:51:14"
+    }
+  }
+}

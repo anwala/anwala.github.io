@@ -1,0 +1,75 @@
+{
+  "original_uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T15:34:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180130153422/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-02-01T21:34:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201213425/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-02-07T03:35:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180207033543/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-03-05T05:30:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305053040/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-03-08T02:52:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180308025225/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-03-12T07:13:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312071319/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-03-16T12:18:06Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180316121806/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-03-22T20:22:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180322202249/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-04-04T04:53:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404045342/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-04-04T15:31:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404153117/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-04-05T03:30:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180405033045/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-04-12T01:18:12Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180412011812/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      },
+      {
+        "datetime": "2018-04-18T23:58:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180418235827/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T15:34:22Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180130153422/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+    },
+    "last": {
+      "datetime": "2018-04-18T23:58:27Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180418235827/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677422/UK_Real_Time_Information_Experimental_Statistics.pdf"
+}
+

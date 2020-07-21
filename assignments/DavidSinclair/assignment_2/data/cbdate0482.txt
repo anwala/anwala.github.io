@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+  "uri": "https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131152813/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+      "memento-datetime": "2018-01-31T15:28:13",
+      "memento-pubdate": "2018-01-31T23:59:59",
+      "earliest": "2018-01-31T15:28:13"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180201081111/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+      "memento-datetime": "2018-02-01T08:11:11",
+      "memento-pubdate": "",
+      "earliest": "2018-02-01T08:11:11"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20180201131847/https://www.washingtonpost.com/world/national-security/russian-spy-chiefs-met-in-washington-with-cia-director-to-discuss-counterterrorism/2018/01/31/0b761976-068b-11e8-94e8-e8b8600ade23_story.html",
+      "memento-datetime": "2018-02-01T13:18:47",
+      "memento-pubdate": "2018-02-01T13:18:47",
+      "earliest": "2018-02-01T13:18:47"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-02-04T15:25:07"
+    }
+  }
+}

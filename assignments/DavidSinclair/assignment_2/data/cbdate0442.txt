@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://nariariauliver.wordpress.com/2018/01/31/government-statement-on-nasa-activities-on-30th-january-2018/",
+  "uri": "https://nariariauliver.wordpress.com/2018/01/31/government-statement-on-nasa-activities-on-30th-january-2018/",
+  "estimated-creation-date": "2018-01-31T15:38:05",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:38:05"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:38:19"
+    }
+  }
+}

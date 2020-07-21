@@ -1,0 +1,39 @@
+{
+  "original_uri": "http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T08:30:26Z",
+        "uri": "http://web.archive.org/web/20180130083026/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+      },
+      {
+        "datetime": "2018-01-31T10:07:46Z",
+        "uri": "http://web.archive.org/web/20180131100746/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+      },
+      {
+        "datetime": "2018-02-04T12:10:31Z",
+        "uri": "http://web.archive.org/web/20180204121031/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+      },
+      {
+        "datetime": "2018-02-05T13:16:11Z",
+        "uri": "http://web.archive.org/web/20180205131611/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T08:30:26Z",
+      "uri": "http://web.archive.org/web/20180130083026/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+    },
+    "last": {
+      "datetime": "2018-02-05T13:16:11Z",
+      "uri": "http://web.archive.org/web/20180205131611/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.latercera.com/negocios/noticia/gobierno-generadoras-anuncian-fin-nuevos-proyectos-plantas-carbon/50361/"
+}
+

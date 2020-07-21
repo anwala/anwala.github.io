@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theglobeandmail.com/news/british-columbia/government-changes-to-tackle-deficit-not-enough-icbc-chair/article37800884/?cmpid=rss1&click=dlvr.it",
+  "uri": "https://www.theglobeandmail.com/news/british-columbia/government-changes-to-tackle-deficit-not-enough-icbc-chair/article37800884/?cmpid=rss1&click=dlvr.it",
+  "estimated-creation-date": "2018-01-30T22:12:09",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T22:12:09"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

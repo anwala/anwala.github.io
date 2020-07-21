@@ -1,0 +1,39 @@
+{
+  "original_uri": "https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T17:50:35Z",
+        "uri": "http://web.archive.org/web/20180131175035/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+      },
+      {
+        "datetime": "2018-01-31T19:26:10Z",
+        "uri": "http://web.archive.org/web/20180131192610/http://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+      },
+      {
+        "datetime": "2018-02-01T19:22:06Z",
+        "uri": "http://web.archive.org/web/20180201192206/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+      },
+      {
+        "datetime": "2018-02-17T19:12:10Z",
+        "uri": "http://web.archive.org/web/20180217191210/http://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T17:50:35Z",
+      "uri": "http://web.archive.org/web/20180131175035/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+    },
+    "last": {
+      "datetime": "2018-02-17T19:12:10Z",
+      "uri": "http://web.archive.org/web/20180217191210/http://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://pilotonline.com/news/government/local/article_3161b3d2-b341-5591-a7d3-b2b8b23ad2e3.html"
+}
+

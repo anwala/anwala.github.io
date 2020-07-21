@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+  "uri": "http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+  "estimated-creation-date": "2018-01-31T01:24:49",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131080317/http://dailyorange.com/2018/01/meet-key-members-sus-office-government-community-relations/",
+      "memento-datetime": "2018-01-31T08:03:17",
+      "memento-pubdate": "2018-01-31T01:24:49",
+      "earliest": "2018-01-31T01:24:49"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T01:24:49"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:32:00"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+  "uri": "http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+  "estimated-creation-date": "2018-01-24T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180125040302/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+      "memento-datetime": "2018-01-25T04:03:02",
+      "memento-pubdate": "2018-01-24T23:59:59",
+      "earliest": "2018-01-24T23:59:59"
+    },
+    "backlinks": {
+      "earliest": "2018-01-25T04:03:02"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-24T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-25T21:24:17"
+    }
+  }
+}

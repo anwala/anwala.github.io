@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T15:09:16Z",
+        "uri": "http://archive.is/20180131150916/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/"
+      },
+      {
+        "datetime": "2018-02-04T11:21:05Z",
+        "uri": "http://web.archive.org/web/20180204112105/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T15:09:16Z",
+      "uri": "http://archive.is/20180131150916/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/"
+    },
+    "last": {
+      "datetime": "2018-02-04T11:21:05Z",
+      "uri": "http://web.archive.org/web/20180204112105/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://voiceofeurope.com/2018/01/swedish-government-gives-iraqi-child-rapist-custody-of-children/"
+}
+

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.computerweekly.com/news/252434084/UK-government-signs-Tech-Talent-Charter-diversity-initiative?platform=hootsuite",
+  "uri": "http://www.computerweekly.com/news/252434084/UK-government-signs-Tech-Talent-Charter-diversity-initiative?platform=hootsuite",
+  "estimated-creation-date": "2018-01-30T17:32:19",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T17:32:19"
+    }
+  }
+}

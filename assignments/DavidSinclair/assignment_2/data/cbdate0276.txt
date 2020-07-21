@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://www.4vision.biz",
+  "uri": "http://www.4vision.biz",
+  "estimated-creation-date": "2004-01-22T20:37:50",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20040122203750/http://4vision.biz:80/",
+      "memento-datetime": "2004-01-22T20:37:50",
+      "memento-pubdate": "",
+      "earliest": "2004-01-22T20:37:50"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20121030215805/http://www.4vision.biz/",
+      "memento-datetime": "2012-10-30T21:58:05",
+      "memento-pubdate": "",
+      "earliest": "2012-10-30T21:58:05"
+    },
+    "backlinks": {
+      "earliest": "2012-10-30T21:58:09"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2011-06-09T11:22:27"
+    }
+  }
+}

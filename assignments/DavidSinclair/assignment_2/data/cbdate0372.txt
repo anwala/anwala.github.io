@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://ottawacitizen.com/opinion/columnists/sanderson-and-maracle-where-is-the-federal-governments-indigenous-housing-strategy",
+  "uri": "http://ottawacitizen.com/opinion/columnists/sanderson-and-maracle-where-is-the-federal-governments-indigenous-housing-strategy",
+  "estimated-creation-date": "2018-01-29T17:46:19",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180129204308/http://ottawacitizen.com/opinion/columnists/sanderson-and-maracle-where-is-the-federal-governments-indigenous-housing-strategy",
+      "memento-datetime": "2018-01-29T20:43:08",
+      "memento-pubdate": "2018-01-29T17:46:19",
+      "earliest": "2018-01-29T17:46:19"
+    },
+    "backlinks": {
+      "earliest": "2018-01-29T20:23:50"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-29T17:46:19"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T17:49:09"
+    }
+  }
+}

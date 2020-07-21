@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-29T21:24:10Z",
+        "uri": "http://web.archive.org/web/20180129212410/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/"
+      },
+      {
+        "datetime": "2018-01-30T03:28:09Z",
+        "uri": "http://web.archive.org/web/20180130032809/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-29T21:24:10Z",
+      "uri": "http://web.archive.org/web/20180129212410/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/"
+    },
+    "last": {
+      "datetime": "2018-01-30T03:28:09Z",
+      "uri": "http://web.archive.org/web/20180130032809/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/"
+}
+

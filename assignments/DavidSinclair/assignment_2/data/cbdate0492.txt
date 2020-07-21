@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+  "uri": "https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+  "estimated-creation-date": "2018-01-31T09:20:24",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201023118/https://www.davidicke.com/article/454309/snoopers-charter-government-mass-surveillance-regime-ruled-unlawful-appeals-court",
+      "memento-datetime": "2018-02-01T02:31:18",
+      "memento-pubdate": "",
+      "earliest": "2018-02-01T02:31:18"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T09:20:24"
+    }
+  }
+}

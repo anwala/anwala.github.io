@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-03T21:48:12Z",
+        "uri": "http://web.archive.org/web/20180203214812/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-03T21:48:12Z",
+      "uri": "http://web.archive.org/web/20180203214812/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people"
+    },
+    "last": {
+      "datetime": "2018-02-03T21:48:12Z",
+      "uri": "http://web.archive.org/web/20180203214812/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people"
+}
+

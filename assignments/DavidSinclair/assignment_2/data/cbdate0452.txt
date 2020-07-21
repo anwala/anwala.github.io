@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://tonnietaller.wordpress.com/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-second-hand-shop/",
+  "uri": "https://tonnietaller.wordpress.com/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-second-hand-shop/",
+  "estimated-creation-date": "2018-01-31T15:31:24",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:31:24"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

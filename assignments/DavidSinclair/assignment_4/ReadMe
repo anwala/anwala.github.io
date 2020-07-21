@@ -1,0 +1,9 @@
+The answers are in the assignment4.pdf
+The programs are for getting the information and creating the graphs for the answers.
+Program 01_mean.py gets the mean
+Program 02_stdv.py gets the standard devation
+Program 03_graph.py creates the graph for question 1 which is submitted in the assignment4.pdf  Also prints mean, medium, and standard dev.
+Program 05_twfoll.py gets the twitter followers for asnwala account
+Program 06_graphtwt.py creates the graph for question 2 which is submitted in the assignment4.pdf  Also prints mean, medium, and standard dev.
+Program 08_twfoller.py gets the twitter friends for asnwala account
+Program 06_graphtwtfriend.py creates the graph for question 4 extra credit which is submitted in the assignment4.pdf  Also prints mean, medium, and standard dev.

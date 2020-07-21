@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-17T18:22:00Z",
+        "uri": "http://archive.is/20180217182200/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-17T18:22:00Z",
+      "uri": "http://archive.is/20180217182200/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges"
+    },
+    "last": {
+      "datetime": "2018-02-17T18:22:00Z",
+      "uri": "http://archive.is/20180217182200/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://nationalpost.com/news/politics/millions-in-foreign-funds-spent-in-2015-federal-election-to-defeat-harper-government-report-alleges"
+}
+

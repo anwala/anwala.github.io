@@ -1,0 +1,47 @@
+{
+  "original_uri": "https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T21:32:38Z",
+        "uri": "http://web.archive.org/web/20180130213238/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+      },
+      {
+        "datetime": "2018-01-30T21:38:31Z",
+        "uri": "http://web.archive.org/web/20180130213831/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+      },
+      {
+        "datetime": "2018-01-31T01:32:35Z",
+        "uri": "http://web.archive.org/web/20180131013235/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+      },
+      {
+        "datetime": "2018-01-31T23:10:35Z",
+        "uri": "http://web.archive.org/web/20180131231035/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+      },
+      {
+        "datetime": "2018-02-02T17:52:35Z",
+        "uri": "http://web.archive.org/web/20180202175235/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+      },
+      {
+        "datetime": "2018-02-03T19:21:49Z",
+        "uri": "http://web.archive.org/web/20180203192149/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T21:32:38Z",
+      "uri": "http://web.archive.org/web/20180130213238/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+    },
+    "last": {
+      "datetime": "2018-02-03T19:21:49Z",
+      "uri": "http://web.archive.org/web/20180203192149/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.ndtv.com/india-news/in-embarrassment-for-yogi-adityanath-government-minister-om-prakash-rajbhar-says-corruption-up-in-ut-1806592"
+}
+

@@ -1,0 +1,219 @@
+{
+  "original_uri": "https://www.gov.uk/government/collections/areas-of-research-interest",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/collections/areas-of-research-interest",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-06-28T15:43:45Z",
+        "uri": "http://web.archive.org/web/20170628154345/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-01T17:54:10Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170701175410/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-01T17:56:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170701175608/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-01T18:59:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170701185933/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-03T21:03:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170703210322/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-06T19:00:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170706190004/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-10T17:52:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170710175216/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-17T17:44:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170717174450/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-24T18:47:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170724184740/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-27T02:47:13Z",
+        "uri": "http://web.archive.org/web/20170727024713/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-07-31T18:49:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170731184911/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-08-07T18:46:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170807184629/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-08-14T19:20:35Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170814192035/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-08-28T19:56:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170828195619/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-09-05T09:48:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170905094852/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-09-11T10:11:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170911101145/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-09-18T13:38:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170918133831/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-09-25T13:51:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170925135133/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-10-02T21:07:02Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171002210702/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-10-13T17:08:44Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171013170844/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-10-16T14:59:09Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171016145909/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-10-23T13:20:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171023132050/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-10-30T14:38:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171030143816/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-11-06T14:56:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171106145634/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-11-13T18:12:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171113181258/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-11-20T15:36:41Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171120153641/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-11-28T16:06:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171128160650/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-12-04T15:41:09Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171204154109/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-12-11T21:15:41Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171211211541/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-12-18T20:48:54Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171218204854/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2017-12-25T14:20:02Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171225142002/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-01-15T16:29:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180115162920/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-01-24T22:35:54Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180124223554/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-01-29T15:16:07Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180129151607/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-01-30T21:09:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180130210915/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-02-01T13:06:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201130631/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-02-05T14:56:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205145616/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-02-12T15:43:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212154347/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-02-19T16:07:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180219160736/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-02-26T15:40:39Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180226154039/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-03-01T15:25:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180301152546/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-03-05T15:35:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180305153549/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-03-12T15:27:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180312152746/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-03-19T16:14:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180319161417/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-03-26T20:51:57Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180326205157/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-04-02T06:01:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402060118/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-04-02T22:22:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180402222223/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-04-09T20:40:50Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180409204050/https://www.gov.uk/government/collections/areas-of-research-interest"
+      },
+      {
+        "datetime": "2018-04-16T20:31:13Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180416203113/https://www.gov.uk/government/collections/areas-of-research-interest"
+      }
+    ],
+    "first": {
+      "datetime": "2017-06-28T15:43:45Z",
+      "uri": "http://web.archive.org/web/20170628154345/https://www.gov.uk/government/collections/areas-of-research-interest"
+    },
+    "last": {
+      "datetime": "2018-04-16T20:31:13Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180416203113/https://www.gov.uk/government/collections/areas-of-research-interest"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/collections/areas-of-research-interest",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/collections/areas-of-research-interest",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/collections/areas-of-research-interest"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/collections/areas-of-research-interest"
+}
+

@@ -1,0 +1,24 @@
+
+		<script>
+			var iterations = 0,
+				intID = setInterval(forwardUrl,200);
+
+			function forwardUrl() {
+				try {
+					var linker = new window.gaplugins.Linker(_btiUGA.getByName('b')),
+ 						dest = linker.decorate('http://careerhq.asaecenter.org/jobs/10704952/marketing-and-communications-coordinator?utm_source=BTITwitter&utm_medium=Twitter&utm_campaign=BTI%2BTwitter%2BFeed');
+
+					clearInterval(intID);
+					top.location.replace(dest);
+				} catch (e) {
+					// only try this so many times then forward to the original dest
+					iterations++;
+
+					if(iterations > 10) {
+						clearInterval(intID);
+						top.location.replace('http://careerhq.asaecenter.org/jobs/10704952/marketing-and-communications-coordinator?utm_source=BTITwitter&utm_medium=Twitter&utm_campaign=BTI%2BTwitter%2BFeed');
+					}
+				}
+			}
+		</script>
+	

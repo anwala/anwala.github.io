@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/http://dunyanews.tv/region.html",
+  "uri": "http://dunyanews.tv/region.html",
+  "estimated-creation-date": "2012-12-12T20:26:57",
+  "earliest-sources": [
+    "webarchive.loc.gov",
+    "web.archive.org"
+  ],
+  "sources": {
+    "webarchive.loc.gov": {
+      "uri-m": "http://webarchive.loc.gov/all/20130104073800/http://dunyanews.tv/region.html",
+      "memento-datetime": "2012-12-12T20:26:57",
+      "memento-pubdate": "",
+      "earliest": "2012-12-12T20:26:57"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20130211094859/http://dunyanews.tv/region.html",
+      "memento-datetime": "2012-12-12T20:26:57",
+      "memento-pubdate": "",
+      "earliest": "2012-12-12T20:26:57"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2015-03-25T11:08:44"
+    }
+  }
+}

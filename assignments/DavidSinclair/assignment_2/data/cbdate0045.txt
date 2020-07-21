@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://tamil.oneindia.com/news/tamilnadu/pmk-founder-ramadoss-slams-government-the-attack-on-students-309949.html",
+  "uri": "https://tamil.oneindia.com/news/tamilnadu/pmk-founder-ramadoss-slams-government-the-attack-on-students-309949.html",
+  "estimated-creation-date": "2018-01-31T06:20:49",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T11:36:33"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T06:20:49"
+    }
+  }
+}

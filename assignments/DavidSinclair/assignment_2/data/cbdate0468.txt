@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://route.overnewser.com/elonmusk_newz/?url=https://www.inc.com/minda-zetlin/spacex-rocket-with-mysterious-government-payload-seems-to-have-crashed-whose-fault-was-it.html&utm_source=TrendyNewz&utm_medium=ElonMusk_Newz&utm_campaign=article",
+  "uri": "http://route.overnewser.com/elonmusk_newz/?url=https://www.inc.com/minda-zetlin/spacex-rocket-with-mysterious-government-payload-seems-to-have-crashed-whose-fault-was-it.html&utm_source=TrendyNewz&utm_medium=ElonMusk_Newz&utm_campaign=article",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

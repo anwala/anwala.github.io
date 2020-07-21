@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:36:21Z",
+        "uri": "http://web.archive.org/web/20180131193621/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:36:21Z",
+      "uri": "http://web.archive.org/web/20180131193621/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T19:36:21Z",
+      "uri": "http://web.archive.org/web/20180131193621/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://aajtak.intoday.in/story/budget-2018-niti-aayog-vc-explains-why-government-claims-high-growth-rate-1-981316.html"
+}
+

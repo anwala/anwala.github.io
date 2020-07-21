@@ -1,0 +1,39 @@
+{
+  "original_uri": "http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-25T04:03:02Z",
+        "uri": "http://web.archive.org/web/20180125040302/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+      },
+      {
+        "datetime": "2018-01-25T08:30:06Z",
+        "uri": "http://web.archive.org/web/20180125083006/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+      },
+      {
+        "datetime": "2018-02-01T06:39:46Z",
+        "uri": "http://web.archive.org/web/20180201063946/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+      },
+      {
+        "datetime": "2018-02-08T20:12:41Z",
+        "uri": "http://web.archive.org/web/20180208201241/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-25T04:03:02Z",
+      "uri": "http://web.archive.org/web/20180125040302/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+    },
+    "last": {
+      "datetime": "2018-02-08T20:12:41Z",
+      "uri": "http://web.archive.org/web/20180208201241/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://dailycaller.com/2018/01/24/government-funds-should-not-be-used-for-hurting-dogs-so-stop/"
+}
+

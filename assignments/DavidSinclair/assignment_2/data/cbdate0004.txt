@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://zeenews.india.com/hindi/india/modi-government-will-abolish-posts-vacant-from-past-5-years/369486",
+  "uri": "http://zeenews.india.com/hindi/india/modi-government-will-abolish-posts-vacant-from-past-5-years/369486",
+  "estimated-creation-date": "2018-01-31T05:07:46",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T10:34:52"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T05:07:46"
+    }
+  }
+}

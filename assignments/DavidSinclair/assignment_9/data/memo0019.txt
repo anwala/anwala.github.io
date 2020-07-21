@@ -1,0 +1,71 @@
+{
+  "original_uri": "http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T06:47:40Z",
+        "uri": "http://web.archive.org/web/20180131064740/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-01-31T07:34:29Z",
+        "uri": "http://web.archive.org/web/20180131073429/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-01-31T18:15:58Z",
+        "uri": "http://web.archive.org/web/20180131181558/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-01-31T18:19:52Z",
+        "uri": "http://wayback.archive-it.org/all/20180131181952/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-01-31T18:19:52Z",
+        "uri": "http://web.archive.org/web/20180131181952/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-01-31T20:56:32Z",
+        "uri": "http://archive.is/20180131205632/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-01-31T21:37:16Z",
+        "uri": "http://web.archive.org/web/20180131213716/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-02-01T08:02:15Z",
+        "uri": "http://web.archive.org/web/20180201080215/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-02-01T11:56:56Z",
+        "uri": "http://web.archive.org/web/20180201115656/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-02-02T12:30:42Z",
+        "uri": "http://web.archive.org/web/20180202123042/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-02-04T10:45:21Z",
+        "uri": "http://web.archive.org/web/20180204104521/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      },
+      {
+        "datetime": "2018-02-06T09:43:57Z",
+        "uri": "http://web.archive.org/web/20180206094357/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T06:47:40Z",
+      "uri": "http://web.archive.org/web/20180131064740/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+    },
+    "last": {
+      "datetime": "2018-02-06T09:43:57Z",
+      "uri": "http://web.archive.org/web/20180206094357/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.breitbart.com/big-government/2018/01/30/photos-sotu-protesters-carry-offensive-signs-along-trumps-motorcade-route-to-the-capitol/"
+}
+

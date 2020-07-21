@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+  "uri": "http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+  "estimated-creation-date": "2018-01-20T00:04:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180203214812/http://www.ronpaullibertyreport.com/archives/trump-expands-government-surveillance-on-american-people",
+      "memento-datetime": "2018-02-03T21:48:12",
+      "memento-pubdate": "",
+      "earliest": "2018-02-03T21:48:12"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-20T00:04:28"
+    }
+  }
+}

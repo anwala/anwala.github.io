@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T08:24:54Z",
+        "uri": "http://web.archive.org/web/20180131082454/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T08:24:54Z",
+      "uri": "http://web.archive.org/web/20180131082454/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter"
+    },
+    "last": {
+      "datetime": "2018-01-31T08:24:54Z",
+      "uri": "http://web.archive.org/web/20180131082454/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sacbee.com/news/politics-government/capitol-alert/article197489354.html?utm_source=dlvr.it&utm_medium=twitter"
+}
+

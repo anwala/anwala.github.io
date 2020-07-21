@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://thailand.prd.go.th/ewt_news.php?nid=6296&filename=index",
+  "uri": "http://thailand.prd.go.th/ewt_news.php?nid=6296&filename=index",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

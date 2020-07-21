@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2018-02-07T00:53:09",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T00:53:09"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

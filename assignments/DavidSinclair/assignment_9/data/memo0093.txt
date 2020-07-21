@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T21:00:02Z",
+        "uri": "http://web.archive.org/web/20180201210002/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer"
+      },
+      {
+        "datetime": "2018-03-17T18:04:42Z",
+        "uri": "http://web.archive.org/web/20180317180442/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T21:00:02Z",
+      "uri": "http://web.archive.org/web/20180201210002/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer"
+    },
+    "last": {
+      "datetime": "2018-03-17T18:04:42Z",
+      "uri": "http://web.archive.org/web/20180317180442/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://aclj.org/government-corruption/release-the-memo-on-deep-state-abuses?utm_source=twitter&utm_campaign=siteSharer"
+}
+

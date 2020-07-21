@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://economictimes.indiatimes.com/news/economy/indicators/indias-infrastructure-output-grows-4-percent-year-on-year-in-december-government/articleshow/62725984.cms",
+  "uri": "https://economictimes.indiatimes.com/news/economy/indicators/indias-infrastructure-output-grows-4-percent-year-on-year-in-december-government/articleshow/62725984.cms",
+  "estimated-creation-date": "2018-01-31T13:03:41",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T18:03:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T13:03:41"
+    }
+  }
+}

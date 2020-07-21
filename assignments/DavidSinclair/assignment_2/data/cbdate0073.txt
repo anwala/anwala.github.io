@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+  "uri": "https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+  "estimated-creation-date": "2018-01-29T20:34:11",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180129212410/https://thewalrus.ca/why-the-trudeau-government-wont-call-out-islamophobia/",
+      "memento-datetime": "2018-01-29T21:24:10",
+      "memento-pubdate": "",
+      "earliest": "2018-01-29T21:24:10"
+    },
+    "backlinks": {
+      "earliest": "2018-01-29T21:24:11"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-29T20:34:11"
+    }
+  }
+}

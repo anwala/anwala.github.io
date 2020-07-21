@@ -1,0 +1,43 @@
+{
+  "original_uri": "http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-10-01T19:20:06Z",
+        "uri": "http://web.archive.org/web/20131001192006/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+      },
+      {
+        "datetime": "2013-10-05T07:49:07Z",
+        "uri": "http://web.archive.org/web/20131005074907/http://www.funnyordie.com:80/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+      },
+      {
+        "datetime": "2013-11-28T06:04:47Z",
+        "uri": "http://web.archive.org/web/20131128060447/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+      },
+      {
+        "datetime": "2014-04-21T00:10:22Z",
+        "uri": "http://web.archive.org/web/20140421001022/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+      },
+      {
+        "datetime": "2016-06-29T21:22:45Z",
+        "uri": "http://web.archive.org/web/20160629212245/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+      }
+    ],
+    "first": {
+      "datetime": "2013-10-01T19:20:06Z",
+      "uri": "http://web.archive.org/web/20131001192006/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+    },
+    "last": {
+      "datetime": "2016-06-29T21:22:45Z",
+      "uri": "http://web.archive.org/web/20160629212245/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.funnyordie.com/articles/61b0b01333/fun-things-you-must-do-during-the-government-shutdown"
+}
+

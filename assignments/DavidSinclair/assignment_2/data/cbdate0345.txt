@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://apple.news/AtqaJxwmNQACgdmf8wL_2tg",
+  "uri": "https://apple.news/AtqaJxwmNQACgdmf8wL_2tg",
+  "estimated-creation-date": "2018-01-31T17:22:39",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T17:22:39"
+    }
+  }
+}

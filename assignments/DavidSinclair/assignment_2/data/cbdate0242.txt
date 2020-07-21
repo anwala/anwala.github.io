@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://flightaware.com/live/flight/N454TB",
+  "uri": "https://flightaware.com/live/flight/N454TB",
+  "estimated-creation-date": "2007-10-15T14:14:41",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20071015141441/http://flightaware.com:80/live/flight/N454TB",
+      "memento-datetime": "2007-10-15T14:14:41",
+      "memento-pubdate": "",
+      "earliest": "2007-10-15T14:14:41"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

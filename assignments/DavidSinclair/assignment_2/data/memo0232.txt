@@ -1,0 +1,39 @@
+{
+  "original_uri": "http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T21:54:57Z",
+        "uri": "http://web.archive.org/web/20180131215457/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+      },
+      {
+        "datetime": "2018-02-03T21:07:25Z",
+        "uri": "http://web.archive.org/web/20180203210725/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+      },
+      {
+        "datetime": "2018-02-04T08:34:49Z",
+        "uri": "http://wayback.archive-it.org/all/20180204083449/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+      },
+      {
+        "datetime": "2018-02-04T08:34:49Z",
+        "uri": "http://web.archive.org/web/20180204083449/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T21:54:57Z",
+      "uri": "http://web.archive.org/web/20180131215457/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+    },
+    "last": {
+      "datetime": "2018-02-04T08:34:49Z",
+      "uri": "http://web.archive.org/web/20180204083449/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/"
+}
+

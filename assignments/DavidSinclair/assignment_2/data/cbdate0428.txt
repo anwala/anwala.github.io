@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.newsweek.com/cia-director-mike-pompeo-met-russian-spy-chief-election-hacking-795983",
+  "uri": "http://www.newsweek.com/cia-director-mike-pompeo-met-russian-spy-chief-election-hacking-795983",
+  "estimated-creation-date": "2018-01-31T08:15:42",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131163232/http://www.newsweek.com/cia-director-mike-pompeo-met-russian-spy-chief-election-hacking-795983",
+      "memento-datetime": "2018-01-31T15:38:53",
+      "memento-pubdate": "2018-01-31T08:15:42",
+      "earliest": "2018-01-31T08:15:42"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-07T01:03:36"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T08:15:42"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T19:09:44"
+    }
+  }
+}

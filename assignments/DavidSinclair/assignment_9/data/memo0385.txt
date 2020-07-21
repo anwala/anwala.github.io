@@ -1,0 +1,43 @@
+{
+  "original_uri": "https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:26:02Z",
+        "uri": "http://web.archive.org/web/20180131192602/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+      },
+      {
+        "datetime": "2018-02-04T17:20:17Z",
+        "uri": "http://wayback.archive-it.org/all/20180204172017/http://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+      },
+      {
+        "datetime": "2018-02-04T17:20:17Z",
+        "uri": "http://web.archive.org/web/20180204172017/http://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+      },
+      {
+        "datetime": "2018-02-04T17:21:59Z",
+        "uri": "http://wayback.archive-it.org/all/20180204172159/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+      },
+      {
+        "datetime": "2018-02-04T17:21:59Z",
+        "uri": "http://web.archive.org/web/20180204172159/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:26:02Z",
+      "uri": "http://web.archive.org/web/20180131192602/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+    },
+    "last": {
+      "datetime": "2018-02-04T17:21:59Z",
+      "uri": "http://web.archive.org/web/20180204172159/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.mercurynews.com/2018/01/31/opinion-government-action-or-inaction-kills-people-what-do-you-call-that-crime/"
+}
+

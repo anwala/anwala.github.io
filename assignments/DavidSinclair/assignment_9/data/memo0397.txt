@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-03-05T21:48:46Z",
+        "uri": "http://web.archive.org/web/20180305214846/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter"
+      }
+    ],
+    "first": {
+      "datetime": "2018-03-05T21:48:46Z",
+      "uri": "http://web.archive.org/web/20180305214846/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter"
+    },
+    "last": {
+      "datetime": "2018-03-05T21:48:46Z",
+      "uri": "http://web.archive.org/web/20180305214846/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://redice.tv/news/too-white-norways-new-government-grilled-for-lack-of-diversity?utm_source=dlvr.it&utm_medium=twitter"
+}
+

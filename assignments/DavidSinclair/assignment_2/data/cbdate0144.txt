@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://msivagwritings.blogspot.in/2018/01/narendra-modi-is-he-really-transforming.html",
+  "uri": "http://msivagwritings.blogspot.in/2018/01/narendra-modi-is-he-really-transforming.html",
+  "estimated-creation-date": "2018-01-31T15:43:02",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-04T11:33:12"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:43:02"
+    }
+  }
+}

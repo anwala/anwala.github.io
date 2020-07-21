@@ -1,0 +1,11 @@
+The answers to assignment 3 are in the assignment3.pdf file.
+I answered also for extra credit question 6 and 7.  I did not answer 4 and 5 but the questions are listed in the assignment3.pdf.
+The codes are in programs 01_gethtml.sh which is a shell script to get the curl documents for all the links from assignment 2.
+The output is in a folder called html
+A tar of the directory is called html.tar.gz
+The code 02_processing.py is a python program which took the html directory files and processed them into only text files.  The output is in a folder called processed.  It has over 400+ files.  
+A tar of that directory is called processed.tar.gz
+The code 03_counting.py does a count on documents and files for verification.
+The code 04_word.py did a search for the word "minister" which is documented in the pdf assignment.
+The 05_countdoc.py is similar for 03_counting.py counting documents and files for verification
+the 07_combine.py and 07_word.py are used for answering extra credit question 7.  The first program combines all the text from all the files in processed into a large file.  The 07_word.py searches for specific words and outputs the number results.

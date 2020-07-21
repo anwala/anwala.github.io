@@ -1,0 +1,67 @@
+{
+  "original_uri": "http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-04T08:34:47Z",
+        "uri": "http://wayback.archive-it.org/all/20180204083447/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-02-04T08:34:47Z",
+        "uri": "http://web.archive.org/web/20180204083447/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-02-07T18:44:20Z",
+        "uri": "http://web.archive.org/web/20180207184420/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-02-08T06:17:40Z",
+        "uri": "http://web.archive.org/web/20180208061740/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-03-04T14:41:30Z",
+        "uri": "http://web.archive.org/web/20180304144130/https://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-03-04T17:15:24Z",
+        "uri": "http://web.archive.org/web/20180304171524/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-03-11T18:29:07Z",
+        "uri": "http://web.archive.org/web/20180311182907/https://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-03-11T22:29:54Z",
+        "uri": "http://web.archive.org/web/20180311222954/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-03-31T19:45:29Z",
+        "uri": "http://web.archive.org/web/20180331194529/https://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-04-01T18:30:24Z",
+        "uri": "http://web.archive.org/web/20180401183024/https://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      },
+      {
+        "datetime": "2018-04-08T22:56:58Z",
+        "uri": "http://web.archive.org/web/20180408225658/https://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-04T08:34:47Z",
+      "uri": "http://wayback.archive-it.org/all/20180204083447/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+    },
+    "last": {
+      "datetime": "2018-04-08T22:56:58Z",
+      "uri": "http://web.archive.org/web/20180408225658/https://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://appleinsider.com/articles/18/01/31/apple-confirms-receiving-inquiries-from-government-agencies-over-iphone-battery-throttling"
+}
+

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://bitcoinist.com/south-korea-government-will-not-ban-suppress-cryptocurrency-minister/",
+  "uri": "http://bitcoinist.com/south-korea-government-will-not-ban-suppress-cryptocurrency-minister/",
+  "estimated-creation-date": "2018-01-31T06:30:21",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180204194426/http://bitcoinist.com/south-korea-government-will-not-ban-suppress-cryptocurrency-minister/",
+      "memento-datetime": "2018-02-04T19:44:26",
+      "memento-pubdate": "2018-01-31T06:30:21",
+      "earliest": "2018-01-31T06:30:21"
+    },
+    "backlinks": {
+      "earliest": "2018-02-04T19:44:26"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T06:30:21"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:04:35"
+    }
+  }
+}

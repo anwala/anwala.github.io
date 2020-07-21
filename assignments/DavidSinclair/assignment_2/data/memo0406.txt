@@ -1,0 +1,43 @@
+{
+  "original_uri": "http://www.bbc.com/news/science-environment-42873645",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/news/science-environment-42873645",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T00:23:09Z",
+        "uri": "http://web.archive.org/web/20180131002309/http://www.bbc.com/news/science-environment-42873645"
+      },
+      {
+        "datetime": "2018-01-31T08:12:33Z",
+        "uri": "http://web.archive.org/web/20180131081233/http://www.bbc.com/news/science-environment-42873645"
+      },
+      {
+        "datetime": "2018-01-31T14:13:15Z",
+        "uri": "http://web.archive.org/web/20180131141315/http://www.bbc.com/news/science-environment-42873645"
+      },
+      {
+        "datetime": "2018-02-01T08:14:26Z",
+        "uri": "http://web.archive.org/web/20180201081426/http://www.bbc.com/news/science-environment-42873645"
+      },
+      {
+        "datetime": "2018-02-02T10:54:58Z",
+        "uri": "http://web.archive.org/web/20180202105458/http://www.bbc.com/news/science-environment-42873645"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T00:23:09Z",
+      "uri": "http://web.archive.org/web/20180131002309/http://www.bbc.com/news/science-environment-42873645"
+    },
+    "last": {
+      "datetime": "2018-02-02T10:54:58Z",
+      "uri": "http://web.archive.org/web/20180202105458/http://www.bbc.com/news/science-environment-42873645"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.com/news/science-environment-42873645",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/news/science-environment-42873645",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.com/news/science-environment-42873645"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.com/news/science-environment-42873645"
+}
+

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cyberscoop.com/ntia-botnet-cybersecurity-executive-order/",
+  "uri": "https://www.cyberscoop.com/ntia-botnet-cybersecurity-executive-order/",
+  "estimated-creation-date": "2018-01-30T15:18:35",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T15:18:35"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T20:18:09"
+    }
+  }
+}

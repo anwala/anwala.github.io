@@ -1,0 +1,311 @@
+{
+  "original_uri": "https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-03-24T07:07:59Z",
+        "uri": "http://web.archive.org/web/20160324070759/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-04-02T02:22:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160402022201/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-04-02T15:39:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160402153949/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-04-04T23:49:35Z",
+        "uri": "http://archive.is/20160404234935/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-04-14T06:12:55Z",
+        "uri": "http://web.archive.org/web/20160414061255/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-04-22T12:59:56Z",
+        "uri": "http://web.archive.org/web/20160422125956/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-05-03T21:00:05Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160503210005/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-05-21T00:55:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160521005540/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-06-03T21:33:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160603213326/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-07-04T09:09:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160704090934/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-08-06T11:35:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160806113552/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-09-08T16:03:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160908160301/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-09-14T16:15:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160914161558/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-10-13T01:57:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161013015733/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-10-26T04:11:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161026041132/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-11-05T14:49:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161105144929/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-11-12T06:33:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161112063326/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2016-12-12T20:09:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20161212200926/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-01-29T23:21:07Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170129232107/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-02-19T21:25:48Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170219212548/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-02-22T01:25:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170222012514/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-02-22T15:10:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170222151025/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-03-12T04:43:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170312044351/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-03-19T10:39:21Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170319103921/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-04-07T18:27:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170407182747/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-04-09T10:14:06Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170409101406/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-04-11T04:45:28Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170411044528/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-04-17T00:17:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170417001711/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-04-23T10:53:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170423105352/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-04-25T00:19:14Z",
+        "uri": "http://web.archive.org/web/20170425001914/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-05-01T01:05:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170501010558/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-05-07T07:37:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170507073746/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-05-07T16:57:10Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170507165710/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-05-14T07:52:06Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170514075206/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-05-21T10:32:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170521103247/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-05-28T12:40:03Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170528124003/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-06-04T10:55:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170604105531/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-06-07T05:11:09Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170607051109/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-06-18T20:21:52Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170618202152/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-06-26T03:29:03Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170626032903/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-07-17T00:28:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170717002831/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-07-24T01:27:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170724012715/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-07-30T17:16:59Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170730171659/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-08-06T22:03:40Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170806220340/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-08-13T18:16:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170813181626/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-09-04T07:59:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170904075914/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-09-18T06:35:20Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170918063520/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-09-25T05:21:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170925052126/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-10-22T04:44:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171022044427/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-10-29T06:13:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171029061351/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-11-05T01:26:39Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171105012639/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-11-07T01:42:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171107014214/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-11-11T23:41:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171111234119/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-11-17T21:45:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171117214536/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-11-25T23:07:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171125230733/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-12-02T00:11:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171202001117/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-12-09T21:05:05Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171209210505/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-12-16T20:45:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171216204536/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2017-12-24T01:07:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20171224010701/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-01-21T01:42:54Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180121014254/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-02-01T02:02:11Z",
+        "uri": "http://web.archive.org/web/20180201020211/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-02-05T13:06:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205130624/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-02-07T15:54:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180207155442/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-02-13T05:22:04Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180213052204/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-03-06T05:02:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180306050253/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-03-09T01:08:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180309010817/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-03-15T01:53:57Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180315015357/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-03-23T21:12:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180323211218/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-04-06T17:23:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180406172315/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-04-06T17:59:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180406175916/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-04-08T12:13:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180408121355/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      },
+      {
+        "datetime": "2018-04-15T06:53:23Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180415065323/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+      }
+    ],
+    "first": {
+      "datetime": "2016-03-24T07:07:59Z",
+      "uri": "http://web.archive.org/web/20160324070759/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+    },
+    "last": {
+      "datetime": "2018-04-15T06:53:23Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180415065323/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/news/lord-bates-resigns-as-minister-of-state-for-home-office"
+}
+

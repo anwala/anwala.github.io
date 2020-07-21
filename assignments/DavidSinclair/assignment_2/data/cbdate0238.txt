@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/news/uk/politics/theresa-may-brexit-government-stop-minister-name-and-dept-tory-rebel-remain-brexiteers-conservatives-a8186566.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+  "uri": "http://www.independent.co.uk/news/uk/politics/theresa-may-brexit-government-stop-minister-name-and-dept-tory-rebel-remain-brexiteers-conservatives-a8186566.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+  "estimated-creation-date": "2018-01-31T08:19:32",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201125613/http://www.independent.co.uk/news/uk/politics/theresa-may-brexit-government-stop-minister-name-and-dept-tory-rebel-remain-brexiteers-conservatives-a8186566.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+      "memento-datetime": "2018-01-31T12:19:08",
+      "memento-pubdate": "2018-01-31T08:19:32",
+      "earliest": "2018-01-31T08:19:32"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T12:19:08"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T08:19:32"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

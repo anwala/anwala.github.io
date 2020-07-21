@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/politics/blog/live/2018/jan/31/brexit-vote-impact-report-may-press-conference-pmqs-parliament-renovation-minister-urges-may-to-rethink-her-brexit-strategy-in-light-of-government-impact-analysis-politics-live?CMP=Share_iOSApp_Other",
+  "uri": "https://www.theguardian.com/politics/blog/live/2018/jan/31/brexit-vote-impact-report-may-press-conference-pmqs-parliament-renovation-minister-urges-may-to-rethink-her-brexit-strategy-in-light-of-government-impact-analysis-politics-live?CMP=Share_iOSApp_Other",
+  "estimated-creation-date": "2018-01-31T09:28:18",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131131639/https://www.theguardian.com/politics/blog/live/2018/jan/31/brexit-vote-impact-report-may-press-conference-pmqs-parliament-renovation-minister-urges-may-to-rethink-her-brexit-strategy-in-light-of-government-impact-analysis-politics-live?CMP=Share_iOSApp_Other",
+      "memento-datetime": "2018-01-31T13:16:39",
+      "memento-pubdate": "2018-01-31T13:14:36",
+      "earliest": "2018-01-31T13:14:36"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T20:16:15"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T09:28:18"
+    }
+  }
+}

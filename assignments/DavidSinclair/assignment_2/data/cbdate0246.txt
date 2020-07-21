@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+  "uri": "https://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+  "estimated-creation-date": "2018-01-17T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180117140920/http://english.alarabiya.net/en/perspective/features/2018/01/17/ANALYSIS-Unveiling-Iranian-pro-government-trolls-and-cyber-warriors.html",
+      "memento-datetime": "2018-01-17T14:05:46",
+      "memento-pubdate": "2018-01-17T23:59:59",
+      "earliest": "2018-01-17T14:05:46"
+    },
+    "backlinks": {
+      "earliest": "2018-01-17T14:05:46"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-17T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

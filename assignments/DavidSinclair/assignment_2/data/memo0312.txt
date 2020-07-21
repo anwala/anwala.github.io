@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:10:01Z",
+        "uri": "http://web.archive.org/web/20180131181001/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:10:01Z",
+      "uri": "http://web.archive.org/web/20180131181001/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:10:01Z",
+      "uri": "http://web.archive.org/web/20180131181001/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html"
+}
+

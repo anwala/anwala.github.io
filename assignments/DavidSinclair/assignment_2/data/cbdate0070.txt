@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://economictimes.indiatimes.com/news/politics-and-nation/up-government-announces-jobs-to-dependants-of-martyred-jawans/articleshow/62720462.cms?utm_source=AMPusers&utm_medium=twittershare&utm_campaign=socialsharebutton&from=mdr",
+  "uri": "https://economictimes.indiatimes.com/news/politics-and-nation/up-government-announces-jobs-to-dependants-of-martyred-jawans/articleshow/62720462.cms?utm_source=AMPusers&utm_medium=twittershare&utm_campaign=socialsharebutton&from=mdr",
+  "estimated-creation-date": "2018-01-31T11:15:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T11:15:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

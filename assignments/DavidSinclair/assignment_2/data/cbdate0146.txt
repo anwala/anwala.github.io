@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.islandecho.co.uk/bob-questions-government-hs2-urges-island-investment/",
+  "uri": "http://www.islandecho.co.uk/bob-questions-government-hs2-urges-island-investment/",
+  "estimated-creation-date": "2018-01-31T14:40:37",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T14:40:37"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:31:35"
+    }
+  }
+}

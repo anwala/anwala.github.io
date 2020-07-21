@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.cityam.com/279734/lord-hill-government-should-prioritise-growth-over",
+  "uri": "http://www.cityam.com/279734/lord-hill-government-should-prioritise-growth-over",
+  "estimated-creation-date": "2018-01-30T14:57:00",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180130231331/http://www.cityam.com/279734/lord-hill-government-should-prioritise-growth-over",
+      "memento-datetime": "2018-01-30T23:13:31",
+      "memento-pubdate": "2018-01-30T14:57:00",
+      "earliest": "2018-01-30T14:57:00"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-30T14:57:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T14:57:50"
+    }
+  }
+}

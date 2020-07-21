@@ -1,0 +1,35 @@
+{
+  "original_uri": "https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:53:27Z",
+        "uri": "http://web.archive.org/web/20180131165327/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+      },
+      {
+        "datetime": "2018-01-31T20:41:18Z",
+        "uri": "http://web.archive.org/web/20180131204118/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+      },
+      {
+        "datetime": "2018-02-01T12:41:06Z",
+        "uri": "http://web.archive.org/web/20180201124106/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:53:27Z",
+      "uri": "http://web.archive.org/web/20180131165327/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+    },
+    "last": {
+      "datetime": "2018-02-01T12:41:06Z",
+      "uri": "http://web.archive.org/web/20180201124106/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://truepundit.com/white-house-chief-staff-republican-memo-come-soon/"
+}
+

@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T18:14:18Z",
+        "uri": "http://web.archive.org/web/20180131181418/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T18:14:18Z",
+      "uri": "http://web.archive.org/web/20180131181418/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/"
+    },
+    "last": {
+      "datetime": "2018-01-31T18:14:18Z",
+      "uri": "http://web.archive.org/web/20180131181418/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.360nobs.com/2018/01/nigeria-bans-open-drug-markets-2019/"
+}
+

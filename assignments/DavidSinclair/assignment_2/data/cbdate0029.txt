@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://zeenews.india.com/economy/budget-to-test-investors-faith-in-modis-government-2077502.html?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "http://zeenews.india.com/economy/budget-to-test-investors-faith-in-modis-government-2077502.html?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2018-01-31T17:03:55",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T17:03:55"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

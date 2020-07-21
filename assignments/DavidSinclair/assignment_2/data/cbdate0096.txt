@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/31/rep-paul-gosar-im-happy-to-be-chastised-by-nancy-pelosi-for-upholding-the-rule-of-law/",
+  "uri": "http://www.breitbart.com/big-government/2018/01/31/rep-paul-gosar-im-happy-to-be-chastised-by-nancy-pelosi-for-upholding-the-rule-of-law/",
+  "estimated-creation-date": "2018-01-31T07:05:29",
+  "earliest-sources": [
+    "wayback.archive-it.org",
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180131211121/http://www.breitbart.com/big-government/2018/01/31/rep-paul-gosar-im-happy-to-be-chastised-by-nancy-pelosi-for-upholding-the-rule-of-law/",
+      "memento-datetime": "2018-01-31T21:10:48",
+      "memento-pubdate": "2018-01-31T07:05:29",
+      "earliest": "2018-01-31T07:05:29"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131211121/http://www.breitbart.com/big-government/2018/01/31/rep-paul-gosar-im-happy-to-be-chastised-by-nancy-pelosi-for-upholding-the-rule-of-law/",
+      "memento-datetime": "2018-01-31T21:10:48",
+      "memento-pubdate": "2018-01-31T07:05:29",
+      "earliest": "2018-01-31T07:05:29"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T21:10:48"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T07:05:29"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

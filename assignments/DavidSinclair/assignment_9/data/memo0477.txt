@@ -1,0 +1,79 @@
+{
+  "original_uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-01T23:47:55Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180201234755/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-02-05T13:27:48Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180205132748/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-02-12T14:08:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180212140842/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-02-20T03:17:30Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180220031730/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-02-27T04:01:37Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180227040137/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-03-04T15:12:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180304151225/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-03-08T03:05:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180308030531/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-03-14T23:17:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180314231701/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-03-22T05:21:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180322052119/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-04-04T01:57:54Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404015754/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-04-04T04:28:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404042818/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-04-04T17:10:10Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180404171010/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-04-11T16:37:17Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180411163717/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      },
+      {
+        "datetime": "2018-04-18T14:22:09Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20180418142209/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-01T23:47:55Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180201234755/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+    },
+    "last": {
+      "datetime": "2018-04-18T14:22:09Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20180418142209/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677985/FEC_Annual_Report_2016-17.pdf"
+}
+

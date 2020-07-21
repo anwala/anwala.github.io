@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T15:40:14Z",
+        "uri": "http://web.archive.org/web/20180131154014/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T15:40:14Z",
+      "uri": "http://web.archive.org/web/20180131154014/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-"
+    },
+    "last": {
+      "datetime": "2018-01-31T15:40:14Z",
+      "uri": "http://web.archive.org/web/20180131154014/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.devonlive.com/news/devon-news/devon-mps-threaten-derail-government-1141937?UTM_Source=GatorSocial&UTM_Medium=Twitter&UTM_campaign=Monitoring-"
+}
+

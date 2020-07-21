@@ -1,0 +1,27 @@
+{
+  "original_uri": "http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T10:31:50Z",
+        "uri": "http://web.archive.org/web/20180131103150/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T10:31:50Z",
+      "uri": "http://web.archive.org/web/20180131103150/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T10:31:50Z",
+      "uri": "http://web.archive.org/web/20180131103150/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://journalstar.com/opinion/editorial/editorial-ag-opinion-a-victory-for-open-government/article_0cb6f474-a4ee-5c6c-b9bf-87cd249e4fbf.html"
+}
+

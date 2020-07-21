@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.facebook.com/permalink.php?story_fbid=773718562823226&id=293374297524324",
+  "uri": "https://www.facebook.com/permalink.php?story_fbid=773718562823226&id=293374297524324",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

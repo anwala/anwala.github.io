@@ -1,0 +1,39 @@
+{
+  "original_uri": "http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T14:39:28Z",
+        "uri": "http://web.archive.org/web/20180131143928/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-01T14:34:19Z",
+        "uri": "http://web.archive.org/web/20180201143419/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-02T08:42:12Z",
+        "uri": "http://web.archive.org/web/20180202084212/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+      },
+      {
+        "datetime": "2018-02-06T03:38:56Z",
+        "uri": "http://web.archive.org/web/20180206033856/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T14:39:28Z",
+      "uri": "http://web.archive.org/web/20180131143928/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+    },
+    "last": {
+      "datetime": "2018-02-06T03:38:56Z",
+      "uri": "http://web.archive.org/web/20180206033856/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.esquire.com/news-politics/politics/a15940724/trump-state-of-the-union/"
+}
+

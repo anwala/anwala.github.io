@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://news.nifty.com/article/domestic/government/12136-438614/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://news.nifty.com/article/domestic/government/12136-438614/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-04T14:18:15Z",
+        "uri": "http://archive.is/20180204141815/https://news.nifty.com/article/domestic/government/12136-438614/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-04T14:18:15Z",
+      "uri": "http://archive.is/20180204141815/https://news.nifty.com/article/domestic/government/12136-438614/"
+    },
+    "last": {
+      "datetime": "2018-02-04T14:18:15Z",
+      "uri": "http://archive.is/20180204141815/https://news.nifty.com/article/domestic/government/12136-438614/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.nifty.com/article/domestic/government/12136-438614/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.nifty.com/article/domestic/government/12136-438614/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.nifty.com/article/domestic/government/12136-438614/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.nifty.com/article/domestic/government/12136-438614/"
+}
+

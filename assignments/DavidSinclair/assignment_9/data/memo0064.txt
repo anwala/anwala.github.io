@@ -1,0 +1,375 @@
+{
+  "original_uri": "https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T08:38:27Z",
+        "uri": "http://web.archive.org/web/20180131083827/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-01-31T09:32:45Z",
+        "uri": "http://web.archive.org/web/20180131093245/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-01-31T16:38:00Z",
+        "uri": "http://archive.is/20180131163800/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-01-31T18:02:16Z",
+        "uri": "http://web.archive.org/web/20180131180216/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-01-31T19:17:32Z",
+        "uri": "http://web.archive.org/web/20180131191732/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-01-31T20:08:20Z",
+        "uri": "http://web.archive.org/web/20180131200820/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-01-31T23:28:12Z",
+        "uri": "http://web.archive.org/web/20180131232812/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-01T01:06:10Z",
+        "uri": "http://web.archive.org/web/20180201010610/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-01T13:58:50Z",
+        "uri": "http://web.archive.org/web/20180201135850/http://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-01T18:06:27Z",
+        "uri": "http://web.archive.org/web/20180201180627/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-01T18:23:21Z",
+        "uri": "http://web.archive.org/web/20180201182321/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-02T01:19:32Z",
+        "uri": "http://web.archive.org/web/20180202011932/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-02T19:01:55Z",
+        "uri": "http://web.archive.org/web/20180202190155/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-03T21:28:10Z",
+        "uri": "http://web.archive.org/web/20180203212810/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-04T21:56:20Z",
+        "uri": "http://web.archive.org/web/20180204215620/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-05T22:17:22Z",
+        "uri": "http://web.archive.org/web/20180205221722/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-06T22:36:55Z",
+        "uri": "http://web.archive.org/web/20180206223655/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-07T23:06:28Z",
+        "uri": "http://web.archive.org/web/20180207230628/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-08T22:39:15Z",
+        "uri": "http://web.archive.org/web/20180208223915/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-09T23:13:10Z",
+        "uri": "http://web.archive.org/web/20180209231310/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-10T23:53:56Z",
+        "uri": "http://web.archive.org/web/20180210235356/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-12T01:53:45Z",
+        "uri": "http://web.archive.org/web/20180212015345/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-13T02:27:11Z",
+        "uri": "http://web.archive.org/web/20180213022711/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-14T02:56:45Z",
+        "uri": "http://web.archive.org/web/20180214025645/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-15T03:39:40Z",
+        "uri": "http://web.archive.org/web/20180215033940/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-15T07:26:25Z",
+        "uri": "http://web.archive.org/web/20180215072625/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-16T04:14:42Z",
+        "uri": "http://web.archive.org/web/20180216041442/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-17T04:49:13Z",
+        "uri": "http://web.archive.org/web/20180217044913/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-18T05:34:53Z",
+        "uri": "http://web.archive.org/web/20180218053453/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-19T06:02:20Z",
+        "uri": "http://web.archive.org/web/20180219060220/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-20T06:33:29Z",
+        "uri": "http://web.archive.org/web/20180220063329/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-21T08:54:37Z",
+        "uri": "http://web.archive.org/web/20180221085437/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-22T09:33:52Z",
+        "uri": "http://web.archive.org/web/20180222093352/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-23T10:12:13Z",
+        "uri": "http://web.archive.org/web/20180223101213/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-24T10:40:23Z",
+        "uri": "http://web.archive.org/web/20180224104023/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-25T11:30:13Z",
+        "uri": "http://web.archive.org/web/20180225113013/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-26T12:09:15Z",
+        "uri": "http://web.archive.org/web/20180226120915/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-27T12:33:52Z",
+        "uri": "http://web.archive.org/web/20180227123352/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-02-28T12:44:19Z",
+        "uri": "http://web.archive.org/web/20180228124419/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-01T13:26:05Z",
+        "uri": "http://web.archive.org/web/20180301132605/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-02T14:05:16Z",
+        "uri": "http://web.archive.org/web/20180302140516/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-03T14:26:47Z",
+        "uri": "http://web.archive.org/web/20180303142647/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-04T15:04:34Z",
+        "uri": "http://web.archive.org/web/20180304150434/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-05T15:49:41Z",
+        "uri": "http://web.archive.org/web/20180305154941/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-06T17:09:00Z",
+        "uri": "http://web.archive.org/web/20180306170900/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-07T17:47:46Z",
+        "uri": "http://web.archive.org/web/20180307174746/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-08T17:46:16Z",
+        "uri": "http://web.archive.org/web/20180308174616/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-09T18:34:48Z",
+        "uri": "http://web.archive.org/web/20180309183448/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-10T19:28:30Z",
+        "uri": "http://web.archive.org/web/20180310192830/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-11T19:09:15Z",
+        "uri": "http://web.archive.org/web/20180311190915/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-12T20:50:19Z",
+        "uri": "http://web.archive.org/web/20180312205019/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-13T21:32:09Z",
+        "uri": "http://web.archive.org/web/20180313213209/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-14T22:04:27Z",
+        "uri": "http://web.archive.org/web/20180314220427/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-15T22:30:46Z",
+        "uri": "http://web.archive.org/web/20180315223046/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-16T22:41:55Z",
+        "uri": "http://web.archive.org/web/20180316224155/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-17T22:58:49Z",
+        "uri": "http://web.archive.org/web/20180317225849/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-18T23:12:07Z",
+        "uri": "http://web.archive.org/web/20180318231207/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-19T23:19:25Z",
+        "uri": "http://web.archive.org/web/20180319231925/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-20T23:36:01Z",
+        "uri": "http://web.archive.org/web/20180320233601/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-21T23:57:56Z",
+        "uri": "http://web.archive.org/web/20180321235756/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-23T00:24:56Z",
+        "uri": "http://web.archive.org/web/20180323002456/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-24T01:22:56Z",
+        "uri": "http://web.archive.org/web/20180324012256/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-25T01:25:45Z",
+        "uri": "http://web.archive.org/web/20180325012545/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-26T01:45:59Z",
+        "uri": "http://web.archive.org/web/20180326014559/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-27T02:04:14Z",
+        "uri": "http://web.archive.org/web/20180327020414/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-28T02:27:46Z",
+        "uri": "http://web.archive.org/web/20180328022746/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-29T03:14:55Z",
+        "uri": "http://web.archive.org/web/20180329031455/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-30T03:57:04Z",
+        "uri": "http://web.archive.org/web/20180330035704/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-03-31T04:27:34Z",
+        "uri": "http://web.archive.org/web/20180331042734/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-01T04:46:34Z",
+        "uri": "http://web.archive.org/web/20180401044634/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-02T05:03:44Z",
+        "uri": "http://web.archive.org/web/20180402050344/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-03T05:39:43Z",
+        "uri": "http://web.archive.org/web/20180403053943/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-04T05:42:15Z",
+        "uri": "http://web.archive.org/web/20180404054215/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-05T06:08:35Z",
+        "uri": "http://web.archive.org/web/20180405060835/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-06T07:06:09Z",
+        "uri": "http://web.archive.org/web/20180406070609/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-07T08:01:08Z",
+        "uri": "http://web.archive.org/web/20180407080108/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-08T08:36:46Z",
+        "uri": "http://web.archive.org/web/20180408083646/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-09T09:24:08Z",
+        "uri": "http://web.archive.org/web/20180409092408/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-10T10:03:43Z",
+        "uri": "http://web.archive.org/web/20180410100343/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-11T10:35:37Z",
+        "uri": "http://web.archive.org/web/20180411103537/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-12T11:51:48Z",
+        "uri": "http://web.archive.org/web/20180412115148/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-13T11:29:51Z",
+        "uri": "http://web.archive.org/web/20180413112951/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-14T11:51:29Z",
+        "uri": "http://web.archive.org/web/20180414115129/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-15T12:14:13Z",
+        "uri": "http://web.archive.org/web/20180415121413/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-16T12:31:43Z",
+        "uri": "http://web.archive.org/web/20180416123143/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-17T12:48:21Z",
+        "uri": "http://web.archive.org/web/20180417124821/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-18T13:06:16Z",
+        "uri": "http://web.archive.org/web/20180418130616/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      },
+      {
+        "datetime": "2018-04-19T13:23:07Z",
+        "uri": "http://web.archive.org/web/20180419132307/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T08:38:27Z",
+      "uri": "http://web.archive.org/web/20180131083827/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+    },
+    "last": {
+      "datetime": "2018-04-19T13:23:07Z",
+      "uri": "http://web.archive.org/web/20180419132307/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://slate.com/news-and-politics/2018/01/donald-trump-just-asked-congress-to-end-the-rule-of-law.html"
+}
+

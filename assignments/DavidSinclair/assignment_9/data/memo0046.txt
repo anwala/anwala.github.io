@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T10:05:35Z",
+        "uri": "http://archive.is/20180131100535/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T10:05:35Z",
+      "uri": "http://archive.is/20180131100535/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw"
+    },
+    "last": {
+      "datetime": "2018-01-31T10:05:35Z",
+      "uri": "http://archive.is/20180131100535/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/australia-news/2018/jan/31/chinese-government-exerts-influence-across-australian-society-mps-told?CMP=share_btn_tw"
+}
+

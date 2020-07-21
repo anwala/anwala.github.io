@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.moneysavingexpert.com/news/family/2018/01/government-to-review-all-16-million-personal-independence-payment-claims",
+  "uri": "https://www.moneysavingexpert.com/news/family/2018/01/government-to-review-all-16-million-personal-independence-payment-claims",
+  "estimated-creation-date": "2018-01-30T08:40:01",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131042544/https://www.moneysavingexpert.com/news/family/2018/01/government-to-review-all-16-million-personal-independence-payment-claims",
+      "memento-datetime": "2018-01-31T04:25:44",
+      "memento-pubdate": "",
+      "earliest": "2018-01-31T04:25:44"
+    },
+    "backlinks": {
+      "earliest": "2018-01-31T04:25:45"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-30T08:40:01"
+    }
+  }
+}

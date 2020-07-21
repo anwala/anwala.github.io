@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gov.uk/government/collections/ofsted-schools-survey-reports",
+  "uri": "https://www.gov.uk/government/collections/ofsted-schools-survey-reports",
+  "estimated-creation-date": "2015-07-10T20:23:25",
+  "earliest-sources": [
+    "www.webarchive.org.uk"
+  ],
+  "sources": {
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20150710202325/https://www.gov.uk/government/collections/ofsted-schools-survey-reports",
+      "memento-datetime": "2015-07-10T20:23:25",
+      "memento-pubdate": "",
+      "earliest": "2015-07-10T20:23:25"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20151208032819/https://www.gov.uk/government/collections/ofsted-schools-survey-reports",
+      "memento-datetime": "2015-12-08T03:28:19",
+      "memento-pubdate": "",
+      "earliest": "2015-12-08T03:28:19"
+    },
+    "backlinks": {
+      "earliest": "2015-07-10T20:23:26"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T14:39:50"
+    }
+  }
+}

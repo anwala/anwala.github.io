@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.dailyherald.com/article/20180131/business/301319948/",
+  "uri": "http://www.dailyherald.com/article/20180131/business/301319948/",
+  "estimated-creation-date": "2018-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-06T10:22:11"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T00:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:11:24"
+    }
+  }
+}

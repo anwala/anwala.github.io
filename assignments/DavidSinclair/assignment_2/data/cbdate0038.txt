@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+  "uri": "http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+  "estimated-creation-date": "2018-01-31T11:16:40",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180201125657/http://www.independent.co.uk/voices/theresa-may-philip-lee-brexit-remain-government-weak-resign-a8186861.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+      "memento-datetime": "2018-01-31T11:45:12",
+      "memento-pubdate": "2018-01-31T11:16:40",
+      "earliest": "2018-01-31T11:16:40"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-01-31T11:45:12"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T11:16:40"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

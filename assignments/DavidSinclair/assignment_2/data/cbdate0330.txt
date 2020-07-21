@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.pantagraph.com/news/local/government-and-politics/national-historic-status-sought-for-old-bhs/article_d8982473-a036-58d2-960b-f1b601dbdcd6.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "uri": "http://www.pantagraph.com/news/local/government-and-politics/national-historic-status-sought-for-old-bhs/article_d8982473-a036-58d2-960b-f1b601dbdcd6.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "estimated-creation-date": "2018-01-31T07:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-01T01:19:03"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T07:00:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

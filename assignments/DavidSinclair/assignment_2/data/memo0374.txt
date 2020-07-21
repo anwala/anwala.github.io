@@ -1,0 +1,91 @@
+{
+  "original_uri": "https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T12:45:55Z",
+        "uri": "http://web.archive.org/web/20180130124555/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-30T21:15:38Z",
+        "uri": "http://web.archive.org/web/20180130211538/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-30T21:22:51Z",
+        "uri": "http://web.archive.org/web/20180130212251/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-30T23:56:53Z",
+        "uri": "http://web.archive.org/web/20180130235653/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-31T08:24:36Z",
+        "uri": "http://web.archive.org/web/20180131082436/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-31T09:43:48Z",
+        "uri": "http://web.archive.org/web/20180131094348/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-31T11:09:54Z",
+        "uri": "http://web.archive.org/web/20180131110954/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-31T11:20:16Z",
+        "uri": "http://web.archive.org/web/20180131112016/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-01-31T14:28:01Z",
+        "uri": "http://web.archive.org/web/20180131142801/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-01T09:04:03Z",
+        "uri": "http://web.archive.org/web/20180201090403/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-01T21:45:27Z",
+        "uri": "http://web.archive.org/web/20180201214527/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-02T21:53:19Z",
+        "uri": "http://web.archive.org/web/20180202215319/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-02T23:45:25Z",
+        "uri": "http://web.archive.org/web/20180202234525/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-03T21:00:06Z",
+        "uri": "http://web.archive.org/web/20180203210006/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-03T22:06:46Z",
+        "uri": "http://web.archive.org/web/20180203220646/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-04T21:21:53Z",
+        "uri": "http://web.archive.org/web/20180204212153/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      },
+      {
+        "datetime": "2018-02-04T23:18:57Z",
+        "uri": "http://web.archive.org/web/20180204231857/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T12:45:55Z",
+      "uri": "http://web.archive.org/web/20180130124555/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+    },
+    "last": {
+      "datetime": "2018-02-04T23:18:57Z",
+      "uri": "http://web.archive.org/web/20180204231857/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/commentisfree/2018/jan/30/amnesty-workers-terrorists-repressive-new-turkey-ngo-draconian-government"
+}
+

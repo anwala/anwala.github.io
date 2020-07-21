@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/http://rekkacopy.com",
+  "uri": "http://rekkacopy.com",
+  "estimated-creation-date": "2012-10-29T17:25:57",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20121102201449/http://rekkacopy.com:80/",
+      "memento-datetime": "2012-11-02T20:14:49",
+      "memento-pubdate": "",
+      "earliest": "2012-11-02T20:14:49"
+    },
+    "archive.is": {
+      "uri-m": "http://archive.is/20130208141000/http://rekkacopy.com/",
+      "memento-datetime": "2013-02-08T14:10:00",
+      "memento-pubdate": "2013-02-08T14:10:00",
+      "earliest": "2013-02-08T14:10:00"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20140124175830/http://rekkacopy.com/",
+      "memento-datetime": "2014-01-24T17:58:30",
+      "memento-pubdate": "",
+      "earliest": "2014-01-24T17:58:30"
+    },
+    "backlinks": {
+      "earliest": "2014-08-11T19:42:51"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2017-01-15T18:02:19"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2012-10-29T17:25:57"
+    }
+  }
+}

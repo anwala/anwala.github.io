@@ -1,0 +1,1451 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]>	   <html class="no-js" lang="en"> <![endif]-->
+	<head>
+		<script type="text/javascript">
+			/* observer-7.4.1 */!function t(e,n,o){function r(a,s){if(!n[a]){if(!e[a]){var u="function"==typeof require&&require;if(!s&&u)return u(a,!0);if(i)return i(a,!0);var d=new Error("Cannot find module '"+a+"'");throw d.code="MODULE_NOT_FOUND",d}var c=n[a]={exports:{}};e[a][0].call(c.exports,function(t){var n=e[a][1][t];return r(n||t)},c,c.exports,t,e,n,o)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<o.length;a++)r(o[a]);return r}({1:[function(t,e,n){"use strict";function o(t){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"NEW_SCRIPT_EVENT",n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},o=new r(e,{detail:n});t.dispatchEvent(o)}var r=t(3);e.exports=o},{3:3}],2:[function(t,e,n){"use strict";function o(t){t.adonis=t.adonis||{},t.adonis.scriptStatuses={},t.adonis.requestStatuses={};var e=t.XMLHttpRequest.prototype.open;t.XMLHttpRequest.prototype.open=function(n,o){this.addEventListener("error",function(e){0===this.status?t.adonis.scriptStatuses[o]="error":t.adonis.scriptStatuses[o]="load"}),this.addEventListener("load",function(e){t.adonis.scriptStatuses[o]="load"}),this.addEventListener("loadend",function(e){t.adonis.requestStatuses[o]=this.status,r(t)});var i=[].slice.call(arguments,0);return e.apply(this,i)}}var r=t(1);e.exports={wrapXMLHttpRequest:o}},{1:1}],3:[function(t,e,n){(function(t){var n=t.CustomEvent;e.exports=function(){try{var t=new n("cat",{detail:{foo:"bar"}});return"cat"===t.type&&"bar"===t.detail.foo}catch(t){}return!1}()?n:"undefined"!=typeof document&&"function"==typeof document.createEvent?function(t,e){var n=document.createEvent("CustomEvent");return e?n.initCustomEvent(t,e.bubbles,e.cancelable,e.detail):n.initCustomEvent(t,!1,!1,void 0),n}:function(t,e){var n=document.createEventObject();return n.type=t,e?(n.bubbles=Boolean(e.bubbles),n.cancelable=Boolean(e.cancelable),n.detail=e.detail):(n.bubbles=!1,n.cancelable=!1,n.detail=void 0),n}}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],4:[function(t,e,n){"use strict";function o(t,e,n,o){"addEventListener"in t?t.addEventListener(e,n,o):"attachEvent"in t&&t.attachEvent("on"+e,n)}var r=t(2),i=t(1);!function(){window.adonis=window.adonis||{},window.adonis.scriptStatuses={},r.wrapXMLHttpRequest(window),o(document,"load",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="load",i(window))},!0),o(document,"error",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="error",i(window))},!0)}()},{1:1,2:2}]},{},[4]);
+		</script>
+		<meta charset="UTF-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=1000,maximum-scale=1.0">
+				<link rel="apple-touch-icon" href="https://s0.wp.com/wp-content/themes/vip/uproxx/assets/images/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://s0.wp.com/wp-content/themes/vip/uproxx/assets/images/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://s0.wp.com/wp-content/themes/vip/uproxx/assets/images/apple-touch-icon-114x114.png">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<link rel="alternate" type="application/rss+xml" title="UPROXX RSS Feed" href="https://feeds.feedburner.com/uproxx/features" />
+
+		
+<meta name="description" content="The iPhone slowdown controversy is gaining more steam, as the government has officially gotten involved." />
+<meta name="keywords" content="home page, life, news, technology, apple, apple iphone" /><meta name="apple-itunes-app" content="app-id=1109605093" />
+
+		<meta name="qc:post" content="apple-government-investigating-iphones-slowing-down">
+		<meta name="qc:author" content="Dan Seitz">
+		<meta name="qc:section" content="technology">
+		<meta name="qc:content_group" content="Lifestyle">
+		<meta name="qc:primary_tag" content="apple">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@UPROXX">
+		<meta name="twitter:creator" content="@UPROXX">
+		<meta name="twitter:widgets:csp" content="on" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=uproxx.com&amp;id=60970621&amp;t=1518664139&amp;back=http%3A%2F%2Fuproxx.com%2Ftechnology%2Fapple-government-investigating-iphones-slowing-down%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//uproxx.wordpress.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="UPROXX &raquo; Apple Confirms U.S. Authorities Are Investigating Its Slowed-Down Phones Comments Feed" href="http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1516999477h&ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJy9VFty2zAMvFAZNp2m435kchaKhCTYfAUEbev2hWSr9SudWMnkRyMsFosVBULvsrIpMkTWoarsa4exaJsIBA/ZsBZGAIcGPAShPdhSvunbZSH/mqvG197YTfkff5eFrZomE5Si5BmwBsW9NLquO8B6i1nXTGm/17PMIVQEIw9T1FKqW0o3zL4tsktbiMq1eaouPHhYXB0N4xbkFENI8aMqDsqGU36HzL2mj+fWYSt/xAxAU9sr9B2KYtsl0qY67IShSp+IVSVfdK6NRzsp30irQ/p+06WkU7cSfobGOL3jkC+YvlFsLWNnoh2atNfr1wo0PMzx/YLGBYwKYi8K0827yLRguBI4tUUHZx9ykSfwhmfel/hoEwUjPMKuZ0UG/YLzBGaM3d84YLH/wEsyo90MyoNxQE0y5I63eIKPPcXvkv/6eT5O4AU+pJ8HhbHFiAzjrPUc/JOszdQd9mfyQ4ve6yvk491Or8l5aom2A1kBhi5kZ/R+xR26DvhMqjGkmmn+rCzVG/vtTdLY/iU8Pz49rn58//1ztVr/AYuGwlk=?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJydkNEOgjAMRX/I0WBEeTF+y5hz1Gzrsnbg5wsSY0iUB9/uve1pcgtjUoai2CggvQ2WYcAEJWV6PGCw8UoZWLSggY5IWLJOYJg/rgoYqynZweYtzWyFX+iSKFNYKPyFfuNCUckXh5FhxKubCSaD2iucVtZmgREiyTJ8i62rzpLyZKZfUFwZdfMa8xaabefJTdK9Wnzsr/b9AZynTvt54RLOdVO3zbHen9r7E2TCpC4=?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UPX = {"Site":{"name":"UPROXX","domain":"uproxx.com","fb_app_id":"117400151618132","twitter_handle":"UPROXX"},"PageData":{"type":"story","format":"story","status":"publish","id":401070984,"url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","canonical":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","shorturl":"http:\/\/uproxx.it\/2ntjpel","title":"Apple confirms the US government is investigating its slowed-down iPhones","summary":"The iPhone slowdown controversy is gaining more steam, as the government has officially gotten involved.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","image_fb":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","image_tw":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","thumbnail":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","editorial":false},"SocoData":{"site_id":10,"user_id":0,"logged_in":"false","back_url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/%23respond"},"UserData":""};
+var THRED = {"Site":{"name":"UPROXX","domain":"uproxx.com","fb_app_id":"117400151618132","twitter_handle":"UPROXX"},"PageData":{"type":"story","format":"story","status":"publish","id":401070984,"url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","canonical":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","shorturl":"http:\/\/uproxx.it\/2ntjpel","title":"Apple confirms the US government is investigating its slowed-down iPhones","summary":"The iPhone slowdown controversy is gaining more steam, as the government has officially gotten involved.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","image_fb":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","image_tw":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","thumbnail":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","editorial":false},"SocoData":{"site_id":10,"user_id":0,"logged_in":"false","back_url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/%23respond"},"UserData":""};
+var uproxxsso_back = "http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/%23respond";
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_sticky_content_ads_options = {"time":"5","is_sticky":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_sticky_leaderboard_options = {"time":"5","is_sticky":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJzFkttuwjAMhl9oIao0JHYx7VnSxBS3OS1OWtjTz4GyE9UA7WJSpCj2b/uzYzlFgV7bYoBkz+e1QDrM16qnB/mbQDjsksqwcujPYh18Bp+r1oUWLYhCkFTHNk60DQu6GCg7IGLRgvc7EvoRYboq6yFHpQeRgPANlhop3kAiHdIifd4BE8kRoywxhf1eRls69CSnMIIXZhtrEs415BCFVxnHC/jLJBxqQpKUWa/PrLWhGFKuHPg3kJsJVDF4/BLacWVRkuVvKK2tVLTkFSfv9QKKCPJxwnW2LHQtejD3Bt4+h9NTcHBG3328HZL+NP4U8/iHg7CgeAnaoJKpdWfrXFIoQ/9I8cV67161NuhBmeM1L/eLe27WzaZpNk/rx/4dPwqDvw=='></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js?ver=2.8.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/themes/vip/uproxx/vendor/static/history.js,/wp-content/themes/vip/uproxx/assets/js/header.js?m=1516833619j'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uproxx.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://uproxx.it/2ntjpel' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=http%3A%2F%2Fuproxx.com%2Ftechnology%2Fapple-government-investigating-iphones-slowing-down%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=http%3A%2F%2Fuproxx.com%2Ftechnology%2Fapple-government-investigating-iphones-slowing-down%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Apple Confirms US Authorities Are Investigating Its Slowed-Down Phones" />
+<meta property="og:url" content="http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/" />
+<meta property="og:description" content="The iPhone slowdown controversy is gaining more steam, as the government has officially gotten involved." />
+<meta property="article:published_time" content="2018-01-31T15:36:58+00:00" />
+<meta property="article:modified_time" content="2018-01-31T15:44:15+00:00" />
+<meta property="og:site_name" content="UPROXX" />
+<meta property="og:image" content="https://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95&amp;w=650" />
+<meta property="og:image:width" content="650" />
+<meta property="og:image:height" content="360" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/UPROXX" />
+<meta property="og:locale:alternate" content="en_GB" />
+<meta property="fb:admins" content="680207693,2208604" />
+<meta property="fb:app_id" content="117400151618132" />
+<meta property="fb:pages" content="116548701336" />
+<link rel='openid.server' href='http://uproxx.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://uproxx.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://uproxx.com/osd.xml" title="UPROXX" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style>
+		.getty.aligncenter {
+			text-align: center;
+		}
+		.getty.alignleft {
+			float: none;
+			margin-right: 0;
+		}
+		.getty.alignleft > div {
+			float: left;
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			float: none;
+			margin-left: 0;
+		}
+		.getty.alignright > div {
+			float: right;
+			margin-left: 5px;
+		}
+		</style>
+				<style type="text/css"> 
+			#ptm-ac-response{} .ptm-ac-success > span{color:green;} .ptm-ac-error > span{font-weight:bold;color:red;} #ptm-ac-loader{display:inline-block;} #ptm-ac-loader > img{margin-left:15px;}			.ptm-reply-hidden{display:none;}
+		</style>
+	<!--Adomik randomizer for ad call key value targeting-->
+<script type='text/javascript'>
+	window.Adomik = window.Adomik || {};
+	Adomik.randomAdGroup = function() {
+		var rand = Math.random();
+		switch (false) {
+			case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+			case !(rand < 0.10): return "ad_bc";
+			default: return "ad_opt";
+		}
+	};
+</script>
+
+<script type="text/javascript">
+	var THRED = THRED || {};
+	THRED.AdDelivery = {"id":"dfp-5a84f9cb8bbae","site":"uproxx","section":"technology","category":"technology","pagetype":"article","zones":[{"name":"Interstitial","slug":"woven-interstitial","sizes":"[[1,1]]"},{"name":"Leaderboard","slug":"woven-leaderboard","sizes":"[[970,1],[970,250],[970,66],[970,90],[970,500],[970,550],[1600,520],[728,90]]"},{"name":"InReadVideo","slug":"woven-inread","sizes":"[[1,1]]"},{"name":"Top_Rec","slug":"woven-top-rec","sizes":"[[300,250],[300,600],[300,1050]]"},{"name":"Bottom_Rec","slug":"woven-bottom-rec","sizes":"[[300,250],[300,600],\"fluid\"]"},{"name":"Native","slug":"woven-native","sizes":"[[2,2]]"},{"name":"Sitewide_Interstitial","slug":"woven-sw-interstitial","sizes":"[[1,1]]"}],"campaign":"","tag":["apple","apple-iphone","lifestyle"],"url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","articleID":401070984,"cflag":0,"mature":0,"currentPos":0,"display":[]};
+</script>
+<script type="text/javascript" async src="//js-sec.indexww.com/ht/htw-woven.js"></script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	var gptadslots=[];
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+
+	(function(){ var gads = document.createElement('script');
+		gads.async = true; gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<!-- Init Audigent -->
+<script type="text/javascript" src="https://seg.ad.gt/api/v1/segments.js"></script>
+<script type="text/javascript">
+    if ( typeof( au_seg ) != 'undefined' ) {
+        au_segments = au_seg.segments || [];
+        googletag.cmd.push(function() { googletag.pubads().setTargeting('AU_SEG', au_segments); });
+    }
+</script>
+<script type="text/javascript">
+	googletag.cmd.push(function() {
+gptadslots["woven-interstitial-slot"] = googletag.defineSlot("/30013909/uproxx_technology_article_interstitial", [[1,1]], "woven-interstitial").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+gptadslots["woven-leaderboard-slot"] = googletag.defineSlot("/30013909/uproxx_technology_article_leaderboard", [[970,1],[970,250],[970,66],[970,90],[970,500],[970,550],[1600,520],[728,90]], "woven-leaderboard").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+gptadslots["woven-inread-slot"] = googletag.defineSlot("/30013909/uproxx_technology_article_inreadvideo", [[1,1]], "woven-inread").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+gptadslots["woven-top-rec-slot"] = googletag.defineSlot("/30013909/uproxx_technology_article_top_rec", [[300,250],[300,600],[300,1050]], "woven-top-rec").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+gptadslots["woven-bottom-rec-slot"] = googletag.defineSlot("/30013909/uproxx_technology_article_bottom_rec", [[300,250],[300,600],"fluid"], "woven-bottom-rec").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+gptadslots["woven-native-slot"] = googletag.defineSlot("/30013909/uproxx_technology_article_native", [[2,2]], "woven-native").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+gptadslots["woven-sw-interstitial-slot"] = googletag.defineSlot("/30013909/uproxx_sitewide_interstitial", [[1,1]], "woven-sw-interstitial").setTargeting("ad_group", Adomik.randomAdGroup()).addService(googletag.pubads());
+		googletag.pubads().setTargeting('Topic', THRED.AdDelivery.topic).setTargeting('Tag', THRED.AdDelivery.tag).setTargeting('Tags', THRED.AdDelivery.tag).setTargeting('cflag', THRED.AdDelivery.cflag).setTargeting('mature', THRED.AdDelivery.mature).setTargeting('articleID', THRED.AdDelivery.articleID).setTargeting('URL', THRED.PageData.url).setTargeting('campaign', THRED.AdDelivery.campaign);
+		googletag.pubads().collapseEmptyDivs();
+				googletag.pubads().disableInitialLoad();
+				googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableAsyncRendering();
+		
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			jQuery.event.trigger('slotRenderEnded', event);
+		});
+		
+		googletag.enableServices();
+	});
+</script>
+		<!-- Amazon A9 -->
+	<script>
+	!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+	{q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(
+	A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+	apstag.init({
+		pubID: '3153',
+		adServer: 'googletag',
+		bidTimeout: 2e3
+	});
+
+	apstag.fetchBids(
+		{ slots: apstagPrepareSlots([{"slotID":"woven-interstitial","sizes":[[1,1]]},{"slotID":"woven-leaderboard","sizes":[[970,1],[970,250],[970,66],[970,90],[970,500],[970,550],[1600,520],[728,90]]},{"slotID":"woven-inread","sizes":[[1,1]]},{"slotID":"woven-top-rec","sizes":[[300,250],[300,600],[300,1050]]},{"slotID":"woven-bottom-rec","sizes":[[300,250],[300,600],"fluid"]},{"slotID":"woven-native","sizes":[[2,2]]},{"slotID":"woven-sw-interstitial","sizes":[[1,1]]}]) },
+		function(bids) {
+			googletag.cmd.push(function() {
+				apstag.setDisplayBids();
+				headertag.pubads().refresh();
+			});
+		}
+	);
+
+	/**
+	 * Exclude 1x1 and 2x2 slot sizes for the A9
+	 * @param {Array} slots
+	 * @returns {Array}
+	 */
+	function apstagPrepareSlots(slots){
+		if(!slots || !slots.length){
+			return slots;
+		}
+
+		var filtered = [];
+
+		for(var i = 0; i < slots.length; i++){
+			var slot = slots[i];
+			var sizes = [];
+
+			for(var j = 0; j < slot.sizes.length; j++){
+				var size = slot.sizes[j];
+				if(size[0] > 3 && size[1] > 3){
+					sizes.push(size);
+				}
+			}
+
+			if(sizes.length){
+				slot.sizes = sizes;
+				filtered.push(slot);
+			}
+		}
+
+		return filtered;
+	}
+	</script>
+	
+<!-- Fallback to GPT //-->
+<script type="text/javascript">
+   googletag.cmd.push(function() {
+      if (typeof window.headertag === 'undefined' || window.headertag.apiReady !== true) {
+         window.headertag = googletag;
+      }
+   });
+</script>
+<link rel="canonical" href="http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/" />
+<title>Apple Confirms Government Is Investigating iPhones Slowing Down</title>	<meta name="google-site-verification" content="370ZQZwYhpp3OFLpudIZ11ONRN8X1ZhGglPMAFJ6GKw" />
+		<meta name="robots" content="index,follow" />
+	
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-4046454-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+<script type="text/javascript" src="//www.zergnet.com/zerg-inf-multi.js"></script>
+
+<script type="text/javascript">
+	var _sf_startpt = (new Date()).getTime();
+	uproxx_site_domain = 'uproxx.com';
+	var uproxx_tpl_dir = "https://s0.wp.com/wp-content/themes/vip/uproxx";
+</script>
+
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Apple Confirms U.S. Authorities Are Investigating Its Slowed-Down Phones","url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","dateCreated":"2018-01-31T10:36:58+00:00","articleSection":"TECHNOLOGY","creator":"Dan Seitz","keywords":["apple","apple-iphone"],"datePublished":"2018-01-31T10:36:58+00:00","dateModified":"2018-01-31T10:44:15+00:00","author":{"@type":"Person","name":"Dan Seitz"},"publisher":{"@type":"Organization","name":"UPROXX","logo":{"@type":"ImageObject","url":"https:\/\/s2.wp.com\/wp-content\/themes\/vip\/uproxx\/assets\/images\/logo-175x35-b.png","width":152,"height":35}},"mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/uproxx.com"},"thumbnailUrl":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","image":{"@type":"ImageObject","url":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","width":650,"height":360}}</script>
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="UPROXX" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="The Culture Of Now" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://uproxx.com/feed/;icon-uri=http://1.gravatar.com/blavatar/bae760df0e3bd64e122a0b36facaee58?s=16" /><link rel="amphtml" href="http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<script>document.domain = "uproxx.com";</script>
+	</head>
+	<body class="post-template-default single single-post postid-401070984 single-format-standard mp6 customizer-styles-applied uproxx-section uproxx-section-technology uproxx-single-infinite">
+		<script type="text/javascript">
+			/* wrapper-7.4.1 */!function t(e,n,r){function o(a,c){if(!n[a]){if(!e[a]){var d="function"==typeof require&&require;if(!c&&d)return d(a,!0);if(i)return i(a,!0);var u=new Error("Cannot find module '"+a+"'");throw u.code="MODULE_NOT_FOUND",u}var s=n[a]={exports:{}};e[a][0].call(s.exports,function(t){var n=e[a][1][t];return o(n||t)},s,s.exports,t,e,n,r)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<r.length;a++)o(r[a]);return o}({1:[function(t,e,n){"use strict";!function(){function t(){n&&console.log.apply(console,arguments)}function e(t,n,r,o,i,a,c,d,u,s,f){var l=function(){!0===t&&console.log.apply(console,arguments)},g=['<script type="text/javascript">(',e.toString(),")(",[t.toString(),n.toString(),r.toString(),o.toString(),i.toString(),a.toString(),c.toString(),d.toString(),u.toString(),s.toString(),"'"+window.location.origin+"'"].join(",").toString(),")<","/script>"].join("");n()(HTMLIFrameElement,"name",r(),o(g)),n()(HTMLIFrameElement,"contentDocument",c(a(g),i()),d()),n()(HTMLIFrameElement,"contentWindow",u(a(g),i()),s()),window.failed_urls=window.failed_urls||[];var p=["script","img"];document.addEventListener("load",function(t){l("withinIframe load event",t.target),!t.target||"SCRIPT"!==t.target.nodeName&&"IMG"!==t.target.nodeName||(t.target._loadState="load")},!0),document.addEventListener("error",function(t){l("withinIframe error event",t.target),!t.target||"SCRIPT"!==t.target.nodeName&&"IMG"!==t.target.nodeName||(t.target._loadState="error",window.failed_urls=window.failed_urls||[],window.failed_urls.push(t.target.src))},!0),window.addEventListener("message",function(t){if(t.origin===f){var e=t.data.eventName;if(void 0!==e)switch(e){case"frameLoaded":case"bubbleup":window.parent.postMessage(t.data,f)}if(void 0!==t.data.iframeId){l("message received "+t.data.iframeId);var n=t.data,r=function t(e){var n={originIframeId:e.iframeId,readyState:document.readyState,requestData:[],cssData:[]},r=e.srcSubstrings;if(void 0!==r)for(var o=document.querySelectorAll(p.join(",")),i=0;i<o.length;i++){var a=o[i];if(a.src){var c=r.some(function(t){return-1!==a.src.indexOf(t)});if(c){if(void 0===a._loadState)return l("Wait for event from "+a.src),a.addEventListener("load",function(){t(e)}),void a.addEventListener("error",function(){t(e)});n.requestData.push({type:a.nodeName,src:a.src,state:a._loadState})}}}var d=e.displayTypes,u=e.cssAttributes;void 0!==d&&void 0!==u&&(o=document.querySelectorAll(d.join(",")),Array.prototype.forEach.call(o,function(t){var e=window.getComputedStyle(t),r={};u.forEach(function(t){r[t]=e.getPropertyValue(t)}),n.cssData.push({type:t.nodeName,id:t.id,class:t.getAttribute("class"),cssAttributes:r})})),l("send response "+e.iframeId),n.failed_urls=window.failed_urls,parent.postMessage(n,f)};!function(t){"loading"!==document.readyState?t():document.addEventListener("DOMContentLoaded",t)}(function(){r(n)})}}})}window.adonisHash=window.adonisHash||window.location.hash||"";var n=-1!==window.adonisHash.indexOf("adonis-logging"),r=function(){return function(t,e,n,r){var o=Object.getOwnPropertyDescriptor(t.prototype,e);Object.defineProperty(t.prototype,e,{get:function(){return n(o.get,this,arguments)},set:function(){return r(o.set,this,arguments)},enumerable:!0})}},o=function(){return function(t,e,n){return t.apply(e,n)}},i=function(e){return function(n,r,o){try{var i=o[0];if(-1!==i.indexOf("html")){var a=i.split(";"),c=a[1],d=parseInt(c)+e.length;a[1]=d.toString(),i=a.join(";"),i=i.replace("<head>","<head>"+e),o[0]=i}}catch(e){t(e)}return n.apply(r,o)}},a=function(){return function(t){var e=!1;if(t.src&&0!==t.src.indexOf("javascript:")&&0!==t.src.indexOf("about:blank")){var n=document.createElement("a");n.href=t.src;n.host===window.location.host&&(e=!0)}else e=!0;return e}},c=function(e){return function(n,r){var o=r.write;r.write=function(n){try{if(!this._injected){var r=/<(?!(body|head|html|doctype))([^>!\/\s]+)/i;r.test(n)&&(n=n.replace(r,function(t){return e+t})),this._injected=!0}}catch(e){t(e)}return o.call(this,n)}}},d=function(e,n){return function(r,o,i){var a=r.apply(o,i);try{if(o.contentDocumentDecorated)return a;o.contentDocumentDecorated=!0,n(o)&&e(o,a)}catch(e){t(e)}return a}},u=function(){return function(t,e,n){return t.apply(e,n)}},s=function(e,n){return function(r,o,i){var a=r.apply(o,i);try{if(o.contentWindowDecorated)return a;if(o.contentWindowDecorated=!0,n(o))try{e(o,a.document)}catch(e){t("The following frame was supposed to be friendly but we got a security violation while attempting to decorate:",o)}}catch(e){t(e)}return a}},f=function(){return function(t,e,n){return t.apply(e,n)}},l=['<script type="text/javascript">(',e.toString(),")(",[n.toString(),r.toString(),o.toString(),i.toString(),a.toString(),c.toString(),d.toString(),u.toString(),s.toString(),f.toString(),"'"+window.location.origin+"'"].join(",").toString(),")<","/script>"].join("");r()(HTMLIFrameElement,"name",o(),i(l)),r()(HTMLIFrameElement,"contentDocument",d(c(l),a()),u()),r()(HTMLIFrameElement,"contentWindow",s(c(l),a()),f())}()},{}]},{},[1]);
+		</script>
+
+		<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PKWDQ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PKWDQ9');</script>
+<!-- End Google Tag Manager -->
+
+<img src="//dbg52463.moatads.com?a=5a7216d001e44d7f8e401aa5705d27f8" style="display:none;" />
+<img src="//d5i9o0tpq9sa1.cloudfront.net?a=5a7216d001e44d7f8e401aa5705d27f8" style="display:none;" />
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="https://z.moatads.com/wovencontent654pYot17/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<script async="async" data-client-id="AfdAOHOAQNEEARC" type="text/javascript" src="//d3qxwzhswv93jk.cloudfront.net/esf.js"></script>
+
+
+		<div id="skin"></div>
+
+		<div class="masthead">
+		<div class="outer-wrapper" id="woven-leaderboard-wrapper"><div class="container"><div id="woven-leaderboard" adonis-marker><script type="text/javascript">googletag.cmd.push(function() { headertag.display('woven-leaderboard'); });</script></div></div></div>		</div>
+
+				<div class="uproxx-main-navigation small-state">
+						<div id="woven-leaderboard-placeholder"></div>
+			<div class="header-uproxx-main-navmenu">
+				<div class="header-uproxx-small-logo"><a href="/"><span>UPROXX</span></a></div>
+		<ul id="menu-main-navigation" class="menu"><li id="menu-item-1560569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560569"><a href="/news" class="nav-item">News</a>
+<!-- subnav start -->
+<div class="uproxx-dropdown initializing ">
+<div class="uproxx-dropdown-inner">
+<!-- section start -->
+<div class="col-xs-4 sections">
+	<div class="section-sub">
+		<h3 class="heading">Sections</h3>
+					<a href="/news/" class="section">
+				Main							</a>
+					<a href="/topic/the-intercept" class="section">
+				The Intercept									<span>Fearless, Adversarial Journalism</span>
+							</a>
+			</div>
+</div>
+<!-- section end -->
+<!-- buzzing start -->
+<div class="col-xs-8 buzzing ">
+	<h3 class="heading">Featured</h3>
+	<ul class="sub-menu">
+		<li class="buzzing-stories">
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/news/">News</a>					<a class="buzzing-img-link" href="http://uproxx.com/news/kansas-teens-governor/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/teens-uproxx-grid.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="Teens Are Attempting To Take Over The Kansas Government, And, Well, Hell Yes" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/news/kansas-teens-governor/">Teens Are Attempting To Take Over The Kansas Government, And, Well, Hell Yes</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/news/">News</a>					<a class="buzzing-img-link" href="http://uproxx.com/news/first-amendment-transcends-law/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/chicago-police-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="The First Amendment Transcends The Law And Gives Us Strength In Dark Times" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/news/first-amendment-transcends-law/">The First Amendment Transcends The Law And Gives Us Strength In Dark Times</a></h2>
+				</div>
+			</div>
+
+				</li>
+	</ul>
+	</div>
+<!-- buzzing end -->
+</div>
+<!-- uproxx-dropdown-inner end -->
+</div>
+<!-- subnav end -->
+</li>
+<!-- end_el -->
+<li id="menu-item-1157654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157654"><a href="/entertainment/" class="nav-item">Entertainment</a>
+<!-- subnav start -->
+<div class="uproxx-dropdown initializing ">
+<div class="uproxx-dropdown-inner">
+<!-- section start -->
+<div class="col-xs-4 sections">
+	<div class="section-sub">
+		<h3 class="heading">Sections</h3>
+					<a href="/tv/" class="section">
+				TV							</a>
+					<a href="/movies/" class="section">
+				Movies							</a>
+					<a href="/hitfix" class="section">
+				Hitfix									<span>Where Entertainment Fandom Lives</span>
+							</a>
+					<a href="/sepinwall" class="section">
+				What&#039;s Alan Watching									<span>Inside Television with Alan Sepinwall</span>
+							</a>
+					<a href="/gaming/" class="section">
+				Gaming							</a>
+			</div>
+</div>
+<!-- section end -->
+<!-- buzzing start -->
+<div class="col-xs-8 buzzing ">
+	<h3 class="heading">Featured</h3>
+	<ul class="sub-menu">
+		<li class="buzzing-stories">
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/sepinwall/">Sepinwall</a>					<a class="buzzing-img-link" href="http://uproxx.com/sepinwall/everything-sucks-review-netflix-nineties/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/everything-sucks-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="Netflix&#8217;s &#8216;Everything Sucks!&#8217; Loves The &#8217;90s, But It Loves Its Characters More" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/sepinwall/everything-sucks-review-netflix-nineties/">Netflix&#8217;s &#8216;Everything Sucks!&#8217; Loves The &#8217;90s, But It Loves Its Characters More</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/tv/">TV</a>					<a class="buzzing-img-link" href="http://uproxx.com/tv/chris-rock-netflix-special-review/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/chris-rock-2-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="Everything About Chris Rock&#8217;s &#8216;Tamborine&#8217; Is Ridiculous, And That&#8217;s Why It Works" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/tv/chris-rock-netflix-special-review/">Everything About Chris Rock&#8217;s &#8216;Tamborine&#8217; Is Ridiculous, And That&#8217;s Why It Works</a></h2>
+				</div>
+			</div>
+
+				</li>
+	</ul>
+	</div>
+<!-- buzzing end -->
+</div>
+<!-- uproxx-dropdown-inner end -->
+</div>
+<!-- subnav end -->
+</li>
+<!-- end_el -->
+<li id="menu-item-1157657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157657"><a href="/music/" class="nav-item">Music</a>
+<!-- subnav start -->
+<div class="uproxx-dropdown initializing ">
+<div class="uproxx-dropdown-inner">
+<!-- section start -->
+<div class="col-xs-4 sections">
+	<div class="section-sub">
+		<h3 class="heading">Sections</h3>
+					<a href="/music/" class="section">
+				Main							</a>
+					<a href="/hiphop/" class="section">
+				Hip-Hop							</a>
+					<a href="/topic/the-rx" class="section">
+				The RX									<span>The Music You Need, Right Now</span>
+							</a>
+					<a href="/topic/backstage" class="section">
+				Backstage									<span>The Story Behind The Artist</span>
+							</a>
+			</div>
+</div>
+<!-- section end -->
+<!-- buzzing start -->
+<div class="col-xs-8 buzzing ">
+	<h3 class="heading">Featured</h3>
+	<ul class="sub-menu">
+		<li class="buzzing-stories">
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/music/">Music</a>					<a class="buzzing-img-link" href="http://uproxx.com/music/valentines-playlist-15-love-songs/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/vday-songs-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="Set The Mood With The Perfect Valentine&#8217;s Day Playlist" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/music/valentines-playlist-15-love-songs/">Set The Mood With The Perfect Valentine&#8217;s Day Playlist</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/music/">Music</a>					<a class="buzzing-img-link" href="http://uproxx.com/music/smashing-pumpkins-reunion-imploding-2018/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/smashing-pumpkins-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="The Smashing Pumpkins Reunion Is Imploding — And Therefore Is Already A Great Success" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/music/smashing-pumpkins-reunion-imploding-2018/">The Smashing Pumpkins Reunion Is Imploding — And Therefore Is Already A Great Success</a></h2>
+				</div>
+			</div>
+
+				</li>
+	</ul>
+	</div>
+<!-- buzzing end -->
+</div>
+<!-- uproxx-dropdown-inner end -->
+</div>
+<!-- subnav end -->
+</li>
+<!-- end_el -->
+<li id="menu-item-1157656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157656"><a href="/sports/" class="nav-item">Sports</a>
+<!-- subnav start -->
+<div class="uproxx-dropdown initializing ">
+<div class="uproxx-dropdown-inner">
+<!-- section start -->
+<div class="col-xs-4 sections">
+	<div class="section-sub">
+		<h3 class="heading">Sections</h3>
+					<a href="/sports/" class="section">
+				Main							</a>
+					<a href="/dimemag/" class="section">
+				Dime									<span>NBA on UPROXX</span>
+							</a>
+					<a href="/prowrestling/" class="section">
+				With Spandex									<span>Pro Wrestling on UPROXX</span>
+							</a>
+					<a href="/mma/" class="section">
+				Brawler									<span>MMA on UPROXX -- coming soon</span>
+							</a>
+			</div>
+</div>
+<!-- section end -->
+<!-- buzzing start -->
+<div class="col-xs-8 buzzing ">
+	<h3 class="heading">Featured</h3>
+	<ul class="sub-menu">
+		<li class="buzzing-stories">
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/dimemag/">DimeMag</a>					<a class="buzzing-img-link" href="http://uproxx.com/dimemag/dick-vitale-celtics-broadcast-nba/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/vitale-grid.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="Dick Vitale Discusses His Early Career In Broadcasting And The Iconic Figures Who Inspired Him" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/dimemag/dick-vitale-celtics-broadcast-nba/">Dick Vitale Discusses His Early Career In Broadcasting And The Iconic Figures Who Inspired Him</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/prowrestling/">ProWrestling</a>					<a class="buzzing-img-link" href="http://uproxx.com/prowrestling/christopher-daniels-mcmahonsplaining-with-spandex-podcast/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/christopher-daniels-grid-uproxx__1_.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="McMahonsplaining, The With Spandex Podcast Episode 27: Christopher Daniels" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/prowrestling/christopher-daniels-mcmahonsplaining-with-spandex-podcast/">McMahonsplaining, The With Spandex Podcast Episode 27: Christopher Daniels</a></h2>
+				</div>
+			</div>
+
+				</li>
+	</ul>
+	</div>
+<!-- buzzing end -->
+</div>
+<!-- uproxx-dropdown-inner end -->
+</div>
+<!-- subnav end -->
+</li>
+<!-- end_el -->
+<li id="menu-item-1157658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157658"><a href="/life/" class="nav-item">Life/Discovery</a>
+<!-- subnav start -->
+<div class="uproxx-dropdown initializing ">
+<div class="uproxx-dropdown-inner">
+<!-- section start -->
+<div class="col-xs-4 sections">
+	<div class="section-sub">
+		<h3 class="heading">Sections</h3>
+					<a href="/life/" class="section">
+				Main							</a>
+					<a href="/style" class="section">
+				Style									<span>Remixing The Classics With The Now</span>
+							</a>
+					<a href="/topic/food/" class="section">
+				Food &amp; Drink									<span>Smart and fresh, never basic</span>
+							</a>
+					<a href="/topic/travel/" class="section">
+				Travel &amp; Adventure									<span>Explore The World You Are Inheriting</span>
+							</a>
+					<a href="/topic/health/" class="section">
+				Health									<span>Lifehack Your Body and Soul</span>
+							</a>
+					<a href="http://uproxx.com/topic/uproxx-gps/" class="section">
+				GPS Microadventures									<span>Presented By Toyota Rav4 Adventure Grade</span>
+							</a>
+			</div>
+</div>
+<!-- section end -->
+<!-- buzzing start -->
+<div class="col-xs-8 buzzing ">
+	<h3 class="heading">Featured</h3>
+	<ul class="sub-menu">
+		<li class="buzzing-stories">
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/life/">Life</a>					<a class="buzzing-img-link" href="http://uproxx.com/life/first-romantic-couple-trips/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/couple3-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="The Best &#8216;First Trips That Aren&#8217;t Paris&#8217; For The Newly In Love" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/life/first-romantic-couple-trips/">The Best &#8216;First Trips That Aren&#8217;t Paris&#8217; For The Newly In Love</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+					<a class="tag-primary-category" href="http://uproxx.com/life/">Life</a>					<a class="buzzing-img-link" href="http://uproxx.com/life/cooking-together-love-time-machine/">
+						<img src="https://uproxx.files.wordpress.com/2018/02/ribs-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="How Cooking As A Couple Can Connect Your Past, Present, &amp; Future" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/life/cooking-together-love-time-machine/">How Cooking As A Couple Can Connect Your Past, Present, &amp; Future</a></h2>
+				</div>
+			</div>
+
+				</li>
+	</ul>
+	</div>
+<!-- buzzing end -->
+</div>
+<!-- uproxx-dropdown-inner end -->
+</div>
+<!-- subnav end -->
+</li>
+<!-- end_el -->
+<li id="menu-item-1157674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157674"><a href="/shows/" class="nav-item">Video/Podcasts</a>
+<!-- subnav start -->
+<div class="uproxx-dropdown initializing ">
+<div class="uproxx-dropdown-inner">
+<!-- buzzing start -->
+<div class="col-xs-8 buzzing full-width">
+	<h3 class="heading">Featured</h3>
+	<ul class="sub-menu">
+		<li class="buzzing-stories">
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+										<a class="buzzing-img-link" href="http://uproxx.com/music/carly-pearce-backstage/">
+						<img src="https://uproxx.files.wordpress.com/2018/01/carley-grid-uproxx-1.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="Carly Pearce Took The Long Way To Overnight Success But Refused To Quit" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/music/carly-pearce-backstage/">Carly Pearce Took The Long Way To Overnight Success But Refused To Quit</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+										<a class="buzzing-img-link" href="http://uproxx.com/music/grace-vanderwaal-honda-backstage-video/">
+						<img src="https://uproxx.files.wordpress.com/2018/01/grace-grid-uproxx.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="One Way Or Another, Grace Vanderwaal Is Poised To Take Over The World" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/music/grace-vanderwaal-honda-backstage-video/">One Way Or Another, Grace Vanderwaal Is Poised To Take Over The World</a></h2>
+				</div>
+			</div>
+
+		
+			<div class="buzzing-story">
+				<div class="buzzing-img">
+										<a class="buzzing-img-link" href="http://uproxx.com/style/nora-vasconcellos-giovanni-reda/">
+						<img src="https://uproxx.files.wordpress.com/2018/01/skate2-grid.jpg?w=296&#038;h=166&#038;crop=1&#038;quality=95" width="296" height="166" alt="The Story Behind A New Doc On Skate Style Icon Nora Vasconcellos" class="img-responsive">
+					</a>
+				</div>
+				<div class="about">
+					<h2><a href="http://uproxx.com/style/nora-vasconcellos-giovanni-reda/">The Story Behind A New Doc On Skate Style Icon Nora Vasconcellos</a></h2>
+				</div>
+			</div>
+
+				</li>
+	</ul>
+		<div class="buzzing-more">
+		<a href="/shows/">See More...</a>
+	</div>
+	</div>
+<!-- buzzing end -->
+</div>
+<!-- uproxx-dropdown-inner end -->
+</div>
+<!-- subnav end -->
+</li>
+<!-- end_el -->
+</ul>		<div class="uproxx-social-navigation-container" data-icons="6">
+			<div class="uproxx-search">	<form role="search" method="get" class="search-form" action="http://uproxx.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:" />
+		</label>
+		<input type="submit" class="search-submit" value="Search" />
+	</form>
+	</div>
+			<div class="uproxx-social"><ul id="menu-main-social-navigation" class="social-list"><li id="menu-item-1169977" class="uproxx-info menu-item menu-item-type-custom menu-item-object-custom menu-item-1169977"><a href="/about/"><span>About</span></a>
+<div class="uproxx-info-subnav">
+	<ul>
+		<li><a href="/about/">About</a></li>
+		<li><a href="http://uproxxmediagroup.com/">Corporate</a></li>
+		<li><a href="/privacy/">Privacy</a></li>
+		<li><a href="/terms-of-use/">Terms</a></li>
+	</ul>
+</div>
+
+</li>
+<li id="menu-item-1157661" class="uproxx-facebook menu-item menu-item-type-custom menu-item-object-custom uproxx-social-group menu-item-1157661"><a href="https://www.facebook.com/UPROXX"><span>Facebook</span></a>
+
+</li>
+<li id="menu-item-1157662" class="uproxx-twitter menu-item menu-item-type-custom menu-item-object-custom uproxx-social-group menu-item-1157662"><a href="https://twitter.com/uproxx"><span>Twitter</span></a>
+
+</li>
+<li id="menu-item-400426028" class="uproxx-instagram menu-item menu-item-type-custom menu-item-object-custom uproxx-social-group menu-item-400426028"><a href="https://www.instagram.com/uproxx/"><span>Instagram</span></a>
+
+</li>
+<li id="menu-item-1157663" class="uproxx-youtube menu-item menu-item-type-custom menu-item-object-custom uproxx-social-group menu-item-1157663"><a href="http://youtube.com/UPROXX"><span>YouTube</span></a><div class="social-dropdown">
+	<div class="social-dropdown-inner">
+		<div class="header">Get UPROXX Everywhere.</div>
+		<div style="position:relative; display:flex;">
+			<div class="social-widget">
+				<div class="fb-like" data-href="https://www.facebook.com/UPROXX/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" data-width="75"></div>
+			</div>
+			<div class="social-widget">
+				<a href="https://twitter.com/UPROXX" class="twitter-follow-button" data-show-count="false">Follow @UPROXX</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+			<div class="social-widget">
+				<a href="https://www.instagram.com/uproxx/" class="instagram-follow-button">Follow UPROXX</a>
+			</div>
+			<div class="social-widget">
+				<div class="g-ytsubscribe" data-channel="UPROXX" data-layout="default" data-count="default" data-onytevent="onYtEvent"></div>
+				<script src="https://apis.google.com/js/platform.js"></script>
+			</div>
+			<div class="social-widget">
+				<a class="shareflip" href="https://flipboard.com/@Uproxx"><img src="https://cdn.flipboard.com/badges/flipboard_srsw.png" /> FlipBoard</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</li>
+<li id="menu-item-1157664" class="uproxx-user menu-item menu-item-type-custom menu-item-object-custom menu-item-1157664"><a href="#"><span>Member</span></a>
+
+<div class="uproxx-social-sso-subnav">
+	<ul>
+			<li><a href="#uproxx-sso-signup" class="uproxx-sso-modal" onclick="build_signup_dialog(); return false;">Sign Up</a></li>
+		<li><a href="#uproxx-sso-signin" class="uproxx-sso-modal" onclick="build_login_dialog(); return false;">Sign In</a></li>
+		</ul>
+</div>
+</li>
+</ul></div>		</div>
+					</div>
+		</div>
+
+			<script>
+		try {
+			uproxx_header_ctrl.init();
+		}catch(e){
+			
+		}
+	</script>
+
+		<!-- Outer Wrapper Start -->
+		<div class="outer-wrapper">
+			<!-- Content Start -->
+			<div class="container">
+
+					<a class="section-header-link" href="http://uproxx.com/technology/">
+		<div id="section-header" class="section-header">
+			<div class="section-header-img"></div>
+		</div>
+	</a>
+<div class="article reg-post uproxx-featured-video post-data"  id="post-401070984" data-post_id="401070984" data-title="Apple Confirms U.S. Authorities Are Investigating Its Slowed-Down Phones" data-title-fb="Apple Confirms US Authorities Are Investigating Its Slowed-Down Phones" data-title-tw="Apple confirms the US government is investigating its slowed-down iPhones" data-excerpt="The iPhone slowdown controversy is gaining more steam, as the government has officially gotten involved." data-url="http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/" data-shorturl="http://uproxx.it/2ntjpel" data-thumb="https://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95&#038;w=650" data-image-fb="https://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95&#038;w=650" data-image-tw="https://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95&#038;w=650" data-author="Dan Seitz" data-is_realtimediscussion="0"
+ data-featured-video-url="http://players.brightcove.net/4262107416001/a2a32e2e-67ba-4af2-a7a4-0219c00514f2_default/index.html?videoId=5716775714001" data-featured-video-title="Is Apple Slowing Down Your iPhone?">
+
+	<div class="post-top">
+	
+	<h1>Apple Confirms U.S. Authorities Are Investigating Its Slowed-Down Phones</h1>
+
+	<div class="related-topics"><a href="http://uproxx.com/topic/apple/" rel="follow">#Apple</a> </div>		<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/dan-seitz/" title="Posts by Dan Seitz" class="author url fn" rel="author">Dan Seitz</a></span>
+			<span class="published-date uproxx-the-date">01.31.18</span>
+			<span class="published-date uproxx-time-diff">2 weeks ago</span>
+					</div>
+		<div id="top_share_widget" class="top_share_widget"><div class="top_share_fb"><a href="javascript:;;" class="btn btn-fbshare-xl"><i class="uproxx-facebook"></i> Facebook</a></div><div class="top_share_tw"><a href="javascript:;;" class="btn btn-twshare-xl"> <i class="uproxx-twitter"></i> Twitter</a></div><div class="top_share_flip"><a href="#" class="btn btn-flipshare-xl"><img src="https://cdn.flipboard.com/badges/flipboard_srsw.png" /> FlipBoard</a></div><div class="top_share_em"><a href="javascript:;;" class="btn btn-emshare-xl email icon_embed_tw"><i class="uproxx-email"></i> EMAIL</a></div><div class="top_share_count"></div><div class="clear"></div></div></div>
+
+    <div class="row">
+		<div class="col-xs-8">
+
+			
+			<div id="post-401070984" class="post-body">
+				<div id=&quot;401071010&quot;  class="wp-caption module image aligncenter"><img class="size-full wp-image-401071010" src="http://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95&#038;w=650" alt="" width="650" srcset="http://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95 650w, http://uproxx.files.wordpress.com/2018/01/iphones-uproxx.jpg?quality=95&amp;w=173 173w" sizes="(max-width: 650px) 100vw, 650px"><p class="wp-media-credit">UPROXX/Shutterstock</p></div>
+<p>Apple isn&#8217;t having the best 2018, between <a title="" href="http://uproxx.com/technology/iphone-x-sales-halved/" target="_blank">the relative struggles of the iPhone X</a> and the rising confusion and anger over reports <a title="" href="http://uproxx.com/technology/apple-lawsuit-slowing-iphone/" target="_blank">it deliberately slowed down older phones</a> to spare their aging batteries. The battery issue is far from over, too, as it appears that the federal government is getting involved.</p>
+<p>Bloomberg <a title="" href="https://www.bloomberg.com/news/articles/2018-01-30/u-s-said-to-probe-apple-over-updates-that-slow-older-iphones-jd1yahj7" target="_blank">first reported</a> that the Department of Justice and the Securities and Exchange Commission are investigating Apple&#8217;s slowdown, something Apple confirmed with Axios. The question isn&#8217;t whether or not Apple <em>deliberately</em> slowed down their phones: Apple has admitted <a title="" href="http://uproxx.com/technology/apple-apology-iphone-battery-replacement/" target="_blank">that&#8217;s exactly what happened</a>. The question is about what Apple&#8217;s motives were in doing so.</p>
+<p>On the one side, you have Apple, who claims the code uncovered by independent researchers was a fix implemented to end older iPhones spontaneously shutting down. Apple claims that as new versions of iOS arrive, they&#8217;re more energy hungry, draining the battery faster and befuddling older batteries. On the other, you have the long-time claim that Apple deliberately slows down older phones to force you to upgrade, a form of planned obsolescence that artificially inflates the company&#8217;s bottom line. It&#8217;s a theory aggravated in part by Apple&#8217;s ongoing tendency to glue phones together and otherwise make them difficult to fix at home, although Apple fans counter that the company&#8217;s taste for closed architecture has made their products difficult to get into and repair for decades. So part of the complaint here isn&#8217;t new. </p>
+<p>As to which side is right, well, that&#8217;ll be a matter of investigation. And now that the government is involved, we might get a definitive answer.</p>
+<p>(via <a title="" href="https://www.bloomberg.com/news/articles/2018-01-30/u-s-said-to-probe-apple-over-updates-that-slow-older-iphones-jd1yahj7" target="_blank">Bloomberg</a> and <a title="" href="https://www.axios.com/apple-confirms-us-government-inquiries-over-iphone-battery-issue-1517376586-ae76cc87-7d96-4dcc-a8b1-ae96c2393d3d.html" target="_blank">Axios</a>)</p>
+			</div>
+			
+			<div class="uproxx-below-post hide-before-done">
+			<div class="inline-share"><div class="post-top share-this">Share This</div>
+			<div id="top_share_widget" class="top_share_widget">
+				<div class="top_share_fb"><a href="#" class="btn btn-fbshare-xl"><i class="uproxx-facebook"></i> Facebook</a></div>
+				<div class="top_share_tw"><a href="#" class="btn btn-twshare-xl"> <i class="uproxx-twitter"></i> Twitter</a></div>
+				<div class="top_share_flip"><a href="#" class="btn btn-flipshare-xl"><img src="https://cdn.flipboard.com/badges/flipboard_srsw.png" /> FlipBoard</a></div>
+				<div class="top_share_em"><a href="#" class="btn btn-emshare-xl email icon_embed_tw"><i class="uproxx-email"></i> EMAIL</a></div>
+				<div class="top_share_count"></div><div class="clear"></div>
+			</div>
+		</div><div class="inline-module zergnet">
+	<h4>Around The Web</h4>
+	<div class="module-content">
+		<div class="zergnet-widget zergnet-widget-49966" data-zerg-widget-id="49966"></div>
+	</div>
+</div>
+<div class="post-tags">
+	<div class="post-topics block-topics"><strong>TOPICS</strong><a href="http://uproxx.com/topic/apple/">#Apple</a></div><div class="post-topics block-tags"><strong>TAGS</strong><a href="http://uproxx.com/tag/apple/">APPLE</a><a href="http://uproxx.com/tag/apple-iphone/">Apple iPhone</a></div></div>
+<div class="uproxx-retention-unit uproxx-retention-embed">
+	<iframe id="de2648135fd72b924fad8e3098b03c43" width="100%" height="272"></iframe>
+	<script type="text/javascript">
+		(function(){
+			'use strict';
+			var doc = document.getElementById("de2648135fd72b924fad8e3098b03c43").contentWindow.document;
+			doc.open();
+			doc.write("<!DOCTYPE html>\r\n<html>\r\n\t<head>\r\n\t\t<title>UPROXX Daily Newsletter<\/title>\r\n\t\t<link href=\"\/\/cdn-images.mailchimp.com\/embedcode\/classic-10_7.css\" rel=\"stylesheet\" type=\"text\/css\">\r\n\t\t<script src=\"https:\/\/use.typekit.net\/dpm7dls.js\"><\/script>\r\n\t\t<script>try{Typekit.load({ async: true });}catch(e){}<\/script>\r\n\t\t<style type=\"text\/css\">\r\n\t\t\tbody, html {\r\n\t\t\t\tmargin: 0;\r\n\t\t\t\tpadding: 0;\r\n\t\t\t\theight: 100%;\r\n\t\t\t}\r\n\t\t\tbody {\r\n\t\t\t\tfont-family: \"gesta\", Helvetica, Arial, sans-serif !important;\r\n\t\t\t}\r\n\t\t\t.line1 {\r\n\t\t\t\tfont-size: 26px;\r\n\t\t\t\tmargin-bottom: 7px;\r\n\t\t\t}\r\n\t\t\t.line2 {\r\n\t\t\t\ttext-transform: uppercase;\r\n\t\t\t\tfont-size: 16px;\r\n\t\t\t}\r\n\t\t\timg.logo {\r\n\t\t\t\twidth: 100px;\r\n\t\t\t\theight: auto;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup {\r\n\t\t\t\tbackground:#fff;\r\n\t\t\t\tclear:left;\r\n\t\t\t\tfont-size: 14px;\r\n\t\t\t\twidth:615px;\r\n\t\t\t\tborder: solid 1px #d9d9da;\r\n\t\t\t\tpadding: 15px 10px;\r\n\t\t\t\theight: 240px;\r\n\t\t\t\toverflow: hidden;\r\n\t\t\t\tdisplay: flex;\r\n\t\t\t\talign-items: center;\r\n\t\t\t\tmargin:auto;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup form {\r\n\t\t\t\tpadding: 0;\r\n\t\t\t\twidth: 590px;\r\n\t\t\t\tmargin: auto;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup .mc-field-group {\r\n\t\t\t\twidth: 100%;\r\n\t\t\t\tmargin-top: 23px;\r\n\t\t\t\tpadding-bottom: 0;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup input.email {\r\n\t\t\t\tbackground-color: #f5f5f5;\r\n\t\t\t\tborder: solid 1px #d9d9d9;\r\n\t\t\t\tbox-shadow: 0px 0px 10px #d9d9da;\r\n\t\t\t\t-webkit-appearance: none;\r\n\t\t\t}\r\n\t\t\tdiv.center {\r\n\t\t\t\ttext-align: center;\r\n\t\t\t}\r\n\t\t\tdiv.caption {\r\n\t\t\t\tcolor: #949292;\r\n\t\t\t\tfont-size: 11px;\r\n\t\t\t\ttext-align: center;\r\n\t\t\t\tmargin: 14px -10px 0 -10px;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup input.button {\r\n\t\t\t\tbackground-color: #c0252e;\r\n\t\t\t\tcolor: #fff;\r\n\t\t\t\t-webkit-appearance: none;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup input.button:hover {\r\n\t\t\t\tbackground-color: #c0252e;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup .button {\r\n\t\t\t\tmargin-bottom: 0;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup div#mce-responses,\r\n\t\t\t#mc_embed_signup div.response {\r\n\t\t\t\tmargin:0;\r\n\t\t\t\tpadding:0;\r\n\t\t\t\ttop:0;\r\n\t\t\t\tfloat: none;\r\n\t\t\t\twidth: 100%;\r\n\t\t\t}\r\n\t\t\t#mc_embed_signup div.response {\r\n\t\t\t\tmargin-bottom: 15px;\r\n\t\t\t\ttext-align:center;\r\n\t\t\t}\r\n\t\t<\/style>\r\n\t<\/head>\r\n\t<body>\r\n\t\t<div id=\"mc_embed_signup\">\r\n\t\t\t<form action=\"\/\/uproxx.us11.list-manage.com\/subscribe\/post?u=4f005d7c49649f03e3236091d&amp;id=1767b369db\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate>\r\n\t\t\t\t<div id=\"mc_embed_signup_scroll\">\r\n\t\t\t\t\t<div class=\"line1\">\r\n\t\t\t\t\t\t<img class=\"logo\" alt=\"Uproxx\" src=\"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/uproxx\/assets\/images\/logo-large-b.png\" \/>\r\n\t\t\t\t\t\tDaily Newsletter\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"line2\">Get Everything Cool And Important Happening Now in Your Inbox<\/div>\r\n\t\t\t\t\t<div class=\"mc-field-group\">\r\n\t\t\t\t\t\t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\" placeholder=\"Your Email...\" >\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div id=\"mce-responses\" class=\"clear\">\r\n\t\t\t\t\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"><\/div>\r\n\t\t\t\t\t\t<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"><\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_4f005d7c49649f03e3236091d_1767b369db\" tabindex=\"-1\" value=\"\"><\/div>\r\n\t\t\t\t\t<div class=\"clear center\"><input type=\"submit\" value=\"SUBSCRIBE\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"><\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t\t<div class=\"caption center\">\r\n\t\t\t\t\tBy signing up you agree to receive email newsletters or alerts from UPROXX. You can unsubscribe at any time.\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/form>\r\n\t\t<\/div>\r\n\t\t<script type='text\/javascript' src='\/\/s3.amazonaws.com\/downloads.mailchimp.com\/js\/mc-validate.js'><\/script><script type='text\/javascript'>(function ($) {\r\n\t\t\t\twindow.fnames = new Array();\r\n\t\t\t\twindow.ftypes = new Array();\r\n\t\t\t\tfnames[0] = 'EMAIL';\r\n\t\t\t\tftypes[0] = 'email';\r\n\t\t\t}(jQuery));\r\n\t\t\tvar $mcj = jQuery.noConflict(true);\r\n\t\t<\/script>\r\n\t<\/body>\r\n<\/html>");
+			doc.close();
+		})();
+	</script>
+</div>
+
+<!-- You can start editing here. -->
+
+<div class="container comments login-required view-all-comments-401070984">
+	<div class="row">
+		<div id="comments" class="col-xs-8">
+
+				<br/>
+			<div id="inline-signin">
+						<h4>Join The Discussion: <span>Log In With</span></h4>
+			<ul class="join-discussion">
+				<li class="login_fb_box"><a href="#" class="uproxx-signin-fb uproxx-facebook" onclick="build_login_dialog(); return false;"><span>Sign In With Facebook</span></a></li>
+				<li class="login_tw_box"><a href="#" class="uproxx-signin-tw uproxx-twitter" onclick="build_login_dialog(); return false;"><span>Sign In With Twitter</span></a></li>
+				<li class="login_em_box"><a href="#uproxx-sso-signin" class="uproxx-sso-modal uproxx-email" onclick="build_login_dialog(); return false;"><span>Sign In With Email</span></a></li>
+			</ul>
+					</div>
+			<div class="row comment author-main-comment">
+			<div class="col-xs-2 photo">
+				<a class="view_profile" onclick="build_profile_dialog(569); return false" rel="569" href="javascript:;;" target="_ext">
+					<img class="round-img- author-main-img" src="https://profilecdn-woven.netdna-ssl.com/photo/569/profile" width="80" alt="[avatar]" />
+					<a class="profile_link view_profile" rel="569" onclick="build_profile_dialog(569); return false" href="javascript:;;" target="_ext">Profile</a>
+				</a>
+			</div>
+			<div class="col-xs-10 comment-content">
+				<div class="content">
+					<div class="row">
+						<div class="col-xs-6 text-left">
+							<div class="posted-by">By: Dan Seitz</div>
+						</div>
+						<div class="col-xs-6 text-right">
+							<div class="time">01.31.2018 @ 10:36 AM</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-11 text-left">
+							<div class="text">"Apple Confirms U.S. Authorities Are Investigating Its Slowed-Down Phones"</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="clear"></div>
+	<script>
+		if ( !window.uproxx_comment_data ) {
+			var uproxx_comment_data = {};
+		}
+		uproxx_comment_data[401070984] = {
+			ping: "https://profile.uproxx.com/api/num_comments.php?post_id=401070984&blog_id=10",
+			last_comment_id: 0,
+			shown_comments: 0,
+			mode: "blog",
+			post_id: "401070984",
+			post_url: "http://uproxx.com/technology/apple-government-investigating-iphones-slowing-down/",
+			theme_url: "https://s0.wp.com/wp-content/themes/vip/uproxx",
+			extra_field: false,
+			extended_form: false,
+			num: 0,
+			original_num: 0,
+			int: false,
+			realtime: false		}
+	</script>
+	
+		<ol id="commentlist-post-id-401070984" class="commentlist">
+				</ol>
+
+			<div id="respond-401070984" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/technology/apple-government-investigating-iphones-slowing-down/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://uproxx.com/wp-comments-post.php" method="post" id="commentform-401070984" class="comment-form">
+					<!-- uproxx_comment_form_open_div -->
+	<div class="row comment">
+			<div class="col-xs-2 photo">
+			<div class="avatar-cell avatar-cell-logged-out">
+				<img class="avatar-2 round-img- comment-form-default-img" src="https://profilecdn-woven.netdna-ssl.com/content/default-avatar.jpg" alt="[avatar]" width="80">
+			</div>
+		</div>
+		<div class="col-xs-10 comment-content">
+			<textarea id="comment-401070984" name="comment" class="comment-textarea box disabled" cols="45" rows="8" tabindex="4" disabled="disabled" placeholder="Please log in to join the discussion."></textarea>
+		</div>
+	<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cdbb30d508" /></p>
+<input type="hidden" name="genseq" value="1518664139" />
+	</div>
+	<!-- uproxx_comment_form_close_div -->
+	<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="67"/></p>			</form>
+			</div><!-- #respond -->
+	
+			<!-- If comments are open, but there are no comments. -->
+	
+		</div>
+	</div>
+</div>
+		<div id="view-all-comments-401070984" class="view-all-comments" data-post_id="401070984">
+			<a href="#">View all comments</a>
+		</div>
+					</div>
+
+		</div>
+		<div id="uproxx-sidebar" class="col-xs-4">
+<div class="ad-top-300x250"><div id="woven-top-rec" adonis-marker><script type="text/javascript">googletag.cmd.push(function() { headertag.display('woven-top-rec'); });</script></div></div><aside id="uproxx_native_entry_widget-2" class="widget widget_uproxx_native_entry_widget">		<div
+			class="widget-main-header"
+			data-related_id="401070984"
+			style="height:480px"			>
+			<div class="stories">
+			<div class="wvn-native-article-container"><div id="wvn_native" class="wvn_native">
+	<div id='woven-native'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { headertag.display('woven-native'); });
+		</script>
+	</div>
+</div></div>			</div>
+		</div>
+		</aside>	<div id="sticky-ads-401070984" class="uproxx-sidebar-sticky-advert">
+	<div class="ad-top-300x250">
+	<div id="woven-bottom-rec" adonis-marker><script type="text/javascript">googletag.cmd.push(function() { headertag.display('woven-bottom-rec'); });</script></div>
+</div>	</div>
+	</div>	</div>
+	<div id="sticky-stop-401070984"></div>
+	<script>
+		jQuery(document).ready(function(){
+			initStickySidebar(401070984);
+		});
+	</script>
+
+			<div class="hide-before-done">
+			<div class="more-content-grid">
+				<h2 class="more-content-title">The RX</h2>
+			</div>
+
+			<div class="stories">
+				<div class="row">
+					<div class="story-row"><div class="col-xs-4 post-grid-third grid-post"
+	 data-post_id="401081766"	>
+	<div class="story">
+		<div class="img">
+			<a class="image-holder" href="http://uproxx.com/music/young-jesus-john-rossiter-interview-the-rx/">
+				<img src="https://uproxx.files.wordpress.com/2018/02/young-jesus-grid-uproxx.jpg?w=300&#038;h=210&#038;crop=1&#038;quality=95" width="300" height="210" alt="Meet Young Jesus, One Of The Best and Most Adventurous Young Indie Rock Bands Of 2018" class="img-responsive" />
+			</a>
+		</div>
+				<h2>
+			<a href="http://uproxx.com/music/young-jesus-john-rossiter-interview-the-rx/" rel="bookmark">Meet Young Jesus, One Of The Best and Most Adventurous Young Indie Rock Bands Of 2018</a>
+		</h2>
+				<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/steven-hyden/" title="Posts by Steven Hyden" class="author url fn" rel="author">Steven Hyden</a></span>
+			<span class="published-date uproxx-the-date">02.08.18</span>
+			<span class="published-date uproxx-time-diff">6 days ago</span>
+			<a class="comment-count comment-count-num-3" href="http://uproxx.com/music/young-jesus-john-rossiter-interview-the-rx/#comments">3 Comments</a>		</div>
+			</div>
+</div>
+<div class="col-xs-4 post-grid-third grid-post"
+	 data-post_id="401079551"	>
+	<div class="story">
+		<div class="img">
+			<a class="image-holder" href="http://uproxx.com/music/alela-diane-cusp-interview-the-rx/">
+				<img src="https://uproxx.files.wordpress.com/2018/02/alela-grid-uproxx.jpg?w=300&#038;h=210&#038;crop=1&#038;quality=95" width="300" height="210" alt="Premiere: Alela Diane&#8217;s &#8216;Cusp&#8217; Is A Stunning Folk-Piano Document Of Motherhood" class="img-responsive" />
+			</a>
+		</div>
+				<h2>
+			<a href="http://uproxx.com/music/alela-diane-cusp-interview-the-rx/" rel="bookmark">Premiere: Alela Diane&#8217;s &#8216;Cusp&#8217; Is A Stunning Folk-Piano Document Of Motherhood</a>
+		</h2>
+				<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/caitlin-white/" title="Posts by Caitlin White" class="author url fn" rel="author">Caitlin White</a></span>
+			<span class="published-date uproxx-the-date">02.07.18</span>
+			<span class="published-date uproxx-time-diff">1 week ago</span>
+					</div>
+			</div>
+</div>
+<div class="col-xs-4 post-grid-third grid-post"
+	 data-post_id="401073362"	>
+	<div class="story">
+		<div class="img">
+			<a class="image-holder" href="http://uproxx.com/music/no-age-snares-like-a-haircut-rx/">
+				<img src="https://uproxx.files.wordpress.com/2018/02/no-age-grid-uproxx.jpg?w=300&#038;h=210&#038;crop=1&#038;quality=95" width="300" height="210" alt="No Age&#8217;s Latest Album &#8216;Snares Like A Haircut&#8217; Is A Masterful, Noise-Punk Return" class="img-responsive" />
+			</a>
+		</div>
+				<h2>
+			<a href="http://uproxx.com/music/no-age-snares-like-a-haircut-rx/" rel="bookmark">No Age&#8217;s Latest Album &#8216;Snares Like A Haircut&#8217; Is A Masterful, Noise-Punk Return</a>
+		</h2>
+				<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/corbin-reiff/" title="Posts by Corbin Reiff" class="author url fn" rel="author">Corbin Reiff</a></span>
+			<span class="published-date uproxx-the-date">02.05.18</span>
+			<span class="published-date uproxx-time-diff">1 week ago</span>
+					</div>
+			</div>
+</div>
+</div><div class="story-row"><div class="col-xs-4 post-grid-third grid-post"
+	 data-post_id="401047020"	>
+	<div class="story">
+		<div class="img">
+			<a class="image-holder" href="http://uproxx.com/music/hc-mcentire-lionheart-mount-moriah-north-carolina-merge-records-the-rx-review/">
+				<img src="https://uproxx.files.wordpress.com/2018/01/mcentire-grid-uproxx.jpg?w=300&#038;h=210&#038;crop=1&#038;quality=95" width="300" height="210" alt="H.C. McEntire&#8217;s Gnarled, Tender &#8216;LIONHEART&#8217; Is A Country Debut Like No Other" class="img-responsive" />
+			</a>
+		</div>
+				<h2>
+			<a href="http://uproxx.com/music/hc-mcentire-lionheart-mount-moriah-north-carolina-merge-records-the-rx-review/" rel="bookmark">H.C. McEntire&#8217;s Gnarled, Tender &#8216;LIONHEART&#8217; Is A Country Debut Like No Other</a>
+		</h2>
+				<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/caitlin-white/" title="Posts by Caitlin White" class="author url fn" rel="author">Caitlin White</a></span>
+			<span class="published-date uproxx-the-date">02.02.18</span>
+			<span class="published-date uproxx-time-diff">2 weeks ago</span>
+			<a class="comment-count comment-count-num-6" href="http://uproxx.com/music/hc-mcentire-lionheart-mount-moriah-north-carolina-merge-records-the-rx-review/#comments">6 Comments</a>		</div>
+			</div>
+</div>
+<div class="col-xs-4 post-grid-third grid-post"
+	 data-post_id="401067683"	>
+	<div class="story">
+		<div class="img">
+			<a class="image-holder" href="http://uproxx.com/music/rhye-interview-mike-milosh-blood-sophomore-album-rx/">
+				<img src="https://uproxx.files.wordpress.com/2018/01/rhye-grid-uproxx-copy.jpg?w=300&#038;h=210&#038;crop=1&#038;quality=95" width="300" height="210" alt="Rhye&#8217;s Sophomore Album Took Some Time To Materialize, But The End Result Makes It Well Worth The Wait" class="img-responsive" />
+			</a>
+		</div>
+				<h2>
+			<a href="http://uproxx.com/music/rhye-interview-mike-milosh-blood-sophomore-album-rx/" rel="bookmark">Rhye&#8217;s Sophomore Album Took Some Time To Materialize, But The End Result Makes It Well Worth The Wait</a>
+		</h2>
+				<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/phil-cosores/" title="Posts by Philip Cosores" class="author url fn" rel="author">Philip Cosores</a></span>
+			<span class="published-date uproxx-the-date">02.01.18</span>
+			<span class="published-date uproxx-time-diff">2 weeks ago</span>
+					</div>
+			</div>
+</div>
+<div class="col-xs-4 post-grid-third grid-post"
+	 data-post_id="401066577"	>
+	<div class="story">
+		<div class="img">
+			<a class="image-holder" href="http://uproxx.com/music/typhoon-offerings-kyle-morton-interview/">
+				<img src="https://uproxx.files.wordpress.com/2018/01/typhoon-grid-uproxx.jpg?w=300&#038;h=210&#038;crop=1&#038;quality=95" width="300" height="210" alt="Typhoon Has Already Made The Most Absurdly Ambitious Indie Rock Album of 2018" class="img-responsive" />
+			</a>
+		</div>
+				<h2>
+			<a href="http://uproxx.com/music/typhoon-offerings-kyle-morton-interview/" rel="bookmark">Typhoon Has Already Made The Most Absurdly Ambitious Indie Rock Album of 2018</a>
+		</h2>
+				<div class="author">
+						<span class="authorname"><a href="http://uproxx.com/author/steven-hyden/" title="Posts by Steven Hyden" class="author url fn" rel="author">Steven Hyden</a></span>
+			<span class="published-date uproxx-the-date">01.30.18</span>
+			<span class="published-date uproxx-time-diff">2 weeks ago</span>
+					</div>
+			</div>
+</div>
+</div>				</div>
+			</div>
+		</div>
+	
+</div>
+
+				<div id="sticky_stop"></div>
+
+			</div>
+			<!-- Content End -->
+		</div>
+		<!-- Outer Wrapper End -->
+		<!-- wpcom_wp_footer -->
+<script type="text/html" id="wvn_native_tpl">
+	
+	<div class="wvn_native_experience_title">Advertisement</div>
+	
+	<div class="wvn_native_experience <%- theme %> <%= usebgcolor ? "usebgcolor" : "" %> <%= colorbar ? "colorbar" : "" %>">
+		<div class="img">
+			<a href="<%- full_click_url %>"><img src="<%- image %>" width="300" height="210" alt="" scale="0"></a>
+		</div>
+		<div class="meta">
+			<div class="sponsored">Sponsored</div>
+			<h2><a href="<%- full_click_url %>" rel="bookmark"><%- title %></a></h2>
+
+			<div class="brand">
+				<%- promotedline %>: <%- brandname %>
+			</div>
+
+			<% if(imptracker1) { %>
+				<img src="<%- imptracker1 %>" alt="" width="1" height="1" class="wvn_native_tracker_img" />
+			<% } %>
+			<% if(imptracker2) { %>
+				<img src="<%- imptracker2 %>" alt="" width="1" height="1" class="wvn_native_tracker_img" />
+			<% } %>
+			<% if(imptracker3) { %>
+				<img src="<%- imptracker3 %>" alt="" width="1" height="1" class="wvn_native_tracker_img" />
+			<% } %>
+		</div>
+	</div>
+</script>
+<div id="woven-interstitial">
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { headertag.display('woven-interstitial'); });
+	</script>
+</div>
+<div id="woven-sw-interstitial">
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { headertag.display('woven-sw-interstitial'); });
+	</script>
+</div>
+<div id="woven-inread" adonis-marker>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { headertag.display('woven-inread'); });
+	</script>
+</div>	<div id="fb-root"></div>
+	<script>
+	  window.fbAsyncInit = function() {
+		FB.init({
+		  appId      : '126407544039926',
+		  version    : 'v2.3',
+		  channelUrl : '//uproxx.com/wp-content/themes/vip/uproxx/assets/fb_channel.html',
+		  status     : true,
+		  cookie     : true,
+		  xfbml      : true
+		});
+	  };
+	  (function(d, debug){
+		 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		 if (d.getElementById(id)) {return;}
+		 js = d.createElement('script'); js.id = id; js.async = true;
+		 js.src = "//connect.facebook.com/en_US/sdk.js";
+		 ref.parentNode.insertBefore(js, ref);
+	   }(document, false));
+	</script>
+
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','//connect.facebook.net/en_US/fbevents.js');
+	fbq( 'init', '722969591073270' );
+	fbq( 'track', 'PageView' );
+	fbq( 'track', 'Lead' );
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=722969591073270&ev=PageView&noscript=1" /></noscript>
+	<!-- Quantcast Tag --> 
+<script type="text/javascript">
+	var _qacct = "p-73t-O7FWprUTo";
+	var _qevents = _qevents || [];
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);  
+	})();
+</script>
+<script type="text/javascript"> 
+	_qevents.push({ 
+		qacct:"p-73t-O7FWprUTo"
+	}); 
+</script> 
+<noscript> 
+	<div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-73t-O7FWprUTo.gif" border="0" height="1" width="1" alt="Quantcast"/> </div> 
+</noscript> 
+<!-- End Quantcast tag -->
+
+<!-- Begin comScore Tag -->
+	<script type="text/javascript">
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	COMSCORE.beacon({ c1:2, c2:8430760, c3:"", c4:"", c5:"", c6:"", c15:""});
+	</script>
+	<noscript>
+		<img src="https://sb.scorecardresearch.com/p?c1=2&c2=8430760&c3=&c4=&c5=&c6=&c15=&cj=1" />
+	</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config = {"uid":11578,"domain":"uproxx.com","sections":"UPROXX,TECHNOLOGY","useCanonical":true,"authors":"Dan Seitz"};
+(function(){
+	function loadChartbeat() {
+		window._sf_endpt=(new Date()).getTime();
+		var e = document.createElement('script');
+		e.setAttribute('language', 'javascript');
+		e.setAttribute('type', 'text/javascript');
+		e.setAttribute('src',
+		(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");
+		document.body.appendChild(e);
+	}
+
+	jQuery(document).ready( loadChartbeat ); 
+})();
+</script>
+<!-- End Chartbeat -->
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <span id="parsely-cfg" data-parsely-site="uproxx.com"></span>
+</div>
+<script>
+	(function(s, p, d) {
+		var h=d.location.protocol, i=p+"-"+s,
+			e=d.getElementById(i), r=d.getElementById(p+"-root"),
+			u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+			:"static."+p+".com";
+		if (e) return;
+		e = d.createElement(s); e.id = i; e.async = true;
+		e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+	})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+
+<script src="//tags.crwdcntrl.net/c/6184/cc_af.js"></script> 
+
+<!-- Twitter Tracking //-->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+	twttr.conversion.trackPid('l68nb', { tw_sale_amount: 0, tw_order_quantity: 0 });
+</script>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l68nb&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" /><img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l68nb&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" /></noscript>
+<!-- END Twitter Tracking //-->
+
+<script type="text/javascript" src="https://cdn-widgets-woven.netdna-ssl.com/thred/track.js" async></script>
+
+<script type="text/javascript">
+(function() {
+	function async_load(script_url) { 
+		var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://'); 
+		var s = document.createElement('script'); 
+		s.src = protocol + script_url; 
+		var x = document.getElementsByTagName('script')[0]; 
+		x.parentNode.insertBefore(s, x); 
+	}
+	bm_website_code = '9B59CD4FD69949FE';
+	jQuery( document ).ready(function() {
+		async_load( 'asset.pagefair.com/measure.min.js' );
+	});
+	jQuery( document ).ready(function() {
+		async_load( 'asset.pagefair.net/ads.min.js' );
+	});
+})();
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "UPROXX",
+  "url": "http://uproxx.com/",
+  "image": "http://uproxx.com/wp-content/themes/vip/uproxx/assets/images/logo-large-b.png",
+  "potentialAction": {
+	"@type": "SearchAction",
+	"target": "http://uproxx.com/?s={search_term_string}",
+	"query-input": "required name=search_term_string"
+  },
+  "sameAs" : [
+	"https://www.facebook.com/UPROXX",
+	"https://www.twitter.com/UPROXX",
+	"https://plus.google.com/+uproxx",
+	"https://instagram.com/uproxx/",
+	"https://en.wikipedia.org/wiki/Uproxx"
+  ]
+}
+</script>
+<div class="uproxx-footer-navigation"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-uproxx-logo" class="menu-item menu-item-type-custom"><a href="/" class="logo">UPROXX</a></li><li id="menu-item-1157666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157666"><a href="http://jobs.uproxx.com/">Job at Uproxx</a></li>
+<li id="menu-item-1157667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157667"><a href="mailto:info@uproxx.com">Contact</a></li>
+<li id="menu-item-1157668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157668"><a href="mailto:info@uproxx.com">Advertising</a></li>
+<li id="menu-item-1157669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157669"><a href="/about/">About UPROXX</a></li>
+<li id="menu-item-1157670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157670"><a href="/privacy/">Privacy Policy</a></li>
+<li id="menu-item-1157671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1157671"><a href="/about/">Staff</a></li>
+</ul><div class="powered_by">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP            0.000000ooterredit&#038;utm_term=uproxx.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></div></div>		<div style="display:none">
+	</div>
+<script type="text/html" id="uproxx-featured-video-tpl">
+	<div class="uproxx-featured-video-wrap">
+		<% if(title){ %>
+		<div class="uproxx-featured-video-title">
+			<span><%- title %></span>
+		</div>
+		<% } %>
+
+		<div class="uproxx-bc-video uproxx-bc-video-iframe uproxx-oembed uproxx-featured-video">
+			<iframe src="<%- url %>" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" scrolling="no"></iframe>
+		</div>
+
+		<div class="uproxx-featured-video-close"></div>
+	</div>
+</script><script type='text/javascript'>
+/* <![CDATA[ */
+var ptm_ajax_comments_defaults = {"ajaxurl":"https:\/\/uproxx.wordpress.com\/wp-admin\/admin-ajax.php","showForm":"","disableForm":"checked","activityImagePath":"http:\/\/uproxx.com\/wp-content\/themes\/vip\/uproxx\/plugins\/ptm-ajax-comments\/images\/activity3.gif","activeColor":"eeeeee","inactiveColor":"ffffff","css_comment":"comment-textarea","css_commentform":"comment-form","css_commentlist":"commentlist","css_respond":"comment-respond","textNoComment":"Please write a comment","textAddingComment":"Adding your comment, please wait...","textCommentAdded":"Your comment has been added, thank you!","compatContentPress":"","compatAntispamBee":"","commentPosition":"bottom","thread_comments_depth":"2"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var heartbeatSettings = {"ajaxurl":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_sso_comments_object = {"ajax_url":"http:\/\/uproxx.com\/wp-admin\/admin-ajax.php","security":"8b805b3c35","uproxx_ping":"https:\/\/profile.uproxx.com\/api\/num_comments.php?post_id=401070984&blog_id=10","uproxx_mode":"blog","uproxx_post_id":"401070984","uproxx_post_url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","uproxx_site_url":"http:\/\/uproxx.com","uproxx_theme_url":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/uproxx","uproxx_extra_field":"","uproxx_extended_form":"","uproxxsso_num":"0","uproxxsso_original_num":"0","uproxxsso_int":"","uproxxsso_realtime":"false","uproxx_last_comment_id":null,"uproxx_shown_comments":"0","uproxx_back":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","is_livediscussion":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_sso_object = {"ajax_url":"https:\/\/uproxx.wordpress.com\/wp-admin\/admin-ajax.php","security":"9fd04e567d","uproxxsso_enabled":"1","uproxxsso_logged_in":"false","uproxxsso_back":"http:\/\/uproxx.com"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_main_object = {"uproxx_site_url":"http:\/\/uproxx.com","fb_app_id":"117400151618132"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_single_infinite = {"home_url":"http:\/\/uproxx.com","ajax_url":"https:\/\/uproxx.wordpress.com\/wp-admin\/admin-ajax.php","security":"64d698cd34","uproxx_si_post_ids":[401070984,401070385,401070228,401066834,401066443,401066485,401066325,401066171,401064286,401062845,401060436,401060284,401059685,401059017,401058589,401058232,401057976,401057613],"limit":"15","goback":"\t\t<div class=\"uproxx-si-goback\">\n\t\t\t<a href=\"http:\/\/uproxx.com\/technology\/\">View All Technology Posts<\/a>\n\t\t<\/div>\n\t","primarty_category":{"primary":{"term_id":432167547,"name":"Technology","slug":"technology","term_group":0,"term_taxonomy_id":8,"taxonomy":"category","description":"Keep in-the-know on the latest tech developments and stories on UPROXX.","parent":0,"count":4645,"filter":"raw"},"categories":[{"term_id":432167543,"name":"GammaSquad","slug":"gammasquad","term_group":0,"term_taxonomy_id":4,"taxonomy":"category","description":"UPROXX has the latest in sci-fi, comics, and everything geek to follow in today\u2019s news.","parent":0,"count":21175,"filter":"raw"},{"term_id":432167555,"name":"Home Page","slug":"media","term_group":0,"term_taxonomy_id":5,"taxonomy":"category","description":"","parent":0,"count":55017,"filter":"raw"},{"term_id":190,"name":"Movies","slug":"movies","term_group":0,"term_taxonomy_id":81029,"taxonomy":"category","description":"UPROXX is your best source for current movie news and film discussion.","parent":0,"count":16789,"filter":"raw"},{"term_id":432167549,"name":"Music","slug":"music","term_group":0,"term_taxonomy_id":6,"taxonomy":"category","description":"Keep current on today's music culture with the latest UPROXX coverage.","parent":0,"count":22981,"filter":"raw"},{"term_id":432167547,"name":"Technology","slug":"technology","term_group":0,"term_taxonomy_id":8,"taxonomy":"category","description":"Keep in-the-know on the latest tech developments and stories on UPROXX.","parent":0,"count":4645,"filter":"raw"},{"term_id":432167558,"name":"TV","slug":"tv","term_group":0,"term_taxonomy_id":9,"taxonomy":"category","description":"Stay up-to-date on the latest television news and critical analysis with UPROXX's comprehensive TV coverage.","parent":0,"count":40536,"filter":"raw"},{"term_id":432167536,"name":"Viral","slug":"viral","term_group":0,"term_taxonomy_id":11,"taxonomy":"category","description":"Find the viral stories and trending news you need to stay informed here on UPROXX.","parent":0,"count":82152,"filter":"raw"}]}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uproxx_side_share = {"logged_in":"false","template":"<div class=\"share\"><a href=\"#\" class=\"fb\"><i class=\"uproxx-facebook\"><\/i><\/a><\/div><div class=\"share\"><a href=\"#\" class=\"tw\"><i class=\"uproxx-twitter\"><\/i><\/a><\/div><div class=\"count\"> <span class=\"total\"><\/span><span class=\"num\">M<\/span>  <span class=\"shares\">Shares<\/span><\/div><div><\/div>","fb_app_id":"117400151618132","side_shares":[{"id":401070984,"url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","short_url":"http:\/\/uproxx.it\/2ntjpel","title":"Apple confirms the US government is investigating its slowed-down iPhones","summary":"The iPhone slowdown controversy is gaining more steam, as the government has officially gotten involved.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401070984,"url":"http:\/\/uproxx.com\/technology\/apple-government-investigating-iphones-slowing-down\/","short_url":"http:\/\/uproxx.it\/2ntjpel","title":"Apple confirms the US government is investigating its slowed-down iPhones","summary":"Apple isn't having the best 2018, between the relative struggles of the iPhone X and the rising confusion and anger over reports it deliberately slowed down older phones to spare their aging batteries.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphones-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401070385,"url":"http:\/\/uproxx.com\/viral\/nic-cage-deepfake-fake-app-deep-learning-technology\/","short_url":"http:\/\/uproxx.it\/2no5U0C","title":"People are using deep learning technology to put Nic Cage's face into every movie known to man","summary":"https:\/\/www.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/nicolas-cage-t2.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401070228,"url":"http:\/\/uproxx.com\/life\/driving-while-high\/","short_url":"http:\/\/uproxx.it\/2nqCcqE","title":"How will police decide who is too high to drive?","summary":"https:\/\/players.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/dui2-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401066834,"url":"http:\/\/uproxx.com\/technology\/super-bowl-recipe-apps\/","short_url":"http:\/\/uproxx.it\/2DL8TGi","title":"We rank the five best apps for assembling your #SuperBowl spread","summary":".","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/wings-2-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401066443,"url":"http:\/\/uproxx.com\/news\/trump-admin-nationalize-5g-network\/","short_url":"http:\/\/uproxx.it\/2DYZSwC","title":"The Trump administration is considering nationalizing the 5G network","summary":"In an interesting move from an administration whose FCC voted to abandon federal regulations that govern equal access to the internet, Trump's team is considering taking over part of the U.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/trump-wrench.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401066485,"url":"http:\/\/uproxx.com\/technology\/iphone-x-sales-halved\/","short_url":"http:\/\/uproxx.it\/2GsinIz","title":"The iPhone X's struggles have cost Apple billions off its stock price","summary":"When the iPhone X was announced, critics noted you were paying a premium for its face-recognition feature, which felt like a solution in search of a problem.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphone-x-uproxx-2.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401066325,"url":"http:\/\/uproxx.com\/technology\/elon-musk-flamethrower\/","short_url":"http:\/\/uproxx.it\/2nrvmS7","title":"Elon Musk is selling out of his limited edition, and totally legal, flamethrower","summary":"Elon Musk is probably best known for his goal to get to Mars, but he has other aspirations, like building traffic tunnels.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/gun-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401066171,"url":"http:\/\/uproxx.com\/news\/strava-military-bases\/","short_url":"http:\/\/uproxx.it\/2njMutv","title":"A fitness tracker has revealed the locations of several U.S. military bases","summary":"Strava is a neat fitness app that tracks your running and uses the data to create charts, graphs, and most interestingly for runners, a \"heat map\" that shows you the routes other runners take and how often they take them.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/militar-grid.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401064286,"url":"http:\/\/uproxx.com\/technology\/cryptocurrency-hackers-steal-400-million-nem-bitcoin\/","short_url":"http:\/\/uproxx.it\/2DS1HLS","title":"Hackers Stole $400 Million From One Of Japan's Largest Cryptocurrency Exchanges","summary":"When a cryptocurrency neophyte gets into the market, the first piece of advice usually given is: be prepared to lose everything.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/bitcoin.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401062845,"url":"http:\/\/uproxx.com\/technology\/starbucks-bitcoin-blockchain-cryptocurrencies\/","short_url":"http:\/\/uproxx.it\/2BtxzkF","title":".@Starbucks isn't into bitcoins but they do believe in blockchain","summary":"Bitcoin has been, and will likely remain until the end, a roller coaster ride.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/bitcoin-bucks-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401060436,"url":"http:\/\/uproxx.com\/technology\/youtube-fund-counter-hate-videos-creators-for-change\/","short_url":"http:\/\/uproxx.it\/2n9FM9g","title":"YouTube will fund videos to \"counter hate\" on its platform","summary":"Between the Pewdiepie controversies, Logan Paul's disastrous video where he stumbled over and then filmed a suicide victim, and the platform's relevance to various members of the alt-right, YouTube has not had a good couple of years.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/youtube-uproxx1.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401060284,"url":"http:\/\/uproxx.com\/technology\/new-york-net-neutrality-executive-order-montana\/","short_url":"http:\/\/uproxx.it\/2E9QMei","title":"New York enforces net neutrality with an executive order","summary":"On Monday, Montana made net neutrality the law of the land by executive order.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/interent-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401059685,"url":"http:\/\/uproxx.com\/technology\/amazon-go-accidental-shoplift-penalty\/","short_url":"http:\/\/uproxx.it\/2Fc4BYP","title":"Amazon doesn't think it's a big deal if you accidentally shoplift from Amazon Go","summary":".","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/amazon-go.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401059017,"url":"http:\/\/uproxx.com\/viral\/burger-king-net-neutrality\/","short_url":"http:\/\/uproxx.it\/2E4WsWX","title":"Burger King, of all things, wants to help you understand why net neutrality is important","summary":"https:\/\/youtu.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/burger-net-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401058589,"url":"http:\/\/uproxx.com\/technology\/cloned-monkeys-china-scientists-are-humans-next-explainer\/","short_url":"http:\/\/uproxx.it\/2n7byE1","title":"Researchers claim to have cloned monkeys, so are humans next?","summary":"Cloning is usually the province of viral stories rather than scientific fact.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/monkeys-uproxx.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401058232,"url":"http:\/\/uproxx.com\/music\/coachella-fake-lineup-bot\/","short_url":"http:\/\/uproxx.it\/2n7043m","title":"This bot-generated @coachella lineup features hilarious fake artists like One Of Pig and Fanch","summary":"https:\/\/twitter.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/coachella-music-festival-crowd-audience-getty.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401057976,"url":"http:\/\/uproxx.com\/technology\/apple-medical-records-iphone\/","short_url":"http:\/\/uproxx.it\/2FaTiQR","title":"Apple wants you to upload your medical records right to your iPhone","summary":"Ever-advancing medical technology means that sooner or later, you're going to have a more complete picture of your day-to-day health, from resting heart rate to blood pressure.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/iphone-grid.jpg?quality=95&w=650","twitter_handle":"UPROXX"},{"id":401057613,"url":"http:\/\/uproxx.com\/hiphop\/snoop-dogg-twitch-streaming-sos-game\/","short_url":"http:\/\/uproxx.it\/2BocIPM","title":".@SnoopDogg is now a professional gamer and he is perfect in his Early Access stream of 'SOS'","summary":"Watch The king comes to the island! SOS available in Early Access! from Doggydogg20 on www.twitch.tv\n\nSnoop Dogg has been, at various times in his career, a rapper, a Rastafarian, a surprisingly adept talk show host, and probably most often, a pitchman for an astonishing array of consumer products branded with his likeness and nickname.","image":"https:\/\/uproxx.files.wordpress.com\/2018\/01\/snoop-dogg1.jpg?quality=95&w=650","twitter_handle":"UPROXX"}]};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJytlOt2mzAMgF9oxm23npP+2Nmj7AgjQOALtQwlb19xSdok3RaS/QLdPkuyLP3WKRN8Qp90w7rAgQx2Y9bwN/3J5HrV2b4iz9pSi6xfe+yxBl9YjAdn8sb2hRgF1IhD3K+frAzRZY78OTbV6MR/oE73XQzjqAf0RYiTz+G8LjkFDYwS5JwEzfgL5b/JB94iqoiTHwU/4cooYTqPVNXJhAG/qqhGiClHSNcVcnYcc5ggH9Ltma+otbXkB8K3U+lWZAne7PMwHq9tlbMOTHtnngNYKiDhuXxPNxuWkNCSQDlb/u6/mM0EKKQEhV5eg8FlQk8spcxMH7FQAxW49FmeA4jbPG8qAtntaZOvLMqAluRp6qoMaHL2WYm5isisumD3JVmrLzTXtRyYcXlsi+J/pPi15QZygYpriKfQg3JLbSJLS1CJA0OFV7zGdUNxgkRG5yEkThG6CXYUtnaYgyG4Ygg+ItbtoaBPYb7TPy/sJzURmhmkwIPdS+IXhX4KWMY2h6gdcMIof0qWYow0rcKjbiNB+mLavx7bEjtM6nv2oH/L5p2fifj/cj8fnx93Tw8vP3a75h25cI8o'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'60970621','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'60970621','v':'wpcom','tz':'-5','user_id':'0','post':'401070984','subd':'uproxx'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=60970621&v=wpcomvt&tz=-5&user_id=0&post=401070984&subd=uproxx&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTcvLiZqPSsmRG1jT2Zid1AuTnhRV1hESH4sZFhdMCUvRTclSnxsPysuQ3gtbnx8bGFjRWw3c2wwTiVZYTl2T3RJSngueUp2bGc0OEw9QSZmVEFNNEdVeTJUX01WZSwuMTJoL2wvX0NBYURkcXdIUGhdOWEwUXV3L2dGVEZvN3h8N00/RENCL3p1WVUxRlZKLktMOU1BVTlHODFCS3Y9bnp5cHYrbEFdNUNrTzRJVGkwWXxVRnBFTnkuTC5VJXY='}]);
+_stq.push([ 'clickTrackerInit', '60970621', '401070984' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>		<script type="text/javascript">
+			var adonis = adonis || {};
+			adonis.transport = 'https://www.adiode.com/http';
+		</script>
+		<script type="text/javascript">
+			/* loader-7.4.1 */!function e(t,n,r){function o(a,c){if(!n[a]){if(!t[a]){var u="function"==typeof require&&require;if(!c&&u)return u(a,!0);if(i)return i(a,!0);var s=new Error("Cannot find module '"+a+"'");throw s.code="MODULE_NOT_FOUND",s}var l=n[a]={exports:{}};t[a][0].call(l.exports,function(e){var n=t[a][1][e];return o(n||e)},l,l.exports,e,t,n,r)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<r.length;a++)o(r[a]);return o}({1:[function(e,t,n){"use strict";function r(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&(t[n]=e[n]);return t.default=e,t}function o(e){return e&&e.__esModule?e:{default:e}}function i(){var e="http-adonis-client-loader/run";return p.default.reportEvent("bootstrap.http.pageview"),g.default.isSupportedBrowser()?(_.logger.info("["+e+"]: Browser is compatible"),p.default.reportEvent("bootstrap.http.supported"),a().then(function(t){return _.logger.info("["+e+"]: Running and caching adonisClient source"),p.default.reportEvent("bootstrap.http.runclientscript"),p.default.saveTiming(),d.default.defineReadOnlyProperty("adonisConfig",s.default),(0,S.securelyRunAdonisClient)(t)}).catch(function(t){return t instanceof O.XhrBlockError?(_.logger.info("["+e+"]: Failed to fetch adonis-client using Suez"),_.logger.info("["+e+"]: All loaders failed to fetch adonis-client, checking control server"),b.check()):(_.logger.warn("["+e+"]: Unexpected error when trying to fetch adonis-client over Suez: <"+t+">"),p.default.reportError(t),null)}).catch(function(t){return t instanceof O.XhrBlockError?(p.default.reportEvent("bootstrap.http.status_blocked"),_.logger.info("["+e+"]: Control server check failed, probably an adblocker"),{status:!0}):(_.logger.warn("["+e+"]: Unexpected error from control server check: <"+t+">"),p.default.reportError(t),null)}).then(function(t){(0,m.default)(window.navigator.userAgent)&&t&&"status"in t&&t.status?(p.default.reportEvent("bootstrap.http.trigged"),_.logger.info("["+e+"]: Control server reported status is healthy or was blocked, triggering oppenheimer"),(0,c.replaceContent)(window.document),(0,E.default)(window,"adonis-deterrent")):t&&"status"in t&&!1===t.status&&(p.default.reportEvent("bootstrap.http.not_trigged"),_.logger.warn("["+e+"]: Control server reported status is unhealthy, not triggering oppenheimer"))})):(_.logger.info("["+e+"]: Incompatible browser, not continuing"),Promise.resolve(null))}function a(){var e="http-adonis-client-loader/loadAdonisClient";return _.logger.debug("["+e+"]: Trying to load adonis-client with XHR loader (from CDN)"),R.load().catch(function(t){return t instanceof O.XhrBlockError?_.logger.info("["+e+"]: Failed to fetch adonis-client over XHR, trying to load from cache"):(_.logger.warn("["+e+"]: Unexpected error when trying fetch adonis-client over XHR, trying to load from cache: <"+t+">"),p.default.reportError(t)),L.load()}).catch(function(t){return t instanceof O.CacheLoadError?_.logger.info("["+e+"]: Failed to fetch adonis-client from cache, trying to load from Suez"):(_.logger.warn("["+e+"]: Unexpected error when trying fetch adonis-client from cache, trying to load from Suez: <"+t+">"),p.default.reportError(t)),P.load()})}Object.defineProperty(n,"__esModule",{value:!0}),n.run=i;var c=e(24),u=e(4),s=o(u),l=e(19),d=o(l),f=e(17),p=o(f),h=e(2),g=o(h),v=e(6),b=r(v),_=e(11),w=e(18),m=o(w),y=e(13),E=o(y),O=e(7),S=e(16),T=e(10),R=r(T),A=e(9),P=r(A),C=e(8),L=r(C)},{10:10,11:11,13:13,16:16,17:17,18:18,19:19,2:2,24:24,4:4,6:6,7:7,8:8,9:9}],2:[function(e,t,n){"use strict";function r(){return o(window)&&a(window)&&i(window)&&c(window)}function o(e){try{return e.localStorage.setItem("__xyz__","__xyz__"),e.localStorage.removeItem("__xyz__"),!0}catch(e){return!1}}function i(e){try{return!!new e.Blob}catch(e){return!1}}function a(e){return"Promise"in e&&"resolve"in e.Promise&&"reject"in e.Promise&&"all"in e.Promise&&"race"in e.Promise}function c(e){return"function"==typeof e.Object.assign}t.exports={isSupportedBrowser:r,isLocalStorageSupported:o,isBlobSupported:i,isObjectAssignSupported:c,isPromiseSupported:a}},{}],3:[function(e,t,n){"use strict";function r(e,t,n){var r=Date.now()+1e3*n;i.logger.info("['cache/cacheAdonisClient]: new expiry "+r+" = "+new Date(r)),localStorage.adonisCacheSrc=e,localStorage.adonisCacheExpiryMillis=r,localStorage.adonisClientVersion=t}function o(){localStorage.removeItem("adonisCacheSrc"),localStorage.removeItem("adonisCacheExpiryMillis"),localStorage.removeItem("adonisClientVersion")}Object.defineProperty(n,"__esModule",{value:!0}),n.cacheAdonisClient=r,n.clearCachedAdonisClient=o;var i=e(11)},{11:11}],4:[function(e,t,n){"use strict";var r=e(5);window.adonisHash=window.adonisHash||window.location.hash||"";var o=window.adonisHash.indexOf("adonis-logging")>=0;r.LOG_LEVEL=o?"debug":r.LOG_LEVEL;var i=window.adonis||{};i.wsHost&&r.WS&&(r.WS.host=i.wsHost),i.transport&&(r.SUEZ_HTTP_ENDPOINT=i.transport),t.exports=r},{5:5}],5:[function(e,t,n){"use strict";t.exports={REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker",ADONIS_CLIENT_FETCH_URL:"https://adserver.xpanama.net/client-7-latest.js",SERVICE_STATUS_URL:function(e){return"https://client.reactrjs.com/"+e+"-status.json"},SUEZ_HTTP_RETRY:3,SUEZ_HTTP_DELAY:100}},{}],6:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}function o(){var e="control-server/check";f.logger.info("["+e+"]: Checking service status");var t=i(window);return(0,u.request)(t).then(function(t){return f.logger.debug("["+e+"]: Status check fetched with status-code <"+t.status+">"),JSON.parse(t.responseText)}).catch(function(t){f.logger.info("["+e+"]: Failed to check control server status <"+t+">");var n=void 0!==t.req?t.req.status:null;throw 0===n?new s.XhrBlockError:new Error("Unexpected status code while performing control server check, status-code = <"+n+">")})}function i(e){return d.default.SERVICE_STATUS_URL(c.default.get(e.location.host))}Object.defineProperty(n,"__esModule",{value:!0}),n.check=o,n.getServiceStatusUrl=i;var a=e(27),c=r(a),u=e(20),s=e(7),l=e(4),d=r(l),f=e(11)},{11:11,20:20,27:27,4:4,7:7}],7:[function(e,t,n){"use strict";function r(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}function o(e,t){if(!e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!t||"object"!=typeof t&&"function"!=typeof t?e:t}function i(e,t){if("function"!=typeof t&&null!==t)throw new TypeError("Super expression must either be null or a function, not "+typeof t);e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),t&&(Object.setPrototypeOf?Object.setPrototypeOf(e,t):e.__proto__=t)}Object.defineProperty(n,"__esModule",{value:!0}),n.XhrRequestError=n.SRIError=n.CacheLoadError=n.XhrBlockError=void 0;var a=e(23),c=function(e){return e&&e.__esModule?e:{default:e}}(a);n.XhrBlockError=function(e){function t(){return r(this,t),o(this,(t.__proto__||Object.getPrototypeOf(t)).apply(this,arguments))}return i(t,e),t}(c.default),n.CacheLoadError=function(e){function t(){return r(this,t),o(this,(t.__proto__||Object.getPrototypeOf(t)).apply(this,arguments))}return i(t,e),t}(c.default),n.SRIError=function(e){function t(){return r(this,t),o(this,(t.__proto__||Object.getPrototypeOf(t)).apply(this,arguments))}return i(t,e),t}(c.default),n.XhrRequestError=function(e){function t(e,n){r(this,t);var i=o(this,(t.__proto__||Object.getPrototypeOf(t)).call(this,n));return i.req=e,i}return i(t,e),t}(c.default)},{23:23}],8:[function(e,t,n){"use strict";function r(){var e="loaders/cache/load";i.logger.debug("["+e+"]: Starting cache loader");var t=parseInt(localStorage.adonisCacheExpiryMillis,10)||0,n=localStorage.adonisClientVersion,r=localStorage.adonisCacheSrc,a=(new Date).getTime()>=t;return r?n?a?(i.logger.debug("["+e+"]: Cached version of adonis-client is expired"),Promise.reject(new o.CacheLoadError)):(i.logger.debug("["+e+"]: Found a valid cached version of adonis-client"),Promise.resolve({source:r,version:n})):(i.logger.debug("["+e+"]: No version number found in localStorage cache"),Promise.reject(new o.CacheLoadError)):(i.logger.debug("["+e+"]: No cached version of adonis-client found in the localStorage"),Promise.reject(new o.CacheLoadError))}Object.defineProperty(n,"__esModule",{value:!0}),n.load=r;var o=e(7),i=e(11)},{11:11,7:7}],9:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}function o(){var e="loaders/suez-http";d.logger.debug("["+e+"]: Starting Suez HTTP loader");var t=JSON.stringify({host:"assets",path:"client",params:{},headers:{adonis_client_api:"7.0.0"}}),n={"Adonis-Version":"7.0.0","Cache-Adonis":"true"};return void 0===c.default.SUEZ_HTTP_ENDPOINT?Promise.reject(new Error("No adonis transport found")):(0,l.request)(c.default.SUEZ_HTTP_ENDPOINT,"POST",t,n).then(function(t){d.logger.debug("["+e+"]: Successfully fetched adonis-client over XHR");var n=t.responseText,r=t.getResponseHeader("adonis-client-version"),o=t.getResponseHeader("cache-control"),i=null!==o?parseInt(o.split("=")[1],10):null;return n&&r&&i&&(0,h.cacheAdonisClient)(n,r,i),{source:n,version:r}}).catch(function(t){throw d.logger.debug("["+e+"]: Failed to fetch adonis-client from Suez over XHR <"+t+">"),0===t.req.status?new f.XhrBlockError:new Error("Unexpected error fetching adonis-client, status-code = <"+t.req.status+">")})}function i(){var e=c.default.SUEZ_HTTP_RETRY||1,t=c.default.SUEZ_HTTP_DELAY||0,n=Array.apply(0,Array(e)).map(function(e){return o});return s.default.reportEvent("bootstrap.http.suez_opening"),(0,p.chain)(n,t).then(function(e){return s.default.reportEvent("bootstrap.http.suez_opened"),e}).catch(function(e){throw e instanceof f.XhrBlockError&&s.default.reportEvent("bootstrap.http.suez_blocked"),e})}Object.defineProperty(n,"__esModule",{value:!0}),n.loadOnce=o,n.load=i;var a=e(4),c=r(a),u=e(17),s=r(u),l=e(20),d=e(11),f=e(7),p=e(14),h=e(3)},{11:11,14:14,17:17,20:20,3:3,4:4,7:7}],10:[function(e,t,n){"use strict";function r(){var e="loaders/cache/xhr";return c.logger.debug("["+e+"]: Starting XHR loader"),(0,a.request)(i.default.ADONIS_CLIENT_FETCH_URL).then(function(t){c.logger.debug("["+e+"]: Successfully fetched adonis-client over XHR");var n=t.getResponseHeader("x-amz-meta-adonis-client-version");return{source:t.responseText,version:n}}).catch(function(t){throw c.logger.debug("["+e+"]: Failed to fetch adonis-client over XHR <"+t+">"),0===t.req.status?new u.XhrBlockError:new Error("Unexpected error performing status check request, status-code = <"+t.req.status+">")})}Object.defineProperty(n,"__esModule",{value:!0}),n.load=r;var o=e(4),i=function(e){return e&&e.__esModule?e:{default:e}}(o),a=e(20),c=e(11),u=e(7)},{11:11,20:20,4:4,7:7}],11:[function(e,t,n){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.logger=void 0;var r=e(4),o=function(e){return e&&e.__esModule?e:{default:e}}(r),i=e(29);n.logger=(0,i.create)({level:o.default.LOG_LEVEL})},{29:29,4:4}],12:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}function o(){return c.logger.debug("Loading manifest"),(0,l.request)(a.default.MANIFEST_URL).then(function(e){try{return JSON.parse(e.responseText)}catch(e){throw c.logger.debug("Error parsing the manifest",e),s.default.reportEvent("bootstrap.manifest_content_error"),e}}).catch(function(e){throw c.logger.debug("Error loading the manifest",e),s.default.reportEvent("bootstrap.manifest_fetch_error"),e})}Object.defineProperty(n,"__esModule",{value:!0}),n.load=o;var i=e(4),a=r(i),c=e(11),u=e(17),s=r(u),l=e(20)},{11:11,17:17,20:20,4:4}],13:[function(e,t,n){"use strict";function r(e){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"NEW_SCRIPT_EVENT",n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},r=new o(t,{detail:n});e.dispatchEvent(r)}var o=e(22);t.exports=r},{22:22}],14:[function(e,t,n){"use strict";function r(e,t,n){if(Array.isArray(e)&&0===e.length)return Promise.reject(n);t=t||0;var i=e[0];return e=e.slice(1),i().catch(function(n){return o(t).then(function(o){return r(e,t,n)})})}function o(e){return new Promise(function(t,n){setTimeout(function(e){return t()},e)})}Object.defineProperty(n,"__esModule",{value:!0}),n.chain=r},{}],15:[function(e,t,n){"use strict";function r(e,t){a.logger.debug("inserting blob");var n=document.createElement("script");return n.src=e,t&&(n.integrity=t),new Promise(function(e,t){n.onload=function(){e(null)},n.onerror=function(){t(new i.SRIError)},document.head.appendChild(n)})}function o(e){var t=document.createElement("script");t.innerHTML=e,document.head.appendChild(t)}Object.defineProperty(n,"__esModule",{value:!0}),n.insertBlobScript=r,n.insertInlineScript=o;var i=e(7),a=e(11)},{11:11,7:7}],16:[function(e,t,n){"use strict";function r(e){return(0,a.load)().then(function(t){var n=e.version,r=new Blob([e.source],{type:"text/javascript"}),i=URL.createObjectURL(r),a=t.hasOwnProperty(n)?t[n]:null;return null===a?((0,o.clearCachedAdonisClient)(),Promise.resolve(null)):(0,u.request)(i).then(function(){return(0,c.insertBlobScript)(i,a).catch(function(){(0,o.clearCachedAdonisClient)()})})}).catch(function(){return i.logger.info("[http-adonis-client-loader/run]: Manifest or blob fetch failed, inserting inline"),(0,c.insertInlineScript)(e.source)})}Object.defineProperty(n,"__esModule",{value:!0}),n.securelyRunAdonisClient=r;var o=e(3),i=e(11),a=e(12),c=e(15),u=e(20)},{11:11,12:12,15:15,20:20,3:3}],17:[function(e,t,n){"use strict";function r(e){var t=new XMLHttpRequest,n=[s.REPORTING_URL,e].join("/");t.open("GET",n,!0),t.send()}function o(e){s.REPORT_ERRORS&&r("adonis_error?e="+e.toString()+"&website="+window.location.hostname)}function i(){return null!=window.ADONIS_BOOTSTRAP_STATS?!0===window.ADONIS_BOOTSTRAP_STATS:Math.random()<s.REPORTING_RATE}function a(e,t){if(c(e),i()){var n={website:window.location.hostname,key:e};null!=t&&(n.quantity=t),r(["adonis_event/?event=",JSON.stringify(n)].join(""))}}function c(e){var t={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};d.push(t)}function u(){l.defineReadOnlyProperty("adonisBootstrapTiming",d)}var s=e(4),l=e(19),d=[];t.exports={reportError:o,reportEvent:a,saveTiming:u,shouldReport:i}},{19:19,4:4}],18:[function(e,t,n){"use strict";function r(e){var t=/android|iphone/gi,n=/Chrome\/(\S)+ Safari\/(\S)+$/gi,r=/\) Gecko\/(\S)+ Firefox\/(\S)+$/gi,o=/like Gecko.?\) Version\/(\S)+ Safari\/(\S)+$/gi;return-1===e.search(t)&&(e.search(n)>-1||e.search(r)>-1||e.search(o)>-1)}Object.defineProperty(n,"__esModule",{value:!0}),n.default=r},{}],19:[function(e,t,n){"use strict";function r(e,t){try{Object.defineProperty(window,e,{value:t,writable:!1})}catch(e){o.warn("Cannot define read-only property of window object: "+e)}}var o=e(11).logger,i=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};t.exports={defineReadOnlyProperty:r,ready:i}},{11:11}],20:[function(e,t,n){"use strict";function r(e){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"GET",n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null,r=arguments.length>3&&void 0!==arguments[3]?arguments[3]:{};return new window.Promise(function(i,a){var c=new window.XMLHttpRequest;c.open(t,e,!0);for(var u in r){var s=r[u];c.setRequestHeader(u,s)}c.onload=function(){c.status>=400?a(new o.XhrRequestError(c,"Unexpected status code")):i(c)},c.onerror=function(){a(new o.XhrRequestError(c,"Error establishing connection"))},c.send(n)})}Object.defineProperty(n,"__esModule",{value:!0}),n.request=r;var o=e(7)},{7:7}],21:[function(e,t,n){"use strict";e(25);var r=e(11),o=e(1);r.logger.info("[httpLoader]: Starting bootstrap"),(0,o.run)()},{1:1,11:11,25:25}],22:[function(e,t,n){(function(e){var n=e.CustomEvent;t.exports=function(){try{var e=new n("cat",{detail:{foo:"bar"}});return"cat"===e.type&&"bar"===e.detail.foo}catch(e){}return!1}()?n:"undefined"!=typeof document&&"function"==typeof document.createEvent?function(e,t){var n=document.createEvent("CustomEvent");return t?n.initCustomEvent(e,t.bubbles,t.cancelable,t.detail):n.initCustomEvent(e,!1,!1,void 0),n}:function(e,t){var n=document.createEventObject();return n.type=e,t?(n.bubbles=Boolean(t.bubbles),n.cancelable=Boolean(t.cancelable),n.detail=t.detail):(n.bubbles=!1,n.cancelable=!1,n.detail=void 0),n}}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],23:[function(e,t,n){"use strict";function r(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}function o(e,t){if(!e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!t||"object"!=typeof t&&"function"!=typeof t?e:t}function i(e,t){if("function"!=typeof t&&null!==t)throw new TypeError("Super expression must either be null or a function, not "+typeof t);e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),t&&(Object.setPrototypeOf?Object.setPrototypeOf(e,t):e.__proto__=t)}Object.defineProperty(n,"__esModule",{value:!0});var a=function(e){function t(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"";r(this,t);var n=o(this,(t.__proto__||Object.getPrototypeOf(t)).call(this,e));return Object.defineProperty(n,"message",{configurable:!0,enumerable:!1,value:e,writable:!0}),Object.defineProperty(n,"name",{configurable:!0,enumerable:!1,value:n.constructor.name,writable:!0}),Error.hasOwnProperty("captureStackTrace")?(Error.captureStackTrace(n,n.constructor),o(n)):(Object.defineProperty(n,"stack",{configurable:!0,enumerable:!1,value:new Error(e).stack,writable:!0}),n)}return i(t,e),t}(function(e){function t(){e.apply(this,arguments)}return t.prototype=Object.create(e.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),Object.setPrototypeOf?Object.setPrototypeOf(t,e):t.__proto__=e,t}(Error));n.default=a,t.exports=n.default},{}],24:[function(e,t,n){!function(e,r){"object"==typeof n&&void 0!==t?r(n):"function"==typeof define&&define.amd?define(["exports"],r):r(e.oppenheimer={})}(this,function(e){"use strict";function t(e){return r.replace("{{TITLE}}",e.title)}function n(e){e.documentElement.innerHTML=t(e)}var r='<head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>{{TITLE}}</title><style>body,html{background:#efefef;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;height:100%}#main-content{height:100%}#main-content>div{max-width:800px;min-width:200px;margin:0 auto;position:relative;top:50%;transform:translateY(-50%)}</style></head><body><div id=main-content><div><h1>Something interfered with this website loading</h1><p>This could be a temporary problem with your network, or due to your adblocker</p><p>Try:</p><ul><li>Check your internet connection and reload the page</li><li>If you are using an adblocker disable it by clicking on the adblock icon in your browser toolbar</li><li>If the problem persists, consider leaving a message on the <a href=https://forums.lanik.us/ target=_BLANK>adblock user forums</a></li></ul></div></div></body>';e.displayMessage=t,e.replaceContent=n,Object.defineProperty(e,"__esModule",{value:!0})})},{}],25:[function(e,t,n){!function(e){"performance"in e||(e.performance={});var t=e.performance;e.performance.now=t.now||t.mozNow||t.msNow||t.oNow||t.webkitNow||Date.now||function(){return(new Date).getTime()}}(self)},{}],26:[function(e,t,n){t.exports=["com","net","fr","co.uk","de","tv","today","org","info","ie","ba","gg","co.nz"]},{}],27:[function(e,t,n){"use strict";var r=e(28),o={};o.rules=e(26).map(function(e){return{rule:e,suffix:e.replace(/^(\*\.|\!)/,""),wildcard:"*"===e.charAt(0),exception:"!"===e.charAt(0)}}),o.endsWith=function(e,t){return-1!==e.indexOf(t,e.length-t.length)},o.findRule=function(e){var t=r.toASCII(e);return o.rules.reduce(function(e,n){var i=r.toASCII(n.suffix);return o.endsWith(t,"."+i)||t===i?n:e},null)},n.errorCodes={DOMAIN_TOO_SHORT:"Domain name too short.",DOMAIN_TOO_LONG:"Domain name too long. It should be no more than 255 chars.",LABEL_STARTS_WITH_DASH:"Domain name label can not start with a dash.",LABEL_ENDS_WITH_DASH:"Domain name label can not end with a dash.",LABEL_TOO_LONG:"Domain name label should be at most 63 chars long.",LABEL_TOO_SHORT:"Domain name label should be at least 1 character long.",LABEL_INVALID_CHARS:"Domain name label can only contain alphanumeric characters or dashes."},o.validate=function(e){var t=r.toASCII(e);if(t.length<1)return"DOMAIN_TOO_SHORT";if(t.length>255)return"DOMAIN_TOO_LONG";for(var n,o=t.split("."),i=0;i<o.length;++i){if(n=o[i],!n.length)return"LABEL_TOO_SHORT";if(n.length>63)return"LABEL_TOO_LONG";if("-"===n.charAt(0))return"LABEL_STARTS_WITH_DASH";if("-"===n.charAt(n.length-1))return"LABEL_ENDS_WITH_DASH";if(!/^[a-z0-9\-]+$/.test(n))return"LABEL_INVALID_CHARS"}},n.parse=function(e){if("string"!=typeof e)throw new TypeError("Domain name must be a string.");var t=e.slice(0).toLowerCase();"."===t.charAt(t.length-1)&&(t=t.slice(0,t.length-1));var i=o.validate(t);if(i)return{input:e,error:{message:n.errorCodes[i],code:i}};var a={input:e,tld:null,sld:null,domain:null,subdomain:null,listed:!1},c=t.split(".");if("local"===c[c.length-1])return a;var u=function(){return/xn--/.test(t)?(a.domain&&(a.domain=r.toASCII(a.domain)),a.subdomain&&(a.subdomain=r.toASCII(a.subdomain)),a):a},s=o.findRule(t);if(!s)return c.length<2?a:(a.tld=c.pop(),a.sld=c.pop(),a.domain=[a.sld,a.tld].join("."),c.length&&(a.subdomain=c.pop()),u());a.listed=!0;var l=s.suffix.split("."),d=c.slice(0,c.length-l.length);return s.exception&&d.push(l.shift()),d.length?(s.wildcard&&l.unshift(d.pop()),d.length?(a.tld=l.join("."),a.sld=d.pop(),a.domain=[a.sld,a.tld].join("."),d.length&&(a.subdomain=d.join(".")),u()):u()):u()},n.get=function(e){return e?n.parse(e).domain||null:null},n.isValid=function(e){var t=n.parse(e);return Boolean(t.domain&&t.listed)}},{26:26,28:28}],28:[function(e,t,n){(function(e){!function(r){function o(e){throw new RangeError(x[e])}function i(e,t){for(var n=e.length,r=[];n--;)r[n]=t(e[n]);return r}function a(e,t){var n=e.split("@"),r="";return n.length>1&&(r=n[0]+"@",e=n[1]),e=e.replace(I,"."),r+i(e.split("."),t).join(".")}function c(e){for(var t,n,r=[],o=0,i=e.length;o<i;)t=e.charCodeAt(o++),t>=55296&&t<=56319&&o<i?(n=e.charCodeAt(o++),56320==(64512&n)?r.push(((1023&t)<<10)+(1023&n)+65536):(r.push(t),o--)):r.push(t);return r}function u(e){return i(e,function(e){var t="";return e>65535&&(e-=65536,t+=H(e>>>10&1023|55296),e=56320|1023&e),t+=H(e)}).join("")}function s(e){return e-48<10?e-22:e-65<26?e-65:e-97<26?e-97:E}function l(e,t){return e+22+75*(e<26)-((0!=t)<<5)}function d(e,t,n){var r=0;for(e=n?M(e/R):e>>1,e+=M(e/t);e>N*S>>1;r+=E)e=M(e/N);return M(r+(N+1)*e/(e+T))}function f(e){var t,n,r,i,a,c,l,f,p,h,g=[],v=e.length,b=0,_=P,w=A;for(n=e.lastIndexOf(C),n<0&&(n=0),r=0;r<n;++r)e.charCodeAt(r)>=128&&o("not-basic"),g.push(e.charCodeAt(r));for(i=n>0?n+1:0;i<v;){for(a=b,c=1,l=E;i>=v&&o("invalid-input"),f=s(e.charCodeAt(i++)),(f>=E||f>M((y-b)/c))&&o("overflow"),b+=f*c,p=l<=w?O:l>=w+S?S:l-w,!(f<p);l+=E)h=E-p,c>M(y/h)&&o("overflow"),c*=h;t=g.length+1,w=d(b-a,t,0==a),M(b/t)>y-_&&o("overflow"),_+=M(b/t),b%=t,g.splice(b++,0,_)}return u(g)}function p(e){var t,n,r,i,a,u,s,f,p,h,g,v,b,_,w,m=[];for(e=c(e),v=e.length,t=P,n=0,a=A,u=0;u<v;++u)(g=e[u])<128&&m.push(H(g));for(r=i=m.length,i&&m.push(C);r<v;){for(s=y,u=0;u<v;++u)(g=e[u])>=t&&g<s&&(s=g);for(b=r+1,s-t>M((y-n)/b)&&o("overflow"),n+=(s-t)*b,t=s,u=0;u<v;++u)if(g=e[u],g<t&&++n>y&&o("overflow"),g==t){for(f=n,p=E;h=p<=a?O:p>=a+S?S:p-a,!(f<h);p+=E)w=f-h,_=E-h,m.push(H(l(h+w%_,0))),f=M(w/_);m.push(H(l(f,0))),a=d(n,b,r==i),n=0,++r}++n,++t}return m.join("")}function h(e){return a(e,function(e){return L.test(e)?f(e.slice(4).toLowerCase()):e})}function g(e){return a(e,function(e){return j.test(e)?"xn--"+p(e):e})}var v="object"==typeof n&&n&&!n.nodeType&&n,b="object"==typeof t&&t&&!t.nodeType&&t,_="object"==typeof e&&e;_.global!==_&&_.window!==_&&_.self!==_||(r=_);var w,m,y=2147483647,E=36,O=1,S=26,T=38,R=700,A=72,P=128,C="-",L=/^xn--/,j=/[^\x20-\x7E]/,I=/[\x2E\u3002\uFF0E\uFF61]/g,x={overflow:"Overflow: input needs wider integers to process","not-basic":"Illegal input >= 0x80 (not a basic code point)","invalid-input":"Invalid input"},N=E-O,M=Math.floor,H=String.fromCharCode;if(w={version:"1.4.1",ucs2:{decode:c,encode:u},decode:f,encode:p,toASCII:g,toUnicode:h},v&&b)if(t.exports==v)b.exports=w;else for(m in w)w.hasOwnProperty(m)&&(v[m]=w[m]);else r.punycode=w}(this)}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],29:[function(e,t,n){!function(e,r){"object"==typeof n&&void 0!==t?r(n):"function"==typeof define&&define.amd?define(["exports"],r):r(e.ulog=e.ulog||{})}(this,function(e){"use strict";function t(e){var t=Object.create(console);["assert","trace","debug","log","info","warn","error"].forEach(function(n){e[n]=t[n]})}function n(e,n){var r=i[n];void 0!==r&&(t(e),r>0&&(e.assert=function(){}),r>5&&(e.trace=function(){}),r>10&&(e.debug=function(){}),r>20&&(e.log=function(){}),r>30&&(e.info=function(){}),r>40&&(e.warn=function(){}),r>50&&(e.error=function(){}))}function r(e,t){t=t||{},n(e,t.level||"debug")}function o(e){var t=Object.create(console);return r(t,e),t}var i={all:0,trace:5,debug:10,log:20,info:30,warn:40,error:50,none:1e3},a=o();e.LEVELS=i,e.setLevel=n,e.configure=r,e.create=o,e.logger=a,Object.defineProperty(e,"__esModule",{value:!0})})},{}]},{},[21]);
+		</script>
+	</body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "original_uri": "http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-30T12:46:56Z",
+        "uri": "http://web.archive.org/web/20180130124656/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html"
+      },
+      {
+        "datetime": "2018-01-31T09:30:16Z",
+        "uri": "http://web.archive.org/web/20180131093016/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-30T12:46:56Z",
+      "uri": "http://web.archive.org/web/20180130124656/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html"
+    },
+    "last": {
+      "datetime": "2018-01-31T09:30:16Z",
+      "uri": "http://web.archive.org/web/20180131093016/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.smh.com.au/federal-politics/political-news/media-outlets-fear-journalists-could-go-to-jail-under-new-government-secrecy-laws-20180130-p4yz2m.html"
+}
+

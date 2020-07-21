@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.si.com%2Fsoccer%2F2018%2F01%2F31%2Frussian-government-raises-concerns-locusts-could-take-over-worldcup&ct=ga&cd=CAIyGjA0YTA3ZWIyYjEwMWFiMTE6Y29tOmVuOlVT&usg=AFQjCNHM3uIGzy1zkiWhg7dekVWsxFcg3g&utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.si.com%2Fsoccer%2F2018%2F01%2F31%2Frussian-government-raises-concerns-locusts-could-take-over-worldcup&ct=ga&cd=CAIyGjA0YTA3ZWIyYjEwMWFiMTE6Y29tOmVuOlVT&usg=AFQjCNHM3uIGzy1zkiWhg7dekVWsxFcg3g&utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

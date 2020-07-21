@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T15:20:17Z",
+        "uri": "http://web.archive.org/web/20180131152017/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547"
+      },
+      {
+        "datetime": "2018-02-01T13:48:12Z",
+        "uri": "http://web.archive.org/web/20180201134812/http://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T15:20:17Z",
+      "uri": "http://web.archive.org/web/20180131152017/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547"
+    },
+    "last": {
+      "datetime": "2018-02-01T13:48:12Z",
+      "uri": "http://web.archive.org/web/20180201134812/http://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.sky.com/story/government-will-not-block-labour-bid-to-release-secret-brexit-impact-paper-11230547"
+}
+

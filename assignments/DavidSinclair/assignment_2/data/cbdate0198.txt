@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.independent.co.uk/news/business/analysis-and-features/capita-shares-profit-warning-carillion-private-firm-contractor-government-what-does-it-do-explainer-a8187451.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+  "uri": "http://www.independent.co.uk/news/business/analysis-and-features/capita-shares-profit-warning-carillion-private-firm-contractor-government-what-does-it-do-explainer-a8187451.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+  "estimated-creation-date": "2018-01-31T15:21:10",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-01T13:01:24"
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:21:10"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/http://www.breitbart.com/big-government/2018/01/14/dr-alveda-king-counters-trump-racism-claims-slams-facebook/",
+  "uri": "http://www.breitbart.com/big-government/2018/01/14/dr-alveda-king-counters-trump-racism-claims-slams-facebook/",
+  "estimated-creation-date": "2018-01-14T22:24:09",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180115153442/http://www.breitbart.com/big-government/2018/01/14/dr-alveda-king-counters-trump-racism-claims-slams-facebook/",
+      "memento-datetime": "2018-01-15T15:23:32",
+      "memento-pubdate": "2018-01-14T22:24:09",
+      "earliest": "2018-01-14T22:24:09"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180118173955/http://www.breitbart.com/big-government/2018/01/14/dr-alveda-king-counters-trump-racism-claims-slams-facebook/",
+      "memento-datetime": "2018-01-18T17:32:15",
+      "memento-pubdate": "2018-01-14T22:24:09",
+      "earliest": "2018-01-14T22:24:09"
+    },
+    "backlinks": {
+      "earliest": "2018-01-15T15:23:32"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-14T22:24:09"
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}

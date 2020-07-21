@@ -1,0 +1,31 @@
+{
+  "original_uri": "https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:50:51Z",
+        "uri": "http://web.archive.org/web/20180131195051/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%E2%80%99s-big-government-policies/"
+      },
+      {
+        "datetime": "2018-01-31T22:03:34Z",
+        "uri": "http://web.archive.org/web/20180131220334/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:50:51Z",
+      "uri": "http://web.archive.org/web/20180131195051/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%E2%80%99s-big-government-policies/"
+    },
+    "last": {
+      "datetime": "2018-01-31T22:03:34Z",
+      "uri": "http://web.archive.org/web/20180131220334/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.redstate.com/setonmotley/2018/01/31/trump-administration-needs-stop-continuing-obama%e2%80%99s-big-government-policies/"
+}
+

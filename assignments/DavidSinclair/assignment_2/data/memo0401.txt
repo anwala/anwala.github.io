@@ -1,0 +1,27 @@
+{
+  "original_uri": "https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T16:55:04Z",
+        "uri": "http://web.archive.org/web/20180131165504/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T16:55:04Z",
+      "uri": "http://web.archive.org/web/20180131165504/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem"
+    },
+    "last": {
+      "datetime": "2018-01-31T16:55:04Z",
+      "uri": "http://web.archive.org/web/20180131165504/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cato.org/publications/commentary/government-cannot-solve-every-societal-problem"
+}
+

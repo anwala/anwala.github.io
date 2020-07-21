@@ -1,0 +1,119 @@
+{
+  "original_uri": "http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-31T19:33:35Z",
+        "uri": "http://web.archive.org/web/20180131193335/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-01T00:11:33Z",
+        "uri": "http://web.archive.org/web/20180201001133/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-01T09:51:26Z",
+        "uri": "http://web.archive.org/web/20180201095126/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-02T10:27:36Z",
+        "uri": "http://web.archive.org/web/20180202102736/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-03T10:51:46Z",
+        "uri": "http://web.archive.org/web/20180203105146/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-04T11:31:16Z",
+        "uri": "http://web.archive.org/web/20180204113116/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-05T11:49:44Z",
+        "uri": "http://web.archive.org/web/20180205114944/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-06T12:40:43Z",
+        "uri": "http://web.archive.org/web/20180206124043/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-07T13:20:31Z",
+        "uri": "http://web.archive.org/web/20180207132031/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-08T16:11:36Z",
+        "uri": "http://web.archive.org/web/20180208161136/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-09T16:35:34Z",
+        "uri": "http://web.archive.org/web/20180209163534/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-10T00:08:44Z",
+        "uri": "http://web.archive.org/web/20180210000844/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-10T16:26:38Z",
+        "uri": "http://web.archive.org/web/20180210162638/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-11T17:25:05Z",
+        "uri": "http://web.archive.org/web/20180211172505/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-02-12T18:20:51Z",
+        "uri": "http://web.archive.org/web/20180212182051/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-03-07T05:55:30Z",
+        "uri": "http://web.archive.org/web/20180307055530/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-03-07T05:55:35Z",
+        "uri": "http://web.archive.org/web/20180307055535/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-03-29T12:49:54Z",
+        "uri": "http://web.archive.org/web/20180329124954/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-03-29T12:50:03Z",
+        "uri": "http://web.archive.org/web/20180329125003/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-03-29T12:50:08Z",
+        "uri": "http://web.archive.org/web/20180329125008/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-04-07T13:35:09Z",
+        "uri": "http://web.archive.org/web/20180407133509/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-04-07T13:35:16Z",
+        "uri": "http://web.archive.org/web/20180407133516/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-04-07T13:35:21Z",
+        "uri": "http://web.archive.org/web/20180407133521/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      },
+      {
+        "datetime": "2018-04-07T13:35:27Z",
+        "uri": "http://web.archive.org/web/20180407133527/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-31T19:33:35Z",
+      "uri": "http://web.archive.org/web/20180131193335/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+    },
+    "last": {
+      "datetime": "2018-04-07T13:35:27Z",
+      "uri": "http://web.archive.org/web/20180407133527/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.foxnews.com/world/2018/01/31/top-secret-government-files-left-in-cabinets-sold-at-secondhand-shop.html"
+}
+

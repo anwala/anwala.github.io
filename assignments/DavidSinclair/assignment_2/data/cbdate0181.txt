@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+  "uri": "http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+  "estimated-creation-date": "2018-01-31T15:05:27",
+  "earliest-sources": [
+    "web.archive.org",
+    "pubdate"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180131191921/http://newssourcegy.com/news/crime-spree-cois-must-be-comprehensive-and-with-international-jurists-jagdeo/",
+      "memento-datetime": "2018-01-31T19:15:48",
+      "memento-pubdate": "2018-01-31T15:05:27",
+      "earliest": "2018-01-31T15:05:27"
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-31T15:05:27"
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:05:41"
+    }
+  }
+}

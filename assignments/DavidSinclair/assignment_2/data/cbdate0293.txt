@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://government.ru/news/31214/",
+  "uri": "http://government.ru/news/31214/",
+  "estimated-creation-date": "2018-01-31T12:49:15",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T12:49:15"
+    }
+  }
+}

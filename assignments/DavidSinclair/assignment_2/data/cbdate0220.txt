@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://thekashmirscenario.com/earthquake-shakes-kashmir-valley-government-issues-avalanche-warning/",
+  "uri": "http://thekashmirscenario.com/earthquake-shakes-kashmir-valley-government-issues-avalanche-warning/",
+  "estimated-creation-date": "2018-01-31T15:29:05",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "backlinks": {
+      "earliest": ""
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2018-01-31T15:29:05"
+    }
+  }
+}
