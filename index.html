@@ -1,9 +1,19 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155186973-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-155186973-2');
+		</script>
+
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>Alexander C. Nwala | Computer Science Ph.D Candidate and Researcher at Old Dominion University.</title>
+		<title>Alexander C. Nwala, PhD | Researcher, Observatory on Social Media (OSoMe) Indiana University</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -26,7 +36,9 @@
 		<link href="https://fonts.googleapis.com/css?family=Cormorant&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900" rel="stylesheet">
 		
+
 		<!-- Animate.css -->
 		<link rel="stylesheet" href="css/animate.css">
 		<!-- Icomoon Icon Fonts-->
@@ -44,7 +56,7 @@
 
 		<!-- Modernizr JS -->
 		<script src="js/modernizr-2.6.2.min.js"></script>
-		<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+		
 
 		<!-- FOR IE9 below -->
 		<!--[if lt IE 9]>
@@ -83,8 +95,7 @@
 					<div class="col-md-12">
 						<div class="colorlib-navbar-brand">
 							<a class="colorlib-logo" href="index.html">
-								<span>Alexander C. Nwala</span>
-								<span>Ph.D Researcher</span>
+								<span>Alexander C. Nwala, PhD</span>
 							</a>
 						</div>
 						<!-- Goes with navigation
@@ -147,7 +158,7 @@
 								 
 								
 								<div class="item">
-									<h2><span style="font-size: 30px">Web Science. Web Archiving</span> <span style="font-size: 30px">News. Social Media</span></h2>
+									<h2><span style="font-size: 30px">Web Science. Web Archiving</span> <span style="font-size: 30px">Social Media. News</span></h2>
 								</div>
 
 								
@@ -163,10 +174,10 @@
 								</div>
 								
 								<p>
-									I am a Computer Science Ph.D Candidate and member of the <a href="https://ws-dl.cs.odu.edu/" target="_blank">Web Science and Digital Libraries (WS-DL) </a> research group at <a href="https://www.odu.edu/" target="_blank">Old Dominion University</a>.
+									I am a Postdoctoral Researcher under the supervision of <a href="https://cnets.indiana.edu/fil/" target="_blank">Dr. Fil Menczer</a>, at the <a href="https://osome.iu.edu/" target="_blank">Observatory on Social Media (OSoMe)</a>, Indiana University, Bloomington.
 								</p>
 								<span>
-									<strong>Ph.D Thesis:</strong> Bootstrapping Web Archive Collections From Micro-Collections In Social Media.
+									<strong>PhD Thesis:</strong> <a href="https://digitalcommons.odu.edu/computerscience_etds/124/" target="_blank">Bootstrapping Web Archive Collections From Micro-Collections In Social Media.</a>
 									<br>
 									<strong>Masters Thesis:</strong> <a href="/">Generating Combinatorial Objects – A New Perspective.</a>
 								</span>
@@ -226,7 +237,7 @@
 				<div class="row">
 					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
 						<!--<span>Portfolio</span>-->
-						<h2>Publications</h2>
+						<a name="publications" href="#publications"><h2>Publications</h2></a>
 					</div>
 				</div>
 
@@ -266,7 +277,7 @@
 				<div class="row">
 					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
 						
-						<h2>Read my blogposts</h2>
+						<a name="blogposts" href="#blogposts"><h2>Read my blogposts</h2></a>
 					</div>
 				</div>
 
@@ -304,11 +315,8 @@
 	<script src="js/main.js"></script>
 	<script>
 		
-		genCards();
-		function genCards() 
-		{
-
-			let blogposts = [
+		let blogposts = [
+				'https://ws-dl.blogspot.com/2019/09/2019-09-09-introducing-sumgram-tool-for.html',
 				'https://ws-dl.blogspot.com/2019/06/2019-06-05-joint-conference-on-digital.html',
 				'https://ws-dl.blogspot.com/2019/05/2019-05-06-twitter-broke-my-scrapers.html',
 				'https://ws-dl.blogspot.com/2019/03/2019-03-05-365-dots-in-2018-top-news.html',
@@ -332,8 +340,12 @@
 				'https://ws-dl.blogspot.com/2015/07/2015-07-22-i-can-haz-memento.html',
 				'https://ws-dl.blogspot.com/2015/01/2015-02-05-what-did-it-look-like.html',
 				'https://ws-dl.blogspot.com/2014/11/2014-11-14-carbon-dating-web-version-20.html'
-			];
-			
+		];
+
+		setTimeout(function(){genCards(blogposts); }, 1500);
+		function genCards(blogposts) 
+		{
+
 			let container = document.getElementsByClassName('owl-carousel1')[0];
 			
 			for(let i=0; i<blogposts.length; i++)
@@ -368,7 +380,7 @@
 
 		}	
 	</script>
-	
+	<script async src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 	</body>
 </html>
 
