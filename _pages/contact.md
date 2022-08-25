@@ -5,13 +5,19 @@ title: "Contact Info"
 
 ## Office Location
 
-William and Mary
-Williamsburg, VA  
-(XXX) XXX-XXXX
+Integrated Science Center (ISC) 1271, 
+540 Landrum Drive, Williamsburg, VA 23185
+(757) 221-2089
 
+## Office Hours
+
+Tuesdays/Thursdays: 11 am -- 12:30 pm ET
+
+<!--
 ## Mailing Address
 
 Dr. Alexander C. Nwala  
 Coming soon...
 William and Mary
 Williamsburg, VA 23185
+-->
