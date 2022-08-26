@@ -5,8 +5,8 @@ title: "Contact Info"
 
 ## Office Location
 
-Integrated Science Center (ISC) 1271, 
-540 Landrum Drive, Williamsburg, VA 23185
+Integrated Science Center (ISC) 1271, <br/> 
+540 Landrum Drive, Williamsburg, VA 23185 <br/> 
 (757) 221-2089
 
 ## Office Hours
