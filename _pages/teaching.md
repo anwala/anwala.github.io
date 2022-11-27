@@ -8,9 +8,7 @@ next_semester: "Spring 2023"
 ---
 {% include base_path %}
 
-## Next Semester
-
-### {{ page.next_semester }}
+## Next Semester ({{ page.next_semester }})
 
 {% for post in site.teaching %}
   {% if post.semester == page.next_semester %}
@@ -18,9 +16,7 @@ next_semester: "Spring 2023"
   {% endif %}
 {% endfor %}
 
-## Current Semester
-
-### {{ page.current_semester }}
+## Current Semester ({{ page.current_semester }})
 
 {% for post in site.teaching %}
   {% if post.semester == page.current_semester %}
