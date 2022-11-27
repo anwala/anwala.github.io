@@ -7,10 +7,10 @@ My research is interdisciplinary, encompassing social media/computational social
 
 ## BLOC (Behavioral Language for Online Classification)
 
-[BLOC](https://github.iu.edu/anwala/bloc) is a language for representing the online behaviors of social media accounts irrespective of class (*human* or *cyborg* or *bot*) or intent (malicious or benign). BLOC words consist of letters drawn from various alphabets (e.g., actions, pause, & content alphabets). The language is highly flexible, and can be applied to model a broad spectrum of legitimate and suspicious online behaviors.
+[BLOC](https://github.com/anwala/bloc) is a language for representing the online behaviors of social media accounts irrespective of class (*human* or *cyborg* or *bot*) or intent (malicious or benign). BLOC words consist of letters drawn from various alphabets (e.g., actions, pause, & content alphabets). The language is highly flexible, and can be applied to model a broad spectrum of legitimate and suspicious online behaviors.
 
 <figure>
-  <a href="https://github.iu.edu/anwala/bloc" target="_blank" title="Human vs. Cyborg vs. Bot BLOC">
+  <a href="https://github.com/anwala/bloc" target="_blank" title="Human vs. Cyborg vs. Bot BLOC">
     <img src="/images/research/sample_3_user_blocs.png" alt="Human vs. Cyborg vs. Bot BLOC" class="img">
   </a>
   <figcaption>
