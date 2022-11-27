@@ -4,28 +4,22 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 current_semester: "Fall 2022"
-previous_semester: "Spring 2019"
-current_semester_code: "2022"
 ---
 {% include base_path %}
 
 ## {{ page.current_semester }}
 
 {% for post in site.teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!--
+{% for post in site.teaching %}
   {% if post.semester_code == page.current_semester_code %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-## {{ page.previous_semester }}
-
-{% for post in site.teaching %}
-  {% if post.semester_code < page.current_semester_code %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<!--
 ## Previous Semesters
 
 ## @ Old Dominion University
