@@ -10,7 +10,7 @@ current_semester: "Fall 2022"
 ## {{ page.current_semester }}
 
 {% for post in site.teaching %}
-  {% if post.semester_code == page.current_semester_code %}
+  {% if post.semester == page.current_semester %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
