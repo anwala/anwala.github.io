@@ -5,6 +5,20 @@ title: "Research/Tools"
 
 My research is interdisciplinary, encompassing social media/computational social science, web/data science, web archiving, and (local) news.
 
+## BLOC (Behavioral Language for Online Classification)
+
+[BLOC](https://github.iu.edu/anwala/bloc) is a language for representing the online behaviors of social media accounts irrespective of class (*human* or *cyborg* or *bot*) or intent (malicious or benign). BLOC words consist of letters drawn from various alphabets (e.g., actions, pause, & content alphabets). The language is highly flexible, and can be applied to model a broad spectrum of legitimate and suspicious online behaviors. BLOC models have been effectively applied for explaining online behaviors, and bot/coordination detection.
+
+<figure>
+  <a href="https://github.iu.edu/anwala/bloc" target="_blank" title="Human vs. Cyborg vs. Bot BLOC">
+    <img src="/images/research/sample_3_user_blocs.png" alt="Human vs. Cyborg vs. Bot BLOC" class="img">
+  </a>
+  <figcaption>
+    Illustrations of BLOC action strings for a human, a cyborg, and a bot Twitter account illustrating some behavioral differences across these individuals. If strings are tokenized using pauses, the human account has the shortest words (average length 1.35 vs. 3.88 for the cyborg and 4.0 for the bot) and is dominated by isolated retweets and replies. The cyborg account — which we created to post threads of news updates — exhibits both human (isolated posts) and bot behavior (thread bursts). The bot account mainly generates retweet bursts.
+  </figcaption>
+</figure>
+
+
 ## StoryGraph
 
 [StoryGraph](https://web.archive.org/storygraph/) provides a collection of tools that analyze the news cycle. [USA](https://web.archive.org/storygraph/graphs/usa/) generates a news similarity graph every 10 minutes by computing the similarity of news stories from 17 US news sources across the partisanship spectrum (left, center, and right). In these graphs, the nodes represent news articles, and an edge between a pair of nodes represents a high degree of similarity between the nodes (similar news stories).
