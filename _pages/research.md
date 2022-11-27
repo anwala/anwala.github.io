@@ -26,13 +26,10 @@ BLOC has been effectively applied for explaining online behaviors, bot and coord
         <img src="/images/research/pca_general_cresci-17.png" alt="PCA projection of BLOC vectors for Cresci-17 human/bot account." class="img">
     </td>
     <td style="border: 1px solid white; border-collapse: collapse;">
-        <img src="/images/research/pca_general_cresci-rtbust-19.png" alt="PCA projection of BLOC vectors for Cresci RTBust-19 human/bot accounts" class="img">
-    </td>
-    <td style="border: 1px solid white; border-collapse: collapse;">
         <img src="/images/research/pca_general_varol-17.png" alt="PCA projection of BLOC vectors for Cresci Varol-17 human/bot accounts" class="img">
     </td>
   </tr>
-  <caption align="bottom">2D PCA projections of BLOC TF-IDF vectors of accounts from three <a href="" target="_blank" title="datasets">datasets</a> that include both humans (blue) and bots (orange) illustrating the discriminative power of BLOC in separating accounts of different classes: (left) <a href="https://botometer.osome.iu.edu/bot-repository/datasets/cresci-2017/cresci-2017.csv.zip" target="_blank" title="cresci-17">cresci-17</a>, (center) <a href="https://botometer.osome.iu.edu/bot-repository/datasets/cresci-rtbust-2019/cresci-rtbust-2019.tar.gz" target="_blank" title="cresci-rtbust-19">cresci-rtbust-19</a>, and (right) <a href="https://botometer.osome.iu.edu/bot-repository/datasets/varol-2017/varol-2017.dat.gz" target="_blank" title="varol-17">varol-17</a>. The Venn diagrams show the top five pause-delimited BLOC words for the bot and human accounts shown.</caption>
+  <caption align="bottom">2D PCA projections of BLOC TF-IDF vectors of accounts from three <a href="" target="_blank" title="datasets">datasets</a> that include both humans (blue) and bots (orange) illustrating the discriminative power of BLOC in separating accounts of different classes: (left) <a href="https://botometer.osome.iu.edu/bot-repository/datasets/cresci-2017/cresci-2017.csv.zip" target="_blank" title="cresci-17">cresci-17</a> and (right) <a href="https://botometer.osome.iu.edu/bot-repository/datasets/varol-2017/varol-2017.dat.gz" target="_blank" title="varol-17">varol-17</a>. The Venn diagrams show the top five pause-delimited BLOC words for the bot and human accounts shown.</caption>
 </table>
 
 ## StoryGraph
