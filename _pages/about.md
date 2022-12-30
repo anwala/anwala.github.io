@@ -11,7 +11,7 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am an Assistant Professor of [Data Science](https://www.wm.edu/as/data-science/index.php) at William and Mary ([W&M](https://www.wm.edu/)). Before joining W&M, I was a postdoc at the [Observatory on Social Media (OSoMe)](https://osome.iu.edu/), [Indiana University](https://www.indiana.edu/), Bloomington. And before that, a research assistant and member of the [Web Science and Digital Libraries](https://oduwsdl.github.io/) (WS-DL) Research Group at Old Dominion University ([ODU](https://odu.edu/)). I'm a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and [Elizabeth City State University](https://www.ecsu.edu/) (BS: 2011). 
+I am an assistant professor of [Data Science](https://www.wm.edu/as/data-science/index.php) at William & Mary ([W&M](https://www.wm.edu/)). Before joining W&M, I was a postdoc at the [Observatory on Social Media (OSoMe)](https://osome.iu.edu/), [Indiana University](https://www.indiana.edu/), Bloomington. And before that, a research assistant and member of the [Web Science and Digital Libraries](https://oduwsdl.github.io/) (WS-DL) Research Group at Old Dominion University ([ODU](https://odu.edu/)). I'm a Computer Science graduate of ODU (PhD: 2020, MS: 2014) and [Elizabeth City State University](https://www.ecsu.edu/) (BS: 2011). 
 
   
 <table align="center" style="border: 1px solid white; border-collapse: collapse;">
