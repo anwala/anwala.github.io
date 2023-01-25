@@ -28,6 +28,8 @@ next_semester: "Fall 2023"
 
 ## Previous Semesters
 
+* DATA 440-03 - Web Science ([Fall 2022](/teaching/2022-fall-data-440-03))
+
 ### @ Old Dominion University
 
 * CS 432/532 - Web Science ([Spring 2018](/teaching/2018-spring-cs-432-532)/[2019](/teaching/2019-spring-cs-432-532))
