@@ -3,11 +3,12 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-current_semester: "Fall 2022"
-next_semester: "Spring 2023"
+current_semester: "Spring 2023"
+next_semester: "Fall 2023"
 ---
 {% include base_path %}
 
+<!--
 ## Next Semester ({{ page.next_semester }})
 
 {% for post in site.teaching %}
@@ -15,6 +16,7 @@ next_semester: "Spring 2023"
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+-->
 
 ## Current Semester ({{ page.current_semester }})
 
