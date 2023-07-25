@@ -110,7 +110,6 @@ My research interests include *Social media/network analysis, computational soci
 
 * [DATA 340-02 - Network Science](/teaching/2023-spring-data-340-02): Tuesdays/Thursdays (3:30 -– 4:50 pm,  ISC 1111)
 
-<!--{: style="text-align: center;"}-->
 {% for post in site.publications reversed %}
   {% if post.type == "recent" %}
     {% include archive-single.html %}
