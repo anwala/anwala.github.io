@@ -3,8 +3,8 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-current_semester: "Spring 2023"
-next_semester: "Fall 2023"
+current_semester: "Fall 2023"
+next_semester: "Spring 2024"
 ---
 {% include base_path %}
 
@@ -28,6 +28,7 @@ next_semester: "Fall 2023"
 
 ## Previous Semesters
 
+* DATA 340-02 - Network Science ([Spring 2023](/teaching/2023-spring-data-340-02))
 * DATA 440-03 - Web Science ([Fall 2022](/teaching/2022-fall-data-440-03))
 
 ### @ Old Dominion University
