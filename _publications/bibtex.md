@@ -7,6 +7,33 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [nwala-epj23](#nwala-epj23)
+
+Nwala, Alexander C., Flammini, Alessandro, and Menczer, Filippo, "**A Language Framework for Modeling Social Media Account Behavior**," *EPJ Data Science*, Vol. 12, No. 1, 2023, p. 33. <a href='https://doi.org/10.1140/epjds/s13688-023-00410-9' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='http://dx.doi.org/10.1140/epjds/s13688-023-00410-9' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2211.00639' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#nwala-epj23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {nwala-epj23,
+      title={A Language Framework for Modeling Social Media Account Behavior},
+      author={Nwala, Alexander C. and Flammini, Alessandro and Menczer, Filippo},
+      journal = {EPJ Data Science},
+      volume = {12},
+      number = {1},
+      pages={33},
+      year = {2023},
+      pubdate = {202308},
+      arxiv = {https://arxiv.org/abs/2211.00639},
+      doi = {10.1140/epjds/s13688-023-00410-9},
+      url = {https://doi.org/10.1140/epjds/s13688-023-00410-9}
+}
+```
+
+{% endraw %}
+
 ## [torres-icwsm22](#torres-icwsm22)
 
 Christopher Torres-Lugo, Manita Pote, Alexander Nwala, and Filippo Menczer, "**Manipulating Twitter Through Deletions**," In *Proceedings of AAAI Conference on Web and Social Media (ICWSM)*. june 2022. &nbsp;<a href='https://arxiv.org/abs/2203.13893' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
