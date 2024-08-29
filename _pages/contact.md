@@ -11,7 +11,7 @@ Integrated Science Center (ISC) 1271, <br/>
 
 ## Office Hours
 
-Tuesdays/Thursdays: 12:30 pm -- 2 pm ET
+Tuesdays/Thursdays: 11:30 am -- 1 pm ET
 
 <!--
 ## Mailing Address
