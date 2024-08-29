@@ -106,9 +106,10 @@ My research interests include *Social media/network analysis, computational soci
     <img src="/images/research/sample_3_user_blocs.png" alt="Human vs. Cyborg vs. Bot BLOC" class="img">
 </a>
 
-## Teaching (Spring 2023)
+## Teaching (Fall 2024)
 
-* [DATA 340-02 - Network Science](/teaching/2023-spring-data-340-02): Tuesdays/Thursdays (3:30 -– 4:50 pm,  ISC 1111)
+* [DATA 202-02 - Ethics in Data Science](/teaching/2024-fall-data-202-02): Tuesdays/Thursdays (8 -– 9:20am,  Boswell 102)
+* DATA [440-07](/teaching/2024-fall-data-440-07)/[691-03](/teaching/2024-fall-data-691-03) - Web Science: Tuesdays/Thursdays (9:30 -– 10:50 am,  Boswell 341)
 
 {% for post in site.publications reversed %}
   {% if post.type == "recent" %}
