@@ -108,7 +108,7 @@ My research interests include *Social media/network analysis, computational soci
 
 ## Teaching (Fall 2024)
 
-* [DATA 202-02 - Ethics in Data Science](/teaching/2024-fall-data-202-02): Tuesdays/Thursdays (8 -– 9:20am, Music 217)
+* [DATA 202-01 - Ethics in Data Science](/teaching/2024-fall-data-202-01): Tuesdays/Thursdays (8 -– 9:20am, Music 217)
 * DATA [440-07](/teaching/2024-fall-data-440-07)/[691-03](/teaching/2024-fall-data-691-03) - Web Science: Tuesdays/Thursdays (9:30 -– 10:50 am, Music 217)
 
 {% for post in site.publications reversed %}
