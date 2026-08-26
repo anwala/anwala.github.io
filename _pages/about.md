@@ -106,18 +106,19 @@ My research interests include *Social media/network analysis, computational soci
     <img src="/images/research/sample_3_user_blocs.png" alt="Human vs. Cyborg vs. Bot BLOC" class="img">
 </a>
 
-## Teaching (Fall 2024)
+## Teaching (Fall 2026)
 
-* [DATA 202-01 - Ethics in Data Science](/teaching/2024-fall-data-202-01): Tuesdays/Thursdays (8 -– 9:20am, Music 217)
-* DATA [440-07](/teaching/2024-fall-data-440-07)/[691-03](/teaching/2024-fall-data-691-03) - Web Science: Tuesdays/Thursdays (9:30 -– 10:50 am, Music 217)
+* [DATA 101-01 - Reasoning with Generative AI](/teaching/2026-fall-data-101-01): Tuesdays/Thursdays (8 -– 9:20am)
 
+## [Publications](https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en)
+<!--
 {% for post in site.publications reversed %}
   {% if post.type == "recent" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
+-->
 
 ## Bio
 
-Dr. Alexander C. Nwala is an assistant professor of Data Science at William and Mary (W&M). Before joining W&M, he was a postdoc at the Observatory on Social Media, Indiana University, Bloomington, with a research focus on dis/misinformation diffusion, detection, and countering of online manipulation. He received his PhD in Computer Science at Old Dominion University and has contributed multiple important tools and datasets to the data/web science, social media, (local) news, and web archiving communities. Dr. Nwala has taught Computer Science courses to High School, Undergraduate, and Graduate students and has collaborated across disciplines and institutions, including with computer scientists/journalists at IU, archivists at the National Library of Medicine, and lawyers at Harvard. And his research has been published in multiple peer-reviewed Journals and Conferences including the ACM/IEEE JCDL, ACM HyperText, iPres, and ICWSM.
+Dr. Alexander C. Nwala is an assistant professor of Data Science at William and Mary (W&M). Before joining W&M, he was a postdoc at the [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington. His research interests include developing algorithms and computational models for detecting social media manipulation and studying local and national news ecosystems. He received his PhD in Computer Science at Old Dominion University and has contributed multiple important tools and datasets to the data/web science, social media, (local) news, and web archiving communities. Dr. Nwala has taught Computer Science courses to High School, Undergraduate, and Graduate students and has collaborated across disciplines and institutions, including with computer scientists/journalists at IU, archivists at the National Library of Medicine, and lawyers at Harvard. His research has been published in multiple peer-reviewed Journals and Conferences including the ACM/IEEE JCDL, ACM HyperText, iPres, CIKM, and ICWSM. Moreover his research has been/is funded by the [NSF](https://www.nsf.gov/), [COVA CCI](https://covacci.org/), and [IMLS](https://www.imls.gov/).
