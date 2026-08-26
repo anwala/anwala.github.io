@@ -34,7 +34,7 @@ I am an assistant professor of [Data Science](https://www.wm.edu/as/data-science
   </tr>
 </table>
 
-My research interests include *Social media/network analysis, computational social science, web/data science, web archiving, (local)news, and NLP.*
+[My research interests include *Social media/network analysis, computational social science, web/data science, web archiving, (local)news, and NLP.*](https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en)
 
 <table align="center" style="border: 1px solid white; border-collapse: collapse;">
   <tr>
@@ -110,7 +110,6 @@ My research interests include *Social media/network analysis, computational soci
 
 * [DATA 101-01 - Reasoning with Generative AI](/teaching/2026-fall-data-101-01): Tuesdays/Thursdays (8 -– 9:20am)
 
-## [Publications](https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en)
 <!--
 {% for post in site.publications reversed %}
   {% if post.type == "recent" %}

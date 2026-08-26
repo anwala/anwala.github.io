@@ -10,7 +10,7 @@ Integrated Science Center (ISC4) 3387, <br/>
 
 ## Office Hours
 
-Mondays/Wednesdays/Fridays: 9 am -- 10 am ET
+Tuesdays/Thursdays: 9:30 am -- 10:30 am ET
 
 <!--
 ## Mailing Address

@@ -28,7 +28,7 @@ next_semester: "Spring 2027"
 
 ## Previous Semesters
 
-* DATA [101-02](/teaching/2026-spring-data-101-02) - Reasoning with Generative AI (Spring 2026)
+* DATA 101-02 - Reasoning with Generative AI ([Spring 2026](/teaching/2026-spring-data-101-02))
 * DATA [445-01](/teaching/2024-spring-data-445-01)/[641-01](/teaching/2024-spring-data-641-01) - Network Analysis (Spring 2024)
 * DATA 440-02 - Web Science ([Fall 2023](/teaching/2023-fall-data-440-02))
 * DATA 340-02 - Network Science ([Spring 2023](/teaching/2023-spring-data-340-02))
